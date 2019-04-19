@@ -1,0 +1,18 @@
+PERANCANGAN APLIKASI PENGENALAN POLA HURUF AKSARA
+BATAK TOBA MENERAPKAN METODE DIRECTION FEATURE
+Aplikasi JST merupakan suatu teknologi komputasi yang berbasis pada model syaraf biologis dan mensimulasikan tingkah
+laku dan kerja model syaraf terhadap berbagai macam masukan dari luar yang mampu merespons keadaan yang dinamis,
+salah satunya adalah untuk pengenalan sandi pramuka melalui beberapa lambang tertentu yang telah disepakati oleh beberapa
+pihak terkait. Penerjemahan kata sandi pramuka biasanya dilakukan dengan mengartikan satu per satu secara manual.
+Namun, cara seperti ini umumnya menimbulkan kendala masalah waktu penerjemahan dan kemampuan penguasaan sandi -
+sandi. Pengenalan sandi secara otomatis ini merupakan salah satu pengaplikasian jaringan syaraf tiruan dalam pengenalan
+pola, khususnya huruf Aksara Batak Toba. Untuk mengatasi masalah di atas, penulis merancang sebuah perangkat lunak
+yang dapat mengenali pola huruf Aksara Batak Toba dengan tingkat ketelitian yang lebih tinggi dengan menggunakan bahasa
+pemograman Visual Basic 6.0. Perangkat lunak yang dirancang akan menggunakan sebuah neural network dengan
+memanfaatkan metode direction feature extraction (DFE) untuk mengenali pola huruf Aksara Batak Toba tersebut. Sistem
+yang dirancang ini hanya dapat mengenali pola huruf Aksara Batak Toba dengan format .BMP dan JPEG, dan proses
+pengenalan pola huruf Aksara Batak Toba dengan metode ini sangat cepat. Hal ini terlihat dari tingginya proses pengenalan
+yang dilakukan berdasarkan pengujian terhadap pengenalan pola huruf Aksara Batak Toba. Namun sistem ini masih memiliki
+kelemahan yaitu file citra digital yang dapat didikenali hanya dengan format JPEG dan BMP sehingga masih membutuhkan
+pengembangan lebih lanjut sesuai dengan perkembangan teknologi di bidang komputer.
+Pengenalan, Pola, Huruf, Aksara, Batak Toba, Direction Feature Extraction (DFE).

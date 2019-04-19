@@ -1,0 +1,9 @@
+RANCANG BANGUN ROBOT SOLVING MAZE DENGAN ALGORITMA DEPTH
+FIRST SEARCH Robot Solving Maze dibuat sebagai salah satu penelitian prototype bentuk robot dalam ukuran
+kecil. Robot ini diberi tugas unt uk mencari target dengan waktu tersingkat dalam sebuah jalur yang
+dirancang berbentuk maze. Robot ini dilengkapi dengan sensor Photodioda agar dapat mendeteksi jalur
+maze berupa garis menggunakan kecerdasan buatan Algoritma Depth First Search yaitu sebuah metoda 
+pencarian data pada permasalahan maze. Robot dibuat autonomous melalui suatu sistem kontrol 
+berbasis mikrokontrol er ATmega32, memiliki dimensi panjang 18 cm, lebar 17 cm, dan ti nggi 8,5 cm.
+Robot bekerja dengan dengan mel akukan proses mapping, simplifikasi dan solving untuk pemecahan
+permasalahan maze.

@@ -1,0 +1,3 @@
+PENERAPAN DATA MINING UNTUK MEMPREDIKSI 
+KRITERIA NASABAH KREDIT Data mining, Marketing, Prediksi,
+Decission Tree, Algoritma C4.5.

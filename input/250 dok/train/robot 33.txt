@@ -1,0 +1,13 @@
+ROBOT BERLENGAN UNTUK MENGAMBIL BENDA BERBAHAYA
+YANG DAPAT DIKENDALIKAN JARAK JAUH
+Makalah ini menampilkan sistem robot berlengan untuk menjinak bom yang dapat dikendalikan jarak jauh. Sistem
+robot ini sangat diperlukan oleh negara dengan semakin meningkatnya kejahatan terorisme khususnya yang
+menggunakan bahan peledak. Sistem yang kami kembangkan berupa sebuah platform tank yang bergerak secara
+differensial dan lengan robot yang dipasang diatasnya. Kendali robot digunakan sistem remote kontrol yang
+menggunakan prinsip Pulse Position Modulation yang dipancarkan dengan menggunakan modul pemancar 433
+Mhz yang telah dilengkapi dengan Frequency Hopping Spread Spectrum (HFSS). Pergerakan robot dilakukan
+dengan menggunakan inverse kinematic yang diproses olah sebuah mikrokontroler. Lengan robot yang digunakan
+berupa sebuah lengan robot 6 DOF dimana pergerakannya dilakukan oleh enam buah motor servo. Sistem ini telah
+diujikan di kondisi laboratorium dan berhasil mengangkat obyek dengan beban maksimal yang dapat diangkat oleh
+lengan adalah 217 gram.
+lengan robot, kendali jarak jauh, FHSS, penjinak bom.

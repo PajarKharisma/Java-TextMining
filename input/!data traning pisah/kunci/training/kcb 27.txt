@@ -1,0 +1,1 @@
+Sistem Pakar, Forward chaining, Certainty Factor.

@@ -1,0 +1,8 @@
+Radiografi dapat digunakan untuk membantu mendiagnosis penyakit dalam bidang medis. Umumnya
+citra radiograf masih tampak kabur sehingga memerlukan pengolahan untuk menghilangkan atau
+mengurangi kekaburan tersebut. Tujuan penelitian ini adalah mendesain perangkat lunak untuk
+meningkatkan kualitas citra digital foto Roentgen yaitu dengan meningkatkan kontras citra tersebut.
+Salah satu metode untuk meningkatkan kontras citra digital adalah dengan menggunakan metode
+histogram equalization. Metoda tersebut membuat tingkat keabuan citra tersebar merata pada semua
+tingkat keabuan. Hasil penelitian menunjukkan bahwa metoda histogram equalization dapat
+digunakan untuk meningkatkan kontras citra. Hal ini dapat langsung dilihat pada layar monitor.

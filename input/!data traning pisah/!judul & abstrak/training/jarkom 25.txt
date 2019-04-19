@@ -1,0 +1,21 @@
+ANALISIS KEAMANAN JARINGAN SINGLE SIGN ON (SSO)
+DENGAN LIGHTWEIGHT DIRECTORY ACCESS PROTOCOL (LDAP) MENGGUNAKAN METODE MITMA Perkembangan aplikasi web secara tidak
+langsung menuntut pengguna aplikasi untuk dapat
+mengelola user dan password sistem aplikasi dengan
+baik agar tidak disalahgunakan oleh pihak yang tidak
+bertanggung jawab. Berbagai metode security user
+account telah disusulkan untuk memecahkan masalahmasalah tersebut. Diantaranya dengan menerapkan
+Authentication SSO (Single Sign On) dengan
+menggunakan Protocol LDAP (Lightweight Directory
+Access Protocol), dan database server MySQL.
+Dalam penelitian ini meggunakan metode MITMA (Man
+In The Midle Attack) dan penggunaan tools hacking
+(Wireshark Versi 1.10.2, Pingflood.exe dan Ping
+Monitor Free Setup.exe) dalam pengujiannya. Hasil
+pengujian menunjukkan bahwa informasi IP korban
+maupun trafiknya dapat diketahui dan diidentifikasi
+dengan mudah melalui tools hacking dengan akurasi
+sebesar 85,71%. Penelitian ini tentunya bermanfaat untuk mengetahui
+tingkat keamnan jaringan yang terintegrasi dengan SSO
+menggunakan protokol LDAP dan bisa dijadikan acuan
+untuk menguji model jaringan yang lain. 

@@ -1,0 +1,11 @@
+Telah dilakukan preparasi komposit aluminium oksida pada lempung. Preparasi dilakukan yaitu: 
+pertama aktivasi dengan asam sulfat 1,2 M yang kemudian dilanjutkan dengan penyisipan polioksikation 
+aluminium yang kemudian dikalsinasi untuk membentuk komposit aluminium oksida (Al2O3). Karakterisasi 
+dilakukan dengan metode difraksi sinar-X untuk menentukan basal spacing (d001), metode titrasi asam 
+basa untuk menentukan keasaman permukaan, serta spektrofotometer UV-Vis untuk mengukur luas permukaan 
+spesifik.Hasil penelitian melalui aktivasi dengan asam sulfat dan penyisipan komposit aluminium oksida 
+menyebabkan terjadinya peningkatan keasaman permukaan berturut turut untuk adsorben CC0-0, CCa-0, CCa-1, 
+CCa-2, dan CCa-3 yaitu 0,4665; 0,9743; 1,2957; 1,1609; dan 1,1193 mmol/g adsorben. Luas permukaan 
+spesifik yang dihasilkan berturut-turut 27,0307 m2/g; 28,2351 m2/g; 29,0040 m2/g; 29,2074 m2/g; dan 
+29,1513 m2/g adsorben untuk CC0-0, CCa-0, CCa-1, CCa-2, dan CCa-3. Hasil difraksi sinar-X menunjukkan 
+adsorben mengandung campuran mineral berupa montmorillonit, kaolinit, klorit, feldspar, dan kalsit.

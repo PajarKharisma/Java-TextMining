@@ -1,0 +1,8 @@
+PENCARIAN RUTE TERPENDEK TEMPAT WISATA DI BALI DENGAN
+MENGGUNAKAN ALGORITMA DIJKSTRA Pencarian rute terpendek merupakan salah satu persoalan dalam teori graf. Persoalan ini bisa
+diselesaikan dengan algoritma Dijkstra. Tulisan ini merupakan hasil pengembangan sistem pencarian rute
+terpendek tempat wisata di Bali dengan menggunakan algoritma Dijkstra. Sistem yang dihasilkan berupa sistem
+informasi geografis yang berbentuk web, dengan script pHp dan MySql sebagai pengelola basis datanya.
+Dengan menggunakan sistem ini, pengunjung bisa mengetahui rute terpendek yang bisa ditempuh dari dan
+menuju suatu tempat wisata yang diinginkan di Bali.
+ algoritma dijkstra,rute terpendek, sistem informasi geografis

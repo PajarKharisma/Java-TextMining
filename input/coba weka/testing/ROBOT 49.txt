@@ -1,0 +1,23 @@
+SISTEM PEREKAAN GERAK LENGAN MANUSIA UNTUK
+KENDALI PERGERAKAN LENGAN ROBOT
+BERBASIS SENSOR RGB-D KINECT Bahasa tubuh adalah salah satu cara manusia
+berkomunikasi secara non-verbal. Dengan
+berkembangnya sistem perangkat lunak, bahasa tubuh
+dapat digunakan untuk melakukan pengendalian ataupun
+pertukaran data dengan berbagai macam sistem mekanik.
+Salah satu cara perekaan bahasa tubuh manusia adalah
+menggunakan sensor kamera RGB-D Kinect. Pada
+penelitian ini, data 3D keluaran dari sensor kamera RGBD digunakan untuk mengendalikan lengan robot agar
+dapat bergerak menirukan gerakan natural lengan
+manusia. Lengan robot terdiri atas 4 derajat kebebasan /
+degree of freedom (DOF) yang dibuat meniru struktur
+sendi pada lengan kanan manusia. Sudut kerja tiap servo
+pada lengan robot didapat dari data koordinat x,y (dalam
+pixel) dan z (dalam mm) keluaran sensor Kinect yang
+kemudian diolah menggunakan persamaan trigonometri.
+Komplementari filter digunakan untuk memperhalus
+gerakan lengan robot. Dari 10 macam gerakan yang
+diujikan, didapatkan tingkat keberhasilan lengan robot
+untuk meniru gerakan lengan manusia sebesar 86%.
+ Kamera RGB-D Kinect, lengan robot,
+trigonometri.

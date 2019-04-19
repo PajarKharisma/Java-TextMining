@@ -1,0 +1,20 @@
+PEMBUATAN PROTOTYPE ROBOT KAPAL PEMUNGUT SAMPAH
+MENGGUNAKAN MIKROKONTROLER ARDUINO UNO DENGAN APLIKASI
+PENGENDALI BERBASIS ANDROID
+Prototype robot kapal pemungut sampah dibuat dengan menggunakan mikrokontroler
+arduino uno dengan aplikasi pengendali berbasis android. Pada prototype robot kapal
+pemungut sampah tersebut dikendalikan oleh sebuah aplikasi pada smartphone android
+yang dihubungkan melalui sebuah bluetooth. Prototype robot kapal tersebut dibuat untuk
+permasalahan tumpukan sampah yang menyebabkan banjir. Metode yang digunakan
+dalam pembuatan prototype robot kapal berserta aplikasi pengendali dimulai dengan
+mengidentifikasi masalah yaitu masalah tumpukan sampah, lalu analisis kebutuhan,
+setelah itu perancangan dan pembuatan baik itu perancangan dan pembuatan prototype
+robot kapal ataupun perancangan dan pembuatan aplikasi pengendali. Selanjutnya
+implementasi dan uji coba. Pada tahap pembuatan prototype robot kapal pemungut
+sampah menggunakan mikrokontroler arduino dan pada pembuatan aplikasi pengendali
+menggunakan app inventor. Lalu pada tahap uji coba dilakukan pada beberapa
+smartphone android, dimana hasil dari uji coba tersebut berbeda - beda. Hasil uji coba
+yang dilakukan yaitu prototype robot kapal bergerak sesuai dengan perintah melalui
+aplikasi pengendali. Namun uji coba yang dilakukan pada aplikasi pengendali terdapat
+perbedaan pada tiap smartphone yaitu terletak pada tampilan dari aplikasi tersebut.
+Android, Arduino Uno, mocrokontroler.

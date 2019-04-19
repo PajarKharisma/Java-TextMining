@@ -1,0 +1,11 @@
+Perbandingan Antara Metode Kohonen Neural Network dengan Metode
+Learning Vector Quantization Pada Pengenalan Pola Tandatangan
+Pengenalan pola tandatangan dimaksudkan agar komputer dapat mengenali tandatangan
+dengan cara mengkonversi gambar, baik yang dicetak ataupun ditulis tangan ke dalam kode. Metode yang
+dipilih dalam pengenalan pola tandatangan ini adalah metode pembelajaran Kohonen Neural Network(Kohonen)
+dan Learning Vector Quantization(LVQ). Metode Kohonen mengambil bobot awal secara acak, kemudian bobot
+tersebut di-update hingga dapat mengklasifikasikan diri sejumlah kelas yang diinginkan. Pada metode LVQ
+bobot awal di-update dengan menggunakan pola yang sudah ada.
+Dalam penelitian ini, diberikan hasil pengamatan dan perbandingan tentang tingkat keakuratan dan waktu yang
+dibutuhkan dalam proses pembelajaran terhadap pola tandatangan pada metode Kohonen dan LVQ
+menggunakan bahasa pemrograman Microsoft Visual Basic 6.0 Enterprise Edition.

@@ -1,0 +1,3 @@
+TEKNIK DATA MINING UNTUK MEMPREDIKSI MASA STUDI MAHASISWA
+MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBORHOOD Data Mining, Klasifikasi, Algoritma k-Nearest Neighborhood, Prediksi Masa Studi
+Mahasiswa

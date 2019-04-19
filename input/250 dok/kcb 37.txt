@@ -1,0 +1,15 @@
+MENERAPKAN SISTEM KECERDASAN BUATAN UNTUK MENENTUKAN
+KUALITAS GETAH KARET MENGGUNAKAN METODE FMADM (FUZZY
+MULTIPLE ATTRIBUTE DECISION MAKING) MENGGUNAKAN
+BAHASA PEMROGRAMAN DELPHI
+Indonesia merupakan negara dengan kebun karet terbesar di dunia mengungguli produsen
+utama lainnya yaitu Thailand dan Malaysia dengan luas 3,4 juta hektar. Untuk menghasilkan
+getah karet yang baik dibutuhkan kriteria - kriteria tertentu. Tujuan kecerdasan buatan di
+rancang untuk dapat menentukan kualitas getah karet yang baik dengan menggunakan kriteria
+tersebut. Perancangan sistem ini menggunakan metode FMADM. Tujuan pembuatan
+kecerdasan buatan ini untuk membantu para petani karet serta masyarakat awam dalam
+menentukan getah karet yang berkualitas tinggi. Dengan adanya sistem ini diharapkan petani
+karet mudah dalam menentukan apakah getah karet yang mereka hasilkan merupakan getah
+karet yang berkualitas, sehingga petani tidak dapat mudah ditipu oleh tengkulak karena mereka
+dapat sudah mengerti kriteria - kriteria getah karet yang berkualitas.
+Kecerdasan Buatan, kualitas, getah karet, Borland Delphi.

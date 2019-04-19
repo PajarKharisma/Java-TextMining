@@ -1,0 +1,11 @@
+pada penelitian ini dilakukan klasifikasi jurnal-jurnal ilmiah untuk bidang ilmu komputer berbahasa inggris
+berdasarkan pada pembagian kategori penelitian berdasarkan web of science yaitu artificial intelligent ,
+cybernetics, hardware and architecture, information systems, interdisciplinary applications, software
+engineering, theory and method, dan image science and photography. dari setiap kategori diambil sebanyak 50
+jurnal sehingga terdapat total 400 jurnal. sebanyak 360 jurnal menjadi data latih dan 40 jurnal sebagai data
+uji. proses untuk klasifikasi ini menggunakan tahapan text mining yang merupakan bagian dari data mining.
+teknik klasifikasi menggunakan dua metode yaitu na�ve bayes classifier dan support vector machine. proses
+teks mining menggunakan bantuan software rapidminer 8.0.. ukuran performansi yang digunakan yaitu recall,
+precision, f-measure dan accuracy. metode na�ve bayes classifier memberikan nilai performansi yang lebih
+baik dibandingkan dengan metode support vector machine dengan nilai recall 64,90% , precision 69,23% , fmeasure
+66,99% dan accuracy 64,42%.

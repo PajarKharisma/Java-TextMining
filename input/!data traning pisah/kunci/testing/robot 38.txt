@@ -1,0 +1,1 @@
+ sensor ultrasonic, Basic Stamp BS2SX, EEPROM, robot anti - bentur,.

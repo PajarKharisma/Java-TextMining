@@ -1,0 +1,17 @@
+Pengendali Lengan Robot
+Menggunakan Borland Delphi 7
+Pada dasarnya manusia menginginkan segala sesuatunya serba otomatis, praktis dan fleksibel. Hal ini memacu
+perkembangan teknologi dan modernisasi peralatan elektronik yang berbasis teknologi robotika. Sebagai sarana pembelajaran
+teknologi robotika dapat menggunakan lengan robot MR-999E. Tetapi perangkat tersebut hanya bisa dikendalikan secara manual
+menggunakan joystick. Pada penelitian ini dibangun perangkat lunak pengendali yang berbasis komputer melalui komunikasi serial
+menggunakan Borland Delphi 7. Sistem ini dirancang untuk mengendalikan motor DC sebagai penggerak bagian-bagian lengan
+robot. Perancangan software dilakukan untuk menjalankan sistem mikrokontroler ATMEGA8535. Data yang diambil dari
+mikrokontroler digunakan sebagai dasar untuk memberi instruksi menggerakkan motor DC pada lengan robot. Pengujian dilakukan
+dengan cara pengujian pada port serial dan pengujian karakteristik gerakan lengan robot bagian base, shoulder, elbow, wrist, dan
+gripper. Hasil penelitian menunjukkan bahwa telah berhasil dibangun perangkat lunak pengendalian lengan robot MR-999E
+menggunakan Borland Delphi 7 yang ditambahkan pada modul mikrokontroler ATMEGA8535. Pengendalian lengan robot sesuai
+perintah yang dimasukkan berupa besaran sudut atau dengan menggeser salah satu trackbar. Pergerakan lengan robot bisa
+dilakukan satu per satu untuk setiap bagian base, shoulder, elbow, wrist, dan gripper atau dapat juga dimasukkan instruksi untuk
+pergerakan berurutan secara otomatis. Pengujian menghasilkan rata-rata error = 6,6 % yang menunjukkan bahwa sistem yang
+dibangun memiliki unjuk kerja yang layak.
+ Pengendalian lengan robot, komunikasi serial, Borland Delphi 7

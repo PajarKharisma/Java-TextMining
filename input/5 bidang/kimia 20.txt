@@ -1,0 +1,8 @@
+Telah dilakukan penelitian mengenai difusi natrium diklofenak pada gel Methocel 400 pada berbagai pH. 
+Uji difusi dilakukan menggunakan sel difusi dengan membran buatan dari kertas saring Whatman no.1 yang 
+dibacam dengan larutan Spangler. Pengukuran konsentrasi bahan aktif yang berdifusi dilakukan menggunakan 
+spektrofotometer ultra violet pada panjang gelombang 277 nm.
+Hasil penelitian menunjukkan bahwa difusi natrium diklofenak paling tinggi terjadi pada pH 7 dengan rerata 
+persentase natrium diklofenak yang berdifusi setelah 240 menit adalah 56,88 + 13,70%. Rerata persentase 
+natrium diklofenak yang berdifusi dari sediaan gel Methocel 400 pada pH 6 setelah 240 menit 
+adalah 30,39 + 1,08% sedangkan pada sediaan gel Methocel 400 pada pH 8 adalah 46,84 + 6,24%.

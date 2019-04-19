@@ -1,0 +1,1 @@
+APLIKASI KAMERA PENDETEKSI MOBIL Menggunakan Pendekatan Pengolahan Citra LVQ; pengolahan citra; mobil; pengenalan pola

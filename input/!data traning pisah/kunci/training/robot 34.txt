@@ -1,0 +1,1 @@
+Robot Line Follow, Mikrokontroler ATMEGA MA 8535 v.2.0,Infrared, Foto Dioda, Komparator.

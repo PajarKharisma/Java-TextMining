@@ -1,0 +1,18 @@
+IMPLEMENTASI METODE MAZE DAN PID
+PADA ROBOT VACUUM CLEANER AUTOMATIC
+Robot Vacuum Cleaner Automatic merupakan peralatan elektronik yang berfungsi sebagai pembersih
+lantai dari debu yang dapat bekerja mandiri dan dapat kembali di posisi awal / penyimpanan. Agar robot
+dapat berkerja dengan baik, maka diperlukan pemetaan ruangan yang dapat diatur sesuai kebutuhan. Oleh
+karena itu diterapkan metode Maze dan PID. Metode Maze adalah salah satu metode yang mempelajari
+pergerakan robot, dimana jalur perjalanan yang akan dilalui oleh robot vacuum cleaner ditentukan
+dengan kolom dan baris yang dapat ditentukan sesuai dengan kebutuhan. Sedangkan PID adalah metode
+pengontrol kestabilan jalan robot. Cara kerja dari robot vacuum cleaner ini diawali dengan melakukan
+pemetaan daerah yang akan dibersihkan, pada penelitian ini daerah yang akan dibersihkan 200cm x
+200cm dan dibagi ke dalam 8 kolom dan 8 baris, setiap kolom dibagi lagi menjadi 8 indeks, begitu juga
+dengan barisnya dibagi menjadi 8 indeks, dan dimasukkan ke dalam program utama pergerakan robot.
+Selanjutnya robot akan bergerak mengikuti pemetaan yang telah diprogramkan dan kembali ke posisi
+awal setelah membersihkan / melalui seluruh baris dan kolom, dengan menggunakan jalan tercepat.
+Berdasarkan hasil percobaan dan analisa yang telah dilakukan disimpulkan bahwa robot dapat berjalan
+sesuai rule pada ruangan dengan tingkat keberhasilan sebesar 100% dan menghasilkan pergerakan robot
+yang baik dengan nilai error steady state 6,66%.
+Vacuum Cleaner, Robot Vacuum Cleaner, Metode Maze, Metode PID.

@@ -1,0 +1,13 @@
+Penelitian mengeksplorasi kinematika gerak menggunakan software video
+analisis (Tracker) mengkombinasikan antara penggunaan alat praktikum atau peraga, video dan
+software video analisis dalam menanamkan konsep kinematika gerak sesuai dengan tingkatan
+siswa. Tujuan dilakukan penelitian ini untuk mendesain dan merancang bangun alat praktikum
+yang sekaligus dapat digunakan untuk alat peraga. Selain itu digunakan teknologi (video) untuk
+membantu dalam pengamatan dan menganalisis konsep fisika dengan memanfaatkan software
+video analisis. Penggunaan software video analisis digunakan memudahkan dalam menganalisis
+kinematik gerak yang sering dijumpai siswa ataupun mahasiswa dalam kehidupan sehari-hari.
+Pemanfaatan alat peraga dan alat praktikum yang dikombinasi dengan pemanfaatan teknologi
+ini diharapkan dapat menciptakan strategi pembelajaran fisika yang lebih efektif, menarik dan
+menyenangkan. Eksplorasi konsep kinematika gerak yang akan dilakukan diharapkan dapat
+memberikan gambaran bagaimana tingkat pemahaman konsep kinematika gerak yang akan
+diajarkan sesuai tingkatannya.

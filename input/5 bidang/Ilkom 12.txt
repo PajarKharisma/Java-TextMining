@@ -1,0 +1,13 @@
+Informasi yang terdapat di Internet sangat bermacam-macam, salah satunya adalah informasi mengenai
+buku. Jika informasi tersebut diolah dengan baik maka akan diperoleh kualitas buku dari informasi tersebut.
+Dengan membaca ulasannya, maka kita akan mengetahui kualitas dan juga menganalisis sentimen positif dan
+juga sentimen negatif dari buku tersebut. Namun, begitu banyaknya opini akan mempersulit pengguna lain untuk
+memperoleh kualitas dari informasi tersebut. Analisis sentimen merupakan penilaian seseorang tentang topik
+yang dibahas baik itu sentimen positif ataupun sentimen negatif. Untuk mempercepat dalam menganalisis
+banyaknya sentimen yang ada, digunakanlah metode klasifikasi yaitu Support Vector Machine . Kelebihan dari
+SVM ini yaitu untuk menentukan hyperplane yang dapat menghasilkan margin yang maksimal antara kelas yang
+satu dengan kelas yang lainnya. Tetapi SVM mempunyai kelemahan terhadap pilihan fitur atau parameter yang
+dapat mempengaruhi akurasi. Maka dari itu, pada penelitian ini mengunakan metode Information Gain agar
+dapat meningkatkan akurasi dengan mengurangi jumlah fitur yang akan dianalisis dan Support Vector Machine
+sebagai metode klasifikasi untuk menangani permasalahan ini dan hasil dari penelitian ini menghasilkan nilai
+rata-rata F1-score sebesar 82.35%

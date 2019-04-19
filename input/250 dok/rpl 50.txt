@@ -1,0 +1,18 @@
+﻿PENGEMBANGAN APLIKASI RESERVASI
+KAMAR HOTEL BERBASIS WEB
+Teknologi informasi merupakan salah satu teknologi yang sedang berkembang dengan pesat
+pada saat ini. Dengan kemajuan teknologi informasi, pengaksesan terhadap data atau
+informasi yang tersedia dapat berlangsung dengan cepat, efisien serta akurat. Penelitian ini
+bertujuan untuk memberikan gambaran sebuah model sistem informasi perhotelan
+menggunakan layanan web, melalui pembangunan sebuah aplikasi reservasi kamar hotel
+berbasis web. Dengan aplikasi ini, pengguna dapat dengan mudah memperoleh pelayanan
+dan informasi hotel kapanpun dan dimanapun mereka berada secara on-line.
+Sistem tersebut mengolah data reservasi kamar baik proses check - in, check - out maupun
+proses pembuatan laporan - laporan yang dibutuhkan per hari, bulan, maupun per periode.
+Sistem informasi reservasi dikembangkan dengan motodologi waterfall, dan dibangun dengan
+bahasa PHP dan PhpMyAdmin sebagai sebuah tools untuk membantu mengelola basis data
+MySql serta editor Macromedia Dreamweaver. Aplikasi regristrasi kamar hotel ini dapat
+digunakan sebagai sarana penyedia layanan dan informasi bagi penggunanya baik untuk
+admin, dan manager hotel dimanapun dan kapanpun mereka berada. Pengguna mendapatkan
+semua informasi yang akurat karena informasi yang tersedia senantiasa diperbaharui.
+Hotel, Web, PHP, MySql, Macromedia Dreamweaver 

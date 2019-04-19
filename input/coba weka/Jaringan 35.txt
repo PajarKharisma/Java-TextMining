@@ -1,0 +1,28 @@
+SIMULASI ROUTING PROTOKOL OSPF DAN EIGRP,
+BERSERTA ANALISA PERBANDINGANNYA DALAM
+MENENTUKAN KINERJA YANG PALING BAIK
+Routing protocol memiliki banyak metode dalam
+pengimplementasiannya di dunia jaringan komputer. Metode – metode routing
+protocol yang sering digunakan oleh administrator jaringan komputer adalah RIP,
+IGRP, OSPF dan EIGRP, namun saat ini metode RIP dan IGRP mulai
+ditinggalkan oleh administrator jaringan komputer karena metode RIP dan IGRP
+kurang maksimal dalam penerapannya di dunia jaringan komputer. Para
+administrator jaringan komputer memilih beralih ke routing protocol OSPF dan
+EIGRP karena routing protocol tersebut merupakan teknologi routing protocol
+yang baru dan lebih maksimal dalam penerapannya di dunia jaringan komputer.
+Routing protocol baik OSPF maupun EIGRP keduanya memiliki
+kelebihan masing – masing, untuk itu penulis membuat sebuah penelitian dari
+kedua routing protocol tersebut dengan membandingkan nilai Quality of Service
+(QoS). Penulis melakukan penelitian perbandingan nilai Quality of Service (QoS)
+dari kedua routing protocol tersebut untuk mengetahui kelebihan masing - masing
+routing protocol sehingga bisa diketahui routing protocol mana yang kinerjanya
+paling baik.
+Penulis melakukan penelitian perbandingan kedua routing protocol
+menggunakan software Network Simulator 2. Software ini merupakan software
+yang cocok untuk mensimulasikan sebuah jaringan komputer dalam
+memperhitungkan nilai Quality of Service (QoS).
+Hasil dari penelitian yang telah penulis lakukan, bahwa routing
+protocol EIGRP maupun OSPF keduanya memiliki selisih nilai rata- rata QoS
+yang tidak terlalu besar sehingga kedua routing protocol tersebut dapat digunakan
+dalam berbagai kondisi jaringan komputer.
+ OSPF, EIGRP, NS2, QoS

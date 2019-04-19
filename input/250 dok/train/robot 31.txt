@@ -1,0 +1,10 @@
+Rancangan Kendali Lampu Menggunakan Mikrokontroller ATMega328 Berbasis Sensor Getar
+Dalam kehidupan sehari - hari masyarakat, salah satunya faktor penting yang sangat mendukung adalah adanya penerangan,
+perangkat elektronik ini sangatlah berguna di tempat minim cahaya, terutama dimalam hari. Untuk mendapatkan penerangan,
+lampu dinyalakan dan mematikan secara manual. Bagi sebagian orang, itu bukanlah suatu masalah, namun bagi masyarakat
+yang kegiatan sehari – harinya sering dilakukan di luar rumah dan sering bepergian dalam maka menyalakan dan mematikan
+lampu menjadi sebuah kendala yang besar. Hal tersebut juga menimbulkan pemborosan energi listrik, serta dapat
+mengakibatkan kosleting listrik oleh karna itu penelitian ini merancang hardware ini dilengkapi dengan hardware protitype
+sensor getar untuk menyalakan dan mematikan lampu secara otomatis berbasis mikrokontroler Atmega328. software protitype
+sensor getar menyalakan dan mematikan lampu otomatis berbasis mikrokontroler Atmega328.
+Lampu, Mikrokontroler, ATMega328

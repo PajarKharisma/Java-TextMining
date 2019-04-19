@@ -1,0 +1,16 @@
+DIAGNOSIS PENYAKIT GIGI PERIODONTALMENGGUNAKAN SISTEM
+PAKAR FUZZY
+Penyakit periodontal merupakan salah satu penyakit yang sangat meluas dalam
+kehidupan masyarakat. Seperti dalam semua cabang medis, untuk menerapkan
+pengobatan yang tepat hanya mungkin dengan diagnosis yang benar dari penyakit pada
+kedokteran gigi tersebut. Diagnosis ini diimplementasikan dengan evaluasi pemeriksaan
+klinis. Namun, pemeriksaan klinis ini mengandung ketidakpastian (ambiguitas) data,
+sehingga diperlukan perhitungan yang tepat dalam mengukur dan menentukan kriteria
+keparahan peradangan pada gigi. Pada penelitian ini dikembangkan sebuah perangkat
+lunak untuk diagnosis penyakit gigi periodontal. Metode yang digunakan adalah sistem
+pakar fuzzy. Pada penelitian ini dilakukan pengukuran relatif untuk mendapatkan nilai
+akurasi. Pengukuran relatif yang digunakan adalah Mean Percentage Absolute Error
+(MAPE). Mean Absolute Percentage Error merupakan nilai tengah kesalahan
+persentase absolute dari suatu peramalan atau prediksi. Hasil perhitungan nilai error
+menunjukan nilai error yang kecil yaitu sebesar 9,91%. Oleh karena itu nilai akurasi
+yang didapatkan pada penelitian ini adalah sebesar 90,09%.

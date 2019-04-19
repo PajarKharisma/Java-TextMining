@@ -1,0 +1,18 @@
+Klasifikasi Berita Indonesia Menggunakan Metode Naive Bayesian Classification dan Support Vector Machine dengan Confix Stripping Stemmer  Jumlah aliran artikel berita yang diunggah
+di internet sangat banyak dan rentang waktu yang cepat.
+Jumlah yang banyak dan waktu yang cepat akan menyulitkan
+editor mengkategorikan secara manual. Terdapat metode agar
+berita dapat dikategorikan secara otomatis, yaitu klasifikasi.
+Data berita berbentuk teks, sehingga jauh lebih rumit dan
+perlu proses untuk mempersiapkan data. Salah satu prosesnya
+adalah confix-stripping stemmer sebagai cara untuk
+mendapatkan kata dasar dari berita Indonesia. Untuk metode
+klasifikasi yang digunakan adalah Naive Bayes Classifier
+(NBC) yang secara umum sering digunakan dalam data teks
+dan Support Vector Machine (SVM) yang diketahui bekerja
+sangat baik pada data dengan dimensi besar.  Kedua metode
+tersebut akan dibandingkan untuk mengetahui hasil klasifikasi
+yang paling baik. Hasil penelitian menunjukkan bahwa SVM
+kernel Linier dan kernel RBF menghasilkan ketepatan
+klasifikasi yang sama dan bila dibandingkan dengan NBC
+maka SVM lebih baik. 

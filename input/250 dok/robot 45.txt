@@ -1,0 +1,16 @@
+PERANCANGAN ROBOT PENGIKUT GARIS BERBASIS
+MICROCONTROLLER
+Saat ini perkembangan teknologi robot berkembang dengan pesat yang
+dimanfaatkan dan dikembangkan untuk membantu manusia dalam mengerjakan berbagai
+hal secara lebih mudah dan efesien. Salah satu aplikasinya adalah penggunaan robot
+pengikut garis sebagai alat trasportasi di bidang industri.
+Tujuan tugas akhir ini adalah mengetahui prinsip kerja dan keandalan robot pengikut
+garis dengan komponen - komponen utamanya adalah catu daya, sensor, microcontroller,
+dan driver motor. Metodologi penelitian yang digunakan adalah merancang dan membuat
+robot pengikut garis serta melakukan pengujian langsung keandalannya pada lintasan
+yang berbentuk “?” sepanjang 6,5 m.
+Hasil yang diperoleh menunjukkan tahap perakitan robot pengikut garis terdiri dari
+pemasangan setiap rangkaian dan pemasangan sistem penggerak pada rangka robot. Hasil
+pengujian menunjukan robot pengikut garis tersebut mampu melewati lintasan dengan
+baik dimana kecepatan rata  -ratanya adalah 0,22 m / detik.
+Perancangan, Robot Pengikut Garis, Microcontroller.

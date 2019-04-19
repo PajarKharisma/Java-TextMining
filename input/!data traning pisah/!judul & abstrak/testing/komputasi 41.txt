@@ -1,0 +1,39 @@
+Pengelompokan Dokumen Menggunakan Winnowing Fingerprint
+dengan Metode K-Nearest Neighbour 
+Text mining dapat didefinisikan
+sebagai suatu proses menggali informasi oleh
+seorang user yang berinteraksi dengan
+sekumpulan dokumen menggunakan tools
+analisis yang merupakan komponen-
+komponen dalam data mining. Dalam text
+mining dikenal beberapa metode untuk
+klasifikasi teks, salah satunya adalah K-Nearest
+Neightbour (KNN). KNN adalah sebuah metode
+untuk melakukan klasifikasi terhadap objek
+berdasarkan data pembelajaran yang jaraknya
+paling dekat dengan objek tersebut. Pada
+penelitian  ini  akan  dilakukan  klasifikasi
+terhadap dokumen teks menggunakan metode
+KNN berdasarkan winnowing fingerprint.
+Winnowing adalah algoritma yang biasa
+digunakan untuk mendeteksi kesamaan isi
+suatu dokumen teks dengan cara memecah
+kalimat yang ada pada dokumen teks menjadi
+beberapa karakter sepanjang k-grams dan 
+menghasilkan output berupa kumpulan nilai
+hash yang disebut fingerprint. Penelitian ini
+mencoba untuk menjadikan fingerprint sebagai
+ciri suatu dokumen teks lalu mengelompokkan
+dokumen teks berdasarkan ciri tersebut. Proses
+klasifikasi diawali  dengan  mengumpulkan
+dokumen  latih yang akan dijadikan sebagai
+acuan dalam pengelompokan dokumen.
+Dokumen latih tersebut diproses dengan
+metode winnowing untuk mendapatkan ciri
+dari dokumen tersebut. Dokumen uji yang
+ingin dikelompokkan juga harus melewati
+proses winnowing, setelah fingerprint didapat
+maka dilanjutkan dengan proses klasifikasi
+menggunakan metode KNN. Dari hasil
+pengujian terhadap 10 dokumen uji didapat
+nilai akurasi pengelompokan 80%

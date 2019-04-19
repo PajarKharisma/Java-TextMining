@@ -1,0 +1,1 @@
+Pengenalan Gender Melalui Suara dengan Algoritma Support Vector Machine (SVM) 

@@ -1,0 +1,20 @@
+SISTEM INFORMASI TERINTEGRASI ALAT TULIS
+KANTOR PADA BANK INTERNASIONAL
+INDONESIA CABANG LAMPUNG
+Kelancaran dalam suatu kegiatan organisasi seperti misalnya dalam
+industri perbankan adalah adanya suatu kerja sama yang baik di setiap unit kerja
+atau bagian. Setiap unit kerja atau bagian mempunyai peran penting di dalam
+menunjang aktifitas kegiatan yang menjadi rutinitas dalam kegiatan perbankan
+khususnya. Upaya mengembangkan sistem informasi pendukung alat tulis kantor
+ini didasarkan atas adanya keinginan agar suatu proses permintaan kebutuhan
+alat tulis kantor dapat secepatnya dipenuhi dan ketersedian akan kebutuhan
+barang yang dibutuhkan. Sistem Informasi pendukung alat tulis kantoryang
+dirancangterintegrasi ini, merupakan penyempurnaan sistem yang lama, dimana
+sistem yang lama masih menggunakan atau memakai formulir manual dalam
+meminta alat tulis kantor yang dibutuhkan oleh semua unit kerja atau Kantor
+Cabang Pembantu, sehinga rentang waktu yang dibutuhkan cukup lama.
+Sedangkandalampengembangansistem baru sudah terintegrasi antara unit kerja
+yang ada dan Kantor Cabang Pembantu dengan Bagian Gudang sehingga system
+ini saling mendukung untuk mencukupi kebutuhan akan alat tulis kantor. Studi
+kasus dilakukan di Bank Internasional Indonesia Cabang Lampung.
+Sistem Informasi, Integrasi, Alat Tulis Kantor

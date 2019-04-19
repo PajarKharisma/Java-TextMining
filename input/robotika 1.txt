@@ -1,0 +1,9 @@
+PENERAPAN MINI ROBOT DENGAN KONSEP OMNI DIRECTIONAL UNTUK
+MENDAPATKAN INFORMASI PADA DAERAH BERBAHAYA
+Penerapan mini robot dengan konsep omni directional diharapkan mampu
+menciptakan sistem baru yang dapat digunakan oleh peneliti untuk mengambil data
+berupa gambar atau video. Pengambilan Objek penelitian tersebut dapat berada
+pada daerah yang berbahaya dan sulit dijangkau oleh manusia. Dimana mini robot
+ini nantinya dapat bergerak 10 arah sehingga gambar dapat diambil dari banyak sisi
+dan selain itu robot ini dapat dikontrol oleh penggunanya dari jarak jauh karena
+didukung fasilitas wifi. mini robot, omni directional, daerah berahaya, wifi.

@@ -1,0 +1,3 @@
+Penerapan Algoritma C4.5 Untuk Penentuan
+Jurusan Mahasiswa Klasifikasi, Penentuan Jurusan
+Mahasiswa, Algoritma C4.5.

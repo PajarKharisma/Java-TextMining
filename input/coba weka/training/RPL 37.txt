@@ -1,0 +1,8 @@
+PEMBUATAN SISTEM INFORMASI PENJUALAN PADA TOKO SEHAT JAYA ELEKTRONIK PACITAN Sistem Informasi merupakan peranan sangat penting dalam kegiatan bisnis di suatu
+perusahaan. Toko Sehat Jaya Elektronik masih menggunakan cara yang konvensional dalam
+mengolah data tentang transaksi penjualan, untuk itu membutuhkan sistem informasi yang
+dapat menunjang kelancaran dalam melakukan transaksi penjualan. Tujuan dari penelitian ini
+merupakan upaya untuk membuat sistem informasi di Toko Sehat Jaya Elektronik yang belum
+terkomputerisasi dan masih menggunakan cara yang konvensional. Dari penelitian ini
+diharapkan pembuatan sistem informasi yang dihasilkan nantinya akan mampu mengatasi dari
+sistem yang belum terkomputerisasi. Pembuatan Sistem Informasi Penjualan

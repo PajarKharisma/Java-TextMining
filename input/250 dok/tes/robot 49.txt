@@ -1,0 +1,17 @@
+PERANCANGAN BEHAVIOR - BASED ROBOT DENGAN ALGORITMA
+FUZZY Q - LEARNING (FQL) PADA SISTEM NAVIGASI ROBOT OTONOM
+BERODA DALAM MEDAN YANG TIDAK TERSTRUKTUR
+Pada banyak aplikasi robotika, seperti sistem navigasi robot mandiri atau robot otonom
+yang bergerak dengan mandiri pada lingkungan tidak terstruktur, sangat sulit atau tidak
+mungkin memperoleh model matematik yang tepat dari interaksi robot dengan
+lingkungannya. Untuk itu diperlukan pendekatan sistem kendali robot yang dikenal dengan
+sistem kendali Behavior - Based Robot (BBR). Pada pendekatan ini, sistem diuraikan
+menjadi beberapa modul yang masing - masingnya bertanggung jawab untuk melakukan
+satu perilaku (behavior). Salah satu metode pembelajaran yang paling cocok untuk
+aplikasi robot adalah Reinforcement Learning (RL), dengan jenis algoritma Q - learning.
+Kombinasi Q - learning dengan Fuzzy Inference System (FIS) dikenal dengan nama Fuzzy
+Q - Learning (FQL). Berdasarkan percobaan yang dilakukan sebanyak 3 kali pada robot
+beroda dapat disimpulkan bahwa waktu rata - rata robot kembali ke Homebase yaitu 1
+menit 10 detik. Sedangkan waktu rata - rata robot dalam mematikan api lilin adalah 2 detik.
+Sehingga dapat dikatakan robot yang dibuat mempunyai kinerja yang cukup baik.
+fuzzy q - learning, reinforcement learning, robot otonom, webots

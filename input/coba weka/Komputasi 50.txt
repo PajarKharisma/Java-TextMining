@@ -1,0 +1,17 @@
+PENGENALAN POLA OBJEK TEROTASI
+MENGGUNAKAN JARINGAN SYARAF TIRUAN PROBABILISTIK Faktor penting agar sistem dapat mengidentifikasikan objek dengan benar, yaitu ektraksi ciri
+objek atau pembentukan karakteristik objek. Dalam penelitian ini karakteristik objek dibuat menggunakan
+pola signature, yaitu merupakan pola keliling tepi dari objek. Dengan menggunakan pusat momen objek
+dan titik terjauh pola tepi terhadap pusat momen tersebut dalam pembentukan pola signature, maka pola
+yang diperoleh tidak tergantung dengan rotasi dan perubahan ukuran citra (resize).
+Dalam penelitian ini, proses klasifikasi dan pengenalan objek menggunakan sistem jaringan
+syaraf tiruan dengan model pendekatan probabilistik. Dengan model ini proses pelatihan lebih cepat yaitu
+hanya sekali iterasi, dimana vektor masukan pada proses pelatihan menjadi vektor bobot.Uji pengenalan
+dilakukan terhadap objek dengan posisinya terotasi dan objek yang mengalami perubahan ukuran.
+Dari hasil pengujian dan analisis data diperoleh data pengujian : dengan menggunakan 16 node
+pada lapisan masukan maka keberhasilannya sebesar 87,5%, sedangkan jika menggunakan 20 node maka
+diperoleh tingkat keberhasilannya sebesar 95,1%. Untuk objek terotasi 45 o, 90o, 135o dan 180o, maka
+diperoleh tingkat keberhasilan masing-masing yaitu : 90,3%, 95,1%, 90,3% dan 95,1%. Untuk uji dengan
+objek resize diperoleh data pengujian : untuk perubahan ukuran 70%, 85%, 110% dan 130% maka
+diperoleh keberhasilan masing masing : 89,5%, 92,4%, 92,4% dan 90,3%
+ Pengenalan Objek, Jaringan Syaraf Tiruan, Jaringan Syaraf Tiruan Probabilistik.

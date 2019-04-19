@@ -1,0 +1,20 @@
+PERANCANGAN SISTEM PENGENDALIAN MOTOR SERVO PADA ROBOT
+BERKAKI MENGGUNAKAN MICROCONTROLLER PIC 16F84
+Seiring perkembangan teknologi yang semakin pesat, dimana peran manusia telah banyak digantikan
+dengan mesin ataupun robot dalam mengerjakan suatu pekerjaan. Robot-robot yang dibuat memiliki berbagai
+bentuk seperti robot beroda dan berkaki yang dikendalikan dengan suatu sistem kontrol. Pada robot berkaki
+umumnya menggunakan motor servo sebagai penggeraknya. Sistem pengendalian motor servo yang jumlahnya
+banyak biasanya menggunakan servo controller. Modul (rangkaian servo controller) ini yang akan mengatur
+pengiriman alamat dan pemberian data/lebar pulsa pada masing-masing motor servo. Permasalahan yang
+muncul saat ini adalah sulitnya mendapatkan modul servo controller yang harus memesan dari luar negeri dan
+tentunya harus dibayar dengan biaya yang tinggi dan membutuhkan waktu yang cukup lama untuk mempelajari
+cara pemasangan dan pemrogramannya.
+Mengatasi masalah tersebut kita dapat membuat sendiri modul servo controller dengan menggunakan
+mikrokontroler PIC 16F84. Mikrokontroler buatan Microchip ini memiliki fasilitas yang cukup lengkap untuk
+mengendalikan banyak motor servo disamping pemrogramannya yang mudah yaitu dengan menggunakan
+bahasa pemrograman basic. Dalam pembuatan modul servo controller ini dibutuhkan dua buah mikrokontroler
+PIC 16F84 yang terdiri dari mikrokontroler utama yang dapat mengontrol duabelas motor servo sekaligus dan
+mikrokontroler bantu yang digunakan untuk mengirimkan alamat dan data/lebar pulsa secara serial (RS232) ke
+mikrokontroler utama, juga sebagai masukan perintah pengendalian gerakan robot dari mikrokontroler lain
+yang dilakukan secara pararel (8 bit).
+Robot berkaki, Motor servo, Mikrokontroler PIC 16F84

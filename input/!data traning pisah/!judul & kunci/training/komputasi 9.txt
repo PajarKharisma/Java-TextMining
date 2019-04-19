@@ -1,0 +1,1 @@
+Klasifikasi Emosi Untuk Teks Bahasa Indonesia Menggunakan Metode Naive Bayes klasifikasi teks, emosi, model multinomial, naïve bayes.

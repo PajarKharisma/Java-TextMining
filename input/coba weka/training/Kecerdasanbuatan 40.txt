@@ -1,0 +1,13 @@
+SISTEM PAKAR UNTUK MENDIAGNOSIS PENYAKIT PADA
+KAMBING DENGAN METODE FORWARD CHAINING Pemeriksaan penyakit pada kambing secara berkala saat ini kurang diperhatikan sehingga membuat
+kambing mudah terserang penyakit. Hal ini membuat peternak kesulitan dalam penanganan awal dan
+tidak tahu apa yang harus dilakukan tanpa adanya seorang pakar yang mendampingi. Oleh sebab itu
+dalam penelitian tugas akhir ini penulis membuat sistem pakar dengan metode forward chaining yang
+merupakan teknik pencarian dimulai dengan fakta yang diketahui, kemudian mencocokkan fakta-fakta
+tersebut dengan bagian IF dari rules IF-THEN. Bila ada fakta yang cocok dengan bagian IF, maka
+rule tersebut dieksekusi sebagai penarik kesimpulan untuk mendiagnosa penyakit pada kambing
+sehingga dapat memberikan solusi dan penanganan sementara pada ternak berupa panduan untuk
+mengantisipasi terjadinya kematian pada kambing sebelum ditanyakan langsung kepada seorang
+pakar untuk penanganan lebih lanjut. Dapat disimipulkan bahwa penggunaan metode forward
+chaining membantu peternak dalam mendiagnosa penyakit kambing.
+ Sistem pakar, penyakit kambing, forward chaining, Web

@@ -1,0 +1,20 @@
+SISTEM PAKAR MENDIAGNOSA PENYAKIT DEMAM
+BERDARAH MENGGUNAKAN METODE
+CERTAINTY FACTOR
+Penyakit demam berdarah merupakan penyakit infeksi yang disebabkan oleh virus dengue dan ditularkan
+melalui gigitan Nyamuk Aedes aegepty dan Aedes albopictus. Demam berdarah dangue merupakan salah satu
+penyakit menular yang sering menimbulkan wabah dan menyebabkan kematian. Seringkali penyakit demam
+berdarah terlambat didiagnosa. Pada penelitian ini penulis membuat suatu penerapan metode certainty factor
+agar masyarakat dapat mengenali dan menanggulangi penyakit yang dideritanya.
+Sistem pakar untuk diagnosa penyakit demam berdarah ini merupakan suatu sistem pakar yang dirancang
+sebagai alat bantu untuk mendiagnosa penyakit demam berdarah dengan basis pengetahuan yang dinamis.
+Dimana sistem pakar merupakan sistem komputer yang dapat melakukan penalaran seorang pakar dengan
+keahlian pada suatu keahlian tertentu. Sistem pakar dapat menggantikan peran seorang pakar yang prinsip
+kerjanya dapat memberikan hasil yang pasti, seperti yang dilakukan oleh seorang pakar. Metode sistem pakar
+yang dipakai adalah certainty factor. Sistem pakar ini akan menampilkan pilihan gejala yang dapat dipilih oleh
+user, dimana setiap pilihan gejala akan membawa user kepada pilihan gejala selanjutnya sampai mendapatkan
+hasil akhir. Pada hasil akhir, sistem akan menampilkan pilihan gejala user, dan penyakit yang diderita. Sistem
+tersebut memberikan hasil berupa kemungkinan penyakit yang dialami, persentase keyakinan, serta nilai
+keyakinan yang diberikan oleh pengguna dalam menjawab pertanyaan selama sesi konsultasi ketika
+menggunakan sistem ini.
+Sistem pakar, certainty factor, demam berdarah

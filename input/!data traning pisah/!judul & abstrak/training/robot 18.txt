@@ -1,0 +1,10 @@
+ROBOT PENJEJAK RUANGAN DENGAN SENSOR ULTRASONIK
+DAN KENDALI GANDA MELALUI BLUETOOTH Penelitian ini bertujuan untuk melakukakan perencanaan dan implementasi mobile robot dengan
+kontrol secara otomatis dan manual yaitu menggunakan sensor ultrasonic sebagai pendeteksi objek dan juga
+menggunakan teknologi Bluetooth sebagai pengendalian manual mobile robot via smartphone . Mobile robot ini
+mampu mendeteksi penghalang yang ada disekitarnya dan memiliki sistem navigasi. Jika sensor ultrasonik
+mendeteksi adanya penghalang, maka robot akan berbelok dan berjalan secara otomatis tanpa menabrak
+penghalang ataupun benda yang berada disekitarnya. Mobile robot ini mampu melakukan komunikasi bidirectional, proses sensoring , dan mengenali ID ataupun karakter dari controller. Aplikasi mobile robot ini
+terdiri dari rangkaian controller dan mobile robot. Rangkaian controller terdiri dari smartphone dan aplikasi
+Bluetooth. Rangkaian mobile robot terdiri dari Arduino mega 2560 ,modul driver, sensor ultrasonic, dan modul
+Bluetooth HC-05. 

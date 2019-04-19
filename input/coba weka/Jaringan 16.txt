@@ -1,0 +1,13 @@
+Rancang  Bangun VLAN untuk Segmentasi  Jaringan 
+pada Cyber  Campus  Laboratory Universitas Stikubank Cyber Campus Laboratory (CCL)  adalah  pelayanan  jaringan  yang  terkoneksi dengan  internet di
+Universitas Stikubank. Kebutuhan  pengguna dalam mengakses informasi sangat tinggi bila
+dibandingkan  dengan  ketersediaan  bandwith. Selain  itu  kebutuhan  untuk  memanajemen  jaringan  dengan 
+mudah  sangat diperlukan  untuk administrator  jaringan.
+Penelitian  ini akan  merancang  dan  mengimplementasikan VLAN pada jaringan Cyber Campus
+Laboratory agar  peralatan  yang  ada dapat dioptimasi untuk  memberikan  pelayanan  jaringan  yang  baik.
+Rancangan  atau  desain  jaringan  dibuat dalam tiga lapisan  yaitu  core, distribution  dan  access.
+Virtual LAN (VLAN)  adalah  suatu  mekanisme yang  dapat digunakan  untuk  mensegmentasi jaringan 
+dalam peralatan switch. Dengan  metode trunking, switch dapat dihubungkan  dengan router untuk 
+menghubungkan  semua VLAN. Melalui cara ini peralatan  jaringan  yang  ada dapat dioptimasi untuk 
+mendukung pelayanan  jaringan.
+Kata  kunci: jaringan  komputer, VLAN, switch, router, trunking

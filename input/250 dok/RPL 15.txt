@@ -1,0 +1,8 @@
+ Rekayasa Perangkat Lunak Sistem e - KTP
+Terintegrasi Birokrasi Umum Di Kota Batam
+Untuk Untuk meningkatkan pelayanan publik kepada masyarakat dengan memanfaatkan fasilitas data kependudukan yang tersedia
+setelah diimplementasikan sistem e - KTP diseluruh kantor kecamatan diseluruh Indonesia, akan mempermudah berbagai kepengurusan dan birokrasi pemerintahan lainya seperti pengurusan SIM (Suratn SIM (Surat Izin Mengemudi), pengurusan Passport dan Izin Mengemudi), pengurusan Passport dan pengurusaan - pengurusan lainya yang
+berhubungan dengan penggunaan data kependudukan. Karena selama ini seluruh setiap pengurusan yang berhubungan dengan
+pelayanan publik pasti menggunakan kependudukan, hal ini akan membantu pemenggunakan kependudukan, hal ini akan membantu pemerintah dalam pendataan kependudukan yang lebih akurat seperti sensus penduduk, pendaftaran pemilih tetap pada saat pemilihan umum, data demografi kepadatan penduduk dan
+kegiatan pemerintah lainya.
+ e - KTP, SIM, Passport

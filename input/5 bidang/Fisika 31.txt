@@ -1,0 +1,10 @@
+Penelitian ini membahas materi fisika gerak secara khusus yang terkandung di dalam
+mobile game Ultraflow sehingga game ini dapat menjadi alternatif media
+pembelajaran yang dapat membantu pendidik untuk menjelaskan materi fisika gerak
+kepada peserta didik dengan cara yang menarik dan tidak membosankan. Pada
+penelitian ini kajian yang fisika akan dilakukan hanya difokuskan pada bagian 1, 2, 3
+dan 6 dan hanya memilih salah satu level yang dapat dianggap mewakili keempat
+bagian tersebut. Untuk bagian 1 dipilih level 7, untuk bagian 2 dipilih level 13, untuk
+bagian 3 dipilih level 24 dan untuk bagian 6 dipilih level 40. Kemudian, selanjutnya
+tiap-tiap level yang telah dipilih tersebut dianalisis dengan melakukan kajian-kajian
+fisika gerak yang terkandung di dalamnya.

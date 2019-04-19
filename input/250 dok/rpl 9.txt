@@ -1,0 +1,17 @@
+PERANGKAT LUNAK INFORMASI WISATA
+DI BANDUNG DAN SEKITARNYA
+BERBASIS ANDROID
+Perkembangan teknologi yang sangat pesat membuat kebutuhan manusia akan informasi menjadi semakin
+meningkat termasuk informasi geografis yang dapat memberikan kita informasi lokasi, jarak dan wilayah. Salah
+satu yang dicari dari informasi geografis adalah lokasi wisata, kota Bandung dan sekitarnya memiliki pesona yang
+memikat turis lokal maupun asing karena memiliki banyak jenis lokasi wisata dari wisata pendidikan, alam, arena
+bermain, kuliner serta taman.
+Oleh karena itu dibuatlah sebuah perangkat lunak yang dapat memberikan kita informasi lokasi wisata di kota
+Bandung dan sekitarnya dengan pemanfaatan Google Map sebagai fasilitas pendukung sistem informasi
+geografisnya. Perangkat lunak ini dibuat untuk smartphone Android dimana dengan adanya smartphone kita lebih
+mudah mengakses informasi karena dilengkapi koneksi Internet dan Global Positioning System. Selain itu saat
+ini android menguasai pangsa pasar smartphone dunia di antara platform lainnya.
+Dengan perangkat lunak ini maka pengguna dapat mencari informasi lokasi wisata dengan mudah dan efektif
+berdasarkan tujuan wisata yang diharapkan. Selain itu perangkat lunak ini juga akan mengarahkan pengguna
+menuju lokasi wisatanya dengan bantuan map dan navigasi.
+Sistem Informasi Geografis (SIG), Wisata, Android, Google Map

@@ -1,0 +1,15 @@
+Telah dilakukan identifikasi senyawa aktif antiradikal bebas dari rumput laut Sargassum ringgoldianum.
+ Ekstraksi metabolitnya dilakukan dengan cara maserasi menggunakan campuran pelarut etanol dan asam asetat 
+dengan perbandingan 9:1 dan dihasilkan 7,02 gram ekstrak pekat dari 230 gram serbuk sampel. Ekstrak pekat 
+ini memiliki persentase peredaman radikal bebas sebesar 66,50% pada menit ke-5 dan 78,77% pada menit ke-60.
+ Pemisahan dan pemurnian dilakukan dengan cara partisi, kromatografi lapis tipis, dan kromatografi kolom.
+ Partisi dilakukan menggunakan petroleum eter, kloroform, etil asetat serta air hingga didapatkan ekstrak
+ petroleum eter yang memiliki persentase peredaman radikal bebas paling besar yaitu 76,21% pada menit ke-5
+ dan 91,16% pada menit ke-60. Terhadap ekstrak petroleum eter dilakukan pemisahan dengan kromatografi kolom 
+menggunakan fase diam silika gel 60 dengan fase gerak campuran petroleum eter : aseton (7:3) yang menghasilkan
+ lima fraksi (FA, FB, FC, FD, dan FE). Fraksi yang paling aktif sebagai antiradikal bebas yaitu fraksi 
+B dengan persentase peredaman sebesar 62,77% pada menit ke-5 dan 92,19% pada menit ke-60, aktivitas ini 
+setara dengan 93,06% dibandingkan aktivitas peredaman radikal bebas vitamin E. Fraksi B selanjutnya 
+diidentifikasi menggunakan paduan kromatografi gas-spektroskopi massa sehingga teridentifikasi enam 
+senyawa yaitu: etil miristat, dibutil ftalat, etil palmitat, metil isostearat, dioktil ftalat, dan 
+3ß-bromokolest-5-ena.

@@ -1,0 +1,18 @@
+PEMASANGAN SENSOR GELOMBANG ULTRASONIK UNTUK APLIKASI
+ROBOT ANTI - BENTUR
+Penelitian ini bertujuan untuk membangun sebuah mobil robot dan teknik pemasangan
+sensor gelombang ultrasonik untuk menghindari benturan. Teknik pemasangan sensor
+meliputi jarak sensor penerima ke pemancar gelombang ultrasonik dan panjang loop
+yang digunakan. Mengatur gerakan mobil robot secara otomatis dapat menghindari
+benturan dengan objek yang ada di depannya. Sistem otomasi pengaturannya
+menggunakan perangkat keras mikrokontroler Basic Stamp BS2SX buatan Parallax Inc
+Amerika, berupa IC PIC16C65 yang beroperasi pada tegangan 5 volt DC. Sedangkan
+perangkat lunaknya menggunakan bahasa pemrograman Pbasic. Program ditulis pada
+Basic Stamp Editor yang sudah diinstallkan pada PC, kemudian didownload ke EEPROM.
+Proses download program otomatis menghapus program sebelumnya sehingga program
+terakhir yang akan dieksekusi. Sensor gelombang ultrasonik yang digunakan dapat
+mendeteksi jarak objek terjauh 85 cm, sedangkan objek terdekat adalah 0,5 cm. Panjang
+loop yang dipasang pada mobil robot adalah 2 cm dan jarak antara transduser satu
+dengan yang lainnya 1,5 cm.Panjang loop yang dipasang pada mobil robot mempengaruhi
+jarak objek yang dapat dideteksi.
+sensor ultrasonic, Basic Stamp BS2SX, EEPROM, robot anti-bentur,.

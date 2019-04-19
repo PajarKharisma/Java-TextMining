@@ -1,0 +1,16 @@
+DETEKSI PENYAKIT DIABETES TYPE II DENGAN NAIVE BAYES
+BERBASIS PARTICLE SWARM OPTIMIZATION 
+Menurut International Diabetes Federation saat ini ada 246 juta penderita diabetes diseluruh dunia,
+dan jumlah ini diperkirakan akan meningkat menjadi 380 juta pada tahun 2025. Telah terbukti bawa
+80% dari kompikasi diabetes tipe 2 dapat dicegah atau ditunda pada awal identifikasi orang yang
+beresiko. Diabetes melitus tipe 2 adalah jenis yang paling umum  dari diabetes umumnya yaitu 9095%.
+Diabetes  tipe ini biasanya menyerang orang dewasa diatas 45 tahun, karena kelebihan berat
+badan. Metode yang digunakan dalam penelitian ini adalah naive bayes berbasis particle swarm
+optimization (PSO) untuk meningkatkan akurasi dalam deteksi penyakit diabetes. Data set yang akan
+digunakan sejumlah 598 pasien dengan parameter sebagai berikut: usia, jenis kelamin, kolesterol
+total, HDL, LDL, trigliserid, hemoglobin, lekosit, trombosit, tekanan darah, riwayat diabetes,
+olahraga, merokok, hamil. Hasil penelitian ini, algoritma naive bayes berbasis particle swarm
+optimization terbukti akurat dengan akurasi 98.16% dan memiliki nilai AUC 0.99 dikategorikan ke
+dalam excellent classification. Nilai ini membuktikan bahwa algoritma naive bayes berbasis particle
+swarm optimization dapat meningkatkan akurasi pada deteksi penyakit diabetes type II.
+

@@ -1,0 +1,20 @@
+PENGEMBANGAN ROBOT
+PENULIS KARAKTER AKSARA BALI
+BERBASIS NXT - G DENGAN LEGO MINDSTORM NXT
+Robot adalah salah satu teknologi yang diciptakan untuk membantu meringankan
+pekerjaan manusia yang tersusun dari beberapa rangkaian elektronik dan juga mekanik.
+Salah satu penerapan robot dalam pendidikan yang menarik untuk dikembangkan adalah
+robot menulis untuk membentuk sebuah karakter aksara bali. Aksara Bali merupakan
+jenis tulisan yang biasanya digunakan oleh masyarakat Bali dalam menuliskan ajaranajaran Agama, geguritan, sajak dan karya sastra berbahasa Bali lainnya. Saat ini minat
+siswa dan kalangan umum untuk belajar aksara Bali sangat rendah. Perlu adanya sebuah
+motivator atau pengembangan agar masayarakat Bali kembali tertarik untuk belajar
+aksara Bali.
+Perancangan perangkat lunak yang digunakan dalam penelitian ini adalah Use
+Case Diagram dan Activity diagram. Lingkungan implementasi perangkat lunak
+pengendali robot (Penyarikan Bot) ini berbasis Microsoft Visual C# 2010 dan
+perangkat keras yang dipergunakan yaitu Lego Mindstrom NXT.
+Beberapa testing telah dilakukan untuk menguji kelayakan system ini, antara lain :
+(1) Pengujian fungsional (black box testing), (2) pengujian konseptual (white box
+testing), (3) pengujian perangkat keras (hardware testing). Berdasarkan hal tersebut,
+robot sudah bisa melakukan penulisan Aksara Bali sesuai dengan yang direncanakan.
+Robot, Aksara Bali, Lego Mindstrom NXT

@@ -1,0 +1,12 @@
+Sistem Pakar Untuk Mendiagnosis Kerusakan Mobil Isuzu Panther
+Menggunakan Metode Backward Chaining Berbasis Android
+Perawatan berkala mobil Isuzu Panther yang sering tidak diperhatikan, membuat mobil tiba - tiba mengalami
+kerusakan. Kerusakan yang terjadi secara mendadak membuat para pengguna mobil panik dan tidak tahu
+apa yang harus dilakukan. Oleh karena itu dalam penelitian tugas akhir ini membuat sistem pakar dengan
+metode backward chaining untuk mendiagnosa kerusakan yang terjadi dan memberikan solusi berupa
+panduan untuk dapat membantu para pengguna mobil Panther mengatasi kerusakan secara sementara
+sebelum dibawa menuju bengkel resmi. Saat ini penggunaan ponsel berplatform Android sedang menjadi
+tren dikalangan pengguna gadget maka dalam penelitian ini aplikasi sistem pakar menggunakan metode
+backward chaining dibuat menggunakan Android sehingga dapat diakses oleh pengguna dengan ponselnya
+yang berplatform Android.
+Sistem pakar, mobil isuzu panther, Backward Chaining, Android

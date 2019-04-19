@@ -1,0 +1,13 @@
+Case Based Reasoning Untuk Diagnosis
+Penyakit Demam Berdarah Virus Dengue merupakan virus penyebab penyakit demam dengue (DD), demam berdarah
+dengue (DBD) dan sindrom syok dengue (SSD). Penyakit ini termasuk dalam status KLB di Rumah 
+Sakit Benyamin Guluh Kab. Kolaka. Masuknya penyakit ini dalam status KLB maka terdapat banyak
+kasus/pasien yang ditangani setiap tahunnya bahkan setiap bulannya. Gejala seorang pasien 
+terdiagnosis penyakit demam berdarah ini cenderung mirip. Case Based Reasoning (CBR) merupakan
+salah satu metode yang mampu melakukan penalaran atau memecahkan permasalahan berdasarkan 
+kasus yang telah ada sebagai solusi masalah baru. Sistem yang dibangun dalam penelitian ini adalah
+sistem CBR untuk melakukan diagnosis terhadap penyakit Demam Berdarah. Proses diagnosis yaitu
+memasukkan permasalahan baru dibandingkan dengan kasus lama lalu dihitung nilai similaritasnya. 
+Dalam penelitian ini metode Nearest neighbor digunakan untuk proses similarity. Pengujian
+menggunakan 54 kasus sebagai data uji secara acak dan 85 kasus digunakan sebagai basis kasus. Hasil 
+yg diperoleh yaitu nilai sensitifitas 98.14 % dan akurasi sistem 99.25 %. Case Based Reasoning, Demam Berdarah, Nearest Neighbor 

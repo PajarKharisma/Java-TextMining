@@ -1,0 +1,2 @@
+Aplikasi Sistem Neuro - Fuzzy untuk Pengenalan Kata
+neural network, neuro - fuzzy, pengenalan kata.

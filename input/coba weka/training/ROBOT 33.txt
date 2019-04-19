@@ -1,0 +1,31 @@
+SISTEM KENDALI LAMPU RUMAH MENGGUNAKAN SMARTPHONE
+ANDROID Pemanfaatan energi listrik dewasa ini kurang efektif
+khususnya dalam hal penerangan penggunaan lampu di
+dalam ruangan, dimana sering kali dijumpai keadaan
+energi listrik yang dipakai untuk menerangi ruangan
+terbuang secara percuma karena kelalaian pemakai
+yang lupa untuk memadamkan kembali lampu ruangan
+apabila sudah tidak diperlukan lagi. Maka pada
+penelitian ini di buat sebuah prototype Sistem Kendali
+Lampu Ruangan yang dapat dikendalikan melalui
+Smartphone Android dengan menggunakan media
+komunikasi Bluetooth HC-05, dan mikrokontroler
+Arduino Uno R3 serta sensor LDR. Tujuan penelelitian
+ini adalah supaya pemakaian energi listrik ini
+dimanfaatkan secara tepat dan efisien dengan adanya
+sistem timer dan sistem pemberitahuan jika kondisi
+lampu dalam kondisi hidup dengan melakukan
+beberapa pengaturan. Sistem dapat mengendalikan
+lampu ruangan pada jarak 9-17 meter dengan kondisi
+ruangan yang bersekat-sekat maupun rumah 2 lantai,
+dan jika dikendalikan dari luar rumah maka jarak
+jangkaunya mencapai 30-60 meter. Jarak jangkau
+pengendalian di pengaruhi oleh kualitas Bluetooth yang
+dimiliki smartphone. Pengujian dengan menggunakan
+smartphone Cross A88, Smartfren C2, dan Lenovo, dan
+hasilnya menunjukkan bahwa Bluetooth smartphone
+Smartfren C2 memiliki jangkauan yang paling jauh yaitu
+20 meter untuk dalam ruang tertutup, dan 62 meter dari
+raungan terbuka atau dari luar rumah.
+kendali lampu, bluetooth HC-05, arduino
+uno R3, LDR, smartphone android.

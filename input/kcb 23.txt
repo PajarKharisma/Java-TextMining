@@ -1,0 +1,37 @@
+SISTEM PAKAR PENENTUAN KESESUAIAN LAHAN
+PERTANIAN UNTUK PEMBUDIDAYAAN TANAMAN BUAH-
+BUAHAN Usaha pembudidayaan tanaman buah sering mengalami hambatan, salah
+satunya adalah dalam menentukan kesesuaian lahan pertanian untuk
+penanaman tanaman buah-buahan. Hal ini disebabkan kurangnya
+informasi tentang penentuan kesesuaian lahan pertanian untuk 
+pembudidayaan tanaman buah-buahan dan keterbatasan pengetahuan dan
+kemampuan petani. Selain itu pihak penyuluh pertanian  terkadang
+mengalami kesulitan dalam menghafal fakta kondisi lahan untuk
+penanaman jenis tanaman buah-buahan, sehingga perlu adanya media
+bantu berupa sistem yang dapat memberikan solusi kapan saja. Dengan
+demikian akan memudahkan petani dalam menentukan kesesuaian   lahan
+pertanian untuk budidaya tanaman buah-buahan. 
+Pada penelitian ini, akan dibangun sebuah perangkat lunak berbasis sistem
+pakar  yaitu mengenai penentuan kesesuaian lahan pertanian untuk
+pembudidayaan tanaman buah-buahan menggunakan metode penelusuran
+fakta forward chaining, sebuah metode yang akan mencari kesimpulan
+berdasarkan fakta-fakta yang ada dan kemudian diuji kebenaranya dalam
+bentuk hipotesis. Tahap pengembangan aplikasi diawali dengan tahap
+analisis sistem yaitu analisis data, deskripsi kebutuhan sistem dan rekayasa
+pengetahuan yang disajikan dalam bentuk tabel keputusan, tabel aturan dan
+pohon pelacakan, pembuatan Diagram Konteks, Diagram Alir Data, Entity
+Relationship Diagram, dan tabel perancangan sistem yang meliputi
+spesifikasi proses, perancangan mapping table dan perancangan menu
+antar muka. Setelah tahap perancangan selesai maka dilanjutkan pada
+tahap implementasi dan pengujian aplikasi. Aplikasi ini menggunakan
+software Microsoft Visual Basic 6.0 dengan menggunakan database
+Microsoft Access. 
+Dari penelitian yang dilakukan menghasilkan perangkat lunak sistem pakar
+yang berguna sebagai media konsultasi mengenai penentuan kesesuaian
+lahan pertanian untuk pembudidayaan tanaman buah-buahan disertai
+dengan jenis penyakit yang sering menyerang tanaman dan cara
+penanaman tanaman buah-buahan. Informasi yang dihasilkan berbasis pada kriteria lahan yang ada, sehingga keputusan yang dibuat oleh sistem 
+untuk jenis tanaman buah mengacu pada kriteria lahan tersebut dilengkapi
+dengan cara penanaman dan penyakit yang sering menyerang tanaman
+buah-buahan. Hasil uji coba menunjukan bahwa aplikasi layak dan dapat
+digunakan. Sistem Pakar, Pembudidayaan Tanaman Buah-Buahan. 

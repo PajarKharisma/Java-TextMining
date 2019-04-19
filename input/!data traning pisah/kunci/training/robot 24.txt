@@ -1,0 +1,1 @@
+Robot berkaki, Motor servo, Mikrokontroler PIC 16F84.

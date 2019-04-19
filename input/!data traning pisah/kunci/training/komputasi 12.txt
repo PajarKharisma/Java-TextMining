@@ -1,0 +1,1 @@
+Cluster, Server e - Learning, Stand Alone, Pemrosesan Paralel, MPI. 

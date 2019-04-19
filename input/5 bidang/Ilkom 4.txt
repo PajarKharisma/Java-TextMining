@@ -1,0 +1,18 @@
+Knowleage discovery atau menemukan pengetahuan dari client / customer perusahaan dapat
+kita dapatkan dari email yang pernah mereka kirim ke inbox email perusahaan. Informasi dari email box
+perusahaan dapat digunakan untuk email marketing. Teknik text mining sangat memungkinkan untuk
+mengekstrak teks email box. Namun, Text-Preprocessing pada document email sedikit berbeda dari
+dokumen berita, dimana dokument email memiliki kontak email pengirim, subjek, konten dan berkas
+(attacement). Selain itu, jumlah email dari satu orang pengirim bisa lebih dari satu dan saling berkaitan.
+Untuk mendapatkan informasi yang lengkap dari seorang pengirim maka semua email pengirim harus
+dijadikan satu dokumen dan kemudian diproses dengan teknik text mining. Pada paper ini dilakukan
+analisis text preprocessing pada email box berbahasa Indonesia untuk mendapatkan informasi yang
+berguna berdasarkan isi konten dari semua email yang pernah dikirm ke perusahaan kita. Tujuan dari
+panelitian ini adalah menemukan teknik text preprocessing pada email box berbahasa Indonesia dan
+sebagai dasar dari pengembangan knowleage discovery pada email box sebagai penunjang email
+marketing. Proses text preprocessing yang akan diajukan yaitu pertama semua email dari pengirim yang
+sama digabungkan menjadi satu dokumen kemudian dilakukan parsing / tokenizing, stopword removal
+dan stemming. Algoritma stemming yang digunakan yaitu porter stemming berbahasa Indonesia. Dari
+hasil analisis diketahui pengabungan semua email dari pengirim yang sama sebelum dilakukan text
+mining akan membuat informasi yang didapat dari seorang pengirim lebih banyak dan tidak parsial
+dalam banyak dokumen email.

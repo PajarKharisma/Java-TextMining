@@ -1,0 +1,7 @@
+Salah satu problem yang dihadapi dalam kategorisasi teks adalah dimensi data yang besar 
+yang menyebabkan terjadinya inefisiensi dalam aspek waktu komputasi. Untuk mengatasi hal 
+tersebut, salah satu hal yang bisa dilakukan adalah seleksi fitur pada tahap pre- processing. 
+Pada penelitian ini diusulkan seleksi fitur dua tahap dengan Information Gain dan Artificial 
+Bee Colony. Kategorisasi teks dilakukan dengan Support Vector Machine. Hasil uji coba pada 
+Dataset Reuter21578 menunjukkan adanya peningkatan Precision sebesar rata-rata 15% dan Recall 
+sebesar rata-rata 13% dibandingkan metode pembanding yaitu PSO-SVM.

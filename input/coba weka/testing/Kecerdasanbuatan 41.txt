@@ -1,0 +1,22 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT PADA KUCING
+BERBASIS WEB Kucing merupakan binatang yang banyak dipelihara oleh sebagian masyarakat. Penyakit pada binatang kucing,
+seringkali membuat pemiliknya merasa bingung karena kurangnya pengetahuan pemilik tentang penyakit
+binatang tersebut. Permasalahan yang sering terjadi antara lain ketidaktahuan masyarakat tentang informasi
+dalam diagnosa dan penanganan penyakit pada binatang kucing, serta terkadang sulit untuk menemui seorang
+ahli/pakar dalam keadaan mendesak, dan mahalnya biaya untuk seorang ahli/pakar juga menjadi salah satu latar
+belakang malasnya mereka membawa kucing peliharaan mereka ke pakar/dokter hewan.
+Karena alasan tersebut, maka pada penelitian kali ini dibangun sebuah sistem pakar yang mampu mendiagnosa
+penyakit pada kucing. Sistem pakar ini memiliki knowledge base 16 penyakit kucing dan 83 gejala. Metode yang
+digunakan dalam pengembangan sistem pakar ini adalah Waterfall. Motor inferensi yang digunakan adalah
+forward chaining. Untuk pemodelannya menggunakan UML. Sistem pakar ini memberikan output diagnosa dan
+penanganan pertolongan pertama penyakit berdasarkan hasil input gejalayang dilakukan oleh user. Sistem pakar
+ini dibangun dengan bahasa pemrograman PHP, framework CodeIgniter dan MySQL sebagai database.
+Berdasarkan permasalahan, dapat disimpulkan bahwa sistem pakar ini dapat berguna untuk membantu
+masyarakatdalam mengetahui pengetahuan mengenai penyakit kucing, dan masyarakat dapat melakukan
+konsultasi melalui sistem pakar untuk mengetahui penanganan pertolongan pertama pada kucing yang sedang
+sakit. Sistem pakar juga berguna sebagai alat untuk menyimpan pengetahuan seorang pakar khususnya pakar
+penyakit kucing.
+Dengan adanya sistem pakar ini diharapkan masyarakat dapat memperoleh informasi mengenai penyakit kucing
+beserta solusinya dengan mudah, cepat, dan tepat.
+Sistem Pakar, Knowledge Base, Penyakit Kucing, forward chaining, waterfall, PHP, MySQL,
+framework CodeIgniter, UML.

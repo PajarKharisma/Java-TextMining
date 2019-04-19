@@ -1,0 +1,27 @@
+Pengaturan Formasi Menggunakan Pendekatan
+Leader - Follower pada Sistem Multi Robot
+Sistem multi robot dapat didefinisikan sebagai
+kumpulan robot yang berkoordinasi melalui sistem
+komunikasi untuk melakukan tugas kooperatif tertentu.
+Penggunaan multi robot secara terkoordinasi memungkinkan
+pencapaian tugas yang lebih kompleks. Efisiensi penyelesaian
+tugas pada sistem multi robot dapat ditingkatkan dengan
+menggunakan formasi. Pengaturan formasi pada sistem multi
+robot dapat diselesaikan dengan menggunakan pendekatan
+leader - follower. Leader sebagai pusat koordinasi sedangkan
+follower mengikuti leader dengan jarak dan orientasi relatif
+yang telah ditentukan. Penerapan formasi pada lingkungan
+tidak terstruktur terdapat rintangan yang memungkinkan
+formasi tidak terbentuk sesuai dengan yang diinginkan.
+Pendekatan leader - follower memiliki kelemahan jika leader
+menghadapi rintangan maka keseluruhan robot dapat
+terganggu. Berdasarkan kelemahan tersebut, leader harus
+dapat menghindari rintangan. Penelitian ini menggunakan
+kontroler tracking dan kontroler menghindari rintangan
+dengan algoritma fuzzy. Penerapan kontroler tracking pada
+sistem multi robot bertujuan membentuk formasi. Sistem
+dengan kontroler yang diusulkan tersebut mampu membentuk
+formasi sesuai spesifikasi yang diberikan sekaligus
+menghindari rintangan.
+Pengaturan formasi, Leader - follower, Mobile
+robot, Logika fuzzy

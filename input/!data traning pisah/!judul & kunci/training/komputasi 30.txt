@@ -1,0 +1,3 @@
+Klasifikasi Data Forum dengan menggunakan
+Metode Naïve Bayes Classifier Naïve Bayes Classifier, Forum Engine, Confusion
+Matrix

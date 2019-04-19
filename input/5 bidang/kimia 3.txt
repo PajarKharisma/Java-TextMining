@@ -1,0 +1,12 @@
+Paper ini membahas penentuan konsentrasi Cu, Pb, Cd, dan Zn dalam air secara simultan dengan teknik
+stripping potensiometri. Adapun sistem elektroda yang dipakai adalah sistem tiga elektoda konvensional dan
+kombinasi. Gangguan karena pembentukan senyawa intermetalik antara Cu dan Zn dapat diatasi dengan penambahan
+ion gallium. Penentuan keempat logam dapat ditentukan dengan melakukan dua kali siklus stripping, dimana dalam
+siklus yang pertama Cu ditentukan terlebih dahulu, lalu pada larutan yang sama ditambahkan 150 mg/L ion gallium,
+dan dalam siklus yang ke dua ditentukan tiga logam lainnya. Dengan cara ini keempat logam dapat ditentukan
+dengan ketepatan dan ketelitian yang memadai. Kondisi penentuan keempat logam dengan elektroda konvensional
+adalah: HCl 0,01 M, potensial deposisi -1200 mV, konsentrasi oksidan 10 mg/L Hg(II), waktu deposisi 30 detik,
+sedangkan dengan elektroda kombinasi kondisi penentuan adalah: HCl 0,01 M, oksidan 10 mg/L Hg(II), potensial
+deposisi untuk Cu -700 mV dan ketiga logam lainnya -1300 mV dengan waktu deposisi 10 detik. Pemakaian
+elektoda kombinasi memberikan limit deteksi yang lebih rendah dan rentang linier yang lebih lebar daripada yang
+diperoleh dengan system elektroda konvensional.

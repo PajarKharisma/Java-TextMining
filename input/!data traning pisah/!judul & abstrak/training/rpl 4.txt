@@ -1,0 +1,11 @@
+SISTEM PEMESANAN TIKET PADA JOGLOSEMAR EXECUTIVE SHUTTLE BUS SEMARANG Pengelolaan data pada Joglosemar Executive Shuttle Bus Semarang mengalami beberapa permasalahan
+seperti penginputan data yang tidak efektif dan efisien, sulit dalam pencarian data sesuai informasi yang
+diperlukan, sulit dalam memberikan informasi dengan cepat kepada calon pembeli tiket dan penyimpanan
+laporan data-data pemesanan tiket yang tidak terorganisir dengan baik. Permasalahan itu disebabkan
+karena pengelolaan data pemesanan tiket masih bersifat manual atau belum terkomputerisasi. Untuk 
+menangani permasalahan tersebut maka dibuat sistem pemesanan tiket berbasis desktop dengan 
+menggunakan metode pengembangan sistem sekuensial linier. Perangkat lunak yang digunakan untuk
+pengembangan program antarmuka adalah Microsoft Visual Basic 6.0 dan perangkat lunak yang
+digunakan untuk media penyimpanan data adalah Microsoft Access 2007. Berdasarkan hasil pengujian
+didapatkan bahwa sistem pemesanan tiket berjalan dengan baik sehingga dengan adanya sistem
+pemesanan tiket ini dapat memberi kemudahan dalam pengelolaan data pemesanan tiket. 

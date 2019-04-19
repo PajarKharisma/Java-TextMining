@@ -1,0 +1,15 @@
+IMPLEMENTASI SQUID SERVER PADA PROXY CACHE VIDEO
+Perkembangan teknologi web tidak diimbangi dengan ketersediaan bandwidth yang memadai,
+atau ketersediaan bandwidth masih membutuhkan biaya yang cukup besar. Penggunaan cache
+dimaksudkan untuk meningkatkan kecepatan akses tanpa harus menambah bandwidth. Squid
+proxy merupakan salah satu software yang bisa digunakan untuk membuat cache. Squid proxy
+umumnya hanya mampu menyimpan halaman web yang berupa teks dan gambar, disisi lain
+pengguna internet lebih memilih mengakses video yang beredar di internet untuk mendapatkan
+informasiyang mereka butuhkan. Videocache pada FreeBSD, mampu menyimpan file berbasis
+video. Efisiensi waktu dapat diperoleh dengan membandingkan waktu yang dibutuhkan untuk
+download video sebelum ada cache pada sistem dan waktu rata-rata yang dibutuhkan dari
+beberapa kali download setelah file video yang sama tersimpan pada hardisk lokal server.
+Sistem videocache pada penelitian ini mampu menghemat waktu sebesar 51,08 detik dari waktu
+yang dibutuhkan sebelum adanya cache, jadi server squid sebagai cache video berhasil
+diwujudkan sesuai dengan tujuan penelitian.
+ squid, proxy server, cache video, freebsd

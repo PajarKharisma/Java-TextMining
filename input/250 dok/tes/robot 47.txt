@@ -1,0 +1,12 @@
+DETEKSI OBJEK BERGERAK MENGGUNAKAN CMUCAM
+BERBASIS MIKROKONTROLER ATMEGA 8535
+Setiap sudut pada suatu kantor atau gedung sering dipasang kamera untuk memantau situasi atau
+keadaan kantor. Biasanya kamera pemantau ini dikontrol dari jarak jauh dengan menggunakan suatu komputer.
+Jika diinginkan untuk mengubah arah dari posisi kamera supaya bisa bergerak dikontrol dari komputer tersebut.
+Dengan berkembangnya teknologi mikrokontroler yang dapat diaplikasikan pada setiap jenis peralatan
+elektronik, dapat digunakan untuk membaca data sensor kamera. Pergerakan objek dapat diikuti oleh kamera itu
+sendiri sehingga pemantauan dapat dilakukan secara otomatis tanpa campur tangan manusia atau operator.
+Penelitian ini bertujuan untuk mengetahui kemampuan CMUCam sebagai pendeteksi objek bergerak yang
+dirangkaikan dengan modul mikrokontroler ATMega 8535 sebagai unit pengolah pusatnya. Menggunakan
+algoritma meanshift, pesat frame yang didukung oleh sistem ini adalah 9,5 frame per detik.
+deteksi objek, CMUCam, meanshift, frame per detik

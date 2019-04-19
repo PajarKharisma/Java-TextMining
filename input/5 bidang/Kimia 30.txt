@@ -1,0 +1,9 @@
+Telah dilakukan penelitian yang bertujuan untuk mengamplifikasi dan mengidentifikasi mutasi pada fragmen
+0,5 kb gen rpoB pada isolat 134 Mycobacterium tuberculosis multidrug resistant (MDR). Amplifikasi dilakukan
+dengan menggunakan metode nested polymerase chain reaction (nested PCR) sedangkan sekuensing dilakukan satu
+arah menggunakan forward inner primer. Sekuen nukleotida yang diperoleh ditranslasi menjadi asam amino dengan
+menggunakan program MEGA4.
+Fragmen 0,5 kb gen rpob M.tuberculosis telah berhasil diamplifikasi dengan metode nested PCR dan
+disekuensing. Hasil alignment menggunakan program MEGA4 menunjukkan bahwa telah terjadi missense mutation
+pada gen rpoB isolat 134. Perubahan dua asam amino yang terjadi pada protein rpoB adalah asam glutamat menjadi
+asam aspartat pada kodon 418 serta glutamin menjadi arginin pada kodon 510.

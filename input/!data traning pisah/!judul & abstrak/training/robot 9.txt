@@ -1,0 +1,9 @@
+PENERAPAN ATURAN IF-THEN UNTUK MENANGANI KETIDAKPASTIAN PERUBAHAN LINGKUNGAN PADA VEHICLE ROBOT LEGO Perkembangan teknologi di bidang robotika telah menjadi perhatian yang cukup serius dalam beberapa tahun
+terakhir. Salah satu jenis robot dengan kemampuan istimewa yaitu robot mobil. Masalah utama robot  ketika
+beroperasi adalah  bagaimana robot dapat bergerak pada lintasan yang sesuai dan dengan cepat sampai pada
+tujuan. Pada tulisan ini dicoba mendesain algoritma If-Then rule yang di implementasikan pada Automated
+Guided Vehicle (AGV), dengan input 3 sensor ultrasonik dan 2 output yaitu arah sudut dan kecepatan robot,
+kemudian dilihat kemampuan robot dalam bergerak pada lintasan yang berbelok. Dari hasil yang diperoleh
+robot mampu bergerak melintas pada lintasan lurus dan belok, tetapi robot tidak mampu berada pada bagian
+tengah lintasan, hal ini disebabkan karena algoritma If-Then yang digunakan hanya mendeteksi input sensor
+yang masih sedikit dan respon robot yang lambat. 

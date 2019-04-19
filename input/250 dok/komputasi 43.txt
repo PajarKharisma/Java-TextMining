@@ -1,0 +1,14 @@
+PROTOTIPE SISTEM PENGENALAN WAJAH MENGGUNAKAN
+ALGORITMA EIGENFACE DAN METODE CBIR
+Sistem pengenalan wajah bertujuan untuk mengidentifikasi wajah seseorang dengan cara
+membandingkan wajah tersebut dengan database wajah yang sudah ada. Pengenalan wajah
+dilatar belakangi oleh adanya sistem identifikasi atau verifikasi yang lebih akurat dibandingkan dengan
+password yang memungkinkan orang lain dapat masuk ke dalam sistem. Dalam salah satu penelitian,
+untuk proses pengenalan wajah dengan ekstraksi fitur wajah menggunakan filter gabor dan identifikasi
+pengenalan wajah menggunakan Bidirectional Associative Memory (BAM) dan Back-Propagation Neural
+Network (BPNN). Diperoleh tingkat akurasi pengenalan wajah hanya sekitar 84,50%. Peneliti yang lain
+menggunakan metode Principal Component Analysis (PCA). Nilai akurasi yang diperoleh sekitar 94%
+dengan kriteria wajah close up. Dalam penelitian ini untuk pengenalan wajah menggunakan gabungan
+algoritma eigenface dan metode CBIR. Dengan menggunakan gabungan metode ini menambah tingkat
+akurasi pengenalan wajahnya, yaitu rata - rata sekitar 96%.
+Pengenalan Wajah, CBIR, Citra Wajah, Citra Grayscale, Algoritma Eigenface.

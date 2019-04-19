@@ -1,0 +1,3 @@
+PERANCANGAN PENGENDALI ROBOT BERGERAK BERBASIS PERILAKU
+MENGGUNAKAN PARTICLE SWARM FUZZY CONTROLLER particle swarm optimization, pengendali logika fuzzy, robot berbasis perilaku, robot
+bergerak

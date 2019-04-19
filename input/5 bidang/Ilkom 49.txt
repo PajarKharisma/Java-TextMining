@@ -1,0 +1,18 @@
+PARALLEL PROCESSING
+UNTUK MENINGKATKAN KINERJA SERVER E-LEARNING
+DENGAN MENGGUNAKAN MESSAGE PASSING INTERFACE (MPI)
+STUDI KASUS SMA NEGERI 1 PEKANBARU Seiring dengan berkembangnya kemajuan ilmu pengetahuan, jumlah permintaan
+sumber daya komputer juga semakin meningkat. Beberapa bidang yang
+membutuhkan komputasi tingkat tinggi tersebut adalah simulasi numerik,
+masalah-masalah ilmiah, matematika dan teknik. Dengan demikian masalah
+komputasi bukan menjadi masalah dengan hadirnya cluster ini yang menawarkan
+layanan untuk melakukan proses komputasi yang melebihi kecepatan komputer
+server yang stand alone. Cluster adalah sekumpulan komputer stand alone yang
+terhubung satu sama lain di dalam sebuah jaringan komputer yang digunakan
+untuk melakukan proses komputasi tertentu secara paralel. Cluster pada
+dasarnya menggunakan jaringan, tapi yang menjadi ciri khususnya adalah
+bagaimana konfigurasi ini digunakan untuk menyelesaikan masalah. Masalah
+disini adalah bagaimana meningkatkan atau menyeimbangkan beban kerja
+server e-learning (web server) dengan mekanisme Message Passing Interface
+(MPI).
+Cluster, Server e-Learning, Stand Alone, Pemrosesan Paralel, MPI.

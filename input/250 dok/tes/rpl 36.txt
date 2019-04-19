@@ -1,0 +1,21 @@
+﻿Rancang Bangun Sistem Informasi Klinik dengan Layanan Online Report
+Menggunakan Pascal IDE dan MYSQL pada Klinik Mitra Anda
+Klinik kesehatan sebagai salah satu fasilitas pelayanan kesehatan masyarakat membutuhkan
+sistem informasi yang cepat dan akurat. Pengelolaan data secara manual memiliki beberapa
+kelemahan, di antaranya membutuhkan waktu yang lama dan terkadang tidak akurat. Penelitian ini
+membahas tentang pembuatan sistem informasi klinik yang diharapkan mampu membantu
+pengusaha klinik dalam menjalankan usaha klinik. Tujuan dari penelitian ini antara lain membangun
+sistem informasi yang dapat mengelola data klinik, menyediakan fasilitas pemantauan sistem
+informasi dalam bentuk web, dan laporan keuangan dan perkembangan usaha klinik. Sistem
+infomasi ini dibuat berdasarkan kebutuhan dari Klinik Mitra Anda.
+Sistem informasi ini dibangun dengan metode “Modified Waterfall” dengan menggunakan IDE Pascal
+Embarcadero Delphi XE3, MySQL, dan komponen tambahan uniGui. Delphi XE3 digunakan untuk
+membuat dan mendesain sistem informasi berbasis desktop dengan bahasa pascal, MySQL digunakan
+sebagai DBMS, dan uniGUI digunakan untuk membuat dan mendesain online report.
+Implementasi yang telah dilakukan menghasilkan sistem informasi yang mampu mengelola data
+klinik, mengelola keuangan klinik, menangani kegiatan pasien klinik, menghasilkan laporan - laporan,
+menangani pembayaran dengan asuransi, rekam medik berdasarkan Permenkes No :
+269/ MENKES / PER / III /2008 dan menghasilkan fasilitas online report. Dari hasil pengujian diketahui
+bahwa sistem informasi masih memiliki kekurangan. Namun kekurangan tersebut telah teratasi
+dengan melakukan perbaikan sistem informasi pada tahap pemeliharaan.
+Sistem Informasi Klinik, IDE Pascal, Modified Waterfall

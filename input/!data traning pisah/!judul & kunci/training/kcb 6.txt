@@ -1,0 +1,2 @@
+Perancangan Sistem Pendukung Pengambilan Keputusan untuk Penerimaan 
+Beasiswa dengan Metode SAW  (Simple Additive Weighting)  SAW, beasiswa, nilai bobot  

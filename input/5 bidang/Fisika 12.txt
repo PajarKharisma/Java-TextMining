@@ -1,0 +1,15 @@
+Penelitian ini bertujuan untuk mengembangkan Web-blogs dengan metode R&D
+prosedur 4D (define, design, develop, disseminate) yang dapat mendukung Web Enhanced Course
+(WEC) agar menunjang pembelajaran Fisika Dasar 1 materi Gerak Dua Dimensi pada
+mahasiswa Program Studi Pendidikan Fisika UIN Raden Intan Lampung, dan mengetahui
+kriteria penilaian melalui validasi produk dari ahli desain instruksional, ahli media
+pembelajaran, dan ahli web designer. Serta mengetahui tanggapan mahasiswa terkait
+kemenarikan produk dan kemudahan penggunaan dari produk yang dikembangkan.
+Spesifikasi pada WEC yang dikembangkan menekankan pada web yang memungkinkan
+terjadinya komunikasi interaktif antara dosen dan mahasiswa, baik secara individu maupun
+kelompok, serta dapat menjadi alternatif belajar secara online. Setelah divalidasi oleh ahli
+desain instruksional, ahli media pembelajaran, dan ahli website designer, didapatkan nilai
+dengan kriteria “sangat baik” dan memperoleh nilai dengan kriteria “sangat baik” setelah
+dilakukan uji coba terbatas (N=15) dan uji coba diperluas (N=90) dalam hal kemenarikan
+desain dan kemudahan penggunaan produk awal dan produk akhir dari WEC yang
+dikembangkan.

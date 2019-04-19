@@ -1,0 +1,15 @@
+Autonomous Underwater Vehicle (AUV) merupakan kendaraan bawah 
+air yang dapat bergerak tanpa kendali manusia dan bermanuver 
+sesuai dengan perintah yang diberikan. AUV memiliki kemampuan 
+manuver yang dinamis untuk melacak lintasan. Kemampuan AUV mencakup 
+untuk beroperasi di daerah yang memiliki dinamika nonlinear dan belum 
+dapat diprediksi. Sehingga dibutuhkan model kontrol berbasis nonlinear 
+untuk meningkatkan kemampuan dan misi AUV. Gerak lateral merupakan 
+salah satu bentuk pergerakan AUV di dalam air. AUV dijaga agar tetap 
+stabil pada lintasan dan kedalaman yang dikehendaki. Pengaturan kestabilan 
+AUV di dalam air pada gerak lateral menggunakan metode Sliding Mode Control 
+(SMC) diharapkan agar respon yang diperoleh menyerupai input referensi sistem 
+linear orde satu dan tetap stabil pada koordinat lintasan yang telah ditentukan. 
+Hasil simulasi menunjukkan bahwa SMC dapat mempertahankan kestabilan AUV tetap pada 
+lintasan yang telah ditentukan pada 0 radian dengan osilasi maksimal pada lintasan
+ persegi, segitiga dan jajaran genjang sebesar 0,19 radian atau sekitar 10,89o.

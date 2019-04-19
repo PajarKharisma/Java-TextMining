@@ -1,0 +1,2 @@
+PENCARIAN RUTE TERPENDEK TEMPAT WISATA DI BALI DENGAN
+MENGGUNAKAN ALGORITMA DIJKSTRA algoritma dijkstra,rute terpendek, sistem informasi geografis

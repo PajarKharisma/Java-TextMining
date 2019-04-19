@@ -1,0 +1,27 @@
+Perancangan Dan Analisis Keamanan Jaringan
+Nirkabel Menggunakan Wireless Intrusion
+Detection System Abstrak - Sistem keamanan jaringan menjadi hal
+yang sangat penting dalam menjaga sebuah jaringan,
+serangan yang bisa mengganggu bahkan merusak sistem
+koneksi antar perangkat yang terhubung akan sangat
+merugikan. Untuk mendapatkan keamanan dalam sebuah
+jaringan terkadang kita harus merasakan ketidak
+nyamanan dalam penggunaannya, hal inilah yang
+seringkali menjadi pertimbangan dalam penerapan
+sebuah sistem keamanan jaringan.
+Metode WIDS (Wireless Intrusion Detection
+System) mampu mendeteksi serangan DOS (Denial of
+Service). Melakukan penerapan pada sistem operasi Linux
+menggunakan Snort sebagai mesin sensor dan Iptables
+sebagai penanganan serangan dapat menjadi solusi
+keamanan jaringan nirkabel dari serangan yang dapat
+mengancam.
+Konfigurasi sistem dibangun dalam jaringan WAN
+(Wide Area Network) yang dirancang untuk
+merepresentasikan pengujian. Hasil analisis dari setiap
+pengujian yang dilakukan menyimpulkan bahwa setiap
+tindakan yang dilakukan oleh penyerang terhadap
+jaringan dapat diketahui, sehingga dapat dilakukan
+penanganan sebelum terjadi kerusakan lebih luas.
+ Denial of Service, Iptables, Keamanan
+Jaringan, Linux, Snort, Wireless Intrusion Detection System

@@ -1,0 +1,13 @@
+PREDIKSI KEPUTUSAN MENGGUNAKAN METODE KLASIFIKASI
+NAÏVE BAYES, ONE-R, DAN DECISION TREE Proses mencari pola atau informasi yang berguna pada suatu kumpulan data dengan menggunakan
+metode tertentu, saat ini telah menjadi topik yang menarik. Salah satu manfaatnya, yaitu dapat menunjang
+pengambilan keputusan dalam suatu organisasi baik itu organisasi profit maupun non profit. Pada
+makalah ini akan dilakukan pengujian terhadap sekumpulan data yang diambil dari kejadian nyata untuk
+diolah, guna mendapatkan informasi atau pola yang dapat berguna untuk penentuan pengambilan sebuah
+keputusan. Pengujian pada makalah ini merupakan prediksi terhadap pengguna jasa sebuah operator
+seluler akan kehadirannya pada suatu acara berdasarkanbeberapa indikator, cuaca, jarak relatif terhadap
+lokasi acara, serta apakah pengguna jasa tersebut merupakan termasuk pelanggan pasca bayar atau tidak.
+Pengujian dilakukan dengan menggunakan tiga metode klasifikasi, yakni naïve bayes, decision tree,  dan
+oneR.  Hasil dari percobaan ini bisa menunjukkan prediksi dari setiap percobaan dengan tingkat akurasi
+prediksi yang berbeda-beda disetiap metode yang digunakan.
+ penambangan data, klasifikasi, naïve bayes, oneR, pohon keputusan.

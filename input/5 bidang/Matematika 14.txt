@@ -1,0 +1,20 @@
+Tujuan penelitian ini untuk mengetahui pengaruh model pembelajaran Teams Games Tournaments (TGT) 
+dan Numbered Head Together (NHT) terhadap prestasi matematika yang meninjau terhadap kemampuan 
+penalaran matematis siswa. Metode penelitian yang diterapkan adalah penelitian eksperimen. 
+Jenis penelitian yang digunakan adalah penelitian quasi experiment. Desain penelitian dengan 
+menggunakan rancangan desain faktorial 3 × 3. Pengambilan sampel penelitian menggunakan teknik 
+cluster random sampling. Pengumpulan data yang digunakan adalah menggunakan dua macam yaitu 
+dokumentasi dan tes. Instrumen yang digunakan untuk pengambilan data terdiri atas tes kemampuan 
+penalaran matematis dan tes mengukur kemampuan prestasi belajar siswa. Tes kemampuan penalaran 
+matematis berupa soal tes yang berbentuk pilihan ganda, sedangkan tes prestasi belajar 
+berbentuk soal tes objektif yang berisi materi barisan dan deret sesuai indikator-indikator 
+yang diukur. Uji hipotesis yang digunakan merupakan uji parametris dengan teknik analisis data 
+menggunakan uji Anova. Hasil penelitian untuk uji prasyarat dilakukan berdasarkan uji normalitas 
+yang dapat diketahui dengan menggunakan uji Liliefors dan uji homogenitas dapat diketahui dengan 
+mengggunakan uji Barlett, diperoleh bahwa data hasil tes dari kedua kelompok tersebut adalah normal
+dan homogen, sehingga dapat dilanjutkan untuk uji parametris dengan menggunakan uji anava dua jalan 
+dengan sel tak sama. Adapun hasil tinjauan penelitian ini, yaitu terdapat pengaruh model pembelajaran 
+TGT dan NHT terhadap kemampuan penalaran matematis siswa; prestasi matematika dengan model TGT lebih 
+baik dibandingkan prestasi matematika dengan model pembelajaran NHT dan pembelajaran Konvensional; 
+dan siswa dengan kemampuan penalaran matematis tinggi memiliki prestasi belajar yang lebih baik 
+dibandingkan dengan kemampuan penalaran matematis sedang dan rendah.

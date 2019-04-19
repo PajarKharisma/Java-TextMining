@@ -1,0 +1,12 @@
+KLASIFIKASI DATA MAHASISWA MENGGUNAKAN METODE KMEANS
+UNTUK MENUNJANG PEMILIHAN STRATEGI
+PEMASARANAnalisis cluster merupakan teknik data mining yang bertujuan untuk mengidentifikasi suatu kelompok dari objek yang
+memiliki karakteristik yang sama. Jumlah kelompok yang dapat diidentifikasi tergantung pada sejumlah data dan jenis dari
+objeknya. K-Means adalah salah satu metode clustering data yang dibagi kedalam bentuk satu atau lebih cluster/kelompok
+yang memiliki karakteristik sama. Clustering data mahasiswa menggunakan metode K-Means, terdiri dari nilai rerata ujian
+nasional (UN) dan indeks prestasi kumulatif (IPK) mahasiswa. Penelitian ini menggunakan data mahasiswa angkatan
+2014/2015. Kemudian diperoleh kesimpulan bahwa kelompok mahasiswa dengan nilai rerata UN yang rendah memiliki
+pengaruh terhadap prestasi akademik mahasiswa yang rendah pada jenjang diploma-3( D-3)  dan strata-1 (S-1). Jika
+mahasiswa memiliki nilai UN yang tinggi maka prestasi akademik mahasiswa juga tinggi pada semua jenjang. Dari hasil
+pengelompakan berdasarkan daerah asal sekolah IPK rata-rata yang tertinggi berasal dari propinsi Daerah Istimewa
+Yogyakarta (DIY) dan Jawa Tengah (Jateng).

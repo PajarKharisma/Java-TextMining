@@ -1,0 +1,14 @@
+LAPTOP-BASED ROBOT SEBAGAI PRAMUSAJI RESTORAN DENGAN
+MENERAPKAN METODE PENGOLAHAN CITRA DAN KONTROL FUZZY Penelitian yang bertujuan untuk menghasilkan sebuah purwarupa robot pramusaji dengan metode pengolahan citra dan
+kontrol fuzzy telah diajukan melalui penelitian ini. Robot berbasis visual akan menggantikan penggunaan sensor infra
+merah melalui penggunaan sebuah kamera untuk mengikuti alur garis tertentu. Karena sifat pengolahan citra yang
+bersifat kompleks, pemrosesan citra akan menggunakan laptop (laptop-based robot). Dari laptop, sinyal akan dikirim ke
+mikrokontroler, dan selanjutnya menggerakkan robot. Penelitian ini merupakan kelanjutan dari penelitian sebelumnya,
+yaitu dengan menambahkan kontrol fuzzy untuk navigasi robot. Metode penelitian yang digunakan pada robot visi ini
+adalah penentuan nilai tengah (centroid) pada lintasan yang tertangkap kamera. Selanjutnya, dari nilai centroid ini,
+sistem kontrol fuzzy dapat dirancang. Metode fuzzy yang digunakan adalah Mamdani, yang memiliki dua input (error
+dan kecepatan error), dan dua buah output (nilai PWM untuk motor kanan dan motor kiri). Berdasarkan hasil
+percobaan, diperoleh hasil bahwa proses pengolahan citra sangat menentukan bagaimana kontroler dapat bekerja.
+Sesuai dengan kondisi percobaan (tingkat intensitas cahaya, tekstur lantai, spesifikasi robot, dan sebagainya), robot
+dapat mengikuti garis dengan baik, walaupun isu kecepatan masih perlu ditingkatkan
+laptop-based robot, robot pramusaji restoran, line follower, kontrol fuzzy

@@ -1,0 +1,19 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT TANAMAN JAMBU CITRA
+MENGGUNAKAN METODE FORWARD CHAINING Sektor pertanian di Indonesia merupakan penyangga perekonomian sehingga sektor ini mampu
+memberikan kontribusi besar bagi perkembangan perekonomian nasional. Meskipun negara
+Indonesia termasuk negara yang berbasiskan pertanian (agraris), untuk mencukupi kebutuhan
+dalam negeri masih harus melakukan impor beberapa komoditas-komoditas pertaniannya. Buah
+jambu citra sangat populer dan mulai menjadi ciri khas buah-buahan dari Kabupaten Demak.
+Pada periode tahun 2006 - 2009, usaha tani jambu air di Kabupaten Demak ini telah mengalami
+perubahan – perubahan dari tahun ke tahun. Pengembangan lahan jambu air yang semakin
+meningkat akan tetapi hasil panen yang tidak meningkat signifikan. Sehingga diperlukan
+pengelolaan pertanian yang terpadu. Salah satu upaya meningkatkan hasil panen adalah Sebuah
+sistem yang mampu memberikan kemudahan konsultasi kepada para petani jambu citra dalam
+memelihara dan mendeteksi dan mengatasi segala penyakit pada jambu citra sehingga
+diharapkapkan hasil panen yang terus meningkat. Hama dan penyakit yang di identifikasi pada
+sistem pakar ini di batasi pada akar, daun, batang, buah yang penulis peroleh dari hasil survey di
+Dinas Pertanian dan Tanaman Pangan Holtikultura kabupaten Demak. Sedangkan Metode yang
+digunakan dalam mesin inferensi adalah penelusuran ke depan atau forward chaining. Sistem
+dibuat berbasis web dimana setiap petani dapat mengaksesnya dan untuk proses penambahan
+data dan informasi dapat dilakukan oleh pakar yang diberikan hak akses oleh sistem ini.
+ pakar, jambu citra, forward chaining, web

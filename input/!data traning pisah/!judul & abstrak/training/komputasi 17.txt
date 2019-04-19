@@ -1,0 +1,18 @@
+PENERAPAN METODE DATA MINING MARKET BASKET
+ANALYSIS TERHADAP DATA PENJUALAN PRODUK BUKU 
+DENGAN MENGGUNAKAN ALGORITMA APRIORI DAN
+FREQUENT PATTERN GROWTH (FP-GROWTH) :  
+STUDI KASUS PERCETAKAN PT. GRAMEDIA Data mining merupakan proses analisa data untuk menemukan suatu pola dari kumpulan data
+tersebut. Data mining mampu menganalisa data yang besar menjadi informasi berupa pola yang
+mempunyai arti bagi pendukung keputusan. Salah satu teknik data mining yang dapat digunakan
+adalah association data mining atau yang biasa disebut dengan istilah market basket analysis.
+Market basket didefinisikan sebagai suatu itemset yang dibeli secara bersamaan oleh pelanggan
+dalam suatu transaksi. Market basket analysis adalah suatu alat yang ampuh untuk pelaksanaan
+strategi cross-selling. Metode ini dimulai dengan mencari sejumlah frequent itemset dan
+dilanjutkan dengan pembentukan aturan-aturan asosiasi (association rules). Algoritma Apriori
+dan frequent pattern growth (FP-growth) adalah dua algoritma yang sangat populer untuk
+menemukan sejumlah frequent itemset dari data-data transaksi yang tersimpan dalam basis data.
+Dalam penelitian ini algoritma Apriori dan frequent pattern growth (FP-growth) digunakan untuk
+membantu menemukan sejumlah aturan asosiasi dari basis data transaksi penjualan produk buku
+di Percetakan PT. Gramedia, sehingga untuk selanjutnya dapat digunakan sebagai pertimbangan
+dalam membuat strategi pemasaran dan penjualan yang efektif.

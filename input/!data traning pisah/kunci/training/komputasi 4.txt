@@ -1,0 +1,2 @@
+ peramalan jumlah kendaraan, pembangkitan data, multi layer perceptron, regresi linier, k-means, particle
+swarm optimization.

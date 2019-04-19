@@ -1,0 +1,16 @@
+Pembuatan Perangkat Lunak Aplikasi Pemesanan dan Penjualan Sepeda Motor (Studi Kasus : Penjualan Sepeda Motor Honda pada CV.Kharisma Motor) Sistem Informasi Pemesanan dan Penjualan Sepeda Motor Merek Honda adalah sistem informasi yang dibangun
+untuk mempermudah dan mengefesiensi pekerjaan dalam rangka memberi pelayanan terhadap para
+pembeli/customer kendaraan sepeda motor merek Honda.Tujuan dari penelitian ini adalah untuk memberikan
+usulan dan masukan kepada pengelola atau manajemen CV. Karisma Motor agar dalam proses transaksi
+pemesanan dan penjualan sepeda motor merek Honda dapat dilakukan secara komputerisasi sehingga nantinya
+akan mempermudah pada bagian pemasaran dan penjualan dalam melakukan pendataan transaksi pemesanan
+dan penjualan kendaraan sepeda motor tersebut, begitu pula bagi pihak manajemen CV. Karisma Motor dengan
+sangat mudah dan cepat untuk memperoleh informasi tentang proses dan laporan pemesanan dan penjualan
+kendaraan tersebut. Selama ini kegiatan sehari-hari sering mengalami kendala yang cukup berarti, hal ini
+disebabkan oleh penggunaan sistem yang masih tradisional atau dengan cara-cara manual, sehingga
+mengakibatkan proses transaksi pemesanan dan penjualan serta pelayanan kepada pembeli atau calon pembeli
+menjadi tidak efektif dan efesien, baik dalam hal waktu dan juga tenaga. Adapun alat bantu yang digunakan
+dalam pengembangan sistem informasi  ini adalah Aliran Dokumen (Flow Of Document), Diagram Aliran Data
+(Data Flow Diagrams/DFD) dan dalam pembuatan serta penulisan skrip program digunakan bahasa
+pemrograman berbasis grafis yakni Borland Delphi 6.0 Serta perangkat lunak database yang di gunakan yakni
+Microsoft SQL Server 2000 Standard Edition. Sistem Informasi, Pemesanan, Penjualan, Sepeda Motor

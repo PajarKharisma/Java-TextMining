@@ -1,0 +1,1 @@
+robot hexapod, logika fuzzy, dan kontrol kecepatan

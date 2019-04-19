@@ -1,0 +1,29 @@
+Sistem Pengalokasian Dinamik VLAN
+Dalam Mendukung Proses Belajar Terdistribusi
+Seiring perkembangan pendidikan, penggunaan ICT sangatlah besar dalam proses
+perkembangan tersebut. Dengan penggunaan ICT ini, memungkinkan distance learning
+diimplementasi dimana proses belajar mengajar tidak harus lagi berada dikelas seperti pada
+pendidikan yang konvensional. Dengan adanya distance learning dapat memecahkan masalah spasial
+baik dari ukuran ruangan terhadap jumlah murid dan keterbatasan untuk dapat hadir kedalam ruang
+perkuliahan. Karena itulah, Sistem Pengalokasian Virtual Local Area Network (VLAN) secara Dinamis
+dibutuhkan. Sistem ini merupakan sistem yang berbasis protokol Radius yang dapat membantu untuk
+mengotentikasi dan memindahkan client antar sub jaringan (VLAN) didalam jaringan internal suatu
+perkuliahan.
+Perancangan sistem digunakan aplikasi berbasis open source. Pada perancangan sistem
+Dinamik VLAN ini, penulis menggunakan sistem otentikasi berdasarkan MAC - Address dari client yang
+akan dimapping kedalam VLAN yang akan dituju. MAC - Address dan VLAN yang akan dituju disimpan
+didalam database. Untuk skema jaringannya, server dan client akan terhubung menggunakan
+manageable switch.
+Mekanisme kerja dari sistem pengalokasian VLAN secara dinamis ini terdiri dari 3 (tiga)
+tahap yaitu : tahap penerimaan request dari Network Access Server (NAS), pengecekan MAC - Address
+terhadap VLAN yang dituju dan persetujuan otentikasi dan otorisasi. Untuk mendukung proses
+pembelajaran jarak jauh, digunakan Web Conference dan aplikasi seperti file sharing pada jaringan
+VLAN tersebut.Untuk pengujian sistem tersebut, kita menggunakan applikasi Web Conference dengan
+cara membandingkan performa jaringan pada saat dengan dan tanpa sistem tersebut.
+Dalam mengimplementasikan sistem ini, terbilang murah karena suatu perusahaan hanya
+membutuhkan sebuah server dengan Sistem Operasi yang gratis dan aplikasi yang gratis dan dapat
+diimplementasikan langsung ke dalam jaringan perusahaan tanpa perubahan topologi jaringan yang
+menyeluruh.Namun dalam sistem ini masih terdapat kekurangan, dimana sistem ini hanya dapat
+diaplikasikan dengan menggunakan Manageable Switch dan belum dapat digunakan untuk Wi-fi dan
+Unmanageable Switch.
+Jaringan Komputer, Sistem Dinamik, VLAN, Radius.

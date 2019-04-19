@@ -1,0 +1,9 @@
+Potensi dari spektroskopi inframerah tertransformasi Fourier (FTIR) yang dikombinasikan dengan metode 
+kemometrik dalam menentukan kandungan flavonoid total dari tempuyung (Sonchus arvensis L) telah dilakukan. 
+Regresi kuadrat terkecil parsial (PLSR) dalam membuat model prediksi akan menggunakan hubungan antara kadar 
+flavonoid total yang diperoleh dari metode referensi (metode AlCl3) dan spektrum FTIR. Aplikasi PLSR dalam 
+penentuan kadar flavonoid total tempuyung menghasilkan nilai kebaikan model yang cukup memuaskan seperti r
+ kalibrasi = 0.974, r validasi = 0.742, Standard Error Calibration = 0.023, Root Mean Square Error 
+Calibration = 0.023, Standard Error Prediction = 0.078, Root Mean Square Error Prediction = 0.076, dan bias
+ prediksi = -0.001 dengan menggunakan spektrum FTIR derivat segmen 1. Berdasarkan hasil ini, kombinasi spektrum 
+FTIR dan PLSR dapat digunakan dalam memprediksi kadar flavonoid total dalam tempuyung.

@@ -1,0 +1,16 @@
+SISTEM PENDUKUNG KEPUTUSAN UNTUKMENENTUKAN JUDUL SKRIPSI JURUSAN TEKNIK INFORMATIKA MENGGUNAKAN METODE TOPSIS Dalam Perguruan Tinggi, kelulusan mahasiswa bisa didapatkan jika sudah 
+mengerjakan skripsi, bagi mahasiswa Strata-1 (S1). Skripsi merupakan tugas akhir
+yang harus dikerjakan oleh mahasiswa sesuai bidang keilmuannya. Kewajiban untuk
+mengerjakan skripsi yang sudah didasari ilmu – ilmu pada saat kuliah ternyata masih
+membuat mahasiswa bingung dalam menentukan judul skripsi. Penentuan judul skripsi
+menjadi sangat penting jika mahasiswa akan mengerjakan skripsi. Pada penelitian ini
+diangkat kasus demikian dengan memberikan bantuan kepada mahasiswa untuk
+menentukan judul skripsi melalui sebuah perhitungan metode yang ada pada sistem
+pendukung keputusan untuk menentukan judul skripsi. Menggunakan metode TOPSIS
+dalam perhitungan dengan menggunakan kriterianya, yaitu: nilai akademik, histories
+project, keaktifan penelitian, pelatihan, minat. TOPSIS dipilih karena merupakan
+metode dengan konsep sederhana dan mudah dipahami serta praktis. Metode ini
+memiliki hasil jarak terkecil dari solusi ideal positif dan jarak terbesar dari solusi ideal
+negatif. Hasil dari proses pegimplementasian dapat mengurutkan bidang ilmu yang
+seharusnya dijadikan judul skripsi, mulai dari hasil terendah hingga tertinggi. Skripsi, Sistem Pendukung Keputusan, TOPSIS.
+ 

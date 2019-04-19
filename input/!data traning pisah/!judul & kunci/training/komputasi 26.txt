@@ -1,0 +1,2 @@
+PENGENALAN POLA WAJAH MENGGUNAKAN WEBCAM 
+UNTUK ABSENSI DENGAN METODE WAVELET Sistem absensi, pengenalan pola wajah, metode gabor wavelet, kernel, citra

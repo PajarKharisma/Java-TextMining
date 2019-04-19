@@ -1,0 +1,28 @@
+SISTEM PAKAR UNTUK MENGIDENTIFIKASI PENYAKIT
+UDANG GALAH DENGAN METODE THEOREMA BAYES
+Di Indonesia pasar udang galah konsumsi saat ini terbuka sangat lebar
+karena itu peluang pasarnya sangat prospektif dan menjanjikan. Misalnya
+warung makan membutuhkan pasokan tak terbatas, akan tetapi bisnis ini
+bukan tanpa kendala yang mengakibatkan produksi udang berfluktuasi.
+Faktor yang mempengaruhi hasil panen tidak maksimal adalah konsep
+tambak yang tidak sesuai standar, kualitas pakan yang kurang bagus, dan
+penyakit.
+Penelitian mengenai pendiagnosaan penyakit udang galah sebagai
+penarikan kesimpulan menggunakan mesin inferensi dengan metode
+penelusuran fakta forward chaining yang menggunakan kaidah (If - Then),
+dan metode kepastian Theorema Bayes. Tahap pengembangan aplikasi
+diawali dengan tahap analisis dan definisi persyaratan yang menghasilkan
+rekayasa pengetahuan, kebutuhan data dan kebutuhan sistem. Tahap kedua
+yaitu perancangan sistem dan perangkat lunak, yang terdiri dari
+membangun basis pengetahuan diantaranya membuat tabel keputusan,
+membuat basis aturan, membuat mesin inferensi dan membuat graf
+penelusuran. Dan perancangan proses yaitu terdiri dari perancangan menu
+dan perancangan interface. Tahap ketiga yaitu implementasi dan pengujian
+unit. Tahap selanjutnya adalah integrasi dan pengujian sistem
+menggunakan alpha test dan black box test.
+Dari pengujian yang dilakukan menghasilkan Sistem Pakar Untuk
+Mengidentifikasi Penyakit Udang Galah Dengan Metode Theorema Bayes
+yang dapat bekerja seperti layaknya seorang pakar udang galah. Informasi
+yang dihasilkan adalah nama penyakit, definisi penyakit, penyebab, gejalagejala yang menyertai, solusi, dan probabilitas penyakit. Hasil uji coba
+menunjukan bahwa aplikasi layak dan dapat digunakan.
+Sistem Pakar, Udang Galah, Theorema Bayes.

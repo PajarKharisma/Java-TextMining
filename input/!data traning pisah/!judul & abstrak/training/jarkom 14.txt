@@ -1,0 +1,16 @@
+ANALISIS PERFORMANSI ROUTING HYBRID WIRELESS
+MESH PROTOCOL (HWMP) PADA WIRELESS MESH 
+NETWORK (WMN) BERDASARKAN STANDAR IEEE 802.11S Wireless Mesh Network (WMN) merupakan jaringan komunikasi wireless yang terbentuk dari
+node radio dimana minimal terdapat dua atau lebih jalur komunikasi data pada setiap node. Di
+dalam WMN terdapat beberapa node client yang dapat begerak dengan kecepatan lambat
+(seperti kecepatan pejalan kaki) yang memungkinkan jaringan ini menjadi dinamis. Apalagi
+karena WMN merupakan jaringan yang wireless berarti akan memungkinkan ada user dalam
+jaringan yang terkadang bertambah ataupun berkurang. Dengan adanya perubahan kecepatan
+dan jumlah user, WMN membutuhkan suatu protokol routing yang handal untuk mencari jalur
+yang terbaik. Protokol routing yang digunakan adalah HWMP (hybrid) yang merupakan
+default protokol routing dalam WMN, sementara AODV (reaktif), dan  DSDV (proaktif)
+dijadikan sebagai pembanding protokol routing dari HWMP. Dengan protokol routing ini
+akan diamati perubahan yang terjadi berdasarkan parameter uji seperti Routing Overhead
+(RO) dan Normalized Routing Load (NRL) yang akan disimulasikan pada network simulator
+2 (NS-2). Hasil nilai simulasi sudah diperoleh dengan menyimpulkan bahwa protokol routing
+DSDV merupakan protokol routing yang paling efisien dalam pengujian ini. 

@@ -1,0 +1,28 @@
+Pengembangan Lab Komputer Sederhana Berbasis
+Jaringan Multipoint Menggunakan Switch Sebagai Sarana
+Penunjang Proses Pembelajaran
+Pada era technologi saat ini, masih
+dijumpai masalah dalam menghubungkan komputer
+stand alone (autonom) dengan komputer - komputer
+lainnya untuk berkoneksi dan berbagi data.
+Komputer - komputer dihubungkan atas dasar
+beberapa pemikiran - pemikiran yang sifatnya
+mengarah kepada beberapa hal penting seperti
+efektivitas, perfomance, efisiensi, dan komunikasi.
+Atas dasar hal tersebut, dibangunlah koneksi antar
+komputer dimana dalam mengimplementasikan
+jaringan komputer ini, diperlukan beberapa perangkat
+untuk menghubungkannya. Salah satu perangkat
+yang digunakan untuk mengkoneksikan jaringan
+komputer adalah switch.
+Switch banyak digunakan dalam mengkoneksikan
+jaringan komputer baik dalam ruang lingkup yang
+kecil maupun yang relatif luas karena kemudahan
+yang ditawarkan dan memiliki harga yang relatif
+terjangkau. Hal ini tentu saja akan sangat membantu
+apabila diterapkan dalam dunia pendidikan untuk
+mengembangkan sebuah labotarium komputer
+sederhana untuk membantu pembelajaran, terutama
+bagi sekolah - sekolah yang memiliki dana terbatas.
+Komputer, Jaringan, Stand Alone,
+Switch, Labotarium, Efektivitas

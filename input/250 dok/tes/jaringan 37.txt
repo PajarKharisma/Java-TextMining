@@ -1,0 +1,25 @@
+Implementasi FTP Server dengan Metode Transfer Layer
+Security untuk Keamanan Transfer Data Menggunakan
+CentOS 5.8
+Dalam kehidupan sehari - hari pertukaran informasi sangatlah dibutuhkan, untuk
+mendapatkan informasi atau bertukar informasi dapat dilakukan kapan saja dan
+dimana saja. Informasi bisa berupa file atau data, jaringan komputer merupakan salah
+satu media untuk melakukan pertukaran sharing data. Sebagai contoh salah satu media
+yang dapat digunakan adalah FTP (File Transfer Protocol), dengan cara file yang diupload oleh user tersimpan di hard disk server yang dapat diakses kapan saja selama
+user terhubung dengan jaringan internet. Semakin berkembangnya teknologi pada
+zaman modern sekarang file - file penting yang di - upload atau yang di - download
+sangatlah rentan dengan kejahatan dunia maya seperti digunakanya tool wireshark
+yang dapat mengetahui username, password, dan file yang di - upload atau di - download
+oleh user. Untuk itu dibangunlah FTP server dengan system keamanan dalam transfer
+data. FTP server yang telah diaktifkan fitur secure socket layer dan secure shell dapat
+mengamankan proses informasi username, password, dan file atau data yang di - upload
+dan di - download oleh user tidak dapat terbaca oleh tool wireshark. Untuk mencegah
+penuhnya kapasitas hard disk server, maka digunakanlah penerapan Disk Quota yang
+berfungsi memberi batasan kuota user dalam melakukan upload. Untuk pembuktian
+keamanan FTP server dapat dilakukan pengujian menggunakan metode transfer layer
+security (TLS). Dengan demikian FTP server yang belum menggunakan secure socket
+layer dan secure shell username, password dan file dapat terbaca oleh tool wireshark.
+Sedangkan FTP server yang telah menggunakan secure socket layer dan secure shell
+lebih aman karena username, password dan file tidak terbaca oleh tool wireshark.
+Disk Quota, File Transfer Protocol, Secure Shell, Secure Socket
+Layer,Transfer Layer Security.

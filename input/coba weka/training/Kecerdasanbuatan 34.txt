@@ -1,0 +1,38 @@
+Sistem Pakar Diagnosis Penyakit Kejiwaan
+Skizofrenia Menggunakan Metode Tsukamoto Penyakit kejiwaan adalah suatu perubahan pada
+fungsi jiwa yang meyebabkan adanya gangguan dalam cara
+berpikir, kemauan, emosi, tindakan dan hubungan sosial, serta
+salah satu jenis gangguan kejiwaan yang cukup dikenal yaitu
+skizofrenia. Skizofrenia merupakan salah satu gangguan kejiwaan
+yang berat dimana penderita mengalami kesulitan dalam proses
+berpikir sehingga menimbulkan halusinasi, gangguan berpikir,
+gangguan bicara atau gangguan perilaku yang terlihat tidak biasa.
+Dalam pemeriksaan skizofrenia, ada dua tahap yaitu pemeriksaan
+gejala dan pemeriksaan status mental. Pemeriksaan gejala
+digunakan untuk menentukan apakah pasien menderita
+skizofrenia atau tidak, sedangkan pemeriksaan status mental
+digunakan untuk menentukan tipe skizofrenia yang diderita.
+Masih banyak kasus yang diperkirakan tidak terdeteksi akibat
+kurangnya informasi yang keliru atau kurangnya dukungan
+masyarakat. Oleh karena itu, diperlukan sebuah sistem pakar
+yang dapat menggantikan peran seorang dokter dan memberikan
+pengetahuan-pengetahuan umum mengenai skizofrenia. Tujuan
+dari penelitian ini adalah menghasilkan sistem pakar untuk
+mendiagnosis tipe penyakit kejiwaan skizofrenia menggunakan
+Metode Tsukamoto dan rekomendasi berupa solusi. Salah satu
+metode yang dapat digunakan dalam sistem pakar adalah Metode
+Tsukamoto. Pada Metode Tsukamoto, output hasil inferensi dari
+tiap-tiap aturan diberikan secara tegas (crisp) berdasarkan a-
+predikat (fire strength) yang hasil akhirnya diperoleh dengan
+menggunakan rata-rata terbobot. Hasil dari sistem adalah
+pengguna dapat melakukan konsultasi melalui sistem setelah
+mendaftarkan data diri, kemudian dilanjutkan dengan
+memasukkan gejala-gejala dan status mental yang dialami. Sistem
+diuji dengan blackbox dan pengujian validitas sistem. Melalui
+blackbox dapat disimpulkan bahwa sistem dapat menangani data
+sesuai yang diharapkan melalui data-data yang dimasukkan.
+Sedangkan pengujian validitas sistem menghasilkan nilai akurasi
+93,33% yang mana dapat disimpulkan bahwa sistem yang dibuat
+dinilai berhasil.
+penyakit kejiwaan, skiofrenia, sistem pakar,
+Metode Tsukamoto, status mental.

@@ -1,0 +1,5 @@
+Analisis Perbandingan Load Balancing Web
+Server Tunggal Dengan Web server Cluster
+Menggunakan Linux Virtual Server
+Load balancing, Linux Virtual Service, Web
+Service, Cluster Service

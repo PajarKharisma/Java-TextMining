@@ -1,0 +1,25 @@
+SISTEM PAKAR PERJALANAN DINAS PEGAWAI NEGERI
+SIPIL PADA PEMERINTAH KOTA CIMAHI DENGAN
+METODE FORWARD CHAINING
+Sebagian besar dinas pemerintahan
+rutin dalam menyusun anggaran ataupun rencana
+kerja dengan tujuan pembangunan yang lebih baik.
+Hal ini dilakukan pada salah satu kegiatan yakni
+perjalanan dinas pada Pemerintah Kota Cimahi.
+Perencanaan dilakukan berdasarkan surat perjalanan
+dinas dan kemudian diperiksa oleh bagian
+administrasi umum sebagai bagian ahli dalam
+perjalanan dinas. Kemampuan seorang pakar dapat
+dituangkan secara komputerisasi yakni menggunakan
+sistem pakar. Penggunaan sistem pakar telah
+membuktikan bahwa sistem dapat berfungsi dalam
+memperbaiki atau menyelesaikan masalah
+sebagaimana ahli pada bidang tertentu. Pada
+penelitian ini akan membuat sistem yang dapat
+memperkirakan estimasi dalam perencanaan
+anggaran perjalanan dinas menggunakan metode
+Forward Chaining sebagai aturan yang didefinisikan
+dan solusi diharapkan dapat membuat informasi
+jumlah biaya yang harus dikeluarkan dalam
+perjalanan dinas secara lebih cepat.
+perjalanan dinas; sistem; pakar; biaya.

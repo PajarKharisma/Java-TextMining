@@ -1,0 +1,19 @@
+CLUSTERING DATA CUACA UNTUK PENGENALAN POLA PERIODITAS
+IKLIM WILAYAH PELAIHARI DENGAN METODE FUZZY C-MEANS
+Pada zaman sekarang banyaknya data yang ada, tidak selalu dibarengi dengan banyaknya
+pengetahuan yang dihasilkan. Sehingga pada akhirnya data-data tersebut hanya menjadi kuburan
+data yang tidak berguna. Penggalian suatu data menjadi pengetahuan adalah kegiatan yang sangat
+berguna, karena pengetahuan tersebut bisa digunakan untuk memecahkan suatu masalah yang ada di
+dalam masyarakat. Data mining merupakan salah satu teknik untuk menggali pengetahuan dari data,
+salah satu metode data mining adalah klastering, dimana klastering biasanya digunakan untuk
+mengelompokan objek-objek yang memiliki kemiripan dalam kelas atau segmen yang sama. Tanah
+Laut merupakan daerah yang terkenal akan pertanian padi, perkebunan sawit, dan peternakan sapi,
+dan semua itu sangat bergantung pada keadaan cuaca. Data tentang keadaan cuaca harian adalah
+data tentang informasi keadaan cuaca tiap harinya. Pada penelitian ini dilakukan proses penggalian
+data dengan cara mengelompokkan data keadaan cuaca harian, berupa data kecepatan angin, data
+kelembaban udara, data penguapan, data temperatur, dan data curah hujan menjadi 4 kelompok
+menggunakan algoritma fuzzy c-means. Hasil yang diperoleh dari peneltian ini adalah diperolehnya
+4 klaster. Dari informasi 4 klaster tersebut, diproleh pengetahuan tentang kondisi cuaca dari tahun
+1990-1999 yaitu kondisi cuaca pada periode tersebut setiap tahun menjadi semakin panas, dan
+diketahui adanya pergeseran musim kemarau dan musim hujan lebih cepat 10 hari dari tahun 1990-
+1999.

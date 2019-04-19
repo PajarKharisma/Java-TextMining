@@ -1,0 +1,20 @@
+RANCANG BANGUN MOBILE ROBOT PENGIKUT MANUSIA
+BERDASARKAN WARNA MENGGUNAKAN METODE TEMPLATE
+MATCHING BERBASIS MINI PC
+Penerapan teknologi di bidang robotika telah banyak dimanfaatkan oleh kalangan industri di
+dunia kerja dalam rangka meningkatkan efisiensi dan efektivitas berbagai aktivitas kerja manusia.
+Sebuah mobile robot dibuat agar dapat mengikuti pergerakan objek berupa manusia berdasarkan warna
+menggunakan webcam. Mobile robot yang dibuat dapat melakukan proses pengolahan citra dari warna
+objek yang ditangkap oleh webcam, sehingga dapat mengenali warna objek yang diikuti. Proses
+pengolahan citra akan di proses di dalam Raspberry Pi sebagai pusat kontrol, yang akan menggerakkan
+motor pada mobile robot. Ada beberapa proses pengolahan citra untuk mengikuti pergerakan objek,
+yaitu: mencari nilai HSV masing - masing warna pada kondisi pencahayaan yang berbeda, menganalisa
+warna objek yang akan diikuti dengan membandingkan nilai HSV yang didapat dengan nilai HSV pada
+proses sebelumnya, dan mendeteksi warna lingkaran pada objek yang tujuan dengan menggunakan
+metode template matching. Mobile robot akan mengikuti pergerakan objek yang telah ditangkap oleh
+webcam, Dari penelitian yang dilakukan, didapatkan nilai HSV yang tepat untuk semua keadaan
+pencahayaan untuk masing - masing warna yaitu: nilai H (Hue) untuk warna, merah: 0-66, nilai S
+(Saturation): 64-169, dan nilai V (Value): 75-124. Dari 11 kali pengujian sistem yang dilakukan pada
+semua kondisi pencahayaan, diperoleh 5 kali kegagalan dengan persentase kegagalan sebesar 45.4 %
+dan 6 kali keberhasilan dengan persentase keberhasilan sebesar 54.6 %.
+HSV, Robot, Raspberry, Webcam, Template Matching

@@ -1,0 +1,14 @@
+Rancang Bangun Robot Sepak Bola Beroda
+Tank Tread Menggunakan Image Sensor
+Kontes robot Ekshibisi Sepak bola robot Beroda (ESRB) setiap tahunnya diadakan oleh
+Direktorat Pendidikan Indonesia yang bertujuan meningkatkan mutu pendidkan. diajang ini
+robot yang ikut serta didalamnya dituntut untuk dapat mengenali bola dan menggiring bola
+sampai kegawang tim lawan tanding.
+Pada penelitian ini, robot dirancang agar mampu bergerak secara otomatis dan memiliki
+kecerdasan lebih dalam memdeteksi letak bola dan arah gawang. Robot ini pada umumnya
+memiliki 4 gerakan dasar dalam berjalan yaitu maju, mundur, putar kiri dan putar kanan.
+Berdasarkan perancangan, pengujian, dan analisis yang telah dilakukan, maka dapat
+disimpulkan pembacaan maxarea 4500 dan minarea 3100 dan jarak 1 0-20 cm adalah jarak
+ideal dikaranakan waktu pengujian pertama 0.2 detik lebih cepat dan Pembacaan xmin 140
+dan xmax 180 adalah jarak ideal dikaranakan waktu lebih cepat yaitu 0.3 dan 0.4.
+Robo, Beroda Tank Tread, Sepak Bola, image sensor

@@ -1,0 +1,1 @@
+webcam; LVQ; pengolahan citra; mobil; pengenalan pola

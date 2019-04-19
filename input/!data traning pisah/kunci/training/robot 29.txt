@@ -1,0 +1,1 @@
+perbandingan diagonal layar, mikrokontroler, sensor ultrasonik & LDR.

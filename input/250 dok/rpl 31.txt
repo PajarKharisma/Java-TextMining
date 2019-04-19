@@ -1,0 +1,15 @@
+﻿APLIKASI SISTEM INFORMASI GEOGRAFI
+TINGKAT PENCEMARAN INDUSTRI DI KABUPATEN GRESIK
+Pencemaran udara, sungai dan laut adalah salah satu dampak lingkungan yang ditimbulkan oleh
+perkembangan industri. Salah satu upaya Dinas Lingkungan Gresik dalam peningkatan kualitas pelayanannya di
+bidang lingkungan yaitu dengan memberikan informasi tentang hasil pemantauan tingkat pencemaran yang telah
+terjadi dengan membandingkan baku mutu. Untuk memenuhi upaya tersebut maka dirancang dan dibuatlah suatu
+program aplikasi sistem informasi geografis tingkat pencemaran industri. Isi dari program ini berupa peta yang
+mempunyai kemampuan untuk memberikan informasi mengenai hasil pemantauan pencemaran udara, sungai dan
+laut dengan membandingkan parameter - parameter yang melebihi standar baku mutu. Aplikasi ini juga dilengkapi
+informasi lokasi industri dan daerah pengembangan industri. Data - data pencemaran, lokasi industri dan daerah
+pengembangan industri di dapat dari Dinas Lingkungan Gresik dan Bappeda. Dengan adanya program ini maka
+diharapkan user dapat mengetahui informasi tingkat pencemaran udara, sungai dan laut serta lokasi dimana terjadi
+pencemaran. Dengan demikian dapat mengetahui daerah industri dengan jenis industri yang mungkin
+dikembangkan.
+pencemaran, pemantauan, baku mutu, industri, sistem informasi geografi.

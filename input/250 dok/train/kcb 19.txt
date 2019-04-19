@@ -1,0 +1,14 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT DAN HAMA
+TANAMAN PADI
+Seiring kemajuan zaman dan perkembangan teknologi sangat pesat menuntun adanya sistem kerja yang cepat,
+efektif dan efesien sehingga diperlukan suatu teknologi yang dapat mewujudkan hal tersebut terutama dalam
+diagnosis penyakit dan hama tanaman padi dan penanggulangannya. Pengetahuan tentang hama-hama padi dan
+penanggulangannya hanya berdasarkan pengalaman, penyuluhan dan belum bersifat komputerisasi yang dalam
+sesuatu waktu dapat dengan mudah menambah data baru tentang penyakit dan hama terbaru dengan solusi
+penanggulangannya tanpa harus membuat data tersebut hanya pada buku. Sehingga penulis ingin membantu
+dalam hal pengembangan media pengetahuan tentang perkembangan dan solusi hama pada tanaman padi
+tersebut dengan menggunakan bantuan komputer beserta dengan aplikasi pendukungnya tersebut, guna
+menciptakan data yang akurat dan up to date (berkembang) seiring dengan bertambahnya waktu atas
+perkembangan atau penemuan panyakit dan hama baru pada tanaman padi, berikut dengan bagaimana tahap atau
+proses penanggulangan panyerangan penyakit dan hama pada tanaman padi tersebut.
+Sistem pakar, Hama, Penyakit, Padi, Backward chaining

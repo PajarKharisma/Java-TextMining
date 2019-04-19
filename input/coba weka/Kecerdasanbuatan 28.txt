@@ -1,0 +1,22 @@
+SISTEM PAKAR UNTUK MENDIAGNOSA PENYAKIT PADA SALURAN
+PERNAFASAN DAN PARU MENGGUNAKAN METODE CERTAINTY
+FACTOR Masyarakat tidak menduga bahwa gejala penyakit pernafasan seperti sesak
+nafas, batuk, tenggorokan gatal dapat menimbulkan penyakit yang lebih
+serius, hal ini juga banyak dipengaruhi oleh keengganan masyarakat untuk
+melakukan konsultasi ke dokter. Kelambanan yang dirasakan banyak
+mahasiswa kedokteran saat melakukan kepaniteraan untuk melakukan
+identifikasi terhadap penyakit dan jangkauan klinik dokter spesialis
+pernafasan dan paru yang jauh serta dikarenakan masyarakat ekonomi ke
+bawah yang enggan untuk berkonsultasi karena biaya yang relatif mahal
+merupakan salah satu faktor utama mengapa perlu diciptakan sebuah
+sistem yang dapat mencegah lebih dini sehingga membantu dalam
+menanggulangi penyakit pada saluran pernafasan dan paru lebih awal.
+Subjek dalam penelitian ini adalah sistem pakar untuk mendiagnosa
+penyakit pada saluran pernafasan dan paru. Langkah pengembangan sistem
+diawali dengan analisis kebutuhan sistem, perancangan sistem antara lain
+dengan membangun basis pengetahuan, membuat tabel keputusan, tabel
+aturan, pelacakan kesimpulan, perancangan alir data, Entity Relational
+Diagram yang kemudian membuat implementasi dan pengujian sistem
+dengan black box test dan alfa test Hasil pejukkan bahwa aplikasi layak dan
+dapat digunakan.
+Sistem Pakar, Penyakit Pernafasan dan Paru, Certainty Factor

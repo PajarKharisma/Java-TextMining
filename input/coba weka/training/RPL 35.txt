@@ -1,0 +1,5 @@
+Rekayasa Perangkat Lunak Komersial Akuntansi Dengan Analisis Rasio Untuk Usaha Jasa
+Walaupun dalam skala kecil, bidang usaha jasa di Indonesia saat ini sudah mulai dituntut
+untuk menyelenggarakan sistem akuntansi yang aktual, standar, mampu melakukan analisa rasio dan
+mudah diimplemetasikan. Sementara itu, tidak semua stakeholder usaha-usaha kecil yang ada memiliki
+kemampuan untuk mengelola sistem akuntansinya secara mandiri. Apalagi membayar seorang akuntan. Komputer Akuntansi  

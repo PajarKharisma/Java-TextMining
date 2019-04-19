@@ -1,0 +1,10 @@
+Algoritma k-Nearest Neighbor (kNN) adalah suatu algoritma supervised dimana hasil 
+dari query akan diklasifikasikan berdasarkan mayoritas dari kategori. Algoritma ini 
+bertujuan untuk mengklasifikasi objek baru berdasarkan atribut dan training sampel. 
+Uji coba dilakukan pada dokumen teks berbahasa Arab diambil dari koleksi dokumen 
+surat kabar Arab Al-Jazirah. Algoritma kNN dipilih karena lebih sederhana, efektif, 
+dan dapat diaplikasikan pada jumlah training yang sedikit. Namun, dalam implementasinya 
+kNN memerlukan waktu komputasi yang lama dalam pengklasifikasiannya, karena melakukan 
+perhitungan jarak ke semua training sampel. Hasil uji coba membuktikan bahwa penggunaan 
+algoritma kNN dapat melakukan klasifikasi dokumen berbahasa Arab dengan nilai lokal 
+optimal F-Measure terbaik sebesar 0.86 dan tingkat akurasi 94%.

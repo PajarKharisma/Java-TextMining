@@ -1,0 +1,2 @@
+Aplikasi Pendiagnosa Kebutaan Warna dengan Menggunakan 
+Pemrograman Borland Delphi  buta warna dan sel kerucut. 

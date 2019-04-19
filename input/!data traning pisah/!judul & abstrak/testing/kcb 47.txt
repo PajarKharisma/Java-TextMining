@@ -1,0 +1,12 @@
+IMPLEMENTASI FUZZY TSUKAMOTO DALAM MENDIAGNOSA
+PENYAKIT DIABETES MELITUS 
+Jumlah penderita Diabetes Mellitus mengalami peningkatan dari tahun ke tahun. Hal ini dikarenakan
+keterlambatan diagnosa penyakit. Dan Indonesia sendiri menempati urutan ke-10 jumlah penderita diabetes
+terbanyak didunia. Penderita penyakit tersebut biasanya tidak menyadari kalau menderita penyakit Diabetes
+Mellitus. Pada penelitian ini, dibuat suatu sistem penegakan penyakit Diabetes Mellitus dengan
+menggunakan Metode Tsukamoto. Variabel-variabel pendukung penegakan diagnosa penyakit tersebut
+digunakan dalam pembentukan himpunan fuzzy. Himpunan fuzzy itu akan diproses dengan Metode
+Tsukamoto sehingga menghasilkan suatu keputusan. Aplikasi yang dirancang telah diuji dengan melibatkan
+rekam medik diagnosa dari dokter, hasil keputusan yang dihasilkan aplikasi adalah sama dengan diagnosa
+dokter yang tertera di rekam medik. Secara umum aplikasi berbasis web ini bisa digunakan sebagai alat
+bantu sementara dalam penegakan diagnosa penyakit Diabetes Mellitus).

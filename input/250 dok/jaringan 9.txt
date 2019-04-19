@@ -1,0 +1,22 @@
+KONSEP MEMBANGUN INTERNET GRATIS UNTUK MASYARAKAT
+DENGAN MEMANFAATKAN BANDWIDTH TIDUR KORPORASI 
+Internet sudah menjadi bagian yang tidak terpisahkan dalam kehidupan saat ini, bahkan
+bisa dikatakan bahwa internet sudah ada didalam genggaman kita. Peningkatan penggunakan
+internet mengalami lompatan yang sangat besar, sehingga dibutuhkan cara - cara tertentu agar
+masyarakat kita tidak ketinggalan. Namun demikian masih banyak diantara masyarakat yang
+belum bisa menikmati dunia internet dengan alasan masih mahal atau tidak adanya fasilitas yang
+cukup. Di sisi lain banyak korporasi atau bahkan hampir semua korporasi telah memilili koneksi
+internet yang cukup memadai, dan pada saat - saat tertentu “jam tidur” fasilitas tersebut juga ikut
+“tidur” walaupun biaya yang dikeluarkan korporasi tetap.
+Dengan memadukan kedua permasalahan diatas, maka di susun suatu konsep
+membangun internet gratis untuk masyarakat dengan memanfaatkan bandwidth tidur korporasi.
+Teknik Cron digunakan untuk menjalankan perintah mengaktifkan dan menon-aktifkan suatu
+interface NIC. Proses ini dilakukan disesuaikan dengan jadwal dari korporasi. Penggunaan radio
+wirelles sebagai router dipilih untuk memudahkan dalam implementasi welcome page, dimana
+halaman ini digunakan sebagai media informasi dari korporasi ke masyarakat.
+Kesimpulan dari konsep ini akan sangat dirasakan oleh kedua belah pihak, yaitu
+masyarakat dan korporasi. Masyarakat akan bisa menikmati internet gratis di lingkungannya pada
+jam - jam diluar jam kerja, sedangkan korporasi akan lebih dikenal oleh masyarakat sekitar yang
+berimbas pada tingkat keamanan serta secara beban anggaran tidak membebani korporasi dan
+tidak mengganggu kegiatan korporasi, karena layanan ini dilakukan diluar jam kerja korporasi.
+Korporasi, Internet Gratis, Jam Tidur, Radio Wirelles. 

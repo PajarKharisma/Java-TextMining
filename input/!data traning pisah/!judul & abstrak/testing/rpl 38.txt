@@ -1,0 +1,20 @@
+Rancang Bangun Sistem Informasi
+Proses Tugas Akhir Tugas Akhir atau Skripsi adalah istilah
+yang digunakan di Indonesia untuk mengilustrasikan
+suatu karya tulis ilmiah berupa paparan tulisan hasil
+penelitian Strata satu (S1) yang membahas suatu
+permasalahan/fenomena dalam bidang ilmu tertentu
+dengan menggunakan kaidah-kaidah yang berlaku.
+Dalam penulisan tugas akhir, mahasiswa dibimbing
+oleh satu atau dua orang pembimbing yang berstatus
+dosen dalam perguruan tinggi tempat mahasiswa
+tersebut kuliah. Adapun beberapa proses dalam
+penyusunan tugas akhir mulai dari pengajuan
+proposal, penelitian, seminar hasil, hingga melakukan
+revisi sesuai dengan masukan dosen. Proses-proses
+tersebut perlu didukung oleh implementasi teknologi
+informasi yaitu dengan penggunaan Web sebagai
+media pelaksana. Metodologi yang digunakan adalah
+Rational Unified Process (RUP). Kelebihan dari sistem
+ini yaitu penggunaannya sangat mudah dimengerti dan
+mempermudah proses penyusunan tugas akhir. 

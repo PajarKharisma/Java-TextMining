@@ -1,0 +1,7 @@
+Masih sulitnya dalam menentukan klasifikasi tema tugas akhir mahasiswa sering dialami oleh 
+setiap perguruan tinggi.Tujuan penelitian ini adalah memberikan sebuah penunjang keputusan 
+bagi pengambil kebijakan di program study agar setiap judul tugas akhir mahasiswa yang diajukan 
+sesuai dengan tema yang telah ditentukan. Dari hasil penelitian text mining yang telah dilakukan 
+dengan menggunakan algoritma Support Vector Machine (SVM) dan K-Means sebagai teknologi yang 
+digunakan ternyata dihasilkan tingkat akurasi yang lebih baik dengan tingkat akurasi 86,21% bila 
+dibandingkan dengan SVM tanpa K-Means yaitu 85,38%.

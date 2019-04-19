@@ -1,0 +1,20 @@
+Rancang Bangun Sistem Transfer Video Real – Time Menggunakan Jaringan Mobile  Ad hoc Pada Robot ITS - 01 Pengembangan robot monitoring dan surveylance
+banyak dikembangkan untuk memenuhi kebutuhan keamanan,
+pertahanan. Robot tersebut dihubungkan menggunakan standar
+wireless-LAN 802.11g sebagai media komunikasi data.
+Implementasi jaringan adhoc ditujukan untuk memberdayakan
+masing-masing robot dapat berfungsi sebagai router, sehingga
+memungkinkan untuk melakukan komunikasi multihop dari
+robot satu yang terdekat dengan stasiun pengontrol ke robot
+selanjutnya yang sudah keluar jangkauan stasiun pengontrol.
+Dengan demikian cakupan operasi robot monitoring menjadi
+semakin luas. Sistem transfer video real-time dalam pelenelitian
+ini dibangun menggunakan KinectTCP yang di modifikasi untuk
+menerima data dari robot berupa RGB,Depth dan Skeleton.
+Evaluasi performansi  dilakukan pada topologi single hop dan
+multihop dengan mengukur parameter throughput, FPS, packet
+loss, packet delay dan jitter. Hasil pengujian menunjukkan
+topologi multihop dapat mendukung operasional robot dalam
+gedung meskipun mengalami penurunan  parameter Throughput
+dan FPS rata-rata sebesar 82,86%, dan mengalami pertambahan
+delay rata-rata sebesar 149,73%. 

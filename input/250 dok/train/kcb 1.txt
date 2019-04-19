@@ -1,0 +1,33 @@
+Sistem Pakar Diagnosa Awal Penyakit Kulit Pada
+Sapi Bali dengan Menggunakan
+Metode Forward chaining dan Certainty Factor
+BPTU (Balai Pembibitan Ternak Unggul) Sapi
+Bali merupakan Breeding Centre sapi yang ada di Pulau Bali.
+Tugas pokok BPTU Sapi Bali adalah melaksanakan pelestarian,
+pemulihan, produksi dan pengembangan serta penyebaran hasil
+produksi bibit Sapi Bali murni unggul secara nasional.
+Pencegahan dan pengobatan penyakit pada BPTU Sapi Bali
+dilakukan oleh dokter hewan. Namun kurangnya dokter hewan
+yang tidak selalu ada di tempat sehingga dibutuhkan suatu
+program sistem pakar berbasis desktop yang mampu
+memberikan diagnosa akan kemungkinan seekor sapi Bali
+menderita suatu penyakit beserta cara pengobatannya dengan
+mengunakan metode forward chaining dan Certainty Factor (CF).
+Proses diagnosa pertama kali dilakukan dengan menggunakan
+metode forward chaining, jika dengan metode forward chaining
+tidak menghasilkan penyakit maka akan dilakukan proses
+dengan metode CF. Menggunakan gabungan dua metode
+bertujuan untuk menutupi kekurangan dari metode forward
+chaining .
+Metode forward chaining melakukan pemrosesan berawal
+dari sekumpulan gejala yang kemudian dilakukan inferensi
+hingga menghasilkan diagnose dan metode CF memakai sistem
+penalaran sebagaimana layaknya seorang pakar, dimana hasil
+diagnosa disertai nilai CF yang menunjukkan tingkat kebenaran,
+keakuratan dari kemungkinan penyakit kulit pada sapi Bali di
+BPTU Sapi Bali.Pengujian sistem menunjukkan bahwa sistem
+mampu melakukan diagnosa penyakit kulit pada sapi Bali
+berdasarkan gejala - gejala yang diinputkan pengguna dan
+dilengkapi dengan definisi serta cara pengobatan.
+Sistem Pakar, Forward chaining, Certainty
+Factor.

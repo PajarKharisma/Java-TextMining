@@ -1,0 +1,39 @@
+Rancang Bangun Aplikasi Web Informasi
+Eksekutif Pada Pemerintah Kabupaten XYZ
+Badan pemerintahan suatu daerah merupakan
+kumpulan dari berbagai dinas yang memiliki fungsinya masing
+– masing yang saling berkaitan satu dengan lainnya. Banyak
+sekali laporan yang dihasilkan oleh suatu wilayah
+pemerintahan selama satu tahun dan pihak Bupati harus dapat
+membaca laporan pertanggungjawaban tersebut sehingga
+dapat dijadikan sebagai rujukan untuk membuat keputusan.
+Namun dengan banyaknya laporan pertanggungjawaban
+yang dihasilkan dari setiap dinas serta tidak ada teknologi
+informasi terintegrasi disetiap SKPD yang dapat
+mempermudah Bupati dalam membaca laporan tersebut,
+maka perlu waktu yang lama untuk membaca seluruh laporan
+tersebut dan membuat keputusan yang tepat. Maka dari itu
+diperlukan perangkat lunak yang dapat memberikan
+kumpulan informasi yang diperlukan oleh Bupati sehingga
+dapat membantu mengambil keputusan secara cepat tanpa
+harus membaca secara menyeluruh dari laporan
+pertanggungjawaban yang ada.
+Pada tugas akhir ini akan dilakukan pembangunan Aplikasi
+Web Informasi Eksekutif pada Pemerintah Kabupaten XYZ
+yang akan dikembangkan dengan menggunakan metode
+Extreme Programming. Metode ini mendukung pola
+pengembangan yang iteratif dan inkremental sehingga proses
+pengembangan dapat dilakukan lebih sesuai dengan
+kebutuhan dan dapat mengakomodasi adanya umpan balik
+maupun perubahan kebutuhan dari stakeholder yang terkait
+dengan Aplikasi Web Informasi Eksekutif pada Pemerintah
+Kabupaten XYZ ini.
+Hasil dari tugas akhir ini berupa desain aplikasi
+berdasarkan standar ReadySET dan Aplikasi Web Informasi
+Eksekutif pada Pemerintah Kabupaten XYZ. Sehingga
+diharapkan dengan adanya aplikasi web ini dapat membantu
+para eksekutif pada pemerintah kabupaten XYZ dalam
+membuat keputusan secara cepat dan tepat tanpa harus
+membaca laporan pertanggungjawaban yang ada.
+Badan Pemerintahan, Aplikasi Web Informasi
+Eksekutif, Extreme Programming, ReadySET.

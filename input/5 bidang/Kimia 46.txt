@@ -1,0 +1,12 @@
+Telah dilakukan pemisahan selulosa dari serbuk kayu dengan menggunakan metanol dan HCl pada berbagai 
+variasi konsentrasi asam. Selulosa hasil pemisahan dikarakterisasi dengan spektroskopi FT-IR dan
+difraktometer XRD untuk selanjutnya digunakan sebagai adsorben ion logam Mn2+ dalam medium air. 
+Proses adsorpsi dipelajari melalui variasi waktu interaksi, pengaruh variasi konsentrasi, dan desorpsi 
+terpisah. Spektrum infra merah menunjukan bahwa selulosa hasil pemisahan dari serbuk kayu dengan 
+konsentrasi asam 5% memiliki kemiripan dengan spektrum infra merah selulosa standar. Difraktometer 
+XRD selulosa hasil pemisahan menunjukkan bahwa selulosa hasil pemisahan memiliki struktur amorf.
+Konstanta laju adsorpsi ion logam Mn2+ pada selulosa hasil pemisahan lebih besar dari pada serbuk 
+kayu dengan energi adsorpsi ion logam Mn2+ pada selulosa hasil pemisahan yakni sebesar 26,21 kJ/mol. 
+Kapasitas adsorpsi ion logam Mn2+ pada selulosa hasil pemisahan lebih besar dari serbuk kayu. Desorpsi 
+ion logam Mn2+ menggunakan H2O, Na-EDTA, Amonium asetat, dan HCl menunjukan interaksi kimia yang 
+mendominasi adsorpsi ion logam Mn2+ pada selulosa dan serbuk kayu.

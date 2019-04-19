@@ -1,0 +1,1 @@
+Fingerprint, K-Nearest Neightbour, Klasifikasi, Text Mining, Winnowing.

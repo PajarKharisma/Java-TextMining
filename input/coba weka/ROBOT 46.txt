@@ -1,0 +1,29 @@
+IMPLEMENTASI AUTO DOCKING SYSTEM PADA MOBILE
+ROBOT Pada Tugas akhir ini perancangan robot menyusuri ruangan dengan
+ruangan yang sudah ditentukan. pada proses ini robot akan berjalan maju
+dari docking station dengan posisi docking station berada pada sebelah
+kiri ruangan pada saat proses robot kembali menuju docking station,
+yang digunakan sebagai acuan adalah rotary encoder jadi pada saat robot
+bergerak menyusuri ruangan, rotary encoder akan menghitung pulsa
+pada setiap putran rodanya. ketika baterai habis pada saat robot saat
+bergerak maju dengan pembacaan rotary encoder, maka robot akan
+bergerak mundur dengan counter pembacaan rotary encoder, lalu robot
+akan berhenti. Setelah robot berhenti, agar konektror baterai pada robot
+dapat terhubung dengan konektor charger pada docking station terdapat
+push button tujuannya adalah untuk untuk menghentikan robot agar
+tidak bergerak dan terdapat pir yang gunanya untuk mencocokan antar
+konektor pir pada robot dan kepingian PCB pada docking station, untuk
+keperluan charger baterai.
+Pengujian pada Tugas Akhir ini menunjukan bahwa sensor rotary
+encoder mampu menavigasi robot dalam satuan pulsa dengan error
+sebesar 5 dan 7 pulsa setiap pada rotary encoder. Pada pembacaan jarak
+untuk penghindar menggunakan sensor ultrasonic memiliki error dalam
+saatuan cm dengan error rata rata sebesar 0,6cm. kemudian untuk
+pembacaan motor servo sebagai tempat ip cam untuk pengawas mimiliki
+error putaran sebesar 1%. hasil error terhadap rotary encoder saat
+menuju docking station mengalami gangguan, maka dibutuhkan sensor
+photodioda untuk membantu mendekatkan robot dengan docking
+station. nilai pembacaan sensor tegangan berubah ubah. untuk sensor
+tegangan pada robot memiliki error sebesar 0,43 V. Ip cam
+membutuhkan perangkat router untuk mengakses ip cam dan PC 
+ autodocking system, docking station, charger, navigasi

@@ -1,0 +1,12 @@
+Pengenalan Image Wajah Dengan Menggunakan Metode Template Matching
+Dewasa ini pengolahan citra menjadi trend baru dalam dunia kecerdasan buatan, kemampuannya dalam
+menginterprestasikan sebuah image dinilai sangat memudahkan aktifitas manusia. Salah satunya image
+processing dalam pengenalan wajah. Metode template matching merupakan salah satu metode pengenalan
+citra yang populer saat ini. Komputasinya yang relative sederhana dan akurasinya yang cukup baik,
+membuat metode ini banyak digunakan. Dalam penelitian ini, dengan sampling wajah sekitar 60 image
+didapatkan hasil ketepatan mencapai 85%. Faktor jarak, pencahayaan dan pose obyek sangat
+mempengaruhi hasil dari pengenalan image wajah. Template matching menghasilkan sebuah angka yang
+akan diperbandingkan jaraknya dengan image training yang sudah dipersiapkan sebelumnya. Jarak
+eigenvalue dari image testing yang terpendek akan direkomendasikan sebagai image yang paling mendekati
+faktor kecocokannya.
+Pengolahan citra, image processing, template matching, eigenvalue

@@ -1,0 +1,17 @@
+Penelitian ini bertujuan untuk menguji perbedaan pemahaman konsep dan kemampuan pemecahan 
+masalah antara siswa yang dibelajarkan dengan menggunakan strategi PBL berbasis ICT dan 
+siswa yang dibelajarkan dengan strategi PBL. Penelitian ini menggunakan eksperimen semu 
+dengan pretest postest control group design. Populasi adalah seluruh siswa kelas X 
+SMA Negeri 1 Bangil tahun pelajaran 2012-2013. Sampel 72 siswa yang terbagi dalam dua 
+kelas yang diambil dengan teknik Sampling Random Purposive. Instrumen yang digunakan 
+adalah butir soal pemahaman konsep dan kemampuan pemecahan masalah berbentuk tes uraian. 
+Tes pemahaman konsep adalah untuk mengetahui pemahaman konsep fisika dengan indikator 
+pengetahuan Taksonomi Bloom yang direvisi oleh Anderson dan Krathwohl, meliputi kemampuan 
+mengingat (C1), memahami (C2), menerapkan (C3), menganalisis (C4), serta mengevaluasi (C5). 
+Tes Kemampuan pemecahan masalah adalah untuk mengetahui kemampuan pemecahan masalah fisika 
+dengan langkah-langkah yang sistematis, meliputi analisis masalah, perencanaan pemecahan masalah, 
+aplikasi alternatif pemecahan masalah, serta melakukan refleksi keberhasilan hasil pemecahan masalah. 
+Pengumpulan data dilakukan dengan tes. Analisis data menggunakan MANOVA. Hasil penelitian menunjukkan: 
+(1) terdapat perbedaan pemahaman konsep yang signifikan antara siswa yang dibelajarkan dengan menggunakan 
+strategi PBL berbasis ICT dan strategi PBL; (2) terdapat perbedaan kemampuan pemecahan masalah yang 
+signifikan antara siswa yang dibelajarkan dengan menggunakan strategi PBL berbasis ICT dan strategi PBL.

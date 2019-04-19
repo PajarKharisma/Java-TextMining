@@ -1,0 +1,15 @@
+Perbandingan Metode Differentiated Service Dengan Metode
+Integrated Service Untuk Analisis QoS Pada Jaringan VOIP Pada saat ini masyarakat membutuhkan teknologi telekomunikasi yang berbiaya murah, salah satu
+bentuk teknologi telekomunikasi yang berbiaya murah adalah VoIP (Voice over Internet Protocol). VoIP
+adalah sebuah teknologi yang dapat melewatkan traffic suara pada jaringan IP. Kelemahan dari VoIP ini
+adalah kualitas suara yang dihasilkan tidak sebaik dengan kualitas suara yang dihasilkan dari jaringan
+telepon konvensional atau PSTN. Hal ini disebabkan oleh QoS (Quality of Service) yang buruk. Untuk
+meningkatkan QoS pada jaringan menggunakan 2 metode yaitu integrated service dan differentiated service.
+Penelitian ini membandingkan nilai delay, jitter dan MOS dengan menggunakan metode integrated service
+dan differentiated service sehingga dapat diketahui metode manakah yang paling baik untuk meningkatkan
+kualitas suara pada jaringan VoIP. Hasil dari perbandingan tersebut adalah kualitas suara yang
+menggunakan metode differentiated Service lebih baik dari kualitas suara yang menggunakan metode
+integrated Service karena dengan menggunakan metode differentiated service, peningkatan kualitas suara
+sekitar 2.8% - 4.49% sedangkan persentase peningkatan kualitas suara dengan metode integrated service
+sekitar 1.87% - 3.2%.
+ VoIP, Differentiated Service, Integrated Service, QoS.

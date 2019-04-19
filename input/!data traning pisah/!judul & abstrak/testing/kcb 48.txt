@@ -1,0 +1,12 @@
+Sistem Aplikasi Penunjang Keputusan Identifikasi Penyakit Pada Ayam Potong Dengan
+Menggunakan Metode Simple Additive Weighting  
+Ayam broiler/pedaging atau lebih akrab dikenal dengan ayam potong telah dikenal masyarakat dengan 
+berbagai kelebihannya. Dengan waktu pemeliharaan yang singkat dan menguntungkan, maka banyak peternak
+baru yang bermunculan. Namun perlu diketahui bahwa ayam potong  merupakan jenis unggas yang  rentan
+diserang penyakit. Oleh sebab itu, pada pembahasan ini akan dibangun sebuah program kecerdasan buatan
+yang dapat digunakan untuk mempermudah peternak dalam mengidentifikasikan gejala penyakit pada ayam 
+potong. Selain itu pada pembahasan ini digunakan sistem penunjang keputusan untuk membantu
+mengidentifikasi penyakit dan menentukan cara penaggulangannya. Sedangkan metode yang digunkan adalah
+Simple Additive Weighting (SAW), untuk  menentukan kriteria dan pembobotan nilai. Implementasi program
+dengan menggunakan program Visual Basic 6.0. program ini diharapkan akan membantu  mempermudah  para
+petermak untuk mengidentifikasi gejala penyakit pada ternak ayam potongnya.

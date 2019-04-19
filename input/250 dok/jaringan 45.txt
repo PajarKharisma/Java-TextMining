@@ -1,0 +1,18 @@
+Analisis Kinerja Jaringan LAN (Local Area Network)
+Menggunakan Sinyal Radio Point to Point
+Pada Rumah Sinyal PT Kereta Api Indonesia (persero)
+Teknologi saat ini telah memberikan kemudahan untuk saling berinteraksi
+satu sama lain, salah satunya melalui jaringan komputer. Jaringan dari kumpulan
+beberapa komputer bahkan jutaan komputer, disebut dengan jaringan komputer
+bisa berupa jaringan lokal maupun interlokal, jaringan lokal atau disebut dengan
+LAN (Local Area Network) dan jaringan interlokal. teknologi merupakan fasilitas
+yang tidak akan bisa lepas dari kehidupan manusia sehingga diperlukan suatu cara
+untuk memanfaatkan teknologi dengan maksimal. Point to point merupakan suatu
+cara untuk membuat sebuah jaringan bersifat yang aman dengan menggunakan
+jaringan publik misalnya internet. Point to point dapat mengirim data antara dua
+komputer yang melewati jaringan publik terhubung. Pada rumah sinyal PT . Kereta
+Api Indonesia sangat di butuhkan jaringan LAN (Local Area Network) untuk
+membantu kinerja pegawai agar lebih cepat dan efisien, sedangkan PPP (Point to
+Point Protocol) digunakan untuk membantu pengiriman data agar dapat melewati
+jaringan publik sehingga pengiriman data menjadi lebih cepat.
+LAN, Point to Point, QoS

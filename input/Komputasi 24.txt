@@ -1,0 +1,13 @@
+KLASIFIKASI TEKS DENGAN NAÏVE BAYES CLASSIFIER (NBC) UNTUK PENGELOMPOKAN TEKS BERITA DAN ABSTRACT AKADEMIS Perkembangan informasi teks digital telah tumbuh sangat cepat. Saat ini diperkirakan 80% teks digital dalam
+bentuk tidak terstruktur.  Tingginya volume dokumen teks ini dipicu oleh aktivitas dari berbagai sumber berita
+dan aktivitas akademis dari kegiatan riset, konferensi dan pertemuan ilmiah yang makin meningkat.  Kebutuhan
+analisis text mining  sangat diperlukan dalam menangani  teks yang tidak terstruktur tersebut. Salah satu kegiatan
+penting dalam text mining adalah klasifikasi atau kategorisasi teks. Kategorisasi teks sendiri saat ini memiliki 
+berbagai cara pendekatan antara lain pendekatan probabilistic,  support vector machine , dan artificial neural
+network, atau decision tree classification.  Metode  probabilistic Naïve Bayes Classifier (NBC) memiliki
+beberapa kelebihan kesederhanaan dalam komputasinya. Namun metode ini memiliki kelemahan dalam asumsi
+yang sulit dipenuhi, yaitu independensi feature kata. Penelitian ini mengkaji kinerja NBC untuk kategorisasi teks
+berita dan teks akademis. Penelitian menggunakan data 1000 dokumen berita dan 450 dokumen abstrak
+akademik. Hasil penelitian menunjukkan pada dokumen berita akurasi maksimal dicapai 91% sedangkan pada
+dokumen akademik 82%. Seleksi kata dengan minimal muncul pada 4 atau 5 dokumen memberikan akurasi yang
+paling tinggi.naïve bayes classifier , klasifikasi, akurat, seleksi kata   

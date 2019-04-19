@@ -1,0 +1,14 @@
+Pembangunan Sistem Informasi Geografis Usaha Mikro Kecil  Dan Menengah Di Kabupaten Kudus Berbasis Web Pembangunan sistem informasi geografis berbasis web untuk menampilkan jenis Usaha
+Mikro, Kecil dan Menengah (UMKM) saat ini masih sangat terbatas, khususnya di wilayah Kabupaten 
+Kudus. Kabupaten Kudus merupakan salah satu kabupaten yang memiliki banyak potensi. Saat ini,
+Dinas Perindustrian Koperasi dan Usaha Mikro Kecil Menengah (UMKM) Kabupaten Kudus belum
+memiliki fasilitas untuk memonitoring perkembangan UMKM yang ada di Kabupaten Kudus secara
+menyeluruh dan efisien. Hal ini disebabkan karena data masih disimpan dalam bentuk arsip maupun
+komputer secara manual. Oleh sebab itu Pembangunan Sistem Informasi Geografis Usaha Mikro,
+Kecil dan Menengah di Kabupaten Kudus ini sangat diperlukan demi mengefesiensi waktu dan
+mempermudah dalam input data. Penelitian ini dilakukan dengan observasi mendatangi langsung
+kantor Dinas Perindustrian Koperasi dan Usaha Mikro Kecil Menengah (UMKM) Kabupaten Kudus.
+Dengan adanya aplikasi Sistem Informasi Geografis Usaha Mikro, Kecil dan Menengah di Kabupaten
+Kudus, diharapkan mempermudah untuk menginformasikan dan memonitoring semua jenis UMKM
+yang ada di Kabupaten Kudus. Sistem Informasi Geografis , Usaha Mikro Kecil dan Menengah
+ 

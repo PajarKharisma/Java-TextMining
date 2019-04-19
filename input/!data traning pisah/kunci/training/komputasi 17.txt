@@ -1,0 +1,1 @@
+data mining, association rules, market basket analysis, Apriori, frequent pattern growth, FP - growth 

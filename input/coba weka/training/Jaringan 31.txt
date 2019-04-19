@@ -1,0 +1,11 @@
+PERANCANGAN DAN PEMBUATAN MOBILE KALKULATOR IP ADDRESS
+BERBASIS ANDROID Pengalamatan Internet Protocol (IP address) pada jaringan adalah hal yang mutlak harus
+dilakukan. Alamat IPv4 (Ip Address versi 4) akan sulit bila dilakukan pada jaringan skala besar yang
+memiliki beberapa kelompok jaringan di dalamnya. Alamat IPv4 yang tidak hanya dirancang untuk secara
+akurat dan cepat, namun perlu memiliki efisiensi untuk menghindari pemborosan alamat IPv4 dalam
+jaringan, ini dinamakan metode distribusi ganda, metode ini disebut subnetting.
+Aplikasi kalkulator yang akan dibuat ini akan memberikan informasi tentang jumlah host, range ip
+host, range network, network id, broadcast id, subnet mask, banyak subnet dan metode subnetting. yang
+dapat diakses disemua tempat menggunakan perangkat telepon pintar (smartphone) yang bersistem operasi
+android.
+ Ipv4, subneting ,Android.

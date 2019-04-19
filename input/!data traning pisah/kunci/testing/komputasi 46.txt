@@ -1,0 +1,1 @@
+Text Mining, Association Rule, Stopword, Parsing, Stemming. 

@@ -1,0 +1,13 @@
+Penelitian ini bertujuan untuk mengetahui kemampuan adsorpsi dari bentonit yang diaktivasi dengan NaOH
+dalam mengurangi ion Pb2+dan ion Cu2+ dalam larutan. Karakterisasi dari Bentonit teraktivasi NaOH dilakukan
+dengan penentuan luas permukaan spesifik menggunakan metode adsorpsi metilen biru, penentuan jumlah situs aktif
+dengan metode titrasi asam-basa, dan penentuan basal spacing menggunakan difraksi sinar-X (XRD). Parameter
+adsorpsi seperti waktu kontak, pH, dan isoterm adsorpsi ditentukan dengan mengunakan metode spektrofotometer
+serapan atom (SSA). Hasil penelitian menunjukkan bahwa bentonit teraktivasi oleh NaOH memiliki luas permukaan
+dan jumlah situs aktif yang lebih tinggi yaitu sebesar 22,1017 (m2/g) dan 32,8716 x 1020 atom/gram dibandingkan
+dengan bentonit tanpa aktivasi yaitu sebesar 12,6602 (m2/g) dan 31,5847 x 1020 atom/gram berturut-turut. Kondisi
+optimal untuk proses adsorpsi Pb2+ diperoleh waktu kontak dibawah 5 menit pada pH 3 dengan mengikuti pola
+isoterm Langmuir sedangkan pada kondisi optimal untuk proses adsorpsi ion logam Cu2+ diperoleh pada waktu
+kontak dibawah 5 menit dengan pH 4 dan menigkuti pola isoterm Langmuir yang berlangsung secara adsorpsi kimia.
+Kapasitas adsorpsi bentonit teraktivasi untuk ion logam Pb2+ dan ion logam Cu2+ adalah 185,50 mg/g dan 30,00
+mg/g berturut-turut.

@@ -1,0 +1,14 @@
+Kadar gula penyusun madu menurut SII selama ini ditentukan berdasarkan total gula pereduksi sehingga
+belum bisa diketahui kadar masing-masing gula penyusun madu tersebut. Madu mengandung berbagai jenis gula
+pereduksi yaitu glukosa, fruktosa, dan maltosa. Penelitian ini bertujuan untuk mengetahui kadar glukosa dan fruktosa
+dengam metode KCKT terhadap dua jenis madu dari jenis bunga yang berbeda.
+Kondisi operasional KCKT diatur pada suhu kolom 80ºC dan laju alir 1 mL/menit, menggunakan kolom
+metacarb 87C dan eluen air deionisasi. Deteksi dilakukan dengan menggunakan detektor indeks bias, dimana
+glukosa dan fruktosa dipisahkan pada waktu retensi masing-masing sekitar 6 dan 7 menit. Prosedur tersebut
+digunakan untuk penentuan kadar glukosa dan fruktosa pada sampel madu yaitu madu randu dan madu kelengkeng.
+Hasil penelitian menunjukkan bahwa kadar glukosa pada madu randu adalah sebesar 27,13 % dan pada
+madu kelengkeng sebesar 28,09 %. Kadar fruktosa pada madu randu sebesar 40,99 % dan pada madu kelengkeng
+sebesar 40,03 %. Hal ini menunjukkan bahwa masing-masing sampel yang diteliti memiliki kadar glukosa dan
+fruktosa yang sesuai dengan syarat mutu madu nasional dimana kandungan gula pereduksi (glukosa dan frukosa)
+total adalah minimal 60%. Kadar gula pereduksi total pada madu randu adalah sebesar 68,12 % sedangkan pada
+madu kelengkeng sebesar 68,12 %.

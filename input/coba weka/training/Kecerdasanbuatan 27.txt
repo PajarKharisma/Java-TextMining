@@ -1,0 +1,13 @@
+SISTEM PAKAR METODE DAMSTER SHAFER
+UNTUK MENENTUKAN JENIS GANGGUAN
+PERKEMBANGAN PADA ANAK Sistem pakar (expert system) adalah sistem yang menggunakan pengetahuan manusia, dimana pengetahuan
+tersebut dimasukkan  ke dalam sebuah komputer, dan kemudian digunakan untuk menyelesaikan masalah -masalah
+yang biasanya membutuhkan kepakaran atau keahlian manusia. Dalam kasus ini, sistem pakar digunakan untuk
+menentukan jenis gangguan perkembangan pada anak, dimana ada beberapa jenis gangguan yang bisa dialami oleh
+anak usia antara 1-10 tahun, karna itu dalam kasus ini, sisten pakar digunakan untuk membantu pihak-pihak yang
+ingin mengetahui jenis gangguan pada anak, dimana dalam kasus ini ada empat jenis gangguan yang dibahas, yaitu
+gangguan pemusatan perhatian, gangguan belajar, autisme dan gangguan bicara. Didalam penerapan sistem pakar
+ini dibantu dengan menggunakan metode demster shafer. Demster shafer adalah suatu teori matematika untuk
+pembuktian berdasarkan belief functions and plausible reasoning (fungsi kepercayaan dan pemikiran yang masuk
+akal), yang digunakan untuk mengkombinasikan potongan informasi yang terpisah (bukti) untuk mengkalkulasi
+kemungkinan dari suatu peristiwa.Sistem Pakar, Gangguan perkembangan pada anak, Demster Shafer

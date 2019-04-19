@@ -1,0 +1,8 @@
+SYSTEM MONITORING PENGIRIMAN DATA PADA JARINGAN KOMPUTER
+Dari hasil dari permasalahan yang fait accompli dalam komunikasi data pada
+jaringan komputer, seperti pembubaran komunikasi data. Dilakukan penelitian
+dengan metode penelitian lapangan dan metode penelitian laboratorium. Dari
+penelitian ini memiliki hasil alat itu bisa monitoring komunikasi data dalam
+jaringan komputer menggunakan ADC dan Kartu Ethernet. Dengan ini alat
+komunikasi data dapat diskontinuitas dari awal.
+Sistem Monitoring, Jaringan Komputer, Komunikasi Data, ADC

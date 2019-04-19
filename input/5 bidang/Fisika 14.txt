@@ -1,0 +1,16 @@
+Bahan penyerap memiliki karakteristik akustik yang memantulkan dan menyerap gelombang
+bunyi. Penyerapan oleh bahan berpori sangat berguna untuk mengurangi tingkat kekuatan bunyi
+yang terjadi sehingga dapat mengurangi kebisingan di dalam ruangan. Koefisien Penyerapan
+Bunyi (NAC) dari Acoustic Sandwich Composite (ASC) diuji dengan menggunakan tabung Kundts
+Tube impedansi dua mikrofon sesuai dengan standar ASTM 1050-98. Dimensi ASC terdiri dari 1
+inti dan 2 kulit dengan diameter 100 mm. Kulit di sisi bagian depan didisain memiliki 5 lubang (d =
+10 mm) dengan variasi 4 ketebalan yang berbeda dari busa poliuretan (busa-PU) yaitu 10, 20, 30
+dan 40 mm yang digunakan sebagai inti dari ASC. Kulit atau skin di kedua sisi komposit sandwich
+terbuat dari poliester yang diperkuat bahan serat alam agave sisalana acak dan panjang dengan
+tebal 5 mm. Nilai Koefisien Penyerapan Bunyi (NAC) diberikan nilai 0-1, yang berarti penyerapan
+bunyi tidak ada akan bernilai 0, dan penyerapan bunyi mencapai maksimum apabila bernilai 1
+pada rentang frekuensi 0 Hz -1,6 kHz. Pada penelitian ini terlihat sifat busa polyurethane dengan
+ketebalan 30 mm baik pada rentang frekuensi rendah dengan nilai NAC tertinggi adalah 0,46. ASC
+dengan ketebalan busa PU 30 mm memiliki kenaikan harga NAC di frekuensi rendah (400 Hz-1000
+Hz), nilai tertinggi 0,80 di frekuensi 800 Hz. ASC dengan ketebalan busa PU 10 mm baik untuk
+frekuensi menengah (1000 Hz-1600), nilai tertinggi 0,89 pada frekuensi 1200 Hz.

@@ -1,0 +1,16 @@
+Telah dilakukan sintesis bahan YSZ (Yttria Stabilized Zirkonia, ZrO2-Y2O3) dengan metode reaksi
+padatan (solid state reaction) yaitu melalui proses penggerusan. Proses pemaduan bahan YSZ
+dilakukan dengan mencampurkan serbuk yttria dan zirkonia yang digerus bersama-sama selama
+5 jam dengan komposisi Y2O3 dan ZrO2 (4,5:95,5 dan 8,0:92,0) %mol. Setelah itu serbuk paduan
+dikalsinasi pada temperatur 500°C selama 3 jam, kemudian dikompaksi pada tekanan 4000 psi dan
+sintering pada temperatur 1300°C selama 3 jam. Selanjutnya, sampel digerus dan dikalsinasi
+kembali pada temperatur 500°C selama 3 jam, dikompaksi pada tekanan ~14.600 psi dan sintering
+pada temperatur 1400°C selama 3 jam. Identifikasi fasa dari senyawa yang terbentuk, pengamatan
+morfologi dan konduktivitas ionik pada sampel hasil sintesis tersebut dilakukan berturut-turut
+dengan menggunakan XRD spektroskop, SEM-EDS dan LCR meter. Hasil analisis menunjukkan
+bahwa telah berhasil terbentuk YSZ pada bahan hasil sintesis untuk kedua komposisi YSZ. Hal ini
+ditunjukkan dengan teridentifikasinya fasa kubik yang mendominasi pada bahan YSZ yang
+dihasilkan walaupun masih teridentifikasi sebagian kecil fasa monoklinik zirkonia. Lebih lanjut lagi,
+nilai konduktivitas ionik yang diperoleh cukup baik yang menunjukkan bahan YSZ yang terbentuk.
+Nilai ini meningkat dengan bertambahnya temperatur dan komposisi yttria sesuai dengan
+karakteristik ionik pada padatan.

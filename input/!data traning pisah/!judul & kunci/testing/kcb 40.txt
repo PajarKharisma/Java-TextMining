@@ -1,0 +1,1 @@
+Sistem Pakar untuk Diagnosis Kerusakan Mesin Mobil Panther Berbasis Mobile perangkat mobile, sistem akar, forward dan backward chaining, WAP, WML, PHP

@@ -1,0 +1,21 @@
+PENERAPAN PERANGKAT LUNAK OPEN SOURCE OWNCLOUD SEBAGAI SERVER
+PENYIMPANAN DATA BERBASIS WEB
+Jaringan komputer dibangun untuk mempermudah pekerjaan berupa sharing data, media
+komunikasi, keamanan data serta pemantauan jaringan. Sejumlah penelitian telah membahas
+tentang aplikasi berbagi data ini, pada penelitian sebelumnya. Hasil dari kedua penelitian ini
+adalah penerapan teknologi streaming di Sekolah Tinggi Teknologi Garut yang memudahkan
+pengguna untuk mengunduh dan mengunggah berkas video secara realtime dari dan ke dalam
+server streaming. Sementara itu program studi Teknik Informatika telah menerapkan google apps
+untuk penyimpanan data akademik di internet. Kekurangan dari penelitian tersebut adalah server
+streaming hanya dapat menyimpan berkas video saja, sementara kekurangan dari penerapan
+google apps adalah bergantungnya Sekolah Tinggi Teknologi Garut kepada Google selaku
+penyedia layanan dan kepada koneksi internet. Tujuan untuk mengatasi kekurangan tersebut,
+metode yang digunakan yakni metode Rekayasa Sistem Jaringan Komputer. Rekayasa sistem adalah
+kumpulan konsep, pendekatan dan metodologi serta alat - alat bantu untuk merancang dan
+menginstalasi sebuah kompleks sistem. Metode tersebut melalui tahapan - tahapan, antara lain:
+requirements gathering, selection and design, implementation, operation, dan review and
+evaluation. Dari penerapan tersebut diketahui bahwa perangkat lunak owncloud ini menunjang
+penyimpanan data akademik yang terintegrasi dengan perangkat teknologi informasi serta dapat
+menunjang penyimpanan data baik berupa video, audio, image, teks agar dapat diakses di jaringan
+intranet maupun internet.
+Jaringan Komputer, Rekayasa Sistem Jaringan Komputer, Cloud Application.

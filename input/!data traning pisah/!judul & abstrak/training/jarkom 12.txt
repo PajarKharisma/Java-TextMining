@@ -1,0 +1,34 @@
+Implementasi Komunikasi Data Berbasis ZigBee pada
+SCADA (Supervisory Control and Data Acquisition) PLTMh Pusat Listrik Tenaga Mikrohidro (PLTMh) telah
+banyak dikembangkan sebagai penyedia energi. Sistem
+pengendalian PLTMh di Indonesia telah banyak menggunakan
+sistem pengendali otomatis. Hal ini dilakukan agar
+pengoperasian dan pemantauan dapat dilakukan dari jarak jauh.
+Salah satu model pengendali jarak jauh PLTMh dikenal dengan
+nama SCADA. Bagian utama dari SCADA adalah Master Station
+(MS), Remote Terminal Unit (RTU) & Sistem Komunikasi.
+Sistem Komunikasi dalam SCADA dapat dibangun dalam
+beberapa pilihan baik wired maupun wireless. Pengendalian
+jarak jauh dapat dibangun dengan menggunakan sistem
+Jaringan Sensor Nirkabel (WSN). Penerapan WSN dalam
+pengoperasian SCADA mampu mempermudah instalasi dan
+meningkatkan kehandalan komunikasi. Penelitian ini
+menerapkan teknologi ZigBee untuk komunikasi data
+pengendalian SCADA PLTMh. ZigBee dipilih karena bebas
+biaya operasi dan lisensi, fitur OSI dan rendahnya biaya peranti 
+sehingga sesuai untuk aplikasi PLTMh. Pada penerapannya
+perangkat keras ZigBee dibagi menjadi beberapa bagian:1 buah
+Coordinator pada bagian Master Station (MS), 2 buah End Device
+yaitu pada masing-masing titik unit RTU dan 1 buah Router
+sebagai pelompat data antara Coordinator &End Device. Jarak
+terjauh antara Coordinator dan End Device dengan melewati
+Router dapat mencapai 645meter, pengujian tersebut dilakukan
+dalam keadaan LOS (Line of Sight). Sinyal RSSI pada ZigBee
+dimanfaatkan untuk melihat besar kekuatan penerimaan sinyal
+pada Coordinator sebagai pengumpul data. Nilai RSSI (-dBm)
+menjadi semakin kecil pada variasi jarak maksimal, ini berarti
+kekuatan sinyal yang terjadi pada titik lompatan data semakin
+rendah. Komunikasi data berbasis ZigBee  untuk membentuk
+jaringan SCADA sudah dapat dibangun dengan baik pada model
+join a network yaitu antara Coordinator – Router – End Device
+pada jarak terjauh  645 meter dengan kekuatan sinyal -82dBm.

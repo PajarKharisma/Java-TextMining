@@ -1,0 +1,10 @@
+Telah dilakukan penelitian laju korosi dan mekanisme inhibisi aluminium murni menggunakan kalium
+stearat dan kalsium stearat. Penelitian ini bertujuan untuk memperluas jenis inhibitor dari garam-garam kalium dan
+kalsium dari stearat, dan menjelaskan mekanisme reaksi inhibisi korosi aluminium serta pengaruhnya terhadap laju
+korosi dalam suasana asam.
+Garam-garam kalium dan kalsium stearat dapat menginhibisi terjadinya korosi aluminium murni pada
+konsentrasi 60 ppm, suasana asam (pH 3), temperatur 25 oC. Efisiensi inhibisi dan laju korosi relatif sebagai
+berikut : kalsium stearat (76 % ;0,31), kalium stearat (73 % ; 0,35). Hasil kajian adsorpsi secara kromatografis dan
+spektroskopis mendukung kesimpulan bahwa mekanisme yang terjadi pada proses inhibsi aluminium oleh kalium
+stearat dan kalsium stearat, akibat terjadinya komplek antara atom/ion aluminium dengan stearat (ligan bidentat)
+yang menyumbangkan pasangan elektron bebas pada aluminium.

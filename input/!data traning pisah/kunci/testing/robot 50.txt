@@ -1,0 +1,1 @@
+Metode Logic Fuzzy, robot pemadam api (KRPAI), mikrokontroler, sistem kontrol navigasi robot.

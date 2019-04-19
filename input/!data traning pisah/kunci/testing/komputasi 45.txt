@@ -1,0 +1,1 @@
+antcolony optimization, classification, min _ case _ per _ rule, term, pheromone updating

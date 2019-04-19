@@ -1,0 +1,14 @@
+Sistem Informasi Alumni Fakultas Ilmu Komputer
+Universitas Klabat Suatu perguruan tinggi sangat membutuhkan informasi mengenai data alumni seperti, jurusan,
+tahun kelulusan, tempat para alumni tersebut bekerja, dan masih banyak lagi kegiatan – kegiatan
+perguruan tinggi yang sangat erat dengan para alumni. Universitas klabat masih memiliki kendala dalam
+mengkoordinir data alumni, diantaranya masih menggunakan sistem manual dalam pendataannya, hal
+ini sangat menyulitkan pihak fakultas ilmu komputer yang masih belum memiliki suatu sistem informasi
+yang mampu menyimpan dan mengelola data alumni. Dibutuhkan sistem sebagai media penghubung
+antara fakultas dengan lulusannya dengan menerapkan sistem informasi berbasis web yang mampu
+memberikan informasi dengan cepat, dan uptodate. Modified waterfall sebagai metode pengembangan
+system, Unified Modelling Language (UML) sebagai alat mendokumentasikan system, PHP sebagai
+bahasa pemprograman, Apache sebagai web server, dan MySQL sebagai databasenya. Menghasilkan
+suatu rancangan sistem informasi alumni fakultas ilmu komputer universitas klabat yang dapat menjadi
+alat bantu fakultas dalam meningkatkan efektifitas dan efesiensi dalam pendataan dan laporan tracer
+study dengan cepat.  sistem informasi, alumni, PHP, MySQL, modified waterfall 

@@ -1,0 +1,14 @@
+Telah dilakukan sintesis Bi1,6Pb0,4Sr2Ca2Cu3O10+d dengan penambahan CNT (carbon nanotube) 
+dan penambahan TiO2 menggunakan metoda reaksi padatan dengan proses sintering berulang. 
+Penambahan CNT sebesar 0,1 %berat dan TiO2 sebesar 5 %berat dan sintering berulang 
+dilakukan untuk mempelajari pengaruhnya terhadap pembentukan fasa 2223 beserta pengotornya, 
+dan mempelajari perubahan morfologi Bi1,6Pb0,4Sr2Ca2Cu3O10+d. Bi1,6Pb0,4Sr2Ca2Cu3O10+d yang 
+dibuat dianalisis dengan XRD (x-ray diffractometer) dan SEM (scanning electron microscopy). 
+Berdasarkan hasil XRD, penambahan 0,1 %berat CNT dan TiO2 sebesar 5 %berat pada superkonduktor 
+Bi(Pb)-2223 diketahui menghasilkan fasa 2223, fasa 2212, dan juga fasa pengotor. Namun
+proses sintering berulang mampu mengurangi fasa impuritas, meningkatkan fraksi volume 2223, 
+serta menurunkan fraksi volume 2212. Berdasarkan pengamatan struktur morfologi melalui SEM, 
+penambahan CNT pada superkonduktor Bi(Pb)-2223 membentuk serpihan memanjang dengan ruang 
+porositas yang besar sedangkan penambahan TiO2 membentuk gumpalan pada struktur morfologi 
+Bi(Pb)-2223. Proses sintering berulang mampu memperbaiki struktur morfologi B-CNT dan B-TiO 
+menjadi semakin rapat dan ruang porositas yang semakin kecil.

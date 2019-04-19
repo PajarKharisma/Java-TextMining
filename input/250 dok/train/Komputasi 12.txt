@@ -1,0 +1,7 @@
+PENGENALAN POLA ALPHABET TULISAN TANGAN
+SECARA ON-LINE DENGAN JST - BP Telah dibangun sistem cerdas berbasis jaringan syaraf tiruan dan pengolahan citra
+dengan GUI Matlab 7.0. Sistem ini dirancang untuk pengenalan pola on-line. Pada eksperimen
+ini, sistem dilatih dan diuji dengan pola tulisan tangan kapital, yang di - capture otomatis oleh
+webcam secara on-line. Secara umum, hasil eksperimen menunjukkan bahwa sistem dapat
+mengenali pola dengan akurasi yang tinggi.
+ Jaringan Syaraf Tiruan, Matlab, Pengenalan pola, Webcam

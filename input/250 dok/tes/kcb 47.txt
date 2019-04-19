@@ -1,0 +1,21 @@
+SISTEM PAKAR UNTUK DIAGNOSA TINGKAT RESIKO PENYAKIT
+RABIES PADA ANJING MENGGUNAKAN METODE FUZZY
+INFERENCE SYSTEM TSUKAMOTO
+Rabies merupakan salah satu penyakit zoonosis yang paling ditakuti.yang dapat menulari manusia melalui
+gigitan anjing yang mengidap rabies.Rabies ini merupakan penyakit yang sangat menakutkan dan sangat
+ganas.Rabies langsung menyerang susunan syaraf pusat(otak).acute enchepalo myelitis dengan gejala yang
+sangat khusus dan dengan gangguan syaraf yang jelas , dimana anjing menjadi sangat
+agresif,photophobia(takut terhadap sinar dan takut air yang berlebihan yang selalu diakhiri dengan kematian.
+Dari permasalahan diatas maka akan dibuat sistem komputerisasi yaitu sistem pakar.Dimana sistem pakar
+ini dapat mendiagnosa tingkat resiko penyakit rabies pada anjing setelah anjing tergigit oleh anjing lain atau
+mengalami perubahan berdasarkan gejala klinis yang timbul dari anjing tersebut sehingga akan dilakukan
+penanganan lebih lanjut mengenai tingkat resiko penyakit rabies. Pada penelitian ini akan diterapkan suatu
+metode untuk membantu mendiagnosa tingkat resiko penyakit rabies pada anjing berdasarkan gejala klinis
+yang timbul.Metode yang digunakan adalah Fuzzy logic yaitu Metode Tsukamoto. Dalam penelitian ini maka
+hasil yang diharapkan adalah hasil perhitungan dari metode tsukamoto yang menyimpulkan tingkat resiko
+penyakit rabies pada anjing berdasarkan gejala klinis yang tampak pada anjing. Metode ini memberikan
+ruang pada pakar dalam memberikan nilai kepercayaan pada pengetahuan yang diungkapkannya. Pada
+penelitian ini pengujian yang digunakan yaitu pengujian akurasi sistem pakar dengan data uji sebanyak 30
+kasus. Hasil pengujian menunjukkan uji akurasi sebesar 93% dari 30 kasus menggunakan metode
+Tsukamoto.
+Rabies, sistem pakar, Fuzzy Logic Tsukamoto

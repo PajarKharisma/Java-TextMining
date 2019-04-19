@@ -1,0 +1,23 @@
+PENGENALAN WAJAH DENGAN MATRIKS KOOKURENSI
+ARAS KEABUAN DAN JARINGAN SYARAF TIRUAN
+PROBABILISTIK
+Sistem pengenalan wajah merupakan pengembangan metode dasar sistem
+autentifikasi dengan menggunakan karakteristik alami wajah manusia sebagai
+dasarnya. Proses pengenalan citra wajah ini melalui beberapa tahap yaitu tahap
+pelatihan dan tahap pengujian. Pada tahap pengujian dilakukan secara langsung
+dan tidak langsung. Secara tidak langsung data uji bersumber dari sekumpulan
+citra wajah yang sudah dipilih, sedangkan secara langsung citra wajah bersumber
+dari kamera. Pengenalan citra wajah manusia menggunakan penggabungan antara
+metode GLCM dan PNN. Tahap prapengolahan dengan merubah RGB ke dalam
+aras keabuan dengan metode centroid sebagai proses segmentasi citra wajah.
+Faktor pengenalan wajah yang diuji meliputi pencahayaan, jarak, sudut serta
+posisi. Pada GLCM menggunakan metode statistik dan analisis tekstur orde kedua
+karena merepresentasikan tekstur citra dalam parameter energi, korelasi,
+homogenitas dan kontras. Sedangkan PNN digunakan untuk pembentukan
+basisdata yang disimpan dalam jaringan untuk proses membandingkan hasil
+keluaran yang berupa data matrik hasil dari GLCM. Pada penelitian ini digunakan
+citra wajah sebagai basisdata dengan sampel sebanyak 10 orang dan 5 posisi
+wajah, 2 jarak pengambilan gambar citra wajah, serta 3 kategori pencahayaan.
+Proses pengujian menghasilkan tingkat pengenalan secara langsung sebesar 92%,
+sedangkan pengujian secara tidak langsung sebesar 93,33%.
+ GLCM, PNN, Centroid, Prapengolahan

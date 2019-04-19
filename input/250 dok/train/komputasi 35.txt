@@ -1,0 +1,30 @@
+Pengenalan Pola Gerak Mulut Dengan Menggunakan
+Pendekatan SOM (Self Organaizing Feature Map)
+Pengenalan pola gerak mulut
+merupakan salah satu acuan yang digunakan untuk
+pengenalan ekspresi emosi manusia berdasarkan
+ekspresi wajah. Emosi manusia dapat
+diklasifaksikan menjadi enam sampai tujuh katagori
+yaitu, marah, khawatir, sedih, jijik.bahagia,
+terkejut, dan normal. Dalam penelitian ini akan
+dilakukan pengenalan pola gerak mulut yang
+terjadi dalam sebuah adegan rekaman
+video.Rekaman video terlebih dahulu diekstraksi
+dalam bentuk image frame. Pada setiap image
+frame dilakukan segmentasi untuk mendapat area
+mulut. Metode segmentasi mulut yang digunakan
+adalah dengan menggunakan peta mulut, yang
+didasarkan pada warna bibir yang khas. Proses
+selanjutnya adalah melakukan crooping
+berdasarkan tepi mulut yang sudah tersegmentasi.
+Selanjutnya dilakukan penentukan feature tepi dari
+hasil crooping yang didapat. Pada Tahap akhir
+dilakukan pengenalan pola gerak mulut dengan
+menggunakan metode SOM ( selft Organaizing
+feature Maps), sehingga pola gerak mulut yang
+sejenis akan berada dalam cluster yang sama. Hasil
+eksperiment menunjukan pengenalan gerak mata
+dengan menggunakan SOM mampu menidentifikasi
+dengan keakuratan 83%.
+Jaringan Kohenen, SOM, Pengenalan
+Pola, Segmentasi Mulut

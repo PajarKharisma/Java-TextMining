@@ -1,0 +1,9 @@
+Berkembangnya dunia teknologi informasi tentu saja membawa dampak
+semakin besarnya data yang beredar dan terus bertambah besar secara signifikan, dan
+pengolahan data awal atau preprocessing text dalam proses text mining di harapkan dapat
+mengurangi dengan menghilangkan kata – kata atau teks yang tidak perlu atau tidak mempunyai
+arti dari database teks atau dokumen. Dengan berkurangnya jumlah teks diharpakan dapat
+meringankan proses selanjutnya dalam rangka menambang informasi yang berada dalam
+dokumen – dokumen ataupun teks- teks yang di proses dengan menerapkan bebrapa metode
+yang ada untuk dapat menghasilkan informasi yang berguna dari teks tersebut tanpa mengurangi
+arti ataupun makna serta informasi yang dikandung dalam dokumen tersebut.

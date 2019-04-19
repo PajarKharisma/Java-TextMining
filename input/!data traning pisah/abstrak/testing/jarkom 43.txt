@@ -1,0 +1,4 @@
+Kemajuan di bidang Jaringan dan Informasi Komputer Teknologi memiliki dampak positif dalam kehidupan manusia, misalnya dalam bisnis. Penggunaan teknologi informasi dalam perusahaan yang berada di kantor pusat dan cabang masih mengirimkan laporan keuangan melalui email dengan menggunakan  pemanfaatan VHP Online Reporting System. 
+Teknologi yang akan didukung oleh jaringan terpadu yang
+menghubungkan kantor pusat dan cabang menggunakan IP publik
+dari ISP (Internet Service Provider). Penelitian ini menggunakan Aplikasi VHP Online Reporting System. Hasil pengujian jaringan yang menggunakan aplikasi tersebut menunjukkan bahwa laporan keuangan di kantor cabang tidak akan dapat memodifikasi data dan hal - hal yang tidak di inginkan dan mendapatkan sistem yang terintegrasi antara kantor pusat dan cabang yang sangat membantu dalam proses kerja.

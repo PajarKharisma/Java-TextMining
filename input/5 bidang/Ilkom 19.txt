@@ -1,0 +1,19 @@
+Algoritma k Nearest Neighbor (kNN) merupakan metode untuk melakukan klasifikasi terhadap 
+objek baru berdasarkan k tetangga terdekatnya. Algoritma kNN memiliki kelebihan karena 
+sederhana, efektif dan telah banyak digunakan pada banyak masalah klasifikasi. Namun 
+algoritma kNN memiliki kelemahan jika digunakan pada dataset yang besar karena 
+membutuhkan waktu komputasi cukup tinggi. Pada penelitian ini integrasi metode 
+Sample Bootstrapping dan Weighted Principal Component Analysis (PCA) diusulkan untuk 
+meningkatkan akurasi dan waktu komputasi yang optimal pada algoritma kNN. Metode 
+Sample Bootstrapping digunakan untuk mengurangi jumlah data training yang akan diproses. 
+Metode Weighted PCA digunakan dalam mengurangi atribut. Dalam penelitian ini menggunakan 
+dataset yang memiliki dataset training yang besar yaitu Landsat Satellite sebesar 
+4435 data dan Tyroid sebesar 3772 data. Dari hasil penelitian, integrasi algoritma kNN 
+dengan Sample Bootstrapping dan Weighted PCA pada dataset Landsat Satellite akurasinya 
+meningkat 0.77% (91.40%-90.63%) dengan selisih waktu 9 (1-10) detik dibandingkan algoritma 
+kNN standar. Integrasi algoritma kNN dengan Sample Bootstrapping dan Weighted PCA pada 
+dataset Thyroid akurasinya meningkat 3.10% (89.31%-86.21%) dengan selisih waktu 11 (1-12) 
+detik dibandingkan algoritma kNN standar. Dari hasil penelitian yang dilakukan, dapat 
+disimpulkan bahwa integrasi algoritma kNN dengan Sample Bootstrapping dan Weighted PCA 
+menghasilkan akurasi dan waktu komputasi yang lebih baik daripada algoritma kNN standar.
+Keywords: algoritma kNN, Sample Bootstrapping,

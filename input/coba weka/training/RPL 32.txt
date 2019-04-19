@@ -1,0 +1,18 @@
+Media Pembelajaran Mengenal Komputer  Sekolah Menengah Pertama kelas 1 Teknologi komputer merupakan hal yang tidak asing lagi dikalangan 
+masyarakat.Komputer tidak hanya dapat digunakan oleh orang dewasa saja, akan tetapi siswa
+yang duduk di bangku Sekolah Menengah Pertama pun layak untuk diperkenalkan pada
+teknologi komputer. Pendidikan anak pada usia dini sangat diperlukan karena pada tahap
+tersebut sistem pengajaran akan mempengaruhi tingkah laku dan pola berfikir anak. Rasa
+keinginantahuan anak akan timbul jika ia menemukan sesuatu hal yang baru dan ada
+kecenderungan ingin mencoba hal tersebut, pada saat itulah seorang anak perlu bimbingan
+yang tepat. Membaca adalah suatu hal yang mutlak bagi seorang anak yang duduk dibangku
+Sekolah Menengah Pertama, yaitu mengenal komputer dan perangkatnya. Untuk belajar
+mengenal komputer adalah dasar yang wajib dipahami bagi anak pada jenjang pendidikan
+Sekolah Menengah Pertama. Penelitian ini bertujuan untuk menghasilkan modul interaktif
+mengenal komputer. Sehingga dapat memberikan manfaat yang lebih kepada banyak pihak.
+Antara lain bagi dunia pendidikan dapat memberikan tambahan referensi metode baru
+pembelajaran mengenal Komputer, penulis rancang dan kemas menggunakan perangkat lunak
+aplikasi Adobe Flash CS 3. Penelitian ini akan menggunakan metode analisis dan
+perancangan, desain antar muka dan perancangan perangkat lunak media interaktif. Hasil
+penelitian ini diharapkan dapat meningkatkan kualitas belajar peserta didik Sekolah Menengah
+Pertama yang pada akhirnya mendorong dunia pendidikan kearah yang lebih maju. Media Pembelajaran interaktif

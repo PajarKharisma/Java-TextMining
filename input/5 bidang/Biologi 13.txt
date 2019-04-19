@@ -1,0 +1,14 @@
+Dewasa ini masalah keterbatasan Bahan Bakar Minyak (BBM) di dunia terjadi karena bahan baku yang 
+berasal dari fosil sudah mulai habis. Bioetanol merupakan bahan bakar alternatif yang berpotensi 
+menggantikan BBM. Bioetanol adalah etanol hasil proses fermentasi biomassa dengan bantuan mikroorganisme. 
+Bahan baku pembuatan bioetanol adalah bahan bergula, berpati dan berserat. Penelitian ini mencoba 
+membuat bioetanol dari kulit singkong yang merupakan bahan berserat. Selama ini kulit singkong ini 
+hanya masih menjadi limbah atau hanya dimanfaatkan sebagai campuran pakan ternak. Tujuan penelitian 
+ini adalah untuk menentukan konsentrasi H2SO4 optimum pada proses hidrolisa dan menentukan waktu 
+fermentasi optimum pada proses fermentasi. Proses pembuatan bioetanol melalui dua tahap, yaitu 
+hidrolisa asam dan fermentasi. Kulit singkong dihidrolisa dengan menggunakan larutan H2SO4 dalam 
+berbagai variabel konsentrasi (0,2; 0,3; 0,4; 0,5 M) pada suhu 120oC selama 30 menit. Kemudian 
+larutan hasil hidrolisa difermentasi dengan berbagai variabel waktu (24; 48; 72; 96; 120 jam). 
+Dari hasil penelitian diperoleh konsentrasi larutan H2SO4 yang optimum untuk reaksi hidrolisa 
+yaitu 0,3 M dan waktu fermentasi yang optimum pada proses fermentasi adalah 96 jam dimana 
+dihasilkan etanol sebesar 1,95 % v/v dengan densitas 1,052 gr/ml.

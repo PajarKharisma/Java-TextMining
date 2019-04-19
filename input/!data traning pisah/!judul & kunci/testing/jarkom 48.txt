@@ -1,0 +1,5 @@
+Implementasi FTP Server dengan Metode Transfer Layer
+Security untuk Keamanan Transfer Data Menggunakan 
+CentOS 5.8
+Disk Quota, File Transfer Protocol, Secure Shell, Secure Socket
+Layer,Transfer Layer Security. 

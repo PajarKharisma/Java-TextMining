@@ -1,0 +1,1 @@
+artikel berita, confix - stripping stemmer,klasifikasi, naive bayes classifier, support vector machine 

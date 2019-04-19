@@ -1,0 +1,15 @@
+Kondisi kualitas perairan dipengaruhi oleh aktivitas antropogenik dan proses alami. Statistik multivariat,
+seperti analisis klaster (cluster analysis / CA) dan analisis komponen utama (principal component analysis / PCA),
+telah digunakan dalam penelitian ini untuk menganalisis kondisi kualitas perairan dan mengidentifikasi
+parameter kualitas air yang memengaruhi secara keruangan (spasial) dan waktu (temporal) di kawasan
+Teluk Gerupuk, Nusa Tenggara Barat. Data kondisi kualitas perairan di 16 titik pengamatan dikumpulkan
+selama enam bulan program pemantauan dari bulan Juli-Desember 2013. Hasil penelitian menunjukkan
+bahwa CA mengklasifikasikan enam bulan pengamatan menjadi dua periode; periode satu: Juli-September
+2013, dan periode dua: Oktober-Desember 2013. Pengelompokkan ini berhubungan dengan pola musim
+tanam rumput laut di lokasi penelitian. CA juga mengklasifikasikan stasiun pengamatan menjadi tiga kelompok
+besar sesuai dengan kesamaan karakteristik kualitas air. PCA yang diaplikasikan pada seluruh data
+menghasilkan empat komponen utama dengan ragam kumulatif 69,93%. Analisis PCA selama enam bulan
+pengamatan (Juli-Desember) menunjukkan bahwa parameter utama yang memengaruhi variasi kualitas air
+terutama adalah: suhu, pH, dan konduktivitas. Penelitian ini menunjukkan efektivitas statistik multivariat
+untuk analisis dan interpretasi kondisi kualitas perairan baik secara spasial dan temporal. Pendekatan ini
+dapat berguna bagi pengelolaan dan evaluasi kondisi kualitas perairan.

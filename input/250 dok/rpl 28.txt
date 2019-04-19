@@ -1,0 +1,26 @@
+APLIKASI KAMERA PENDETEKSI MOBIL Menggunakan Pendekatan Pengolahan Citra Teknologi pengenalan pola banyak
+digunakan di berbagai aplikasi keamanan. Dalam
+penelitian ini mencoba menerapkan pengenalan pola
+untuk mengidentifikasi objek mobil dan bukan mobil.
+Penelitian ini bertujuan untuk mensimulasikan
+metode pengolahan citra untuk mengidentifikasi jenis
+objek yang masuk ke dalam frame webcam sebagai
+simulasi kamera pengawas. 
+Input dari aplikasi adalah citra yang
+diakuisisi dari stream webcam, kemudian di lakkukan
+proses ekstraksi fitur bentuk menggunakan momen
+invarian dan ekstraksi fitur tekstur menggunakan
+Wavelet Haar. Fitur-fitur yang diperoleh kemudian
+dilatih dengan model jaringan saraf tiruan metode
+Learning Vector Quantization (LVQ). LVQ
+menghasilkan bobot setiap kelas, bobot dari hasil
+pelatihan LVQ akan menentukan kelas dari ciri objek
+yang diuji. Percobaan dilakukan dengan
+mengumpulkan data berupa foto objek mobil dan
+objek bukan mobil. Dari data yang dikumpulkan
+kemudian dikelompokkan berdasarkan jenis objek
+berupa mobil atau bukan mobil. Hasil pengujian
+menunjukan keberhasilan sebesar rata-rata dapat
+mengenali sampai 80% baik untuk data uji dari dalam
+data latih maupun data uji dari luar data latih. LVQ; pengolahan citra; mobil;
+pengenalan pola

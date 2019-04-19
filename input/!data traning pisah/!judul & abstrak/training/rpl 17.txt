@@ -1,0 +1,20 @@
+SISTEM IDENTIFIKASI CITRA JENIS CABAI (Capsicum Annum L.) MENGGUNAKAN METODE KLASIFIKASI CITY BLOCK DISTANCE Sistem pengenalan untuk identifikasi cabai berbasis komputer merupakan
+proses memasukkan informasi berupa citra cabai ke dalam komputer.
+Selanjutnya komputer menterjemahkan serta mengidentifikasi jenis cabai
+tersebut. Pada penelitian ini telah dilakukan perancangan sistem
+identifikasi cabai yang memanfaatkan kamera digital untuk akuisisi data
+citra cabai. Selanjutnya dilakukan pemrosesan awal, ekstraksi ciri dan
+pengklasifikasian. Pada pengembangan sistem ini terdiri dari 2 tahap yaitu
+penentuan pola standar referensi dan pengujian. Data yang digunakan
+sebagai standar referensi sebanyak 5 sampel untuk masing-masing jenis
+cabai yaitu cabai besar, cabai rawit, cabai keriting, dan paprika.
+Sedangkan untuk pengujian unjuk kerja sistem menggunakan 15 sampel
+untuk masing-masing jenis cabai. Pengujian unjuk kerja sistem
+dilakukan dengan melakukan variasi ukuran citra dan metode matrik jarak.
+Hasil pengujian sistem identifikasi citra cabai menunjukkan tigkat akurasi
+yang tinggi sebesar 93 % pada ukuran citra cabai 10x10 dengan
+menggunakan metode klasifikasi lorentzian distance dan paling rendah
+tingkat akurasinya adalah 57% pada ukuran citra citra cabai 20x15 dengan
+menggunakan metode klasifikasi gower distance. Dengan metode ekstraksi
+Ciri citra cabai diekstrasi dalam bentuk vektor ciri yang diperoleh dari
+citra cropping dan teknik klasifikasi metrik jarak city block distance. 

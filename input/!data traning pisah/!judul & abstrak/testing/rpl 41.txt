@@ -1,0 +1,15 @@
+Rancang Bangun Sistem Informasi Keuangan Berbasis Area  
+untuk Pengusaha Kecil (Studi Kasus Batik Wijayanti Semarang) Pencatatan transaksi keuangan yang cermat dan tepat sesuai penggunannya akan menghasilkan
+informasi yang akurat dan up to date bagi setiap pemakai dan yang membutuhkan. Tak terkecuali
+perusahaan kecil dengan volume transaksi yang tidak sedikit di bagian pusat dan cabang juga
+membutuhkan pembukuan transaksi keuangan yang dimilikinya. Dalam menjawab permasalahan dan
+kesulitan yang dialami oleh pengusaha dalam mengambil keputusan yang terkait operasional keuangan
+perusahaan, perlu dibuat suatu sistem informasi keuangan bagi pengusaha kecil berbasis area. Pada
+penelitian ini dikembangkan Sistem Informasi (Sisfo) Keuangan yang berlaku pada pengusaha kecil, “Batik
+Wijayanti Semarang”. 
+Sistem yang dikembangkan adalah antarmuka berbasis web yang dibangun menggunakan paket
+perangkat lunak HTML, PHP dan MySQL. Metode pengembangan sistem ini menggunakan konsep
+pengembangan sistem System Development Life Cycle (SDLC). Sistem pencatatan transaksi keuangan ini
+mengacu pada siklus akuntansi yang dimulai dari pencatatan transaksi ke jurnal, kemudian pencatatan
+penerimaan dan pengeluaran pusat dan cabang, sampai dengan menghasilkan laporan keungan dalam
+bentuk: Buku Besar, Neraca, Laporan Laba/Rugi, dan Laporan Perubahan Modal.  

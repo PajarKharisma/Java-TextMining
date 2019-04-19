@@ -1,0 +1,13 @@
+KATEGORISASI DOKUMEN TEKS SECARA MULTI LABEL
+MENGGUNAKAN FUZZY C-MEANS DAN K-NEAREST
+NEIGHBORS PADA ARTIKEL BERBAHASA INDONESIA Permasalahan kategorisasi dokumen berperan penting dalam sistem temu kembali informasi. Kategorisasi
+dokumen teks yang telah ada biasanya hanya dapat melakukan klasifikasi dengan satu label saja untuk satu
+dokumen. Padahal dalam kenyataannya, sebuah artikel dapat memuat lebih dari satu kategorisehingga label
+dokumen yang diberikan dapat berjumlah lebih dari satu. Untuk itulah, penelitian ini mengusulkan sebuah
+metode baru untuk kategorisasi dokumen teks secara multi label dengan menggunakan fuzzy c-means dan knearest neighbors. Fuzzy c-means melakukan pengelompokan dokumen yang serupa terlebih dahulu sebelum
+proses pemberian label. Kemudian, penentuan label dokumen ditentukan oleh k-dokumen terdekat pada
+kelompok dokumen yang serupa. Uji coba dilakukan terhadap dokumen berita online sejumlah 175 dokumen
+yang terdiri atas tiga kategori label. Hasil uji coba menunjukkan bahwa metode yang diusulkan memberikan
+performa lebih baik dibanding metode lain. Hal ini ditunjukkandengan nilaiF1 sebesar 73,39% dan BEP
+sebesar 75,22%.
+ Fuzzy c-means, Kategorisasi multi-label, K-nearest neighbors

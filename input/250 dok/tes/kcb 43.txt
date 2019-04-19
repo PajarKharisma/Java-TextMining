@@ -1,0 +1,35 @@
+SISTEM PAKAR UNTUK MENDIAGNOSA PENYAKIT KELINCI
+BERBASIS WEB
+Hewan kelinci dalam bisnis peternakan merupakan sektor bisnis yang bisa
+dikatakan menjanjikan. modal untuk beternak kelinci tidaklah besar,
+pemeliharaan mudah, tidak membutuhkan lahan yang luas bahkan pakan
+pun tidak terlalu sulit dan mahal, karena bisa memanfaatkan pakan hijauan
+dan limbah pertanian / pangan yang ada di sekitar lingkungan peternak.
+Bisnis ternak kelinci memang sangat menguntungkan, akan tetapi bisnis ini
+bukan tanpa kendala. Begitu banyak kendala yang ditemui dilapangan,
+menurut data yang diambil di Dinas Peternakan Purworejo. Banyaknya
+kendala yang dapat diatasi seperti perawatan, penanganan penyakit dan
+solusinya, akan tetapi tidak sedikit pula yang tidak dapat diatasi seperti
+jarak lokasi peternak dengan Dinas Peternakan jauh dan kurangnya
+penyuluhan tentang penyakit beserta solusinya kepeternak, pada akhirnya
+menyebabkan peternak Kelinci merugi. Salah satu yang menyebabkan
+peternak merugi menurut penulusuran Dinas Peternakan Purworejo yaitu
+di karenakan penyakit.
+Penelitian mengenai pendiagnosaan penyakit kelinci yang dilakukan
+menggunakan metode penelusuran fakta Forward Chaining dan metode
+kepastian Theorema Bayes. Tahap pengembangan aplikasi diawali dengan
+tahap analisis dan definisi persyaratan yang menghasilkan rekayasa
+pengetahuan, kebutuhan data dan kebutuhan sistem. Tahap kedua yaitu
+perancangan sistem dan perangkat lunak yang menghasilkan perancangan
+proses yaitu Diagram Konteks, Diagram Alir Data, Entity Relationship
+Diagram, Mapping Table, Rancangan tabel dan perancangan menu dan
+antarmuka. Tahap ketiga yaitu implementasi dan pengujian unit dengan
+menggunakan XAMPP, Macromedia Dreamweaver 8 dan Microsoft Office
+Access 2007. Tahap selanjutnya adalah integrasi dan pengujian sistem
+menggunakan Alpha Test dan Blackbox Test.
+Dari pengujian yang dilakukan menghasilkan Sistem Pakar Berbasis Web
+untuk mendiagnosa Penyakit Kelinci yang dapat bekerja seperti layaknya
+seorang dokter hewan. Informasi yang dihasilkan adalah nama penyakit,
+definisi, penyebab, gejala - gejala yang menyertai, keterangan penyakit,
+solusi pengobatan, dan probabilitas penyakit.
+Sistem Pakar, Penyakit Kelinci, Theorema Bayes.

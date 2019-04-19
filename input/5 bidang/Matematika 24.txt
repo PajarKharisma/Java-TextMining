@@ -1,0 +1,14 @@
+Volatilitas adalah suatu besaran yang mengukuran seberapa jauh suatu harga saham
+bergerak dalam suatu periode tertentu dapat juga diartikan sebagai persentase simpangan
+baku dari perubahan harga harian suatu saham. Menurut teori yang dikembangkan oleh Black-
+Scholes in 1973, semua harga opsi dengan ’underlying asset’ dan waktu jatuh tempo yang sama
+tetapi memiliki nilai exercise yang berbeda akan memiliki nilai volatilitas implied yang sama.
+Model Black-Scholes dapat dipakai mengestimasi nilai volatilitas implied dari suatu saham
+dengan mencari sulusi numerik dari persamaan invers dari model Black-Scholes. Makalah ini
+mendemonstrasikan bagaimana menghitung nilai volatilitas implied suatu saham dengan mengasumsikan
+bahwa model Black-schole adalah benar dan suatu kontrak opsi dengan dengan
+umur kontrak yang sama akan memiliki harga yang sama. Menggunakan data harga opsi Sony
+Corporation (SNE), Cisco Systems, Inc (CSCO), dan Canon, Inc (CNJ) diperoleh bahwa, Implied
+Volatility memberikan harga yang lebih murah dibandingkan dengan harga opsi dari
+volatilitas yang dihitung dari data historis. Selain itu, dari hasil iterasi yang diperoleh, metode
+Newton-Raphson lebih cepat konvergen dibandingkan dengan metode Bisection.

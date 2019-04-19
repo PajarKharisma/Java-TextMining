@@ -1,0 +1,7 @@
+@relation testing2
+
+@attribute word string
+@attribute @kelas@ {jaringan,kcb,komputasi,robotika,rpl}
+
+@data
+"alternatif aluminium analisis angkat aplikasi banding basis cenderung citra computed ",?

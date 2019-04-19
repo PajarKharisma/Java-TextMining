@@ -1,0 +1,26 @@
+MENGENALI PERILAKU DAN KEPRIBADIAN MANUSIA
+BERDASARKAN POLA SIDIK JARI MENGGUNAKAN 
+JARINGAN SYARAF TIRUAN 
+Dewasa ini disiplin ilmu mengenai kecerdasan buatan berkembang pesat 
+melaju bersama kecepatan perkembangan teknologi komputer. Kecerdasan buatan
+yang dimaksudkan adalah membuat suatu sistem agar komputer bisa berfikir layaknya
+manusia. Salah satu implementasi kecerdasan buatan adalah pengenalan pola sidik
+jari, dimana proses pengenalan pola itu sendiri dilakukan dengan melatih komputer
+agar komputer mempelajari suatu bentuk pola yang dimasukkan dan mampu untuk
+mengenali bentuk pola yang akan diujikan. Sebagai contoh implementasi pengenalan
+pola adalah pada bidang psikologi, dimana bentuk pola sidik jari seseorang dapat
+digunakan untuk mengenali perilaku dan kepribadiannya. Dalam makalah ini penulis
+mengimplementasikan jaringan syaraf tiruan untuk mengenali perilaku dan
+kepribadian seseorang berdasarkan pola sidik jari dengan menggunakan metode
+forward chaining. Sistem ini mampu menganalisis kombinasi pola sidik jari vortex
+atau sinus berdasarkan pengujian menggunakan jaringan syaraf tiruan dengan
+prosentase dikenali pola sinus atau vortex lebih besar dari 50%, apabila prosentase
+terkenali sebagai pola sinus lebih besar daripada prosentase pola vortex, maka pola
+sidik jari akan terkenali sebagai pola sinus, begitu juga sebaliknya. Selanjutnya
+aplikasi ini akan menganalisis kombinasi pola sidik jari dengan mencocokkan
+berdasarkan pohon keputusan, dimana terdapat 32 kombinasi sidik jari yang dikenali
+untuk menentukan perilaku dan kepribadian dari user. Dalam aplikasi ini terdapat 3
+macam informasi yang dapat disajikan yaitu, informasi tentang kepribadian,
+keberuntungan dan perhatian dengan menggunakan software Delphi 6. Keakuratan
+proses konsultasi kepribadian pada aplikasi ini sangat tergantung pada input citra
+sidik jari yang dilakukan oleh pengguna (user).

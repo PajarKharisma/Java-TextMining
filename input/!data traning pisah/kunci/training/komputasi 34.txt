@@ -1,0 +1,1 @@
+Sistem pengenalan suara otomatis, OOV, model bahasa, model akustik, kamus, dan deteksi OOV

@@ -1,0 +1,8 @@
+Telah dilakukan penelitian mengenai adsorpsi Cr(VI) pada adsorben silika gel termodifikasi
+difenilkarbazida (Si-DPZida) yang bertujuan untuk menentukan kondisi optimum adsorpsinya. Penelitian ini meliputi
+penentuan keasaman permukaan dengan metode titrasi asam-basa, penentuan luas permukaaan spesifik dengan
+metode metilen biru, penentuan kondisi optimum, dan penentuan isoterm adsorpsi.
+Hasil penelitian menunjukkan bahwa adsorben Si-DPZida memiliki keasaman permukaan (Kal) sebesar
+1,5996 mmol/g dan jumlah situs aktif sebesar 9,6328. 1020 atom/g, sementara nilai luas permukaan spesifik adsorben
+Si-DPZida sebesar 4,4538 m2/g. Adsorpsi Cr(VI) oleh adsorben Si-DPZida terjadi pada pH 5 dan waktu interaksi 15
+menit. Adsorpsi yang terjadi cenderung mengikuti pola isoterm Freundlich.

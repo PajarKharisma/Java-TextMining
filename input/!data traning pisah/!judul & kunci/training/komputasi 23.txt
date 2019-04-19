@@ -1,0 +1,4 @@
+Penerapan Data Mining Untuk Memprediksi Prestasi Akademik
+Mahasiswa Berdasarkan Dosen, Motivasi, Kedisiplinan, Ekonomi, 
+dan  Hasil Belajar data mining,algoritma c4.5, metode 
+klasifikasi 

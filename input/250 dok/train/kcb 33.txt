@@ -1,0 +1,18 @@
+DETEKSI PENYAKIT PADA DAUN TEMBAKAU DENGAN MENERAPKAN ALGORITMA
+ARTIFICIAL NEURAL NETWORK
+Artificial Neural Network ( ANN ) Perceptron merupakan salah satu dari metode AI yang telah terbukti
+cukup handal untuk digunakan sebagai teknik pengenalan atau pengindentifikasian.Tujuan dari dibuatnya
+penelitian ini adalah untuk menerapkan metode Jaringan Syaraf Tiruan atau Artificial Neural Network dengan
+algortima Perceptron dalam menentukan penyakit cacar daun dan bercak daun pada daun tembakau serta daun
+cengkeh, dimana sampel daun - daun tersebut dianalisis melalui kedelapan gejala atau ciri yang
+ditimbulkannya.Tahapan awal yang dilakukan yaitu mengumpulkan beberapa sampel daun tembakau dan daun
+cengkeh, baik yang terkena penyakit maupun tidak. Kemudian mengelompokkan gejala atau ciri khusus yang
+ditimbulkan pada setiap daunnya dari penyakit cacar daun dan bercak daun. Ciri penyakit yang positif terlihat
+pada masing - masing daun akan direpresentasikan dengan nilai bipolar [1, -1], dimana ciri tersebut akan
+digunakan sebagai nilai masukan pada tahap pelatihan (training) dan pengujian (testing) dalam metode ANN.
+Dari hasil pengujian terhadap sampel sebanyak 20 daun untuk tahap training dan 10 sampel daun untuk tahap
+testing, dengan perbandingan penyakit bercak daun dan cacar daun adalah 50 : 50, learning rate sebesar 0,7,
+lapisan masukan sebanyak 8 buah, dan 1 buah lapisan luaran, didapat bahwa metode ANN Perceptron memiliki
+persentase keberhasilan pengenalan penyakit sebesar 61% - 73% untuk data non - learning, dan 100% untuk data
+learning pada kedua jenis daun tersebut.
+ANN Perceptron, bipolar, learning rate, cacar daun, bercak daun.

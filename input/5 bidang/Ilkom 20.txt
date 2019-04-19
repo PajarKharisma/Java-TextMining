@@ -1,0 +1,25 @@
+Dengan semakin banyaknya koleksi dokumen teks, pencarian merupakan
+tantangan tersendiri. Banyak metode yang dikembangkan untuk proses pencarian, salah
+satu metode yang umum adalah dengan metode klasifikasi. Beberapa contoh teknik yang
+menggunakan metode klafisifikai antara lain, NaïveBayes, K-Nearest Neighbor, Decision
+Tree, dan Vector Space Model.Teknik Rocchio merupakan contoh lain yang
+mengimplementasikan metode klasifikasi untuk proses pencarian teks. Teknik ini
+menggunakan Vector Space Model untuk merepresentasikan setiap dokumen dalam
+korpus. Tujuan utama karya ilmiah ini adalah mengembangkan sistem temu kembali
+informasi dengan menggunakan metode text mining (Klasifikasi Rocchio) untuk
+merekomendasikan data teks yang sesuai dengan pencarian yang dilakukan oleh
+pengguna sistem. Proses pertama yang dilakukan untuk mengembangan sistem dengan
+metode klasifikasi ini, yaitu tahap pra-proses.Pra-proses terdiri dari beberapa tahap, yaitu:
+parsering, pembersihan data, pemotongan kata berimbuhan, dan pembuatan inverted
+index dengan pembobot nilai itf.idf. Korpus dokumen pada karya ilmiah adalah data
+skripsi S1 Ilmu Komputer yang terdiri dari 150 dokumen abstrak skripsi. Korpus
+dokumen dibagi menjadi 12 bidang keilmuwan di dalam Ilmu Komputer. Untuk menguji
+akurasi hasil pencarian, maka 30 dokumen tersebut dijadikan data uji. Hasil dari
+pengujian adalah 76,67% dokumen terkelompokan secara benar sesusai dengan bidang
+keilmuwan. Dalam karya tulis ini, juga dilakukan proses evaluasi dari hasil pencarian dari
+sistem temu kembali sesuai dengan kueri pencarian pengguna sistem. Hasil pencarian
+yang akan relevan, jika kueri dari pengguna sesuai dengan bidang keilmuwan.
+Sebaliknya, jika pengguna menggunakan kueri dengan kata-kata umum, maka hasil
+pencarian akan memiliki tingkat relevansi yang rendah. Nilai precision dan recall juga
+dicatat berdasarkan panjang kueri pencarian. Hasil dari nilai-nilai tersebut cenderung
+konstan.

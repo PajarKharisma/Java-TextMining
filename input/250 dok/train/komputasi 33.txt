@@ -1,0 +1,13 @@
+Algoritma Genetik: Alternatif Metode Penentuan Strata
+Optimum dalam Perancangan Survei
+Tujuan dari pembuatan strata ketika pengambilan contoh dalam survei adalah untuk
+menghasilkan penduga paremeter dengan varians kecil, sehinggapenentuan alokasi strata perlu
+diperoleh. Menentukanbanyaknya strata dan alokasi elemen strata dari suatu himpunan nilai respon akan
+menjadi fokus dari penelitian ini. Algoritma Genetik (AG) diaplikasikan untuk kasus ini dengan
+meminimalkan varians dalam strata pada himpunan yang tersedia, dari jumlah strata 2 sampai 6 strata.
+Studi empiris melalui simulasi dikembangkan dalam skema populasi yang telah diketahui banyaknya
+strata sebenarnya, kemudian dengan beberapa jenis banyaknya strata, AG diterapkan dalam data.
+Berdasarkan hasil simulasi, dapat disimpulkan bahwa AG dapat memberikan banyaknya strata yang
+sesuai dengan banyaknya strata sebenarnya, sehingga dapat menjadi metode alternatif yang baik untuk
+memilih banyaknya strata optimal dalam pengambilan contoh survei.
+algoritma genetik, stratified sample design, perancangan survei

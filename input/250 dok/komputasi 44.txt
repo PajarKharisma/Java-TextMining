@@ -1,0 +1,17 @@
+Pengidentifikasian Pembuat Tulisan Tangan
+Dengan Pengenalan Pola Biomimetik
+Artikel ini membahas kerangka kerja baru untuk
+mengidentifikasi kepemilikan tulisan tangan yang sah
+berdasarkan Pengenalan Pola Biomimetik (PPB). Cara kerja
+PPB menggunakan Prinsip Keberlanjutan Homogen (PKH),
+yaitu perbedaan antara dua sampel dari kelas yang sama harus
+berubah secara bertahap. Serta menggunakan syaraf dua bobot
+untuk membentuk ruang ciri yang dinamakan Hyper Sausage
+Neuron (HSN). HSN diterapkan sebagai pelingkup ruang
+karakteristik wilayah distribusi dari titik - titik sampling di kelas
+yang sama. Pengujian kerangka kerja yang dikembangkan
+menggunakan data sederhana untuk mengidentifikasi pembuat
+tulisan tangan diperoleh hasil yang memuaskan dengan
+persentase rata - rata sebesar 94,8%.
+Pengenalan pola biomimetik, prinsip
+keberlanjutan homogen, ruang ciri, tulisan tangan. 

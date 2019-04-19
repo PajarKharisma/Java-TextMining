@@ -1,0 +1,14 @@
+Buah mahkota dewa memiliki nilai ekonomi yang tinggi karena banyak mengandung zat-zat yang dapat dimanfaatkan 
+pada kehidupan sehari-hari, salah satunya adalah tannin. Penelitian ini bertujuan untuk mengetahui pengaruh 
+kecepatan putar pengaduk dan waktu operasi pada proses ekstraksi tannin dari buah mahkota dewa terhadap kadar
+tannin terambil dan koefisien transfer massa proses tersebut. Ekstraksi tannin dari buah mahkota dewa 
+menggunakan metode ekstraksi padat-cair secara batch pada suatu labu leher tiga yang dilengkapi dengan motor
+pengaduk, pendingin balik, thermometer dan media pemanas. Serbuk buah mahkota dewa sebanyak 60 gram dan etanol
+250 mL dimasukkan ke dalam labu leher tiga sebagai sampel. Ekstraksi dimulai dengan memanaskan sampel sampai
+suhu 50oC, kemudian motor pengaduk dijalankan pada kecepatan yang telah ditentukan. Sampel yang akan dianalisis
+kadar tanninnya diambil dalam selang waktu tertentu 0, 15, 30, 60, 120 180 dan 240 menit. Dari proses ekstraksi
+tannin dapat diketahui kadar tannin terambil dan koefisien transfer massa. Hasil penelitian menunjukkan bahwa 
+kadar tannin terambil dan koefisien transfer massa semakin besar dengan semakin lama waktu operasi dan semakin
+besar kecepatan putar pengaduk. Jumlah kadar tannin terambil terbesar adalah 8,0458% pada putaran pengaduk 
+700 rpm, waktu operasi 240 menit dengan suhu operasi 50oC, sedangkan nilai koefisien transfer massa terbesar
+adalah 0,03/menit pada kecepatan putaran pengaduk 700 rpm.

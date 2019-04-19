@@ -1,0 +1,12 @@
+RANCANG BANGUN PROTOTYPE SISTEM KENDALI LENGAN ROBOT MENGGUNAKAN INTERFACE WIRELESS 2.4Ghz Mahasiswa sebagai pebelajar dalam kegiatan tersebut tentu menginginkan suatu yang 
+menarik yang dikemas dalam proses pembelajaran, harapan mereka tidak lain agar dalam
+proses pembelajaran terjadi rasa ingin tahu dan memotivasi diri untuk dapat memahami
+lebih dalam (deep understanding) tentang materi perkuliahan yang diterima sehingga dapat
+diaplikasikan pada dunia kerja dan dunia industri. Perancangan prototype sistem kendali
+lengan robot menggunakan beberapa komponen yaitu Mikrokontroler ATmega 8 Motor
+Servo, Driver Motor, Weireless Joystik PS2, dan Baterai. Pengujian prototype sistem
+kendali lengan robot dilakukan dengan beberapa tahapan yaitu pengujian tombol navigasi,
+pengujian motor dan pengujian gripper. Hasil pengujian memberikan hasil bahwa semua
+bagian sistem kendali lengan robot bisa dijalankan dengan optimal. Hasil yang diperoleh
+dari penelitian ini adalah terwujudnya model prototype sistem kendali lengan robot yang
+yang dapat dipergunakan sebagai media pembelajaran dalam matakuliah robotika. lengan robot, Mikrokontroler, Wireless Joystik

@@ -1,0 +1,21 @@
+RANCANG BANGUN SISTEM INFORMASI MONITORING
+PERKEMBANGAN PROYEK BERBASIS WEB
+(STUDI KASUS: PT. INTI PRATAMA SEMESTA)
+PT. Inti Pratama Semesta (PT. IPS) adalah perusahaan yang bergerak dalam bidang penyediaan jasa
+kontruksi. Mempunyai proyek berhubungan dengan pembangunan seperti bangunan rumah, gedung dan
+pabrik. Sebagai perusahaan yang bergerak dalam bidang kontruksi dalam melakukan pemantauan
+perkembangan proyek harus dapat dilaksanakan dengan baik agar tercapai tujuan perusahaan. Permasalahan
+yang di hadapi PT. Inti Pratama Semesta saat ini yaitu permasalahan dalam pengerjaan proyek tidak dapat
+diketahui dengan cepat mengakibatkan penyelesaian proyek menjadi lambat (tidak sesuainya antara waktu
+rencana kerja dengan waktu pelaksanaan pengerjaan proyek), sering terjadi kesalahan pencatatan data
+perkembangan proyek mengakibatkan kekeliruan dalam menentukan data perkembangan proyek, tidak
+adanya gambar pengerjaan proyek akibatnya pada saat di lakukan pengecekan terhadap pekerjaan proyek
+sering terjadi kesalahan pengerjaan proyek. Tujuan penelitian ini adalah untuk membangun sistem informasi
+monitoring perkembangan proyek berbasis web untuk mempermudah manager dalam melakukan
+pemantauan perkembangan proyek. Teknik perancangan sistem menggunakan metode OOAD (Object
+Oriented Analysis Design) dan Tools UML (Unified Modelling Languange), Teknik testing sistem
+menggunakan teknik Blackbox, dengan metode pengembangan sistem menggunakan metode waterfall yang
+merupakan metode dengan model sekuensial. Hasil penelitian ini adalah sebuah sitem informasi monitoring
+perkembangan proyek berbasis web.
+object oriented analysis design (OOAD), PT. inti pratama semesta, sistem informasi
+monitoring, unified modelling languange (UML), waterfall

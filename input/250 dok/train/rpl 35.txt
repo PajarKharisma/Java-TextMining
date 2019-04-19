@@ -1,0 +1,15 @@
+﻿PENGEMBANGAN WEB INTRANET FISIKA UNTUK
+MENINGKATKAN PENGUASAAN KONSEP DAN
+KEMAMPUAN PEMECAHAN MASALAH SISWA SMK
+Penelitian ini bertujuan untuk mengembangkan media pembelajaran web intranet fiika dan mengetahui
+pengaruhnya terhadap penguasaan konsep dan kemampuan pemecahan masalah siswa. Penelitian ini
+menggunakan desain penelitian dan pengembangan model Borg dan Gall yang dimodifiasi menjadi tiga
+tahap, yaitu tahap studi pendahuluan, tahap pengembangan media,dan tahap uji coba media. Tahap studi
+pendahuluan dilaksanakan dengan studi kepustakaan dan survei awal. Tahap pengembangan media
+menghasilkan draf awal media. Penelitian dilanjutkan dengan tahap implementasi uji coba terbatas dan
+uji coba lebih luas media pembelajaran web intranet fiika di SMKN 2 Praya Tengah. Pembelajaran materi
+usaha, energi, dan daya di kelas eksperimen menggunakan web intranet fiika sedangkan di kelas kontrol
+menggunakan pembelajaran konvensional. Kedua kelas dianalisis menggunakan uji perbedaan rata - rata
+(Uji t atau Uji Mann - Whitney) dan skor gain ternormalisasi (N - gain). Berdasarkan hasil penelitian dapat
+disimpulkan bahwa pembelajaran web intranet fiika efektif meningkatkan penguasaan konsep tetapi tidak
+efektif meningkatkan kemampuan pemecahan masalah siswa SMK.

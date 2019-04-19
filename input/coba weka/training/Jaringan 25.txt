@@ -1,0 +1,13 @@
+Analisis Kelemahan Keamanan pada Jaringan Wireless Pemakaian perangkat te knologi berbasis wireless pada saat ini sudah begitu banyak, baik
+digunakan untuk komunikasi suara maupun data. Karena teknologi wireless memanfaatkan frekwensi
+tinggi untuk menghantarkan sebuah komunikasi, maka kerentanan terhadap keamanan juga lebih tinggi
+dibanding dengan teknologi komunikasi yang lainnya. Berbagai tindakan pengamanan dapat dilakukan
+melalui perangkat komunikasi yang digunakan oleh user maupun oleh operator yang memberikan layanan
+komunikasi. Kelemahan jaringan wireless secara umum dapat dibagi menjadi 2 jenis, yakni kelemahan
+pada konfigurasi dan kelemahan pada jenis enkripsi yang digunakan. Secara garis besar, celah pada
+jaringan wireless terbentang di atas empat layer di mana keempat lapis (layer) tersebut sebenarnya
+merupakan proses dari terjadinya komunikasi data pada media wireless. Keempat lapis tersebut adalah lapis
+fisik, lapis jaringan, lapis user, dan lapis aplikasi. Model-model penanganan keamanan yang terjadi pada
+masing-masing lapis pada teknologi wireless tersebut dapat dilakukan antara lain yaitu dengan cara
+menyembunyikan SSID, memanfaatkan kunci WEP, WPA-PSK atau WPA2-PSK, implementasi fasilitas
+MAC filtering, pemasangan infrastruktur captive portal. wireless,kelemahan, keamanan, WEP, dan enkripsi.

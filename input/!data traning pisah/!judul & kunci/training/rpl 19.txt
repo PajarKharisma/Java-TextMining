@@ -1,0 +1,1 @@
+PENGEMBANGAN SISTEM IDENTIFIKASI JENIS KELAMIN JANIN PADA CITRA USG Citra USG, Segmentasi, Ekstraksi Fitur, Pengelompokan Data

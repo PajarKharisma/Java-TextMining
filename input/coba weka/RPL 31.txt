@@ -1,0 +1,9 @@
+PERANCANGAN DATA FLOW DIAGRAM UNTUK SISTEM INFORMASI SEKOLAH  (STUDI KASUS PADA SMA PEMBANGUNAN LABORATORIUM UNP) Data Flow Diagrams (DFD) is a tool that can be used to describe the system designed. DFD
+depictions preceded by Context Diagrams (CD). CD uses three symbols, namely: external entity, a symbol to
+represent the flow of data and symbols to represent process. DFD using four symbols, namely: all symbols
+used on the CD plus one more symbol to represent the data store. 
+DFD depiction is more focused on the process flow of data within the system that will make users
+better understand how data flows in the system and how the data is processed in the system. 
+DFD is implemented at the school of information systems at the Laboratory of High School
+Development Padang State University (UNP Laboratory High School Building). data flow diagrams, context diagrams, external entity, data store
+

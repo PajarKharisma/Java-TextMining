@@ -1,0 +1,9 @@
+ROBOT PENDETEKSI WARNA
+Robot pendeteksi warna menggunakan sensor TCS3200 berbasis mikrokontroler Atmega8535. Sensor warna
+berguna untuk mendapatkan data warna. Sistem terdiri atas perangkat keras dan perangkat lunak. Pengaktifan
+sensor perlu dilakukan guna pengambilan data setiap objek warna yang didekatkan. Hasil pengujian belum dapat
+menghasilkan data warna yang diinginkan, data sensor untuk warna merah sebesar 2Volt, warna hijau sebesar
+2Volt, dan warna biru sebesar 2Volt. Dengan hasil sensor yang yang belum menunjukkan perubahan pada setiap
+pergantian warna, maka hasil data warna tidak dapat diproses dalam mikrokontroller. Dibutuhkan riset kembali
+dengan lebih memperhatikan karakteristik dari sensor yang digunakan.
+Robot, Pendeteksi warna, Sensor TCS3200

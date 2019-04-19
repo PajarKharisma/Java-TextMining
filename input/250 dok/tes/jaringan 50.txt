@@ -1,0 +1,17 @@
+PERANCANGAN SISTEM MONITORING BANDWIDTH
+INTERNET BERBASIS SMS
+Bandwidth merupakan sebuah takaran lalu lintas data yang masuk dan
+yang keluar dalam jaringan internet server. Banyaknya ukuran suatu data
+atau informasi yang dapat mengalir dari suatu tempat ketempat yang lain
+dalam sebuah network. Pengatur jaringan dapat mengamati atau
+memonitor kondisi bandwidth pada jaringan internet server, maka pengatur
+jaringan harus siap setiap saat memonitor atau mengamati kondisi
+bandwidth. Jika sewaktu - waktu terjadi masalah pada bandwidth dan para
+pengatur jaringan tidak berada ditempat, maka para pengatur jaringan
+tidak dapat mengetahui jika bandwidth dalam kondisi tidak baik. Sebab
+belum adanya sistem yang dapat memantau jika terjadi penurunan quota
+atau melemahnya bandwidth secara realtime. SMS (Short Message Service)
+merupakan solusi yang tepat untuk digunakan oleh pengatur jaringan
+dalam menyelsaikan permasalahan tersebut.
+Monitoring Bandwidth, SMS ( Short Message Service ),
+Jaringan internet server.

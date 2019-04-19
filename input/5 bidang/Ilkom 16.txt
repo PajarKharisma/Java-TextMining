@@ -1,0 +1,12 @@
+Di era digital ini, dimana strategi marketing terus berkembang, banyak pengusaha yang mulai memanfaatkan
+media sosial sebagai salah satu alat untuk melakukan strategi pemasaran. Twitter adalah
+salah satu media sosial yang digunakan sebagai media untuk memasarkan produk mereka. Sayangnya,
+Twitter tidak memberikan fitur untuk memudahkan penggunanya dalam melakukan promosi seperti
+memberikan informasi tentang waktu keaktifan follower serta mengkategorikan sesuai dengan ketertarikan
+dari follower. Untuk dapat mengatasi permasalahan tersebut, dibutuhkan sebuah Twitter client
+yang dapat melakukan klasifikasi terhadap follower dari pengguna dan memudahkan cara promosi di
+Twitter. Salah satu cara untuk mengkategorikan ketertarikan konsumen di Twitter adalah dengan menggunakan
+text mining. Algoritma K-Nearest Neighbor adalah salah satu algoritma yang bisa dimanfaatkan
+untuk implementasi pengklasifikasiannya. Pembangunan sistem Twikipedia dengan algoritma KNearest
+Neighbor mampu mengklasifikasikan follower dari pengguna dan memudahkan pengguna dalam
+melakukan promosi di Twitter.

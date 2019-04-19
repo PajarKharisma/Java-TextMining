@@ -1,0 +1,1 @@
+metode Kohonen, neural network, metode Learning Vector Quantization

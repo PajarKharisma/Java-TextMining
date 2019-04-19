@@ -1,0 +1,11 @@
+RANCANG BANGUN SISTEM INFORMASI PENGOLAHAN DATA TERNAK DI PERUSAHAAN DAGANG PERUSAHAAN PENGENGEMBANGAN USAHA TERNAK INDONESIA Tujuan penelitian tugas akhir ini adalah untuk merancang dan membuat suatu model
+sistem informasi pengolahan data ternak sehingga dapat menghasilkan laporan yang tepat, cepat,
+dan akurat. Metode pengumpulan data yang digunakan adalah metode kepustakaan dan lapangan.
+Hasil yang telah dicapai adalah dengan adanya aplikasi pengolahan data ternak dapat
+mempermudah pengolahan data transaksi dan persediaan produk dan barang serta mempercepat
+dalam pembuatan laporan transaksi dan stok. Kesimpulan penelitian adalah perancangan dengan
+menggunakan bahasa pemrograman Netbeans IDE serta MySQL sebagai basis datanya dapat
+didesain suatu aplikasi pengolahan data ternak. Agar  program aplikasi  yang telah  dihasilkan 
+dapat  digunakan  sebaik-baiknya untuk membantu pencatatan dalam memberikan informasi data
+mengenai pengolahan data ternak, diharapkan dapat dikembangkan lagi untuk digunakan sesuai
+dengan kebutuhannya.

@@ -1,0 +1,14 @@
+SISTEM INFORMASI AKADEMIK BERBASIS WEB DI SMP NEGERI 2 KECAMATAN GAUNG 
+ANAK SERKA Perkembangan  teknologi  informasi  yang  semakin  cepat  dan  pesat menjadi tantangan berat
+bagi sebuah perusahaan ataupun lembaga pendidikan, baik itu negeri maupun swasta. Setiap sektor
+pendidikan diharapkan dapat memanfaatkan teknologi informasi sebagai penunjang kegiatan
+operasional dalam menghasilkan   suatu   informasi.   Sistem   informasi   akademik   pada   Sekolah
+Menengah Pertama Negeri 2 Kecamatan  Gaung Anak Serka masih dilakukan secara manual, dengan
+sistem pendataan yang sekarang dirasakan masih banyak kekurangan yang terjadi, dikarenakan sistem 
+yang ada masih menggunakan lembaran kertas dan arsip sehingga menyebabkan data-data yang ada
+sangat mungkin hilang ataupun rusak. Pengembangan sistem berupa pembuatan sistem informasi
+akademik berbasis web pada SMP Negeri 2 Kecamatan Gaung Anak Serka merupakan sistem yang
+memberikan informasi laporan siswa secara Online yang berupa laporan nilai siswa yang bersangkutan,
+jadwal pelajaran, dan data pengajar,  sehingga     membantu  kecepatan  dan  kualitas  dalam 
+penyampaian informasi.  Sehingga  dapat  diharapkan  dapat  diimplementasikan  dalam  sebuah produk
+yang akan memperbaiki segala kekurangan yang ada pada sistem lama. 

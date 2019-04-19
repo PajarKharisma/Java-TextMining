@@ -1,0 +1,18 @@
+SIMULASI DYNAMIC ROUTING DENGAN PROTOKOL OPEN
+SHORTEST PATH FIRST DI UNIVERSITAS PEMBANGUNAN
+NASIONAL “VETERAN” JAWA TIMUR Router merupakan alat yang menghubungkan antar dua jaringan atau lebih. Jenis
+router ada dua macam, yaitu : router statik dan router dinamik. Dari kedua jenis router
+tersebut yang memilki keunggulan dalam maintenance jaringan dengan skala yang luas
+adalah router dinamik. Adapun sifat protokol routing pada router dinamik dibagi atas
+tiga macam, yaitu : distance-vektor, link state, dan hybrid. Dari ketiga protokol routing
+tesebut yang memiliki kemampuan dalam memelihara jaringan yang berskala luas yaitu
+link-state. Jenis protokol routing yang memiliki sifat link-state salah satunya adalah
+OSPF (Open shortest Path First).
+Pada Tugas Akhir ini dapat mengetahui pemilihan rute sesuai dengan sifat yang
+dimiliki OSPF (Open shortest Path First). Simulasi dilakukan untuk mengetahui cara
+kerja pada protokol routing OSPF (Open shortest Path First). Desain topologi
+menggunakan jenis router dinamik dengan protokol routing OSPF. Salah satu
+kemampuan protokol OSPF (Open shortest Path First) adalah mencari rute alternatif jika
+saat salah satu rute terjadi down. Selain itu, bahwa router OSPF (Open shortest Path
+First) juga dapat memilih jalur routing yang memiliki nilai cost matrik yang terkecil.
+ Protokol Routing, Router Dinamik, OSPF, Cost Matrik.

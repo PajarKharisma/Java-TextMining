@@ -1,0 +1,25 @@
+PERANCANGAN MANAJEMEN BANDWIDTH INTERNET
+MENGGUNAKAN METODE FUZZY SUGENO
+Kebutuhan internet dalam proses perkuliahan memiliki peran yang cukup
+signifikan sehingga dalam pemakaiannya dibutuhkan pengaturan akses atau
+bandwidth demi kelancaran akses internet tersebut. Pemakaian internet dengan
+pemakai (user) yang cukup banyak mengakibatkan load akses internet yang
+cukup tinggi. Dan jika akses internet tidak dilakukan pengaturan maka akan
+mengakibatkan pemaikaian antar user yang tidak seimbang, ada yang cukup
+cepat dan ada yang lambat bahkan tidak dapat akses sama sekali.  
+Dalam perancangan manajemen bandwidth ini dikembangkan dengan
+menggunakan metode fuzzy sugeno. Tujuan yang dicapai adalah untuk
+mengoptimal pemakaian akses internet. Input sistem berupa akses internet saat
+itu (real time). Dalam proses fuzzy input dibagi menjadi 3 variabel yaitu
+kecepatan browsing, kecepatan download, dan kecepatan streaming. Akses ini
+tidak melihat kecepatan per user tetapi kecepatan total user dari masing-masing
+variable. Himpunan fuzzy yang digunakan adalah sangat rendah, rendah, normal
+dan tinggi. Domain yang dirancang disesuaikan dengan kecepatan bandwidth
+yang diperoleh dari provider internet yaitu 0 – 2 Mbps. Output sistem adalah
+maksimal (max limit) dari browsing, download, dan streaming. Pengujian data
+diperoleh dengan memasukkan nilai data kecepatan akses dari router yaitu
+mikrotik RB1100 setiap lima menit sekali selama 8 jam. 
+Hasil penelitian berupa pembatasan trafik browsing, download, dan
+streaming. Hasil pengujian menunjukkan rata-rata max limit browsing adalah
+851 kbps, download 592 kbps, dan streaming 643 kbps. 
+y

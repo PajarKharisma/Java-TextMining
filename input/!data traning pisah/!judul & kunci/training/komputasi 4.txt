@@ -1,0 +1,2 @@
+ALGORITMA KOMPUTASI CERDAS UNTUK PREDIKSI JUMLAH PENGGUNA KENDARAAN SEBAGAI INDIKATOR RAWAN MACET peramalan jumlah kendaraan, pembangkitan data, multi layer perceptron, regresi linier, k-means, particle
+swarm optimization.

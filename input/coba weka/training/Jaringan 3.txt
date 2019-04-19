@@ -1,0 +1,13 @@
+SISTEM MONITORING JARINGAN PADA SERVER LINUX
+DENGAN MENGGUNAKAN SMS GATEWAY
+Administrator jaringan bertanggung jawab melakukan monitoring jaringan terhadap suatu jaringan
+komputer. Monitoring harusnya dilakukan secara terus menerus untuk menjaga kualitas jaringan, karena
+kesalahan pada jaringan tidak bisa dideteksi kapan terjadinya. Hal ini akan menyulitkan jika administrator
+berada jauh dari pusat pengawasan. Situasi ini bisa berakibat fatal jika terjadi kesalahan jaringan yang
+tidak diketahui karena administrator jaringan sedang tidak ada di tempat pengawasan. Dengan
+memanfaatkan teknologi SMS gateway yang menggunakan server berbasis Linux, administrator jaringan
+dapat mendapatkan informasi kondisi server secara cepat. Hasil yang didapatkan adalah sebuah sistem
+yang mampu membantu administrator jaringan dalam melakukan monitoring jaringan kapan saja dan
+dimana saja untuk menjaga jaringan akan tetap stabil walaupun administrator jaringan sedang tidak di
+pusat pengawasan.
+Monitoring jaringan, SMS gateway, Server Linux.

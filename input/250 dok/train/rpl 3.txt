@@ -1,0 +1,14 @@
+Rancang Bangun Website dan E-Learning
+di TPQ Al - Fadhillah
+Taman Pendidikan Al-Qur’an (TPQ) merupakan tempat pendidikan informal yang mengajarkan nilai - nilai agama Islam yang
+bertumpu pada Al-Qur’an dan Al Hadits sebagai pembelajaran yang utama, serta membimbing santri menjadi muslim yang taat
+beragama. Salah satu TPQ yang ada di Kartasura yaitu TPQ Al - Fadhillah, merupakan salah satu TPQ yang membutuhkan website
+sekaligus e - learning. Website TPQ Al - Fadhillah diharapkan bisa memudahkan dalam berkomunikasi serta mencari dan mendapat
+informasi. Sedangkan e - learning sebagai solusi untuk memberikan suasana pembelajaran yang berbeda dan menarik serta proses
+belajar mengajar menjadi lebih mudah diikuti karena ada pembelajaran materinya. Hal ini dilakukan untuk memberikan cara
+belajar baru dan mengenal teknologi kepada santri khususnya di TPQ Al-Fadhillah. Rancang bangun website sederhana dilengkapi
+dengan PHP dan MySQL, Microsoft Windows 7, Macromedia Dreamweaver, Mozilla Firefox untuk menampilkan hasil
+sistemnya, serta Macromedia Flash untuk membuat tampilan e - learning menjadi lebih menarik. Adanya situs website dan e - learning
+pada TPQ Al - Fadhillah diharapkan dapat membantu dan memudahkan pengurus dalam mengelola TPQ Al - Fadhillah, baik dari
+data pengajar, santri, jadwal pelajaran, dan materi pelajarannya serta e - learning yang dapat membantu proses belajar mengajarnya.
+E-Learning, Macromedia Dreamweaver, Macromedia Flash, Mozilla Firefox, MySQL, PHP, Website

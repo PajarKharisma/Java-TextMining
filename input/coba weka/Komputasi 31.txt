@@ -1,0 +1,8 @@
+PERBANDINGAN KINERJA ALGORITMA KLASIFIKASI NAÏVE BAYESIAN,
+LAZY-IBK, ZERO-R, DAN DECISION TREE- J48 Penelitian ini difokuskan untuk mengetahui kinerja terbaik dari beberapa algoritma klasifikasi dalam data
+mining yaitu Naïve Bayesian, Lazy-IBK, Zero-R, dan Decision Tree- J48. Aspek yang dilihat adalah dari sisi
+keakuratan prediksi dan kecepatan/efisiensi. Software yang digunakan untuk mengevaluasi beberapa
+algoritma klasifikasi tersebut adalah Weka versi 3.7.7. Hasil pengujian menunjukan bahwa algoritma naïve
+Bayesian memiliki akurasi terbaik sebesar 85,12% pada mode tes cross-validation. Namun algoritma ZeroR
+memiliki kecepatan terbaik untuk semua mode tes dan semua data set di dalam penelitian ini.
+Algoritma klasifikasi, Naïve Bayesian, Lazy-IBK, Zero-R, Decision Tree- J48

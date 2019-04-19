@@ -1,0 +1,13 @@
+APLIKASI PRESENSI KARYAWAN MENGGUNAKAN BARCODE SLOT READER SLR – 700I Sistem absensi manual, dinilai kurang akurat dan kurang dapat dipertanggung
+jawabkan karena terjadinya penyelewengan laporan kehadiran dan kesalahan dalam
+penyalinan data dari kartu absensi cukup besar. Ditambah lagi dengan minimnya
+sistem keamanan, hal ini memberikan peluang adanya manipulasi data kehadiran
+apabila pengawasan yang kontinyu  tidak dilakukan semestinya, sehingga
+dirancanglah suatu aplikasi sistem absensi menggunakan sebuah kartu barcode
+yang berisikan nomor identitas anggota sebagai penginput kode absen. Pada
+rancangan ini, pengguna absensi hanya menggesekkan kartu yang akan dibaca oleh
+Barcode Slot Reader SLR-700IR dan kemudian data akan ditampilkan di PC
+(Personal Computer). Sistem dibuat menggunakan bahasa pemrograman Visual
+Basic 6.0. Dari sistem tersebut diperoleh kemudahan dalam pengolahan data,
+seperti laporan data absensi karyawan yang didapatkan dalam bentuk grafik dan
+laporan kehadiran masuk/keluar dan lembur.

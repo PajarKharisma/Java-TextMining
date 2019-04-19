@@ -1,0 +1,15 @@
+PENGENALAN POLA GELOMBANG SEISMIK DENGAN
+MENGGUNAKAN WAVELET PADA AKTIVITAS GUNUNG
+MERAPI
+Maksud dan tujuan penulisan artikel ini adalah sebagai pengenalan bagi para penulis
+mengenai pola seismik dengan menggunakan wavelet ( Alih ragam Gelombang Singkat) pada
+aktivitas Gunung Merapi terutama bagi fakultas sains & teknologi prodi teknik elektro.
+Data seismogram dalam suatu pemonitoran adalah data mentah yang didalamnya mengandung
+berbagai informasi tentang keadaan yang diamati. Alihragam gelombang - singkat merupakan
+metode yang dapat digunakan untuk menyajikan data dan fungsi operator ke dalam komponenkomponen frekuensi yang berlainan. Proses pengenalan pola sinyal seismik yang menggunakan
+alihragam gelombang - singkat memiliki peluang keberhasilan yang lebih tinggi.
+Dengan alihragam gelombang - singkat ini dimungkinkan pelokasian frekuensi - waktu. Metode
+Thresholding, bertujuan untuk membatasi dan menghilangkan bagian -b agian pada sinyal yang
+dianggap tidak banyak mengandung informasi penting. Dengan cara menentukan nilai parameter
+data, maka bagian - bagian yang dibatasi tersebut dapat dianggap sebagai derau yang tercampur.
+Seismik, Alihragam Gelombang - Singkat, Pengenalan Pola

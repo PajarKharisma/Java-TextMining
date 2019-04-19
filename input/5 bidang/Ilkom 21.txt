@@ -1,0 +1,10 @@
+Pada saat ini, informasi sangatlah penting bagi semua orang, kebutuhan akan informasi semaking
+meningkat seiring dengan semakin canggihnya teknologi sekarang ini. Informasi yang dibutuhkan saat ini semakin
+tinggi, baik informasi bersifat umum maupun informasi bersifat khusus. Tapi terkadang informasi yang didapat
+tidak sesuai dengan apa yang diinginkan. Sehingga muncul sebuah permasalah pada saat pencarian data yang
+dibutuhkan. Sehingga diperlukan sebuah cara untuk memperoleh data yang valid. Document Classification
+(Klasifikasi dokumen) dapat membantu dalam proses pencarian sebuah data atau dokumen yang valid sesuai
+dengan apa yang kita butuhkan. Penggunaan klasifikasi dokumen tidak lain untuk membantu dalam proses
+pencarian data dengan cepat, tepat dan valid. Klasifikasi dokumen mengelompokan dokumen yang sesuai dengan
+kategori yang terkandung pada dokumen tersebut. Untuk menyelesaikan permasalahan yang ada, metode yang
+akan digunakan pada penelitian ini yaitu Metode K-Nearest Neighbot (KNN) dan Information Gain.

@@ -1,0 +1,3 @@
+PENERAPAN LINUX ZENTYAL SEBAGAI FILTERING
+DAN BANDWIDTH MANAGEMENT PADA  
+JARINGAN PT. ANTA CITRA ARGES  PT. Anta Citra  firewall, zentyal, bandwidth management, filtering

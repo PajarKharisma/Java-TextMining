@@ -1,0 +1,12 @@
+SISTEM INFORMASI GEOGRAFIS BERBASIS ANDROID  UNTUK PARIWISATA DI DAERAH MAGELANG Sistem Informasi Geografis (GIS) berbasis android untuk Pariwisata merupakan aplikasi SIG berbasis
+mobile dengan mengintegrasikan Global Positioning System (GPS).Penelitian ini menghasilkan sebuah
+aplikasi Sistem Informasi Geografi Pariwistata  di daerah Magelang berbasis Android. Aplikasi ini
+terhubung langsung dengan Google Maps.Tujuan sistem ini dibangun untuk memberikan informasi lokasi
+pariwisata di Daerah Magelang dengan mudah dan sederhana karena dapat dioperasikan dimanapun
+user berada menggunakan piranti mobile device berbasis android. Pengguna sistem ini dibagi menjadi
+dua yaitu admin dan user umum. Pengguna Admin dapat melakukan olah data yang meliputi edit data,
+hapus data dan tambah data terkait dengan wisata, kuliner, penginapan, serta lokasinya. Sedangkan
+pengguna umum dapat melihat dan mencari lokasi wisata, kuliner, penginapan dan lokasinya. Aplikasi
+yang dibuat berhasil dijalankan pada smartphone Android 2,2 (Android Froyo) dan versi yang berada di
+atasnya. Aplikasi yang dibuat dapat terintegrasi dengan GPS smartphone secara baik. Aplikasi berhasil
+menyajikan informasi pariwisata dan lokasi terdekat dari posisi pengguna Sistem 

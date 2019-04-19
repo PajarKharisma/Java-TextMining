@@ -1,0 +1,8 @@
+Rancang Bangun Robot Pembersih LantaiBerbasis Arduino enelitian ini merancang sebuah Robot Pembersih Lantai Berbasis Arduino yang bertujuan untuk membantu
+manusia dalam membersihkan lantai secara efisien.  Robot pembersih lantai berbasis arduino terdiri dari beberap
+arangkaian, yaitu: proximity sensor, driver sensor, driver motor dan motor DC yang dihubungkan dengan ports
+digital pada arduino uno. Robot akan bekerja saat proximity sensor dapat membedakan garis hitam dan putih.
+Bersamaan dengan itu, arduino akan mengeksekusi data dan melanjutkan perintah untuk menggerakkan motor
+sehingga robot bekerja membersihkan lantai. Hasil pengamatan menunjukkan bahwa robot membersihkan lantai
+dengan mengikuti garis hitam yang dijadikan sebagai jalur kerjanya, pergerakan robot akan mengangkut sampah
+yang dilalui pada jalur tersebut sehingga area yang telah dilalui robot akan bersih. 

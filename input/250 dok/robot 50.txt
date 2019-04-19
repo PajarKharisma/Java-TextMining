@@ -1,0 +1,19 @@
+Kontrol Gerak Robot Line Tracer Menggunakan
+On - Off Control
+Berbasis Mikrokontroler Nuvoton ARM
+Dalam pembelajaran robot sederahana yaitu
+robot line tracer. Robot line tracer merupakan robot yang
+dirancang untuk mengikuti jalur yang ditentukan, umumnya
+banyak digunakan dalam berbagai aplikasi. Dalam penelitian ini
+telah dirancang logika gerak untuk robot line tracer supaya
+dapat mengikuti jalur warna hitam. Robot telah dilengkapi
+dengan enam sensor photodiode yang dapat mendeteksi jalur
+hitam dan putih, dan menggunakan mikrokontroler Nuvoton
+ARM NuMicroTM NUC100 Series. Pergerakan robot dikontrol
+menggunakan on - off control berdasarkan informasi dari enam
+sensor tersebut, sehingga robot mampu mengikuti jalur warna
+hitam. Percobaan dilakukan sebanyak tiga kali dengan bentuk
+track yang berbeda, dan hasilnya menunjukkan bahwa robot
+mampu mengikuti jalur yang telah ditentukan dengan cukup
+baik.Line tracer; Mikrokontroler; Nuvoton ARM;
+Sensor Inframerah

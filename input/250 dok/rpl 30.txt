@@ -1,0 +1,8 @@
+SISTEM INFORMASI PENGARSIPAN PADA MTs NEGERI GEMBONG KAB. PATI BERBASIS MULTIUSER Dalam era Globalisasi Perkembangan teknologi berkembang sangat pesat, khususnya teknologi
+komputer dengan data terpusat dalam  hal pengarsipan dokumen. Namun tidak semua sekolah mempunyai  sarana dan prasarana yang lengkap. Seperti yang ada
+di MTs Negeri Gembong Kab. Pati, selama ini kearsipan di sana masih menggunakan metode manual
+seperti masih menggunakan media kertas sebagai arsip utama, yang sering kali kita kesulitan mencari
+berkas karena mencari data satu persatu sehingga memerlukan waktu yang cukup lama untuk mencari
+arsip, bahkan seringkali arsip itu tidak di temukan karena banyaknya arsip yang ada selama bertahun –
+tahun lamanya. Dari penelitian ini diharapkan dapat mempermudah sistem kearsipan yang berjalan di sana dan
+meminimalisasi kesulitan pencarian berkas, tersedianya  Arsip Digital sebagai Backup data. Kearsipan,Sistem Informasi 

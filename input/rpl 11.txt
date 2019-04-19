@@ -1,0 +1,17 @@
+SISTEM INFORMASI E-COMMERCE UNTUK JARINGAN
+PENJUALAN SEPEDA MOTOR BEKAS KABUPATEN KAMPAR (Studi
+Kasus : Adira Finance) Adira Finance merupakan perusahaan pembiayaan yang bekerja sama dengan show room yang menjual
+Sepeda Motor Bekas yang bergerak dalam bidang jual-beli sepeda motor bekas, promosi yang ada masih
+menggunakan fasilitas kertas, brosur, dan fasilitas lainya yang sejenis. Hambatan – hambatan tersebut yang
+membuat kurang efektifnya promosi produk. Dan semakin banyaknya variasi, merek dan jenis sepeda motor
+beredar membuat para konsumen bingung untuk memilih sepeda motor yang akan dibelinya. Hal tersebut akan
+menjadi kendala bila para pelangganya yang mempunyai aktivitas padat atau tidak memiliki waktu luang yang
+banyak, jika hanya sekedar melihat produk-produk yang akan dipilih oleh konsumen di showroom-showroom
+tersebut. System informasi ini dibangun menggunakan metode Rational Unified Proccess dan Object Oriented
+Analysis and Design dan pengujiannya dilakukan menggunakan blackbox dan User Acceptance Test. Adapun
+hasil penelitian ini adalah bagaimana sistem yang sedang berjalan dapat dikembangkan menjadi lebih baik
+melalui analisis dan desain sehingga menghasilkan system E-Commerce. Kesimpulan dari penelitian ini adalah
+Sistem E-Commerce dapat memperluas dalam segi promosi dan memudahkan konsumen dalam membeli dan
+memilih sepeda motor yang diinginkan.
+Kata kunci:Object Oriented Analysis and Design, Rational Unified Proccess , Sistem Informasi E-Commerce,
+Used Motorcycle, Web.

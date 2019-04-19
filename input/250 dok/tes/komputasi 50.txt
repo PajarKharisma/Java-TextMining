@@ -1,0 +1,34 @@
+Analisis Komputasi Penyerapan Gelombang
+Elektromagnetik Oleh Titik Hujan dengan
+Menggunakan Methods Of Moment
+Redaman hujan menjadi permasalahan yang cukup
+penting dalam propagasi elektromagnetik. Hal ini dikarenakan
+perkembangan teknologi telekomunikasi berkembang dengan
+sangat cepat yang ditandai dengan penggunaan frekuensi tinggi
+sampai dalam orde GHz, akibatnya adalah panjang gelombang
+menjadi semakin pendek dan dalam perjalanannya akan mudah
+terganggu, termasuk oleh hujan yang akan menimbulkan
+penghamburan dan penyerapan gelombang elektromagnetik.
+Pada penelitian ini dilakukan simulasi sebuah titik hujan
+berbentuk spherical dengan permitivivitas imajiner yang didapat
+dari penelitian sebelumnya dengan menggunakan metode momen
+yang hasilnya akan dibandingkan dengan hasil penelitian
+sebelumnya. Pada langkah awal penelitian akan dibentuk sebuah
+cubic sphere berbentuk spherical lalu menentukan koordinat
+pusat tiap cell dan menggunakan metode momen untuk
+menyelesaikannya.
+Berdasarkan analisa hasil komputasi didapatkan hasil bahwa
+pada frekuensi 30 GHz,untuk titik hujan berukuran 1mm & 2mm
+dengan cubic sphere berukuran 0.25 mm, rata – rata daya yang
+terserap secara berurutan adalah 2.77 dBm dan 6.87 dBm.
+Pengukuran lain dilakukan dengan cubic sphere berukuran
+0.5mm dan diperoleh rata – rata daya yang terserap secara
+berurutan adalah 3.40 dBm dan 6.13 dBm. Pada frekuensi
+300GHz, titik hujan berukuran 1mm & 2mm dengan cubic sphere
+berukuran 0.25mm, rata – rata daya yang terserap secara
+berurutan adalah 2.38 dBm dan 0.68 dBm. Pengukuran lain
+dilakukan dengan cubic sphere berukuran 0.5mm dan diperoleh
+rata – rata daya yang terserap secara berurutan adalah 15.58
+dBm dan 5.51 dBm.
+Metode Momen, Redaman hujan, Scattering dan
+absorption, Spherical.

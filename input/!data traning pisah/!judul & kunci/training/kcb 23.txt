@@ -1,0 +1,1 @@
+Sistem Pakar Untuk Mendeteksi Kerusakan Pada Sepeda Motor 4-tak Dengan Menggunakan Metode Backward Chaining sistem pakar, sepeda motor 4-tak, backward chaining 

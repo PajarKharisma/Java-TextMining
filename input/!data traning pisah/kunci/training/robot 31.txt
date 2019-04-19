@@ -1,0 +1,1 @@
+sensor gas semikonduktor, lengan robot, motor servo, servo controller, sistem fuzzy 

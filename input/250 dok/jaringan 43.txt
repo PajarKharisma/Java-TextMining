@@ -1,0 +1,21 @@
+IMPLEMENTASI PROTOKOL TCP / IP UNTUK PENGENDALIAN
+KOMPUTER JARAK JAUH
+Sekarang ini jaringan komputer sudah menjadi suatu kebutuhan yang sangat penting
+untuk mempermudah pertukaran data antar komputer. Dan seiring dengan makin berkembangnya
+jumlah komputer pada suatu jaringan, maka makin bertambah pula tingkat kesulitan untuk
+mengelola jaringan tersebut. Oleh sebab itu pada penelitian ini akan dibuat aplikasi untuk
+mengendalikan komputer secara jarak jauh dengan menggunakan protokol TCP / IP.
+Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Delphi 5.0 dan dWinsock 2.75
+yang merupakan komponen antar muka Windows Socket API yang dikhususkan untuk bahasa
+pemrograman Delphi, dan terdiri dari dua bagian yaitu server yang diaktifkan pada komputer yang
+akan dikendalikan, dan client yang diaktifkan pada komputer pengendali. Pada aplikasi ini data
+yang dikirimkan berbentuk teks dan biner, dan menggunakan dua pasang komponen utama
+dWinsock yaitu TTextServer dan TTextClient serta TBinaryServer dan TBinaryClient. Fungsi
+yang diaplikasikan ialah penguncian komputer, reboot, shutdown, eksekusi program, pengiriman
+pesan, melihat tampilan layar dan melihat program yang sedang dijalankan pada komputer server.
+Pengujian dilakukan pada jaringan komputer internal dan juga pada jaringan internet. Hasil
+dari pengujian yang dilakukan pada jaringan internal didapat bahwa semua fungsi yang
+diaplikasikan dapat dijalankan dengan sempurna tanpa mengalami penundaan yang berarti karena
+delay yang terjadi di bawah 1 detik, sedangkan untuk jaringan internet terdapat delay yang
+besarnya bervariasi tergantung dari tingkat kepadatan traffic data pada saat tersebut.
+TCP / IP, jaringan komputer, pengendalian jarak jauh.

@@ -1,0 +1,17 @@
+PEMBUATAN APLIKASI SISTEM INFORMASI BALAI PRODUKSI DAN PENGUJIAN
+ROKET LAPAN PAMEUNGPEUK BERBASIS WEB Lapan Pameungpeuk adalah lembaga non departemen juga ternasuk lembaga
+besar yang mempunyai informasi teknologi yang cukup baik untuk kepentingan masyarakat
+indonesia untuk memberikan suatu informasi Zona Potensi PenangkapanZPPI Ikan juga masalah
+Iptek Informasi teknologi di LAPAN Pameungpeuk agar dapat diakses melalui internet setiap saat
+karena Internet merupakan media yang sangat tepat untuk menerapkan suatu sistem informasi yang
+dapat dikembangkan secara dinamis Informasi dari LAPAN sangat sekali dibutuhkan bagi
+masyarakat khususnya di daerah Pameungpeuk Garut
+Perancangan sistem informasi balai produksi dan pengujian roket Lapan Pameungpeuk
+Garut adalah bertujuan untuk membuat sebuah sistem informasi terkomputerisasi yang berbasis
+web sehingga memberikan kemudahan baik bagi karyawan ataupun pihak lain dalam pencarian
+informasi untuk bisa di akses melalui internet agar dapat bisa dilihat langsung
+Perancangan system informasi ini menggunakan software bahasa pemrograman PHP
+Hypertext Preprocessor dengan database MySql yang dijalankan pada sebuah program aplikasi
+Xampp juga perancangannya menggunakan analisis perancangan sistem informasi yang
+menggunakan UML Unified Modeling Language
+Kata kunci web informasi software

@@ -1,0 +1,12 @@
+Tuberkulosis (TB) merupakan penyakit yang disebabkan oleh bakteri Mycobacterium tuberculosis. Isolasi
+DNA adalah tahapan yang diperlukan untuk memperoleh DNA kromosomal bakteri yang akan digunakan dalam
+pendeteksian M. tuberculosis menggunakan Polymerase Chain Reaction (PCR). Metode Boom merupakan metode
+isolasi yang umum digunakan dalam isolasi DNA M. tuberculosis. Di Bali, proses isolasi DNA M. tuberculosis
+dilakukan di Laboratorium Biomolekuler FK UNUD menggunakan metode Boom modifikasi. Penelitian ini
+bertujuan untuk membandingkan kualitas DNA yang dihasilkan oleh metode Boom dan metode Boom modifikasi.
+Penelitian ini diawali dengan proses isolasi DNA menggunakan metode Boom dan metode Boom modifikasi untuk
+selanjutnya diamplifikasi dengan metode PCR. Deteksi produk PCR dilakukan dengan metode elektroforesis.
+Kualitas DNA ditentukan dengan ketebalan pita DNA hasil PCR dan analisis kemurnian dengan spektrofotometri
+UV-Vis. Hasil yang diperoleh menunjukkan bahwa kualitas DNA isolat Mycobacterium tuberculosis 151 yang
+dihasilkan pada metode Boom modifikasi (Laboratorium Biomolekuler FK UNUD) relatif lebih baik dibandingkan
+metode Boom original (Boom et al, 1990).

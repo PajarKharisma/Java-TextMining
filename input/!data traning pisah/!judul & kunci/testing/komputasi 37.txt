@@ -1,0 +1,1 @@
+Perbandingan Antara Metode Kohonen Neural Network dengan Metode Learning Vector Quantization metode Kohonen, neural network, metode Learning Vector Quantization

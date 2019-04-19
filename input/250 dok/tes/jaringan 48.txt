@@ -1,0 +1,32 @@
+Implementasi Algoritma Kriptografi RC4 Pada
+DSP TMS320C6713 Sebagai Pendukung
+Sekuritas Jaringan Komunikasi Voice over
+Internet Protocol (VoIP)
+Perkembangan teknologi VoIP yang berbasis
+IP dapat memberikan efek samping, seperti penyadapan
+yang tidak menguntungkan bagi pengguna teknologi
+tersebut. Beberapa kasus penyadapan informasi berupa
+paket data VoIP, yang mungkin terjadi adalah
+penyadapan pada jaringan server VoIP, maupun
+pembuatan jalur baru yang paralel dengan jalur yang
+ditentukan oleh server VoIP. Sehingga untuk mengatasi
+beberapa kasus tersebut diperlukan sebuah sistem
+pengamanan data (informasi).
+ Dalam penelitian ini akan dieksplorasi secara khusus
+masalah sekuritas jaringan VoIP dengan menggunakan
+algoritma kriptografi RC4 yang diterapkan pada DSP
+TMS320C6713, yaitu bagaimana merancang algoritma
+enkripsi dan menganalisa performansi dari kriptografi
+RC4 dengan memanfaatkan TMS320C6713 dan jaringan
+VoIP berbasis SIP (Session Initiation Protocol).
+Hasil pembahasan yang dilakukan, menunjukkan
+bahwa sistem perancangan pada penerapan kriptografi
+RC4 terdiri dari sistem pengacak dan penerjemah. Sistem
+pengacak dan penerjemah terdiri dari blok sinyal
+masukan, blok TMS320C6713 yang diprogram algoritma
+kriptografi RC4 sebagai interface untuk memproses sinyal
+secara digital. Sehingga hasil secara keseluruhan dalam
+hal sekuritas akan sangat berpengaruh terhadap kualitas
+layanan komunikasi.
+VoIP, Kriptografi RC4, TMS320C6713,
+enkripsi.

@@ -1,0 +1,13 @@
+PENERAPAN INVERS KINEMATIKA UNTUK PERGERAKAN KAKI ROBOT
+BIPED
+Tujuan penelitian ini adalah menerapkan metode invers kinematika terhadap gerakan kaki
+robot biped agar dapat berjalan. Robot biped ini menggunakan 6 buah motor servo pada kedua kakinya
+dan dikontrol oleh mikrokontroler arduino uno. Dengan metode invers kinematika, pergerakan kaki
+robot hanya ditentukan dari posisi koordinat end effector kaki pada saat berjalan sehingga tidak perlu
+lagi menentukan besaran sudut pada masing - masing motor servo. Ada 5 titik koordinat (x, y) kaki
+kanan dan kaki kiri yang digunakan robot biped untuk dapat berjalan yaitu ketika kaki ke depan di titik
+koordinat (0, 208) dan (205, 208), ketika kaki tegak di titik koordinat (0, 210), dan ketika kaki ke
+belakang di titik koordinat (0,208) dan (10, 209). Dari hasil pengujian, penerapan invers kinematika
+memiliki error terkecil sebesar 2.08% pada saat kaki kanan ke belakang dan yang terbesar 4.44% pada
+saat kaki kanan ke belakang dan kaki kiri ke belakang.
+Invers Kinematika, Robot Biped, Titik Koordinat, Mikrokontroler

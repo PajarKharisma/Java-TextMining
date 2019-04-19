@@ -1,0 +1,1 @@
+Aksara Jawa Nglegena, pengenalan pola, multi layer perceptron, back propagation, optical character recognition.

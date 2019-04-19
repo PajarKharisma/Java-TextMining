@@ -1,0 +1,1 @@
+data, spasial, ISP, QoS, jaringan.

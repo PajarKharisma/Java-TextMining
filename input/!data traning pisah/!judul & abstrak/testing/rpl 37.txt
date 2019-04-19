@@ -1,0 +1,19 @@
+PENGEMBANGAN SISTEM INFORMASI LAYANAN AUDIO
+VISUAL PERPUSTAKAAN UNIVERSITAS PENDIDIKAN 
+GANESHA BERBASIS VIDEO STREAMING Penelitian ini bertujuan untuk mengembangkan perangkat lunak sistem
+informasi layanan audio visual Perpustakaan Universitas Pendidikan Ganesha
+berbasis video streaming. Jenis penelitian ini merupakan Research and
+Development (R & D) dengan metode pengembangan menggunakan model
+prototyping. Pengembangan sistem informasi layanan audio visual berbasis
+video streaming dengan enam tahap, yaitu : 1) Tahap pengumpulan kebutuhan
+dan perbaikan, 2) Tahap perancangan desain cepat (desain awal), 3) Tahap
+membangun prototipe, 4) Tahap evaluasi prototype, 5) Tahap perbaikan
+prototype, dan 6) Tahap rekayasa produk. Penentuan tingkat kelayakan aplikasi
+sistem informasi layanan audio visual berbasis video streaming berdasarkan uji
+validasi ahli bidang teknologi informasi dan uji coba terbatas pada pustakawan
+dan pemustaka. Hasil penelitian ini menunjukkan bahwa aplikasi sistem
+informasi layanan audio visual berbasis video streaming dapat menjadi alternatif
+pemberian layanan audio visual kepada pemustaka di perpustakaan, dapat
+memfasilitasi kebutuhan pemustaka dalam pemanfaatan koleksi audio visual
+yang dimiliki perpustakaan, dan  ketersediaan arsip data koleksi audio visual
+dalam bentuk  file digital yang tidak mudah rusak dan tidak mudah hilang. 

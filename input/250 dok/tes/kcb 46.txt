@@ -1,0 +1,21 @@
+Sistem Pendukung Keputusan Kelayakan Pemberian Kredit Motor
+menggunakan Metode Simple Additive Weighting pada Perusahaan
+Leasing HD Finance
+PT HD Finance, Tbk merupakan perusahaan leasing yang memberikan jasa kredit motor bagi pemohon
+kredit dan mengambil keuntungan dari pembayaran bunga kredit. Akan tetapi, pada bulan Oktober 2013
+tercatat sebesar 1,36% dari 2120 konsumen kredit mengalami kredit macet dimana kredit macet tersebut
+dapat menghambat arus lalu lintas uang dan menyebabkan kerugian bagi perusahaan. Pada umumnya,
+perusahaan leasing merekrut tenaga kerja di bagian Credit Analyst untuk melakukan analisis terhadap
+kemampuan membayar pemohon kredit dan survey lapangan untuk. Seorang Credit Analyst dituntut untuk
+bekerja cepat dan teliti dalam menganalisa banyaknya data pemohon kredit yang masuk, sehingga tidak
+menutup kemungkinan terjadi human error, seperti kesalahan perhitungan, salah membaca data, dll. Oleh
+karena itu, dalam upaya membantu Credit Analyst dalam kegiatan pengambilan keputusan konsumen layak
+kredit, diperlukan model sistem berbasis komputer yang dapat memberikan kemudahan dalam melakukan
+analisa data, perhitungan penilaian kriteria pemohon kredit, serta membantu pengolahan data menjadi
+informasi untuk mengambil keputusan dari masalah semi terstruktur tersebut. Sebuah sistem pendukung
+keputusan ( SPK ) merupakan pilihan tepat untuk membantu penyeleksian pemohon kredit. Sistem dirancang
+dengan menggunakan metode Simple Additive Weighting ( SAW ) yang merupakan salah satu metode Fuzzy
+Multiple Attribute Decission Making ( FMADM ). Metode SAW dipilih karena perhitungan pembobotan kriteria
+yang tidak terlalu rumit, sehingga mudah dipahami dan diterapkan.
+Sistem Pendukung Keputusan, SAW, Credit Analyst, kredit macet, perusahaan
+leasing

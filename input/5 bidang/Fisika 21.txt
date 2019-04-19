@@ -1,0 +1,16 @@
+Abstrak—Korosi merupakan masalah serius yang
+terjadi pada logam karena bisa mengurangi nilai ekonomis dari
+logam tersebut. Korosi pada baja kapal dipengaruhi oleh kondisi
+lingkungan seperti kadar salinitas dan suhu air laut. Tulisan ini
+membahas hasil penelitian yang dilakukan untuk mengetahui
+pengaruh salinitas dan suhu air laut terhadap laju korosi baja
+kapal A36 pada pengelasan SMAW menggunakan pengujian sel
+tiga elektroda. Elektroda yang digunakan adalah AWS A5.1
+E6013. Suhu yang digunakan adalah 70C, 170C, 270C. Salinitas
+yang digunakan adalah 320/00, 350/00 dan 380/00. Hasil pengujian
+menunjukkan jika semakin besar suhu dan salinitas, maka
+semakin besar pula laju korosinya. Korosi terbesar terjadi pada
+salinitas 380/00 dengan suhu 270C yaitu sebesar 0,5616 mmpy.
+Penambahan laju korosi setiap kenaikan suhu 100C sebesar
+0,2052 mmpy. Sedangkan penambahan laju korosi setiap
+kenaikan salinitas 30/00 sebesar 0,0415 mmpy.

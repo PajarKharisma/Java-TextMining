@@ -1,0 +1,3 @@
+Rancang Bangun Sistem Informasi Keuangan Berbasis Area  
+untuk Pengusaha Kecil (Studi Kasus Batik Wijayanti Semarang)
+sisfo keuangan, area, SDLC. 

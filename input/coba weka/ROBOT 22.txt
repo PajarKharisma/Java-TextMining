@@ -1,0 +1,12 @@
+Bluetooth Remote Controlled Robot
+berbasis Arduino Uno
+Perkembangan pemakaian telepon pintar berbasis android saat ini sangat pesat. Fiturfitur dalam gaget tersebut sangat lengkap seperti Bluetooth, WiFi, GPS, sensor proximity,
+sensor accelerometer, dan lain sebagainya. Dengan maraknya aplikasi berbasis bluetooth
+memungkinkan untuk merealisasikan komunikasi radio jarak pendek. Dalam penelitian ini
+penulis memanfaatkan teknologi yang sudah tersedia dalam ponsel untuk melakukan sistem
+pengendalian. Dalam penelitian ini telah dirancang suatu sistem robot mobil otonom berbasis
+Arduino Uno yang dapat dikendalikan dengan aplikasi bluetooth. Robot dapat dikendalikan
+dengan tingkat derajat bebas 4 yaitu bergerak maju, mundur, belok kiri dan belok kanan. Robot
+dapat mengindaera lingkungannya sehingga dapat mengamankan dirinya apabila akan
+menabrak perintang.
+Kata kunci: Android; Arduino Uno; Bluetooth; Inframerah

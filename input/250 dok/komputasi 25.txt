@@ -1,0 +1,8 @@
+Metode K-Means untuk Optimasi Klasifikasi Tema Tugas Akhir Mahasiswa Menggunakan Support Vector Machine (SVM)
+Masih sulitnya dalam menentukan klasifikasi tema tugas akhir mahasiswa sering dialami oleh
+setiap perguruan tingg. Algoritma  SVM digunakan untuk mengklasifikasi jenis tema tugas
+akhir mahasiswa. SVM merupakan metode yang banyak digunakan untuk klasifikasi.  K-Means
+Clustering merupakan metode pengelompokan paling sederhana yang mengelompokkan data
+kedalam k kelompok berdasar pada centroid masing - masing kelompok. Optimasi klasifikasi
+tema tugas akhir mahasiswa menggunakan SVM dan K-Means untuk meningkatkan tingkat
+akurasi. Hasil yang diperoleh memiliki tingkat akurasi yang lebih baik yaitu 86,21%. Text mining, Support Vector Machine, K-Means, Tugas Akhir 

@@ -1,0 +1,13 @@
+PERANCANGAN DAN IMPLEMENTASI GOLDEN RATIO PADA
+DESAIN MEKANIK DAN ELEKTRIK AERO ROBOTIK
+Pengawasan di daerah perbatasan, pengambilan foto udara di daerah terpencil, identifikasi
+kerusakan pada daerah bencana yang sulit dijangkau, tentunya tugas seperti itu tidak mudah
+dilakukan manusia. Aero robot sebagai mobile robot yang dapat bergerak fleksibel diudara dengan
+kemampuan untuk menjangkau daerah yang sulit dan berbahaya tanpa harus membahayakan nyawa
+pilot diajukan sebagai penelitian untuk menangani permasalahan - permasalahan tersebut. Penelitian
+ini dibuat dengan memadukan unsur seni matematis dan teknologi dengan menerapkan teori golden
+ratio pada teknologi perancangan mekanik aero robot yang disebut sebagai multicopter. Hasil
+penelitian ini telah terealisasikan perancangan dan implementasi mekanik aero robot yang dapat
+dikendalikan sehingga menuju arah yang ditentukan pada ketinggian tertentu dengan hasil kualitas
+terbang yang baik dan sikap wahana yang stabil.
+aero robot, golden ratio, multicopter

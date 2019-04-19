@@ -1,0 +1,16 @@
+PENCARIAN RUTE TERPENDEK MENGGUNAKAN ALGORITMA GREEDY
+Dalam kehidupan sehari-hari sering dilakukan perjalanan suatu tempat ke tempat lain yang
+akan dituju. Oleh karena itu sangat diperlukan penentuan rute terpendek antar satu tempat ke
+tempat lain yang akan menjadi tujuan. Rumusan masalah pada penelitian ini adalah
+bagaimana mencari rute terpendek dari node A (kecamatan Ngaliyan) ke node L (kecamatan
+Sampangan) dari jarak yang akan ditempuh menggunakan algoritma Greedy. Terdapat
+beberapa alternatif rute yang bisa dilalui dari node A menuju node L. Untuk menentukan rute
+yang paling optimal yaitu rute yang mempunyai jarak terpendek menggunakan pendekatan
+algoritma Greedy. Algoritma Greedy adalah algoritma yang memecahkan masalah langkah
+demi langkah dan merupakan salah satu metode dalam masalah optimasi. Pendekatan yang
+digunakan di dalam algoritma Greedy adalah membuat pilihan yang terlihat memberikan
+perolehan terbaik yaitu dengan membuat pilihan optimum local pada setiap langkah dan
+diharapkan akan mendapatkan solution optimum global. Rute dari node A ke node L yang
+paling optimal dengan jarak terpendek adalah rute A  B  D  G  I  K  J  L
+dengan jarak 12 km.
+ algoritma greedy, optimasi, rute terpendek

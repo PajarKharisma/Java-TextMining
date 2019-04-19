@@ -1,0 +1,1 @@
+Sistem absensi, pengenalan pola wajah, metode gabor wavelet, kernel, citra

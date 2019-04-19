@@ -1,0 +1,18 @@
+SISTEM PAKAR MENDIAGNOSA PENYAKIT SEVERE ACUTE
+RESPIRATORY SYNDROME PADA MANUSIA DENGAN
+MENGGUNAKAN METODE CERTAINTY FACTOR
+Saat ini komputer merupakan bagian yang sangat penting bagi kehidupan modern, karena komputer dapat menangani
+berbagai macam kebutuhan yang diharapkan berfungsi sebagai alat bantu untuk mengelola data jumlah yang relatif besar
+dengan kecepatan dan ketelitian yang relatif tinggi. Sehingga pengguna komputer tersebut dapat memperoleh data yang
+akurat dan efisien. Setiap lembaga maupun perusahaan saat ini sangat membutuhkan sistem komputerisasi yang dapat
+membantu proses kerja yang ada dalam lembaga atau perusahaan tersebut. Seperti halnya pada proses mendiagnosa penyakit
+SARS (Severe Acute Respiratory Syndrome) secara komputerisasi. Dimana dalam melakukan proses mendiagnosa penyakit
+SARS (Severe Acute Respiratory Syndrome) membutuhkan waktu yang cukup lama untuk mendapatkan informasi yang
+berkaitan dengan penyakit SARS (Severe Acute Respiratory Syndrome). Dalam penyusunan skripsi ini sistem yang akan
+digunakan adalah sistem komputerisasi dengan menggunakan bahasa pemograman Microsoft Visual Basic .Net 2008,
+Mysql untuk basis data serta metode yang di gunakan adalah metode Certainty Factor (CF). Sehingga nantinya dalam
+proses mendiagnosa penyakit SARS (Severe Acute Respiratory Syndrome) diperoleh informasi yang tepat serta kekeliruan
+yang menghambat kelancaran kegiatan dapat diatasi. Dalam rancangan sistem ini akan menghasilkan suatu program. Yang
+nanti nya diharapkan dapat memberikan kemudahan dalam memproses pendiagnosaan penyakit SARS (Severe Acute
+Respiratory Syndrome).
+Sistem Pakar, SARS (Severe Acute Respiratory Syndrome, Certainty Factor(CF).

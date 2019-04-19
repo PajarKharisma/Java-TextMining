@@ -1,0 +1,13 @@
+Realisasi titik-titik secara spasial diwujudkan dengan pola titik - titik tersebut dalam ruang. 
+Pola titik dalam ruang pada prinsipnya ada tiga macam, yakni pola titik spasial secara acak, 
+pola titik spasial secara regular serta pola titik spasial secara kelompok. Tujuan penelitian 
+ini adalah menentukan fungsi massa peluang yang menggambarkan sebaran titik spasial kelompok, 
+melakukan simulasi perubahan ukuran grid pada metode kuadran terhadap nilai VMR serta perubahan 
+pola titik spasial kelompok. Langkah yang ditempuh adalah membangun fungsi massa peluang yang 
+merupakan pembangkit sebaran spasial kelompok, serta melakukan simulasi pada analisis kuadran 
+dengan membagi wilayah menjadi beberapa grid. Hasil yang ditunjukkan Sebaran spasial kelompok 
+mempunyai fungsi massa peluang binomial negative serta nilai VMR > 1. Apabila Banyaknya Grid 
+bersifat terbatas maka peurubahan banyaknya grid tidak merubah kesimpulan bahwa VMR > 1 yang 
+artinya sebaran fungsi massa peluang binomial negative akan mempunyai sebaran titik spasial 
+bersifat kelompok. Nilai VMR merupakan fungsi eksponensial terhadap banyaknya grid, yakni 
+VMR = 4,976371 exp * banyaknya grid.

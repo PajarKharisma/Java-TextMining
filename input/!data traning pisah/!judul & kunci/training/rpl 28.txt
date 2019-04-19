@@ -1,0 +1,2 @@
+Rekayasa Perangkat Lunak Database Jurnal Ilmiah Berbasis Web
+Menggunakan PHP dan Mysql database jurnal.

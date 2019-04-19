@@ -1,0 +1,13 @@
+Analisis Dan Rancang Bangun Sistem Layanan Proxy
+Server Pada SMK Unggul Sakti Jambi Teknologi informasi semakin maju memiliki peranan penting yang dapat dijadikan sebagai alat bantu di segala
+bidang hal ini didukung oleh perkembangan internet yang begitu pesat dan semakin kompetitif biaya akses
+internetnya. Namun permasalahan yang terjadi apabila tanpa di filter yang dapat menimbulkan penyalahgunaan
+internet sehat, yang semestinya digunakan untuk membantu mencari informasi positif, malah bisa membuka akses
+situs-situs negatif. Pemerintah yang tidak dapat sepenuhnya memblokir situs-situs porno, maka perlu adanya
+penyaringan akses internet yang dapat di filter atau diblokir dengan fasilitas proxy server. Tujuan yang ingin dicapai
+dalam penelitian ini adalah membangun suatu sistem yang memanfaatkan proxy server untuk mengamankan akses
+informasi yang terhindar dari informasi negatif atau yang tidak baik untuk di lingkungan sekolah. Sistem layanan
+proxy server adalah salah satu alternatif yang handal dalam menciptakan akses internet sehat atau positif sehingga
+untuk mengangkat permasalahan ini dengan membangun sistem layanan proxy server yang menggunakan Sistem
+Operasi Linux Debian 6 dan aplikasi proxy nya menggunakan Squid.
+ internet, sistem layanan, proxy server, linux debian 6

@@ -1,0 +1,29 @@
+Sistem Pakar Diagnosis Penyakit Kambing
+Berbasis Web Menggunakan Metode Certainty
+Factor Penanganan penyakit pada ternak kambing
+sejak dini dapat menghindari penularan penyakit ke ternak
+kambing lain dalam satu kawanan dan dapat
+menyelamatkan ternak dari kematian. Terbatasnya jumlah
+pakar di daerah pedesaan untuk menangani terjadinya
+penyakit pada ternak kambing, serta kurangnya penyebaran
+pengetahuan, menyebabkan diperlukannya sistem pakar
+untuk diagnosis penyakit kambing. Sistem pakar diagnosis
+penyakit kambing dibangun dengan bahasa pemrograman
+web PHP dan database MySQL. Representasi pengetahuan
+menggunakan kaidah produksi, proses inferensi
+menggunakan forward chaining dan proses perhitungan
+nilai kepastian terjadinya penyakit dilakukan menggunakan
+metode certainty factor. Para peternak dapat mendiagnosis
+penyakit yang terjadi pada kambing dan mengetahui cara
+penanganan penyakit dengan menjawab pertanyaanpertanyaan yang diajukan sistem. Informasi pengetahuan
+pada sistem dapat diupdate,ditambah, atau dihapus oleh
+pakar (admin). Uji coba sistem pada 25 kasus untuk pakar 1
+menghasilkan tingkat akurasi sebesar 84%. Sedangkan
+pada pakar 2 untuk jumlah kasus yang sama menghasilkan
+tingkat akurasi sebesar 80%. Sistem dapat menghasilkan
+keluaran untuk setiap masukan yang diberikan oleh user
+(peternak). Semakin yakin user pada gejala yang dialami
+kambing mereka, maka semakin tinggi prosentase tingkat
+kepastian penyakit yang diperlihatkan oleh sistem.
+forward chaining, metode certainty factor,
+penyakit ternak kambing, sistem pakar.

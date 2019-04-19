@@ -1,0 +1,14 @@
+PENERAPAN JARINGAN SYARAF TIRUAN UNTUK
+MEMPREDIKSI MAGNITUDO LETUSAN GUNUNG
+DENGAN METODE BACKPROPAGATION STUDI KASUS
+GUNUNG MERAPI SUMATERA
+Jaringan syaraf tiruan merupakan cabang dari kecerdasan buatan yang meniru atau mencontoh cara kerja
+otak manusia. Jaringan syaraf tiruan dapat dimplementasikan pada berbagai macam aplikasi untuk
+menyelesaikan banyak masalah khususnya dalam bidang peramalan. Salah satu algoritma yang sering
+digunakan adalah Backpropagation. Backpropagation Merupakan salah satu algoritma yang dapat
+digunakan untuk mengetahui pola magnitudo letusan gunung. Ada dua tahapan yang digunakan pada metode
+backpropagation ini yaitu tahap pelatihan dan tahap pengujian. Pada tahap pelatihan pola berusaha untuk
+mengenali masukan dan pada tahap pengujian pola yang sudah dikenali diujikan sehingga diketahui pola
+jaringan yang ada dapat mengenali dan melakukan prediksi terhadap perhitungan rata - rata magnitudo letusan
+gunung.
+Jaringan Syaraf Tiruan, Backpropagation,Kecerdasan Buatan, Algoritma, Magnitudo.

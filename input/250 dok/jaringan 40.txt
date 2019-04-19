@@ -1,0 +1,15 @@
+ANALISIS KINERJA ROUTING DINAMIS DENGAN TEKNIK OSPF
+(OPEN SHORTEST PATH FIRST) PADA TOPOLOGI MESH DALAM
+JARINGAN LOCAL AREA NETWORK (LAN) MENGGUNAKAN CISCO
+PACKET TRACER
+Salah satu jaringan telekomunikasi yang sedang berkembang adalah jaringan Local Area Network (LAN).
+LAN telah menjadi suatu teknologi yang sangat banyak digunakan baik di perusahaan, kantor, kampus, sekolah
+ataupun di perumahan. Local Area Network (LAN) adalah sekumpulan komputer yang saling dihubungkan bersama
+di dalam satu area tertentu yang tidak begitu luas. Tulisan ini menganalisis perancang sebuah jaringan LAN
+mengunakan teknik peroutingan dinamis OSPF (Open Shortest Path First) pada topologi mesh untuk
+menghubungkan 4 buah gedung yang dimasing - masing gedungnya mempunyai 10 PC,satu switch dan satu router.
+Selain itu, juga membahas kinerja jaringan LAN dengan routing dinamis, yaitu menganalisa parameter kinerja
+jaringan LAN antar gedung seperti delay, packet loss, dan throughput. Berdasarkan hasil pengujian didapat nilai
+delay yaitu 76.6 ms, 96.5 ms dan 90.3 ms, nilai packet loss untuk setiap pengujian pada masing - masing gedung
+yaitu sebesar 2,5% dan untuk rata - rata hasil throughput yaitu 0,998 kbps, 1 ,066 kbps dan 1,0608 kbps.
+LAN, Topologi Mesh, Router Dinamis Teknik OSPF, Cisco Packet Tracer.

@@ -1,0 +1,26 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT PARU
+PADA ANAK BERBASIS WEB
+ Seiring perkembangan teknologi, dikembangkan pula suatu sistem
+teknologi yang mampu mengadopsi proses dan cara berpikir manusia yaitu system
+pakar yang mengandung pengetahuan tertentu sehingga setiap orang dapat
+menggunakannya untuk memecahkan masalah yang bersifat spesifik, dalam hal
+ini adalah permasalahan kesehatan paru pada anak. Tujuan dari tugas akhir ini
+adalah membangun sebuah sistem berbasis pengetahuan kedokteran dalam
+mendiagnosa penyakit paru pada anak yang ditampilkan dalam bentuk website
+menggunakan pemrograman PHP dengan database MySQL.
+ Metode sistem pakar yang digunakan adalah forward dan backward
+chaining dengan pembuatan tabel keputusan dari data - data penunjang yang
+dikutip dari Buku Kuliah 3 Ilmu Kesehatan Anak, Fakultas Kedokteran
+Universitas Indonesia. Dengan fasilitas yang diberikan untuk user dan
+administrator, memungkinkan baik user maupun administrator untuk
+menggunakan sistem ini sesuai kebutuhannya masing - masing. User diberi
+kemudahan dalam mengetahui informasi berbagai jenis penyakit paru anak
+dengan gejala - gejala klinisnya, serta konsultasi layaknya dengan seorang dokter
+paru anak melalui beberapa pertanyaan yang harus dijawab user untuk
+mengetahui hasil diagnosanya. Sedangkan administrator dimudahkan dalam
+memanajemen sistem, baik proses tambah, hapus maupun update data terbaru
+ Dari hasil pembahasan, disimpulkan bahwa sistem pakar diagnosa
+penyakit paru pada anak telah selesai dibuat. Tugas akhir ini diharapkan mampu
+memberikan informasi segala hal yang berhubungan dengan masalah kesehatan
+paru anak secara cepat dan efisien secara timbal baik antara user dan sistem.
+Sistem pakar, kesehatan paru pada anak.

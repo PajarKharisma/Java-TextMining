@@ -1,0 +1,15 @@
+KLASIFIKASI POLA SIDIK JARI MENGGUNAKAN JARINGAN SYARAF
+TIRUAN BACKPROPAGATION UNTUK ANALISA KARAKTERISTIK 
+SESEORANG Dewasa ini, banyak bidang ilmu dan penelitian yang telah mengkaji tentang
+keterkaitan karakteristik seseorang berdasarkan pola sidik jari yang dimilikinya. Pola sidik
+jari tersebut bersifat unik antara satu sama lain, namun pada dasarnya pola sidik jari
+dikelompokkan kedalam tiga pola yaitu arch, loop, dan whorl. Pada penelitian ini, penulis
+membuat aplikasi yang mampu mengenali citra tiga pola sidik jari tersebut untuk keperluan
+analisa karakteristik anak usia dini. Untuk mengenali citra tiga pola sidik jari tersebut,
+penulis menggunakan metode jaringan syaraf tiruan backpropagation sebagai sistem yang
+dapat mengklasifikasi pola-pola sidik jari yang diberikan. Model jaringan syaraf tiruan
+yang penulis buat yaitu, memiliki 25600 unit pada input layer, 160 unit pada hiden layer,
+dan 3 unit pada layer output. Citra sidik jari yang digunakan yaitu sebanyak 70 citra
+pelatihan, dan 30 citra pengujian yang diklasifikasikan menjadi 3 kelas sidik jari yaitu arch,
+loop, dan whorl. Model jaringan syaraf ini mampu melakukan pengenalan terhadap citra
+pengujian dengan akurasi 83%. 

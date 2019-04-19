@@ -1,0 +1,23 @@
+Kapal perang membutuhkan maneuverability yang
+baik saat beroperasi di laut. Maneuverability dipengaruhi oleh
+sistem kemudi kapal. Kemudi menggunakan rudder berpengaruh
+terhadap stabilitas rolling kapal. Stabilitas rolling adalah
+kemampuan kapal kembali ke keadaan normal dalam merespon
+gangguan. Gerakan roll yang besar dapat menurunkan
+performansi kapal dan efektivitas awak kapal. Rudder roll
+merupakan konsep rudder berfungsi mengendalikan heading
+hingga gerakan roll berkurang. Tujuan dari penelitian ini adalah
+merancang sistem stabilisasi rudder roll pada kapal perang kelas
+SIGMA dengan kontrol logika fuzzy. Perancangan sistem
+dilakukan berdasarkan spesifikasi kapal PKR KRI Diponegoro
+Kelas SIGMA. Perancangan dilakukan secara simulasi
+menggunakan Simulink Matlab dan kontrol logika fuzzy Sugeno-
+Takagi. Gangguan yang digunakan adalah gangguan linier
+gelombang laut state satu sampai tujuh. Semakin tinggi tingkatan
+gangguan, maka semakin lama waktu stabilitas rolling mencapai
+steady state. Performansi kestabilan sistem stabilisasi rudder roll
+telah sesuai dengan parameter kestabilan yang ada. Performansi
+maneuver sistem stabilisasi rudder roll memiliki jarak advanced
+diameter dan tactical diameter yang sama yaitu sebesar 2.48 Lpp
+dan telah sesuai dengan standar IMO (International Maritime
+Organization).

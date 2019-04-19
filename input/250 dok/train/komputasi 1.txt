@@ -1,0 +1,12 @@
+PENGENALAN POLA WAJAH MENGGUNAKAN WEBCAM UNTUK ABSENSI DENGAN METODE WAVELET
+Sistem absensi pengenelan pola wajah dibuat dengan memanfaatkan metode Wavelet serta
+menggunakan input berupa web - camera sehingga proses pengidentifikasian wajah dapat dilakukan
+secara real - time. Proses pengidentifikasian wajah dimulai dari input citra dari web - camera,
+mengkonvolusi citra tersebut dengan kernel, menentukan lokasi titik ciri, dan sampai proses
+pengidentifikasian dengan menghitung kesamaan global antara wajah yang diuji dengan citra wajah yang
+ada pada referensi. Pencocokan wajah dilakukan dengan metode pengenalan wajah Gabor Wavelet,
+tujuan digunakannya metode Gabor Wavelet adalah untuk memunculkan ciri - ciri khusus dari citra wajah
+yang telah dikonvolusi terhadap kernel. Setelah dilakukan pengujian, diperolah hasil bahwa program
+aplikasi ini dapat mengidentifikasi wajah dengan tingkat akurasi baik. Beberapa kesalahan identifikasi
+terjadi karena ekspresi dan orientasi wajah pada saat pengujian berbeda dengan citra referensi.
+Sistem absensi, pengenalan pola wajah, metode gabor wavelet, kernel, citra

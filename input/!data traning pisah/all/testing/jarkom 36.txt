@@ -1,0 +1,21 @@
+PENGEMBANGAN MODEL SISTEM INFORMASI PERPUSTAKAAN DENGAN
+TEKNOLOGI INFORMASI BERBASIS WIRELESS APLICATION PROTOCOL (WAP) PADA UNIVERSITAS SRIWIJAYA  Wireless Application Protocol (WAP) merupakan suatu protocol yang memungkinkan internet dapat diakses
+dengan perangkat mobile seperti ponsel atau handphone dan perangkat wireless lainnya. WAP membawa
+informasi secara online melalui internet langsung menuju Ponsel atau Handphone. Dengan adanya WAP,
+berbagai informasi dapat diakses setiap saat dengan menggunakan ponsel atau handphone. Berdasarkan
+data sebanyak 70% dari total seluruh penduduk di Indonesia menggunakan handphone seluler. Sedangkan
+menurut catatan Asosiasi Telepon Seluler (ATSI), yang disampaikan oleh Sarwoto Atmosutarno sebagai
+ketua Umum ATSI, di pembukaan FKI dan ICS 2010 Jakarta Convention Center, 14 Juli 2010 mengatakan
+bahwa sekitar 180 juta penduduk Indonesia sudah menjadi pelanggan seluler. Perpustakaan merupakan
+gudang ilmu, dengan adanya perpustakaan masyarakat, dosen, mahasiswa dan siswa dapat membaca.
+Dengan adanya perpustakaan dosen dapat mencari literatur untuk mendukung tri dharma seperti penelitian,
+pangabdian dan pengajaran. Untuk memaksimalkan fungsi dari perpustakaan, maka harus dibuat
+manajemen dan strategi yang baik, sehingga informasi di perpustakaan mudah untuk diakses oleh
+masyrakat. Dengan hasil penelitian ini, dan dengan mengaplikasikan hasil penelitian ini maka fungsi dari
+perpustakaan dapat dimaksimalkan. Seperti user lebih mudah mengakses katalog yang ada di perpustakaan
+dengan menggunakan Handphone ataupun Iphone. Proses pengaksesan dengan handphone dan Iphone
+dapat dilakukan dimanapun dan kapanpun tanpa terbatas dengan ruang dan waktu. Misalnya dosen dalam
+kendaraan, sambil menunggu sampai tujuan, dosen dapat memanfaatkan handphone atau Iphonenya untuk
+membaca di perpustakaan atau mencari literatur yang dibutuhkan.  Selain itu perpustakaan berbasis digital
+dapat menciptakan kerjasama dengan perpustakaan universitas lain atau perpustakaan nasional, tentunya
+hal ini sangat menguntungkan WAP, Sistem Informasi, Perpustakaan Digital

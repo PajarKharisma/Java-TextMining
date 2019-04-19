@@ -1,0 +1,7 @@
+RANCANGAN PUZZLE GAME DELBELDES
+Puzzle game merupakan genre game yang paling diminati, demikian juga dengan adventure game.
+Penelitian ini bertujuan membuat sebuah rancangan game dengan genre puzzle namun menyisipkan adventure di
+dalamnya. Metodologi yang digunakan adalah metodologi perancangan software berorientasi objek. Perangkat
+pemodelan yang digunakan adalah use case diagram, state diagrams dan class diagram. Perancangan menghasilkan
+delapan belas class diagram yang dapat dituangkan dalam bentuk kode bahasa pemrograman berorientasi objek.
+puzzle adventure game, delbeldes, game borobudur

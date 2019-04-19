@@ -1,0 +1,11 @@
+PERANCANGAN SISTEM KONTROL GERAKAN
+PADA ROBOT LINE TRACER
+Perancangan gerakan pada robot line tracer merupakan suatu sistem yang dapat mengontrol
+gerakan robot sehingga robot dapat bergerak dengan baik.   Untuk itu dibutuhkan kontrol PID
+yang dapat mengontrol robot line tracer dalam melakukan gerakan pada bidang datar berwarna
+putih dengan garis berwarna hitam dalam lingkungan statis, sehingga robot dapat mengikuti
+garis hitam tersebut dengan baik. Dari penelitian ini, diperoleh hasil pengujian dalam ruangan
+dengan cahaya yang redup robot dapat berjalan dengan baik pada lintasan yang lurus dan gagal
+pada lintasan lengkung, sedangkan pengujian dalam ruangan dengan cahaya yang terang robot
+dapat berjalan dengan baik pada lintasan yang lurus maupun pada lintasan lengkung.
+

@@ -1,0 +1,24 @@
+Sistem Informasi Repository Digital
+Beban Kerja Dosen
+Perkembangan dan kemajuan teknologi informasi saat
+ini berjalan dengan sangat cepat. Seiring dengan perkembangan
+teknologi informasi, penyimpanan dan pengiriman data semakin
+murah dan semakin baik kualitasnya. Baik individu, institusi,
+maupun pemerintah ikut melakukan berbagai upaya untuk
+memanfaatkan perkembangan teknologi informasi ini. Bahkan
+dalam dunia pendidikan di Indonesia, khususnya perguruan
+tinggi. Setiap perguruan tinggi memiliki kegiatan tri dharma
+perguruan tinggi yang dilakukan oleh dosen meliputi 4 bidang,
+yaitu: bidang pendidikan dan pengajaran, penelitian, pengabdian
+kepada masyarakat, penunjang yang ditetapkan oleh pimpinan
+universitas. Oleh karena itu beban kerja dosen harus
+terdistribusi secara proporsional dan terukur dengan
+memanfaatkan perkembangan teknologi informasi. Salah satunya
+adalah Aplikasi Repository Digital Beban Kerja Dosen (BKD)
+yang dapat membantu dosen yang ingin mengetahui informasi
+beban kerja yang di tanggung dan membantu pimpinan dalam
+mengetahui informasi beban kerja yang di tanggung setiap dosen.
+Berdasarkan hasil pengujian dan penilaian responen
+mnunjukkan bahwa aplikasi ini dinilai positif dan berhasil.
+Aplikasi, Tri Darma Perguruan Tinggi, Beban
+Kerja Dosen, Repository Digital

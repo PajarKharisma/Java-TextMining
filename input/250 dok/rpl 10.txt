@@ -1,0 +1,13 @@
+PERANCANGAN SISTEM INFORMASI ADMISI
+PROGRAM PASCASARJANA
+UNIVERSITAS SAM RATULANGI
+Kegiatan pengelolaan akademik di Program Pascasarjana Universitas Sam Ratulangi (Unsrat) Manado
+khususnya dalam proses pendaftaran mahasiswa baru masih menggunakan model sistem manual yaitu masih
+menggunakan formulir pendaftaran tertulis. Proses yang sering kali tidak efisien dan memakan waktu yang
+lama, serta data yang mudah hilang atau tercecer merupakan kelemahan dari model sistem ini. Konsep
+rekayasa perangkat lunak serta analisa dan perancangan sistem menggunakan metode pengembangan
+perangkat lunak Rapid Application Development (RAD) dan Web Engineering (WebE) dapat diterapkan untuk
+mengatasi masalah tersebut. Proses analisa dan perancangan sistem dengan kombinasi dua metode tersebut
+dapat menghasilkan sebuah Sistem Informasi Admisi berbasis web yang sudah dapat digunakan dan memiliki
+dokumentasi yang lengkap.
+Sistem Informasi Admisi, Program Pascasarjana Unsrat, RAD, WebE

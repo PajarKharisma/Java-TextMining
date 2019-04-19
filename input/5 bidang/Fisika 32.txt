@@ -1,0 +1,15 @@
+Eksavator bachoe merupakan alat berat yang paling umum digunakan di bidang pertambangan 
+karena lincah dalam melakukan berbagai jenis pekerjaan. Mesin ini juga merupakan alat 
+berat yang paling serba-guna karena mampu menangani berbagai macam pekerjaan alat berat 
+yang lain. Penelitian ini bertujuan untuk menghitung kinematika manipulator dan mobile 
+pada eksavator bachoe. Pengambilan data dilakukan di PT.United Tractor Makassar. 
+Data yang diambil adalah panjang boom, arm dan bucket, jari-jari roda, lebar track 
+backhoe, dan jarak antara titik tengah pada 2 roda. Data yang diperoleh, digunakan 
+dalam perhitungan kinematika lengan dan eksavator mobile. Dari proses pengukuran 
+diperoleh dimensi utama yaitu jarak sumbu roda (2.2 m), lebar track (1.637 m) dan 
+jari-jari roda (0.404 m). Area kerja dari boom adalah 5.834 m, untuk arm adalah 
+2.925 m dan untuk bucket adalah 1.482 m. Hasil penelitian perhitungan kinematika 
+lengan diperoleh posisi x, y dan z pada end effector xT ( 0 m), yT (4.556 m) dan 
+zT (3.510 m). Kecepatan yang diperoleh adalah ?? ??(-1.506 ?? ??????/??????), ?? ??(6.206 ??????????/??), 
+dan ?? (3.33 ????????/??). Percepatan yang diperoleh adalah ?? ??(-4.709 ?? ??????/??????²), ?? ??(-7.709 ?? ??????/??????²), 
+dan ?? (-4.709 ?? ??????/??????²).

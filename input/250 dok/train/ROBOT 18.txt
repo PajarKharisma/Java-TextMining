@@ -1,0 +1,13 @@
+Desain Kerjasama Mobile Manipulator Robot
+Penelitian ini bertujuan untuk merancang dan membuat dua mobile robot yang mampu bekerjasama
+mengangkut objek serta membuat sistem kontrol kedua robot agar dapat berjalan dengan benar dan
+bekerjasama dengan baik melakukan proses pengangkutan objek. Tahap perancangan pada
+penelitian ini dimulai dengan pemilihan komponen mekanik dan elektronika, serta pembuatan
+program pada mikrokontroller minimum system ATMega16 dan Arduino Uno, menganalisa
+kinematika gerak mobile robot dan pengujian dengan membuat area kerja berupa lintasan line
+follower dan menghitung errornya. Dari proses perancangan, diperoleh dimensi mobile robot dengan
+ukuran 235mm x 187mm x 165mm. Dimensi rangka penyangga 86mm x 60mm x
+154mm.Perhitungan kinematika mobile robot, diperoleh kecepatan sudut ? (t) = 0,31 rad / s,
+kecepatan linear 0,17m / s dan posisi robot pada 0,315 (t) +?0. Beban maksimum yang bisa diangkat
+oleh mobile robot adalah 34 newton.
+ mobile robot, line follower, mikrokontrolle

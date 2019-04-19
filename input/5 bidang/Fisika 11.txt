@@ -1,0 +1,9 @@
+Tujuan penelitian ini adalah membuat alat peraga yang diharapkan dapat membantu siswa 
+lebih memahami mengenai perpindahan panas. Metode penelitian yang digunakan adalah eksperimen, 
+dimana peneliti membuat pendingin sederhana dengan menggunakan bahan dan alat sederhana 
+yang ada disekitarnya. Penelitian ini dilakukan melalui kajian teori bahan yang digunakan 
+untuk membuat pendingin sederhana, pembuatan alat peraga dari alat dan bahan sederhana, 
+dan pengujian kinerja alat. Pengumpulan data dilakukan dengan metode dokumentasi yang 
+berupa pengukuran suhu kotak sebelum dimodifikasi dengan suhu kotak setelah dimodifikasi. 
+Hasil dari penelitian ini adalah berupa alat pendingin sederhana yang dapat digunakan 
+sebagai alat peraga oleh guru di sekolah untuk menjelaskan perpindahan panas.

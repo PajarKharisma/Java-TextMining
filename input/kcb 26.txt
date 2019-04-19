@@ -1,0 +1,15 @@
+SISTEM PENDUKUNG KEPUTUSAN UNTUK MENENTUKAN
+PEMILIHAN JURUSAN SISWA DENGAN MENGGUNAKAN
+METODE WEIGHTED PRODUCT (STUDI KASUS:
+SMA SWASTA HKBP DOLOKSANGGUL) Sistem pendukung keputusan adalah bagian dari sistem informasi berbasis komputer yang biasa
+digunakan untuk mendukung pengambilan keputusan pada suatu organisasi atau perusahaan. Sistem pendukung
+keputusan dapat dihasilkan dengan menggunakan beberapa macam metode, salah satu diantaranya adalah
+metode Weighted Product (WP). Weigthted Product adalah metode penyelesaian dengan menggunakan
+perkalian untuk menghubungkan nilai atribut, dimana nilai harus dipangkatkan terlebih dahulu dengan bobot
+atribut yang bersangkutan. Dengan menggunakan metode Weighted Product ini, diharapkan proses penjurusan
+siswa lebih efektif dan efisien sehingga siswa cepat mendapat informasi tentang penjurusan dan hasil
+penjurusan pun sesuai dengan kemampuan siswa masing-masing. Dengan menggunakan Sistem pendukung
+keputusan dan database, data siswa atau nilai penjurusan siswa dapat disimpan di dalamnya, sehingga jika
+terjadi kesalahan dalam penginputan nilai atau data siswa, maka data yang salah tersebut dapat diperbaiki
+tanpa harus menginput ulang nilai atau data siswa.
+SPK, MADM, WP

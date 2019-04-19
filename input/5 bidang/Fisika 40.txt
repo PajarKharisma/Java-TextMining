@@ -1,0 +1,13 @@
+Getaran dari mesin (engine) adalah salah satu sumber getaran pada kendaraan. Getaran ini
+disebabkan adanya variasi tekanan gas di dalam silinder dan fluktuasi gaya karena gerakan berputar dan
+gerakan bolak-balik komponen-komponen mesin. Penelitian ini bertujuan untuk mengetahui besar getaran
+dan menganalisa getaran mesin empat langkah 550 cc dua silinder segaris, dengan memvariasikan sudut
+antar engkol 0o, 90o, dan 180o. Mesin ditumpu oleh tiga dudukan karet (rubber mounts) dengan posisi dua
+di depan dan satu di belakang. Penelitian dilakukan dengan membuat model dinamis mesin dalam lima
+derajat kebebasan. Gaya eksitasi yang bekerja pada mesin ditentukan dari tekanan gas hasil pembakaran
+dalam silinder dan gaya inersia bagian-bagian mesin yang berputar dan bergerak resiprokal. Input
+parameter-parameter lain dalam pemodelan ditentukan dari pengukuran bagian-bagian mesin yang terlibat
+dalam pemodelan, kemudian dilakukan simulasi model dengan software MATLAB Simulink untuk
+mengetahui respon getaran blok mesin dalam arah translasi vertikal (arah sumbu Y) pada variasi
+kecepatan putaran mesin 1000, 3000 dan 5000 rpm. Hasil simulasi menunjukkan getaran blok mesin
+terbesar terjadi pada posisi sudut antar engkol 180o dan terkecil pada sudut 0o.

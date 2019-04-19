@@ -1,0 +1,22 @@
+EXPERT SYSTEM PELANGGARAN KENDARAAN
+BERMOTOR DI INDONESIA DENGAN
+METODA FORWARD CHAINING
+Kendaraan merupakan kebutuhan primer bagi masyarakat, terutama para pekerja atau
+karyawan. Kendaraan merupakan penunjang langkah mereka untuk mengejar waktu dan sampai pada
+tempat kerja dengan cepat. Salah satu kendaraan yang umum dimiliki oleh masyarakat di Indonesia
+adalah sepeda motor. Selain harganya terjangkau, sepeda motor juga memungkinkan sipengendara
+untuk cepat sampai dan terhindar dari macet.
+Semakin banyaknya pengendara sepeda motor, memungkinkan banyaknya pekerjaan polisi
+disaat razia, diantaranya pengecekan secara individual si pemilik motor ataupun motor yang di pinjam.
+Apabila kelengkapan dalam berkendaraan tidak terpenuhi maka polisi akan menilang pengendara.
+Dalam hal ini pengetahuan pengendara sangat kurang sekali, dan terkadang pengendara yang di tilang
+pun memiliki asumsi negative terhadap polisi yang merazia dikarenakan kurangnya informasi atau
+pengetahuan mereka dibidang lalu lintas mengenai denda yang akan mereka terima, sehingga
+dibutuhkan sebuah system yang mampu menjawab pertanyaan si pengendara yang melakukan kesalahan
+tanpa harus mempertanyakan kepada pihak kepolisian, apabila pengendara tidak mengenakan helm
+ataupun tidak membawa kelengkapan berkendaraan lainnya.
+Sistem pakar yang dibuat sangat efektif karena di install di komputer atau pun gadjet dan
+lain sebagainya yang bisa dibawa pengguna kemana - mana, sehingga pengguna tidak perlu
+repot - repot bertanya kepada pihak kepolisian ataupun bernegosiasi dengan polisi perihal
+kesalahannya.
+Sistem Pakar, Forward Chaining, Denda Lalu Lintas, Denda

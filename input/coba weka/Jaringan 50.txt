@@ -1,0 +1,17 @@
+ANALISA DAN IMPLEMENTASI INTEGRATED SERVICE RSVP DAN IPV6 PADA
+ROUTER MPLS UNTUK APLIKASI MULTIMEDIA Berbagai apalikasi memiliki jenis kebutuhan QOS yang berbeda, tetapi saat ini jaringan internet
+yang ada menggunakan QoS best effort, yang akan memperlakukan semua paket data yang akan
+dilayani secara sama dengan sebaik-baiknya. Padahal dibutuhkan QoS yang lebih baik untuk
+melayani paket-paket yang berbeda seperti audio dan video. Tentu saja untuk mendukung
+layanan-layanan tersebut dibutuhkan mekanisme manajemen bandwidth yang baik, agar setiap
+layanan yang akan diberikan memiliki resource yang cukup memenuhi QoS yang diharapkan.
+Teknologi Multi Protokol Label Switching (MPLS) digunakan untuk meningkatkan performansi
+jaringan dengan mempersingkat waktu forwarding, MPLS bekerja dengan cara menambahkan
+header pada paket sebagai identifikasi yang akan digunakan pada proses switching. Ketika paket
+sampai di Label Switching Router (LSR), router tersebut menggunakan label ini untuk
+mengidentifikasi Flow Error Control (FEC), data tentang FEC tersebut tersimpan dalam bentuk
+forwarding tabel pada router yang bersangkutan. Tugas akhir ini mengimplementasikan
+Integrated service yang biasa digunakan yaitu RSVP dan pengalamatan IPv6 dengan MPLS (Multi
+Protokol Label Switching) untuk aplikasi multimedia. Aplikasi ini berjalan pada sistem operasi
+Linux, mengingat Linux merupakan open source dan gratis. Setelah implementasi kemudian
+dilakukan analisis performansinya berdasarkan parameter yang telah ditentukan

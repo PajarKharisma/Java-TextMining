@@ -1,0 +1,17 @@
+ANALISIS SENTIMEN TWEET MENGGUNAKAN
+BACKPROPAGATION NEURAL NETWORK Analisis sentimen tweet berkembang sebagai sebuah
+kajian pada bidang Pengolahan Bahasa Alami yang
+bermanfaat mengetahui opini masyarakat terhadap
+sebuah topik tertentu secara otomatis. Pada penelitian
+ini kami mengajukan teknik analisis tweet kedalam tiga
+kelas (positif, negatif dan netral) menggunakan
+algoritma Backpropagation Neural Network. Input
+jaringan merupakan sejumlah kata terpilih yang
+dirangking mengunakan skor TF*IDF. Variasi
+praproses term dilakukan untuk menguji performa
+klasifikasi sentimen. Hasil pengujian menunjukkan
+metode yang kami ajukan berhasil melakukan
+klasifikasi dengan hasil terbaik dengan akurasi 78.34%
+dan presisi 84.21%.
+ Analisis sentimen, Tweet,
+Backpropagation, Neural Network

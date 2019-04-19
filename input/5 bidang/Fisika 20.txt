@@ -1,0 +1,15 @@
+KETAHANAN KOROSI LAPISAN TIPIS ALUMINIUM-BESI DENGAN TEKNIK UNBALANCED MAGNETRON SPUTTERING 
+PADA CAIRAN PB-BI TEMPERATUR TINGGI. Reaktor cepat berpendingin timbal alloy merupakan salah 
+satu kandidat reaktor nuklir masa depan di dunia (reaktor generasi IV). Salah satu permasalahan 
+kunci dalam pengembangan LFR di dunia adalah pengembangan bahan yang tahan korosi dalam 
+lingkungan timbal alloy pada temperatur tinggi. Telah dilakukan uji korosi lapisan tipis 
+aluminium-besi pada permukaan baja dalam cairan Pb-Bi eutectic pada temperatur tinggi 700ºC. 
+Lapisan tipis ini dibentuk di atas permukaan baja martensitik STBA26 dan austenitik SS316FR 
+dengan menggunakan teknik UBMS-Unbalanced Magnetron Sputtering. Uji korosi dilakukan selama 
+1,000 jam untuk masing-masing konsentrasi oksigen 6,8x10-7 %berat dan 5x10-6 %berat. Sebagai 
+bahan perbandingan, diuji juga baja tanpa pelapisan yaitu tipe STBA26, SS430, Recloy10 dan NTK04L.
+Hasil uji korosi menunjukkan bahwa tidak ada penetrasi Pb-Bi ke dalam matriks lapisan tipis 
+aluminium-besi dengan teknik UBMS ini untuk semua uji korosi. Sebaliknya, penetrasi Pb-Bi yang 
+cukup dalam ditemukan pada semua spesimen baja tanpa pelapisan. Hasil ini menunjukkan bahwa lapisan 
+tipis aluminium-besi dengan teknik UBMS memiliki ketahanan korosi yang tinggi dalam lingkungan 
+Pb-Bi eutectic pada temperatur 700ºC.

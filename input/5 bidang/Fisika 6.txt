@@ -1,0 +1,19 @@
+Tujuan dari penelitian ini adalah untuk mengembangkan media pembelajaran berupa ular tangga pada pembelajaran
+Fisika materi Gaya yang memenuhi kriteria baik ditinjau dari motivasi belajar siswa.
+Penelitian ini termasuk penelitian pengembangan yang menggunakan metode research and development (R&D).
+Model pengembangan yang digunakan dalam penelitian ini adalah model prosedural yaitu model yang bersifat
+deskriptif yang menunjukkan langkah-langkah yang harus diikuti untuk menghasilkan produk berupa media
+pembelajaran. Data diperoleh melalui wawancara dan angket. Teknik analisis data yang digunakan adalah analisis
+deskriptif kualitatif.
+Berdasarkan hasil penelitian yang telah dilakukan, dapat disimpulkan bahwa media pembelajaran berupa permainan
+ular tangga termasuk kriteria sangat baik ditinjau dari motivasi belajar siswa. Hal tersebut ditunjukkan dari hasil
+penilaian dari ahli materi dan ahli media memberikan rata-rata penilaian sebesar 87.778% dan hasil angket siswa
+awal dan akhir yang memberikan rata-rata peningkatan sebesar 6.943%. Selain itu juga dianalisis dengan
+menggunakan Uji-t berpasangan terhadap data masing-masing kelompok uji coba untuk mengetahui signifikansi
+dari peningkatan motivasi belajar siswa. Untuk uji perorangan SMP Negeri 1 Jaten diperoleh hasil perhitungan thitung
+= 6.286 > ttabel = 2.919 dan nilai Sig. = 0.024 < 0.05, dan SMP Negeri 1 Mojogedang thitung = 47.000 > ttabel = 2.919
+dan nilai Sig. = 0.000 < 0.05 yang berarti sangat signifikan. Untuk uji kelompok kecil SMP Negeri 1 Jaten diperoleh
+hasil perhitungan thitung = 13.534 > ttabel = 1.796 dan nilai Sig. = 0.000 < 0.05, dan SMP Negeri 1 Mojogedang thitung
+= 3.251 > ttabel = 1.796 dan nilai Sig. = 0.008 < 0.05 yang berarti sangat signifikan. Untuk uji kelompok besar SMP
+Negeri 1 Jaten diperoleh hasil perhitungan thitung = 4.488 > ttabel = 1.699 dan nilai Sig. = 0.000 < 0.05, dan SMP
+Negeri 1 Mojogedang thitung = 18.354 > ttabel = 1.689 dan nilai Sig. = 0.000 < 0.05 yang berarti sangat signifikan.

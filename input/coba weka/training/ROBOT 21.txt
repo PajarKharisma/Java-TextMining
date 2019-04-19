@@ -1,0 +1,21 @@
+Perancangan Aplikasi Pemrograman Diagram
+Alir untuk Trainer Pembelajaran Robotika
+Berbasis Android
+Sistem pembelajaran interaktif yang dibangun bertujuan sebagai trainer pembelajaran
+robotika untuk siswa-siswi SD (Sekolah Dasar) sampai dengan SMA (Sekolah Menengah
+Atas). Trainer tersebut akan memperkenalkan logika dari cara kerja robot dengan
+menggunakan diagram alir. Siswa-siswi akan mempelajari cara untuk merancang logika
+robot bekerja yang terdiri dari perulangan, percabangan, dan beberapa instruksi dasar.
+Trainer pembelajaran robotika dibangun dengan komponen utama yaitu : sensor jarak,
+modul bluetooth, driver motor, mikrokontroler dan smartphone. Perangkat lunak yang
+digunakan untuk memberikan instruksi kepada robot tersebut berasal dari smartphone
+android yang di dalamnya sudah di instal aplikasi trainer robotika dengan format extension
+apk. Hasil pengujian menunjukan bahwa trainer robotika ini dapat menjalankan instruksi
+yang diberikan oleh smartphone android. Robot dapat di instruksikan untuk berjalan maju,
+kanan, kiri, mundur, dan mendeteksi rintangan. Tingkat keberhasilan dari Trainer Robotika
+yang diuji adalah mencapai 90%, dikarenakan robot memiliki kelemahan jika berjalan di
+permukaan yang licin. Pada saat robot berjalan di permukaan yang licin terjadi perbedaan
+antara jarak yang di instruksikan dengan jarak robot saat berjalan. Bahasa pemrograman
+yang digunakan adalah bahasa C untuk mikrokontroler dan untuk aplikasi pada Android
+menggunakan bahasa pemrograman Java.
+trainer robotika, diagram alir, pemrograman android.

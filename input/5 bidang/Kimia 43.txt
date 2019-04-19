@@ -1,0 +1,10 @@
+Kopi merupakan salah satu komoditas perkebunan yang banyak dibudidayakan oleh para pelakuusaha.
+Salah satu senyawa yang terdapat dalam kopi mengandung kafein. Kafein adalah salah satu jenis alkaloid yang
+banyak terdapat dalam biji kopi. Tujuan penelitian ini yaitu mengetahui kandungan kafein dalam kopi mentah, kopi
+bubuk murni, dan kopi bubuk campuran dengan menggunakan spektrofotometer UV-Vis sedangkan penentuan kadar
+air pada kopi menggunakan metode oven. Larutan standar kafein dengan 6 variasi konsentrasi 1 ppm; 3 ppm; 6 ppm;
+9 ppm; 12 ppm; 15 ppm. Persamaan kurva kalibrasi dari kafein adalah y = 0,0494x + 0,01862 dengan nilai koefisien
+korelasi (r) sebesar 0,99714. Kadar kafein dalam kopi mentah adalah sebesar 1,28±0,82 % dengan kadar air sebesar
+3 %, kopi murni sebesar 1,63±0,13 % dengan kadar air sebesar 1 %,dan kopi campuran sebesar 0,87±0,01 % dengan
+kadar air sebesar 1 %.. Menurut SNI 01-7152-2006 batas maksimum kafein dalam makanan dan minuman adalah
+150 mg/hari dan 50 mg/sajian.

@@ -1,0 +1,1 @@
+Pengendali Lengan Robot Menggunakan Borland Delphi 7 Pengendalian lengan robot, komunikasi serial, Borland Delphi 7

@@ -1,0 +1,10 @@
+Robot Line Follower Berbasis Mikrokontroler Atmega 16 dengan
+Menampilkan Status Gerak Pada LCD
+Di era globalisasi seperti sekarang ini, ilmu pengetahuan dan teknologi semakin berkembang dengan pesat.
+Ilmu pengetahuan dan teknologi ini dimanfaatkan dan dikembangkan oleh setiap manusia untuk dapat
+membantu mereka dalam mengerjakan segala hal sehingga semua dapat diselesaikan dengan lebih mudah
+dan efesien. Oleh karena itu, setiap manusia dituntut agar mampu beradaptasi dengan perkembangan ilmu
+pengetahuan dan teknologi tersebut. Salah satu bentuk penerapan dari iptek adalah adanya robot yang
+dapat membantu manusia dalam mengerjakan segala hal. Dengan adanya robot line follower ini nantinya
+dapat meringankan tugas manusia dalam menyelesaikan masalah. Terdapat 3 (tiga) bagian penting di
+dalam robot line follower yakni bagian sensor, komparator dan driver.

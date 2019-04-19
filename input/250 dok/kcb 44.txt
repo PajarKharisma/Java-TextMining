@@ -1,0 +1,17 @@
+PREDIAGNOSIS PENYAKIT HIPERTENSI MENGGUNAKAN JARINGAN SYARAF TIRUAN
+BACKPROPAGATION
+Salah satu aplikasi kecerdasan buatan yaitu jaringan syaraf tiruan. Salah satu metode pelatihan
+pada jaringan syaraf tiruan adalah algoritma backpropagation. Algoritma tersebut dapat digunakan untuk
+memprediksi suatu luaran termasuk dalam bidang medis, yaitu untuk mendiagnosis kemungkinan
+hipertensi dengan bantuan faktor - faktor resiko. Hipertensi merupakan gangguan pada sistem peredarah
+darah yang dapat menyebabkan kenaikan tekanan darah di atas nilai normal. Jaringan ini dibuat untuk
+membantu masyarakat untuk mengetahui adanya kemungkinan mengidap penyakit hipertensi atau tidak
+dengan mudah.
+Pada penelitian ini dilakukan prediagnosis penyakit hipertensi menggunakan algoritma
+backpropagation. Sebagai input dalam penelitian ini adalah faktor - faktor resiko dari penyakit hipertensi
+dengan 2 parameter yaitu banyaknya unit lapisan tersembunyi dan learning rate dalam 9 percobaan.
+Hasil percobaan menunjukan bahwa banyaknya unit lapisan tersembunyi dan learning rate
+berpengaruh pada waktu proses pelatihan dan tingkat akurasi jaringan. Tingkat akurasi tertinggi dari
+kesembilan percobaan tersebut yaitu 66.67% , yang diperoleh pada percobaan dengan learning rate 0.1
+dan 6 unit lapisan tersembunyi.
+jaringan syaraf tiruan, backpropagation, hipertensi, faktor resiko.

@@ -1,0 +1,13 @@
+SISTEM PAKAR IDENTIFIKASI HAMA DAN PENYAKIT TANAMAN JAGUNG BERBASIS WEB
+(STUDI KASUS : DINAS TANAMAN PANGAN DAN HORTIKULTURA KAB INHIL) Saat ini, kemajuan teknologi telah banyak memberian pengaruh dalam proses pekerjaan manusia
+dalam berbagai bidang misalnya dalam bidang pertanian, dimana banyak peralatan pertanian yang
+dikembangkan melalui teknologi internet sehingga proses pekerjaan pertanian dapat diselesaikan
+dengan baik, salah satu tanaman pertanian yang termasuk komiditi tanaman pangan yaitu tanaman
+jagung. Tanaman jagung sering di serang berbagai hama dan penyakit yang dapat dilihat dari kerusakankerusakan secara fisik yang terlihat pada tanaman jagung tetapi untuk mengetahui jenis hama dan
+penyakit tanaman tersebut memerlukan pengetahuan sedangkan pengetahuan yang dimiliki para petani
+masih sangat terbatas. Sehingga diperlukan sebuah sistem untuk memberikan pengetahuan seperti
+seorang pakar, dimana dalam sistem ini berisi pengetahuan keahlian seorang pakar dibidang penyakit
+dan hama tanaman jagung. Pada penelitian ini dirancang sebuah sistem pakar menggunakan basis
+aturan dengan metode forward chaining dalam membantu untuk identifikasi hama dan penyakit
+tanaman jagung berbasis web.
+ Tanaman Jagung, Petani, Sistem Pakar, Hama Dan Penyakit

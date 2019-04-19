@@ -1,0 +1,1 @@
+Accelero meter, Gyroscope, Fuzzy Logic, Kalman Filter, Self - balancing Control.

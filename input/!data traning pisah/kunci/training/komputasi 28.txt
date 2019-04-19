@@ -1,0 +1,1 @@
+SVM, MFCC, Pengenalan Gender, Suara 

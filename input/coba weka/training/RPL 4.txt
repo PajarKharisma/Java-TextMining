@@ -1,0 +1,16 @@
+Rekayasa Perangkat Lunak Database Jurnal Ilmiah Berbasis Web
+Menggunakan PHP dan Mysql Keberadaan  Jurnal  Ilmiah  merupakan  salah  satu  wujud  eksistensi  suatu  lembaga  yang
+berbasiskan  penelitian  dan  pengabdian  masyarakat,  seperti  halnya  di  fakultas  kedokteran  Universitas
+Diponegoro  semarang. Jurnal  Ilmiah  sangat  penting  untuk  mempublikasikan  hasil  riset  dan  pengabdian
+terbaru yang dilakukan oleh FK-UNDIP Jurnal terakreditasi yang terbit 4 kali setahun memuat tentang
+riset-riset  dibidang  kedokteran  terbaru Publikasi  jurnal  juga  dilakukan  melalui  internet  melalui  situs
+resminya www mediamedika net Tetapi jurnal yang terpublikasi belum terangkum dalam struktur database
+yang  rapi  sehingga  menjadi  sangat  sulit  pengelolaannya. Sehingga  dibutuhkan sistem  database  jurnal
+berbasis web yang sesuai kebutuhan di Jurnal MMI Fakultas Kedokteran Universitas Diponegoro di situs
+www mediamedika net Metode  Pengembangan  sistem  dalam  penelitian  ini  menggunakan  pendekatan
+Waterfall Kesimpulan yang di dapat yaitu pembuatan situs sangat terbantu dengan penggunaan CMS PHP
+Nuke Sehingga mempercepat waktu penulisan program Penggunaan database mysql untuk penyimpanan
+data  jurnal menjadikan  modul jurnal terintegrasi  dengan baik  pada  PHP-Nuke Proses memasukan data
+sebaiknya dilakukan offline untuk menghemat biaya koneksi internet setelah itu lakukan upload dengan
+ftp dan update database menggunakan phpmyadmin yang disediakan
+database jurnal

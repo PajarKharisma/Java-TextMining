@@ -1,0 +1,25 @@
+TEKNIK DATA MINING UNTUK MEMPREDIKSI MASA STUDI MAHASISWA
+MENGGUNAKAN ALGORITMA K-NEAREST NEIGHBORHOOD
+Data mining adalah sebuah teknik yang memanfaatkan data dalam jumlah yang besar untuk
+memperoleh informasi berharga yang sebelumnya tidak diketahui dan dapat dimanfaatkan untuk
+pengambilan keputusan penting. Data mining juga memanfaatkan pengalaman atau bahkan kesalahan
+di masa lalu untuk meningkatkan kualitas dari model maupun hasil analisanya, salah satunya dengan
+kemampuan pembelajaran yang dimiliki teknik data mining yaitu klasifikasi. Kegiatan
+pengklasifikasian yang dilakukan oleh manusia masih memiliki keterbatasan, terutama pada
+kemampuan manusia dalam menampung jumlah data yang ingin diklasifikasikan. Selain itu bisa juga
+terjadi kesalahan dalam pengklasifikasian yang dilakukan. Salah satu cara mengatasi masalah ini
+adalah dengan menggunakan Data Mining (DM) dengan teknik klasifikasi. Klasifikasi merupakan
+tugas pembelajaran yang memetakan sebuah objek baru ke dalam salah satu label class atau kategori 
+pada objek lama yang telah didefinisikan sebelumnya. Klasifikasi ini menggunakan salah satu metode
+algoritma data mining yaitu k-Nearest Neighborhood (KNN). Algoritma KNN bekerja berdasarkan
+jarak terpendek dari objek baru ke objek lama dengan menentukan nilai k. Nilai k merupakan
+parameter untuk menentukan jarak terdekat antara objek baru terhadap objek lama. Dengan
+menggunakan teknik data mining tersebut maka di perguruan tinggi dapat memanfaatkan data
+akademik mahasiswa yaitu indeks prestasi (IP) untuk memprediksi masa studi mahasiswa
+berdasarkan kategori kelulusan yaitu tepat waktu (4-5 Tahun) dan tidak tepat waktu (5 tahun lebih).
+Dalam aplikasi data mining ini terdiri dari data testing (data yang akan diuji) dan data training (data
+yang telah diketahui label class atau kategorinya) dengan masukan NIM dan nilai k. Nilai k yang
+terbaik, tergantung pada jumlah data yang digunakan. Jika nilai k tinggi, maka hasil tingkat
+keberhasilannya belum tentu baik dan begitu sebaliknya. Sehingga diharapkan hasil akhir dari
+aplikasi data mining ini dapat menghasilkan prediksi masa studi mahasiswa
+s

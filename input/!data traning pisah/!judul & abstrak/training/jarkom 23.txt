@@ -1,0 +1,16 @@
+PENGEMBANGAN SISTEM PENGENDALIAN TRAFFIC 
+DAN WEB FILTERING PADA JARINGAN INTERNET   
+BERBASIS HOTSPOT Pemanfaatan layanan Internet pada jaringan hotspot memunculkan permasalahan khususnya pada
+pengendalian traffic dan web filtering. Linux sebagai sistem operasi yang bersifat terbuka (open source), 
+menawarkan berbagai sistem firewall internet untuk membantu proses pengelolaan traffic, bandwidth,
+dan web filtering salah satunya dengan menggunakan Smoothwall Express Linux yang dapat
+mengkonversi personal computer (PC) menjadi perangkat firewall internet yang handal dan stabil.
+Smoothwall memungkinkan untuk dintegrasikan dengan add-ons extends seperti AdvProxy dan URL
+Filter untuk meningkatkan kinerja dari Smoohtwall dan mempermudah konfigurasi terhadap
+pengendalian traffic dan web filtering. Penelitian ini dilakukan dengan mengumpulkan data dari
+berbagai sumber yang terkait, kemudian melakukan eksperimen dengan mengimplementasikan
+Smoohtwall dengan menambahkan add-ons extends untuk membantu administrator mengelola dan
+mengatur alokasi bandwidth tiap client, memblokir situs-situs (URL) yang tidak dinginkan. Berdasarkan
+hasil penelitian ini pengelolaan bandwidth dapat dibagi secara merata dan dapat memblokir situs-situs
+(URL) yang tidak dinginkan seperti situs porn, warez, bad word, dan updatesites sehingga kualitas
+koneksi jaringan lebih stabil. 

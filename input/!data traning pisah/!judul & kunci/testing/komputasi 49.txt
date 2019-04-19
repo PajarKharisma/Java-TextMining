@@ -1,0 +1,2 @@
+DETEKSI PENYAKIT DIABETES TYPE II DENGAN NAIVE BAYES
+BERBASIS PARTICLE SWARM OPTIMIZATION Data mining, Penyakit Jantung, Naive bayes, Particle Swarm Optimization

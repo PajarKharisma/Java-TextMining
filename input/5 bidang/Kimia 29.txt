@@ -1,0 +1,9 @@
+Telah dilakukan penelitian untuk menentukan kadar 8-OHdG dalam urin tikus setelah terpapar etanol 
+dan asap rokok selama 15 hari dengan KLT-Spektrofotodensitometer. Etanol dan asap rokok yang masuk 
+dalam tubuh melalui berbagai metabolisme dapat meningkatkan jumlah Reactive Oxygen Species (ROS), 
+sehingga dapat mengakibatkan keadaan yang dinamakan stres oksidatif. Senyawa 8-OHdG merupakan
+ hasil dari oksidasi DNA dalam tubuh yang berupa nukleotida guanin oleh ROS, 8-OHdG merupakan 
+senyawa yang larut dalam air sehingga mudah diekskresikan melalui urin. Pada penelitian ini, 
+pemaparan etanol dan asap rokok dosis tunggal dan kombinasi berpengaruh terhadap kadar 8-OHdG.
+Kadar 8-OHdG dalam urin tikus pada kelompok kontrol; perlakuan etanol; rokok; dan etanol-rokok
+berturut-turut adalah (0,00 ± 0,00)%, (0,33 ± 0,08)%, (0,25 ± 0,10)%, dan (0,57 ± 0,27)%.

@@ -1,0 +1,21 @@
+APLIKASI SISTEM PENDUKUNG KEPUTUSAN
+MENGGUNKAAN ALGORITMA C4.5. UNTUK
+PENJURUSAN SMA
+Algoritma C4.5 merupakan pengembangan dari algoritma ID3, kelebihan algoritma C4.5 dapat
+menangani atribut kontinyu dan diskrit, kemudian dapat menangani training data dengan
+missing value, serta menggunakan gain ratio untuk memperbaiki information gain. Selama ini
+untuk menentukan penjurusan sekolah SMA masih dilakukan dengan cara manual. Semakin tahun
+terjadi peningkatan jumlah siswa dan syarat untuk penjurusan juga semakin komplek, sehingga
+diperlukan sistem aplikasi penjurusan untuk membantu pihak sekolah dalam mempercepat dan
+efisiensi penjurusan sekolah. Apabila penjurusan sesuai dengan kemampuan dan minat siswa,
+maka mereka dapat belajar dengan nyaman dan lulusan yang dihasilkan juga mendapat nilai yang
+maksimal, sehingga rata-rata nilai meningkat. Tujuan penelitian ini adalah membuat klasifikasi
+penjurusan siswa menggunakan algoritma C4.5 (metode decision tree) untuk mempermudah dan
+mempercepat penentuan penyeleksian pemilihan jurusan sehingga proses yang dihasilkan dari
+seleksi ini lebih akurat dan objektif. Adapun Kriteria penjurusan adalah nilai Matematika, Fisika,
+Biologi, Kimia, Nilai Psikotest (IQ), Saran Psikotest, Angket/Minat Siswa, Saran Bimbingan
+Konseling. Hasil dari klasifikasi algoritma akan di analisa untuk menentukan recall, pressicion,
+accuracy terbesar dan Nilai error rate terkecil yang dicapai. Dari skenario uji coba yang
+dilakukan nilai akurasi yang dihasilkan setelah dilakukan pruning lebih baik dari pada tanpa
+pruning.
+Algoritma C4.5, Penentuan Jurusan, decission tree, akurasi, kriteria

@@ -1,0 +1,13 @@
+ALGORITMA FLOOD FILL UNTUK MENENTUKAN TITIK KOORDINAT MAZE
+MAPPING PADA ROBOT LINE FOLLOWER Robot line follower (RLF) adalah robot yang dapat berjalan mengikuti suatu maze yang berupa garis secara
+otomatis. RLF dapat digunakan untuk aplikasi pengiriman barang dari suatu tempat awal ke tempat tujuan dengan
+cepat, tepat dan akurat. Untuk menyelesaikan permasalahan tersebut dibutuhkan suatu algoritma yang digunakan
+untuk mengetahui posisi koordinat robot sehingga robot dapat diketahui pergerakannya. Pergerakan robot berawal
+dari start dan mecapai titik finish yang telah di tentukan. Pada penelitian ini menggunakan algoritma floodfill untuk
+mengetahui posisi koordinat RLF. Pengujian dilakukan dengan cara menjalankan RLF dari titik start menuju ke
+titik finish. Area yang digunakan berukuran 200 x 200 cm mempunyai tebal garis lintasan 2 cm dengan jarak
+terdekat pada setiap simpangnya adalah 40 cm Warna garis adalah putih dan background berwarna hitam. Hasil
+penelitian menunjukkan bahwa kestabilan RLF menyusuri garis lintasan dicapai pada nilai pengaturan PID Kp=30,
+Ki=8 dan KD=100. Hasil dari koordinat pada saat robot bergerak di simpan pada memori eeprom dari
+mikrokontroller dan di tampilkan pada LCD 2x16. Koordinat start dimulai dengan (0,0) dengan finish (2,2) pada
+maze yang telah ditentukan

@@ -1,0 +1,14 @@
+Gelatin merupakan biopolimer yang biasanya diperoleh dari hidrolisis parsial kolagen jaringan kulit, tulang, 
+dan jaringan ikat hewan. Penelitian ini bertujuan untuk mengisolasi dan mengkarakterisasi gelatin hasil 
+ekstraksi kulit kaki ayam Broiler melalui proses curing asam dan basa. Isolasi gelatin dari kulit kaki ayam 
+broiler dilakukan dengan ekstraksi waterbath menggunakan proses asam (tipe A) dan basa (tipe B). Larutan 
+CH3COOH 1,5% (GA) digunakan dalam proses curing asam, sedangkan larutan NaOH 2,0% (GB) untuk proses 
+curing basa dengan lama perendaman 2 hari. Gelatin dengan curing asam (GA) memberikan rendemen 8,74%, 
+kadar protein 82,59%, dan kadar lemak 23,50%. Sedangkan, dengan curing basa (GB) diperoleh gelatin 
+dengan rendemen 7,37%, kadar protein 79,75%, dan kadar lemak 15,76%. Hasil karakterisasi dengan FTIR 
+menunjukkan GA dan GB memberikan spektra yang hampir sama, yaitu memiliki serapan pada daerah bilangan 
+gelombang amida A, amida I, II, dan III yang merupakan serapan gugus khas gelatin. Pada daerah amida III, 
+GB memberikan serapan pada 1242 cm-1 dengan intensitas yang sangat rendah, namun GA tidak memperlihatkan 
+serapan pada bilangan gelombang tersebut, yang berkaitan dengan berubahnya keadaan struktur triple helix 
+kolagen menjadi random coil atau denaturasi kolagen menjadi gelatin. Berdasarkan hasil analisis FTIR, 
+dapat disimpulkan GA dan GB yang diperoleh adalah benar gelatin dengan GA memberikan hasil yang lebih baik.

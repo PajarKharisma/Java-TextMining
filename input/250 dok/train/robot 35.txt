@@ -1,0 +1,14 @@
+Rancang Bangun Model Sistem Pemberi Pakan Ayam Otomatis Berbasis
+Fuzzy Logic Control
+Rancang bangun model sistem pemberi pakan ayam otomatis ini menggunakan
+mikrokontroler Atmega8535 sebagai pengendali utamanya yang berfungsi untuk mengatur beberapa
+bagian seperti katup1, katup2, dan konveyor. Katup1 dan katup2 digerakan oleh motor servo dengan
+sistem kendali on off. Konveyor digerakan oleh motor DC dengan sistem kendali logika fuzzi. Kendali
+logika fuzzi digunakan agar pakan dapat terdistribusi secara merata disepanjang konveyor. Input
+dari model alat pemberi pakan ayam otomatis ini adalah strain gage yang digunakan untuk
+menimbang berat pakan, RTC DS1307 yang digunakan sebagai timer agar pakan dapat diberikan
+secara tepat waktu, dan rangkaian optocoupler digunakan untuk menghitung jarak konveyor. Dari
+hasil pengamatan, alat ini dapat memberikan pakan ternak secara otomatis, teratur, dan terjadwal
+sesuai dengan jumlah dan umur dari ternak. Pakan juga terdistribusi secara merata di sepanjang
+konveyor.
+logika fuzzi, strain gage, optocupler, timer, Mikrontroler.

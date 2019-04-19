@@ -1,0 +1,19 @@
+PENERAPAN ALGORTIMA C4.5 UNTUK PENENTUAN KELAYAKAN
+KREDIT Kredit macet merupakan salah satu
+resiko kredit yang dihadapi oleh industri
+keuangan. Kredit macet terjadi apabila dalam
+jangka panjang, lembaga keuangan tidak dapat
+menarik pinjaman kredit dalam waktu yang
+ditentukan. Penilaian kredit dapat digunakan
+untuk membantu analisa kredit dalam
+menentukan kelayakan pemohon. Dengan model
+penilaian kredit yang tepat, bank dapat
+mengevaluasi apakah pemohon layak untuk
+mendapatkan kredit atau tidak. Pada penelitian
+ini, dilakukan klasifikasi terhadap nasabah yang
+dikategorikan nasabah lancar dan bermasalah
+dengan membandingkan algoritma C4.5. Dari hasil
+pengujian kemudian didapatkan nilai akurasi C4.5
+sebesar 88.52%.
+ algoritma klasifikasi, c4.5, penilaian
+kredit

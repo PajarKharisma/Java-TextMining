@@ -1,0 +1,9 @@
+Klasifikasi Emosi Untuk Teks Bahasa Indonesia Menggunakan Metode Naive Bayes Komunikasi  dapat  dilakukan  dari  informasi  verbal  dan  non-verbal,  verbal  dapat  berupa
+tulisan  yang  diperoleh  dari  kata,  kalimat,  paragraf  dan  sebagainya  untuk  penggalian
+informasi teksnya menggunakan klaisifikasi teks. Pada proses klasifikasi itu akan digunakan
+data set  yang telah diketahui kelas emosinya yaitu jijik, malu, marah, sedih, senang, dan
+takut dengan menggunakan metode Naïve Bayes dan Naïve Bayes Multinomial. Akan dilihat
+sejauh mana kedua metode itu dapat mengklasifikasikan data emosi berbahasa indonesia.
+Hasil percobaan menunjukkan dengan metode Naive Bayes Multinomial mampu mengenali
+dokumen  dengan  tingkat  akurasi  61.57%  dengan  rasio  data  0.6  dengan  melakukan
+perlakuan berbeda pada preprosessing data

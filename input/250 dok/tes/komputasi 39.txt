@@ -1,0 +1,14 @@
+NAÏVE BAYES CLASSIFIER DAN SUPPORT VECTOR MACHINES
+UNTUK SENTIMENT ANALYSIS
+Text mining, mengacu pada proses mengambil informasi berkualitas tinggi dari teks. Informasi berkualitas
+tinggi biasanya diperoleh melalui peramalan pola dan kecenderungan melalui sarana seperti pembelajaran
+pola statistik. Proses text mining yang khas meliputi kategorisasi teks, text clustering, ekstraksi konsep / entitas,
+produksi taksonomi granular, sentiment analysis, penyimpulan dokumen, dan pemodelan relasi entitas.
+Pada penelitian ini dibahas klasifikasi opini sebagai opini positif dan opini negatif pada data berbahasa Inggris
+dan data berbahasa Indonesia menggunakan metode Naïve Bayes Classifier (NBC) dan Support Vector
+Machine (SVM). Baik metode NBC maupun metode SVM memberikan unjuk kerja yang baik dalam sentiment
+analysis pengklasifikasian opini berbahasa Inggris dan berbahasa Indonesia pada penelitian ini. Hasil
+percobaan menunjukkan bahwa metode SVM memberikan unjuk kerja yang lebih baik daripada metode NBC
+untuk mengklasifikasikan opini berbahasa Inggris dan opini positif berbahasa Indonesia. Sedangkan NBC
+memberikan unjuk kerja yang lebih baik dalam mengklasifikasikan data uji opini negatif berbahasa Indonesia.
+text mining, sentiment analysis, opinion mining, NBC, SVM

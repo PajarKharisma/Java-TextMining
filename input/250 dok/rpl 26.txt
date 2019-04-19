@@ -1,0 +1,20 @@
+SISTEM INFORMASI GEOGRAFIS PARIWISATA KOTA KUPANG Kota Kupang memiliki potensi wisata yang beragam, baik potensi alam 
+maupun kekayaan budaya. Perkembangan pariwisata di Kota Kupang semakin
+meningkat, oleh sebab itu diperlukan pendekatan secara teknologi dalam
+mendapatkan informasi pariwisata guna meningkatkan pendapatan melalui  usaha
+pengembangan potensi wisata daerah ini. Dengan adanya pendekatan teknologi
+diharapkan informasi potensi pariwisata di Kota Kupang dapat diterima dengan
+lebih optimal oleh para wisatawan. Kondisi ini dapat dipenuhi dengan adanya
+Sistem Informasi Geografis (SIG). 
+Metode penelitian yang dilakukan adalah dengan pengumpulan data melalui
+studi literature, wawancara, dan observasi, menganalisa kebutuhan perangkat
+lunak, melakukan digitasi peta, membangun database, merancang antar muka, dan
+melakukan pengujian program sebagai tahap akhir. Sistem yang dibangun
+berbasis web ini dikembangkan dengan menggunakan bahasa pemrograman PHP
+dan basis data MySQL. 
+Penelitian ini menghasilkan sebuah SIG di Kota Kupang  yang berbasis web
+yang didalamnya terdapat informasi jenis wisata, lokasi wisata serta fasilitas
+wisata tambahan berupa informasi hotel dan travel yang ada di Kota Kupang.
+Sistem ini juga menyajikan informasi – informasi berita mengenai kegiatan
+pariwisata yang ada di wilayah Kota Kupang maupun di luar wilayah Kota
+Kupang yang masih tercakup dalam Provinsi Nusa Tenggara Timur. SIG, Pariwisata, Kota Kupang, web, wisata Kota Kupang

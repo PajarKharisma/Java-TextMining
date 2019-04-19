@@ -1,0 +1,34 @@
+ALAT BANTU PEMBELAJARAN MATA KULIAH COMPUTER
+VISION PADA MATERI EDGE BASED SEGMENTASI CITRA
+BERBASIS MULTIMEDIA Pembelajaran computer vision pada materi edge based tentang deteksi tepi
+(edge detection) bagi sebagian mahasiswa materi yang sukar dipahami.
+Berdasarkan data kuisioner yang diperoleh dari 13 mahasiswa yang pernah
+mengambil mata kuliah computer vision, dapat diperoleh prosentase
+penilaian mata kuliah computer vision pada materi deteksi tepi (edge
+detection) bahwa 13,46% mahasiswa paham akan materi, dan 86,53%
+mahasiswa sukar memahami materi pada deteksi tepi (edge detection),
+terutama dalam proses perubahan antara citra asli dengan hasil citra yang
+telah dilakukan proses filtering. Hasil data nilai tugas diperoleh dari 78
+mahasiswa, 55% mendapatkan nilai < 60. Penelitian ini bertujuan untuk
+membangun alat bantu pembelajaran mata kuliah computer vision pada
+materi edge based segmentasi citra berbasis multimedia yang diharapkan
+dapat membantu mahasiswa dalam memahami materi deteksi tepi (edge
+detection) dan mahasiswa dapat menerapkan proses perubahan antara
+citra asli dengan hasil citra yang telah dilakukan proses filtering.
+Subjek dalam penelitian ini adalah aplikasi multimedia sebagai alat
+pembelajaran mata kuliah computer vision pada materi edge based
+segmentasi citra dengan menggunakan software Adobe Flash 8.
+Pengumpulan data dalam penelitian ini menggunakan metode Study
+literature, metode observasi, dan metode wawancara. Aplikasi ini disusun
+melalui prosedur yang mencakup indentifikasi masalah, studi kelayakan,
+analisis kebutuhan sistem, merancang konsep, merancang isi, design
+document, merancang naskah, merancang grafik, memproduksi sistem,
+pengetesan sistem dengan black box test dan alpha test.
+Hasil penelitian ini adalah aplikasi multimedia sebagai alat bantu
+pembelajaran mata kuliah computer vision pada materi edge based
+segmentasi citra. Berdasarkan hasil pengujian yang telah dilakukan dengan
+menggunakan Black Box Test dan Alpha Test menunjukkan bahwa aplikasi
+pembelajaran ini dapat membantu proses pembelajaran mahasiswa dan
+dapat digunakan sebagai alat bantu pembelajaran mata kuliah computer
+vision pada materi edge based segmentasi citra.
+ computer vision, edge detection, pembelajaran, Multimedia.

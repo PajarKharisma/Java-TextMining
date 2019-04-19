@@ -1,0 +1,20 @@
+Telah dilakukan penelitian tentang isolasi dan identifikasi senyawa steroid-alkaloid dari daun beringin 
+(Anonna muricata Linn). Sebanyak 27,13 g ekstrak kental etanol dihasilkan dari 1,0 Kg serbuk kering daun
+beringin yangh dimaserasi menggunakan pelarut etanol. Ekstrak tersebut kemudian dipartisi dengan n-heksana.
+Sehingga menghasilkan 11,39 g ekstrak kental n-heksana. Ekstrak etanol dilarutkan dalam campuran etanol-air
+(7:3) kemudian diuapka pelarutnya sampai tersisa ekstrak air. Selanjutnya ekstrak air ini dipartisi dengan
+kloroform sehingga menghasilkan berturut-turut 0,7 g ekstrak kental kloroform yang berwarna hijau gelap 
+dan 2,21 g ekstrak kental air yang berwarna hijau.
+Pemisahan ekstrak n-heksana positif steroid dilakukan dengan kromatografi kolom menggunakan fase diam silika
+gel 60 dan fase gerak kloroform- etilasetat (4:1) menghasilkan 14 fraksi dimana fraksi F8 paling positif
+terhadap pereaksi Liebermann-Burchard, tetapi fraksi ini sedikitnya mengandung lima komponen. Selanjutnya
+pemurnian fraksi F8 menggunakan KLT preparatif menghasilkan 6 fraksi (F8.1, F8.2 , F8.3, F8.4, F8.5 , dan F8.6) 
+dan fraksi F8.1 yang paling aktif steroid.
+Hasil identifikasi menggunakan analisis spektrofotometer inframerah menunjukkan bahwa isolat (fraksi F8.1) 
+kemungkinan adalah senyawa steroid-alkaloid yang mempunyai gugus fungsi seperti O-H stretching 3448,72 cm-1 
+yang didukung dengan satu pita C-O-H streching pada 1381,03 cm-1. Pita dari gugus C-H aldehid muncul pada 
+2924,09 dan 2854,65 cm-1 serta gugus karbonil aldehid C=O pada 1735,9 cm-1. Serapan pada bilangan gelombang 
+2337,72 cm-1 menunjukkan adanya C?N stretching yang didukung berturut-turut gugus N-H alifatik dan C-N alifatik
+pada 1172,72 dan 1111,00 cm-1. Gugus yang lain adalah C=C alifatik (1558,48 cm-1), C-H alifatik bending
+(1458,18 cm-1), dan C-O-C stretching (1257,59 cm-1). Data GCMS menunjukkan suatu senyawa isomer dengan
+BM. 393 dan rumus molekul C24H27O4N yang merupakan suatu alkaloid.

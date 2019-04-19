@@ -1,0 +1,23 @@
+IMPLEMENTASI HONEYPOT SEBAGAI ALAT BANTU DETEKSI
+KEAMANAN JARINGAN PADA KANTOR PENGAWASAN DAN
+PELAYANAN BEA DAN CUKAI TIPE A2 PALEMBANG Kantor Pengawasan dan Pelayanan Bea dan Cukai Tipe A2 Palembang (selanjutnya
+disingkat KPPBC Palembang) yaitu sebagai tempat pengawasan dan pelayanan
+ekspor-impor barang. Semua barang yang keluar masuk di wilayah palembang
+akan diperiksa dan ditentukan layak atau tidak beredar di palembang akan
+dikenakan biaya pajak. KPPBC Palembang membangun jaringan intranet. Pada
+jaringan intranet terdapat FTP server, Telnet servet, mail server. KPPBC
+Palembang menggunakan layanan akses Telkom Speedy untuk berinteraksi pada
+jaringan internet. KPPBC Palembang menggunakan internet untuk bertukar informasi
+dengan kantor-kantor bea dan cukai lainnya yang ada di Indonesia, terutama kantor
+pusat yang berada di Jakarta. Keamanan jaringan yang digunakan pada KPPBC
+Palembang masih bersifat standar. KPPBC Palembang pernah mengalami pencurian
+data pada Tahun 2008. Data yang diberikan ke pihak lain untuk keperluan tertentu
+sering diketahui oleh pihak lain dan setelah ditelusuri bentuk serangan yang
+dilakukan pihak lain adalah usaha penyadapan dengan menggunakan program
+Nmap dan serta berusaha untuk masuk ke port-port yang terbuka. Gangguan
+keamanan komputer yang dialami KPPBC Palembang digolongkan dalam aspek privat
+(privacy/confidentiality). KPPBC Palembang masih memanfaatkan sistem keamanan
+melalui firewall dan anti spyware. Hal ini belum dapat mengatasi sabotase/pensurian
+data yang dilakukan oleh pihak tertentu karena tidak dapat menemukan pelaku
+penyerangan.
+ Implementasi, Honeypot, Keamanan Jaringan

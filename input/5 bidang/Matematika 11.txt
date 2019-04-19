@@ -1,0 +1,5 @@
+Makalah ini menyajikan tentang menentukan penaksir maksimum likelihood
+dari suatu parameter yang memiliki fungsi densitas probabilitas .
+Penaksir maksimum likelihood akan ditentukan dengan suatu metode iterasi
+Newton- Raphson. Penaksir yang diperoleh merupakan hampiran penaksir maksimum
+likelihood.

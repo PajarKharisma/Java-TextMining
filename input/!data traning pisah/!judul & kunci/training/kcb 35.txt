@@ -1,0 +1,2 @@
+DIAGNOSIS PENYAKIT GIGI PERIODONTALMENGGUNAKAN SISTEM
+PAKAR FUZZY Periodontal, Diagnosis, Ambiguitas Data, Sistem Pakar Fuzzy

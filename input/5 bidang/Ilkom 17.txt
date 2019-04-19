@@ -1,0 +1,18 @@
+Perkembangan sebuah teknologi informasi saat ini membawa dampak yang cukup besar 
+terhadap pola hidup masyarakat salah satunya pada daya beli. Saat ini daya beli 
+masyarakat lebih cenderung berbelanja secara online karena dianggap lebih mudah. 
+Namun, bagaimana konsumen mengetahui jika barang yang akan dibeli bagus atau 
+sebaliknya, oleh karena itu muncul adanya suatu ulasan atau komentar pada setiap 
+barang yang dijual. Ulasan pada suatu barang membawa pengaruh yang cukup besar 
+terhadap daya beli konsumen untuk mengetahui kualitas barang tersebut, tidak heran 
+jika sebuah ulasan menjadi salah satu tujuan utama yang dilihat oleh konsumen 
+setelah harga, tetapi tidak semua ulasan yang diberikan konsumen dapat dimengerti 
+oleh konsumen lain dikarenakan penggunaan kata yang disingkat, penggunaan bahasa
+modern, salah dalam mengetik huruf, dan tidak bakunya kata yang digunakan dalam 
+penulisan ulasan. Dengan latar belakang diatas, peneliti mengusulkan pembuatan 
+sistem Analisis Sentimen Pada Ulasan “Lazada” Berbahasa Indonesia Menggunakan 
+K-Nearest Neighbor (K-NN) Dengan Perbaikan Kata Menggunakan Jaro Winkler Distance. 
+Pengujian berdasarkan nilai precission, recall, dan accuracy pada masing-masing analisis 
+sentimen tanpa perbaikan kata, maupun dengan perbaikan kata. Hasil pengujian dengan nilai 
+accuracy yang baik terdapat pada analisis sentimen dengan perbaikan kata yakni 76 %, dengan 
+nilai precission 0,76, dengan nilai recall 1.

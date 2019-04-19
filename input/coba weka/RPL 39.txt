@@ -1,0 +1,33 @@
+PEMBELAJARAN SANDI MORSE DAN SANDI SEMAPHORE DALAM BENTUK SIMULASI BERBASIS MULTIMEDIA Pembelajaran penyandian Pramuka sering kali dilakukan dalam ruangan
+ataupun di luar ruangan dengan jumlah peserta yang cukup banyak dengan
+bantuan buku atau papan tulis. Metode tersebut menyebabkan anggota
+Pramuka kurang tertarik dan kesulitan dalam memahami materi yang
+disampaikan. Penyandian Pramuka adalah materi penting yang seharusnya
+dikuasai oleh Pramuka Penegak atau setingkat pelajar SMP yang tercantum
+dalam SKU (Syarat Kecakapan Utama). Maka diperlukan alat bantu berupa
+media pembelajaran berbasis multimedia yang diharapkan dapat membantu
+dalam proses pembelajaran penyandian Pramuka.  
+Subjek penelitian ini adalah aplikasi multimedia sebagai media
+pembelajaran dan simulasi penyandian tentang sandi semaphore dan sandi
+morse. Metode penelitian ini dilaksanakan dengan mengidentifikasikan
+permasalahan, pengumpulan data melalui wawancara, studi pustaka, dan
+obsevasi. User atau pengguna aplikasi pembelajaran ini adalah para
+anggota pramuka. Tetapi tidak menutup kemungkinan bagi para siswa
+sekolah, mahasiswa dan umum yang ingin belajar sandi semaphore dan
+sandi  morse  juga menggunakan aplikasi ini. Aplikasi disusun dengan
+prosedur yang mencakup  analisis kebutuhan  Sistem  yang menghasilkan
+materi  dan simulasi. Merancang konsep yang dilakuan dengan merancang
+gambar, teks, suara, dan animasi. Merancang menu-menu yang ada dalam
+aplikasi. Merancang storyboard, yang merupakan cerita sebelum aplikasi
+yang dibuat. Merancang frame yaitu merancang frame atau halaman yang
+akan dibuat dalam aplikasi. Implementasi rancangan sistem yaitu membuat
+aplikasi berdasarkan rancangan-rancangan sebelumnya, Implementasi
+dilakukan menggunakan Macromedia Flash 8. 
+Hasil penelitian ini adalah  Pembelajaran Sandi Morse dan Sandi
+Semaphore dalam Bentuk Simulasi Berbasis Multimedia, yang memberikan
+manfaat dan dapat berinteraksi langsung dengan user. Aplikasi telah diuji
+dengan menggunakan  black box test  dan  alpha test.  Dan diperoleh
+kesimpulan bahwa program ini dinyatakan baik dan siap diterapkan
+sebagai alat bantu pembelajaran penyandian Pramuka untuk sandi
+semaphore dan morse. Kepramukaan, Sandi Morse, Sandi Semaphore, Pembelajaran,
+Simulasi  

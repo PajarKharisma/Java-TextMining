@@ -1,0 +1,16 @@
+Sistem Pakar untuk Diagnosis Kerusakan 
+Mesin Mobil Panther Berbasis Mobile 
+Kerusakan pada mesin mobil terjadi akibat kelalaian dalam melakukan perawatan. Pemilik mobil baru
+menyadari kerusakan setelah mobil tidak dapat beroperasi sebagaimana mestinya. Oleh karena itu
+dalam penggunaan mobil kemungkinan besar membutuhkan perawatan berkala. Dengan cara
+mendeteksi kerusakan apa yang terjadi pada mobil. Misalnya, jika mobil bersuara berisik dan tidak
+mempunyai gambaran mengapa hal tersebut terjadi, hal inilah yang mendorong pembangunan sistem
+pakar untuk mengidentifikasi kerusakan mesin mobil.
+Penyampaian informasi pun dilakukan menggunakan perangkat mobile dengan meminta request
+dari user. Request tersebut akan diproses dalam sistem kemudian hasilnya akan dikirim lagi ke user
+dengan ditampilkan pada layar perangkat mobile. Diharapkan sistem ini mampu memberikan
+informasi yang optimal dari timbal balik user dan sistem.
+Penelitian ini diharapkan mampu memberikan informasi segala hal yang berhubungan dengan
+masalah kerusakan mesin secara cepat dan efisien secara timbal baik antara user dan sistem tetapi
+tetap optimal meski dalam small device.
+

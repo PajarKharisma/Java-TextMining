@@ -1,0 +1,28 @@
+SISTEM PAKAR TES MINAT DAN BAKAT JURUSAN
+KULIAH BERBASIS ANDROID PADA SMA ISLAM
+TERATAI PUTIH GLOBAL BEKASI Masih banyak siswa-siswi yang belum peduli dengan
+minat dan bakatnya, khususnya pada siswa-siswi yang ingin
+melanjutkan studinya ke perguruan tinggi. Hal itu yang
+menyebabkan banyaknya mahasiswa yang merasa tidak sesuai
+dengan jurusan yang diambilnya. Dengan keadaan yang tidak
+nyaman tersebut banyak mahasiswa yang berhenti di tengah
+jalan atau lulus dengan kemampuan seadanya. Android
+merupakan sebuah sistem operasi berbasis terbuka yang sedang
+berkembang dengan sangat pesat khususnya pada perangkat
+berjalan. Di Indonesia Android menjadi salah satu sistem operasi
+yang sangat popular di kalangan masyarakat. Sistem pakar
+merupakan sebuah sistem yang dapat memecahkan masalah,
+yang biasanya hanya bisa dipecahkan oleh seorang pakar.
+Tentunya dengan perkembangan sistem pakar dapat masalah
+yang dapat mudah terselesaikan. Aplikasi Tes Minat dan Bakat
+ini merupakan pengembangan dari sistem pakar. Dimana
+aplikasi ini berbasis Android. Dalam perancangan aplikasi ini
+menggunakan Eclipse IDE, bahasa pemrograman yang
+digunakan adalah Java. Sedangkan metode pengembangannya
+menggunakan metode pengembangan Runut Maju (Forward
+Chaining). Aplikasi ini membantu penggunanya untuk
+memahami kecerdasan majemuk yang menonjol pada dirinya.
+Sehingga dengan kelebihan yang dimiliki diambil kesimpulan
+untuk pemilihan jurusa kuliah yang sesuai.
+ Android, Forward Chaining, Sistem Pakar, Test
+Minat dan Bakat,

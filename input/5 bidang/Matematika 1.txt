@@ -1,0 +1,9 @@
+Analisis regresi adalah salah satu teknik statistika yang digunakan untuk
+menentukan model hubungan satu variabel respon (Y) dengan satu atau lebih
+variabel penjelas (X).Dalam melakukan analisisnya harus dipenuhi bahwa i ? ~
+NID(0,
+2 ? ) , jika asumsi tersebut tidak dipenuhi maka dapat dilakukan transfomasi
+terhadap Y yang dipangkatkan dengan parameter ? ,sehingga menjadi Y? .
+Pendugaan parameter ? dapat dicari dengan menggunakan Metode Kemungkinan
+Maksimum ( Maximum Likehood Method). ? dipilih sedemikian, sehingga didapat
+jumlah kuadrat sisaan yang paling minimum.

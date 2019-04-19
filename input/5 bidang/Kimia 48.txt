@@ -1,0 +1,22 @@
+Untuk mengoptimalkan perlindungan dalam sistem katodik arus terpasang, maka arus dan potensial 
+proteksi harus diketahui dan disesuaikan dengan keadaan yang sebenarnya sesuai dengan yang dibutuhkan oleh
+sistem. Perubahan-perubahan sifat elektro kimia dan fisik material harus mudah didefinisikan seiring dengan
+bertambahnya waktu.
+Dengan menggunakan spesimen baja tahan karat Stainless steel (SS) 304 dan air laut buatan standart ASTM 
+D 1141, dicoba dilihat prilaku pola potensial dan arus real yang terjadi selama perlindungan. Pengamatan dilakukan 
+dengan cara mencatat perubahan potensial dan arus selama perlindungan berlangsung. Selanjutnya dilakukan pengamatan 
+struktur mikro/makro untuk mengetahui perubahan fisik permukaan selama percobaan.
+Dari percobaan selama 60 jam terhadap specimen yang dilindungi secara katodik pada perlindungan dari -730 mV 
+sampai -1100 mV dalam larutan air laut didapat bahwa ada kecenderungan terjadinya penurunan arus. Penurunan
+arus terbesar terjadi pada potensial -1100 mV (dari 580 mA/m2 turun menjadi 450 mA/m2), dan penurunan 
+terkecil terjadi pada potensial perlindungan -730mV (dari 190mA/m2 turun menjadi 150mA/m2). Pengaruh potensial 
+juga mempengaruhi potensial korosi bebas. Semakin rendah potensial perlindungan, potensial korosi bebas juga
+akan turun. Pada potensial perlindungan -1100 mV, penurunan potensial korosi bebasnya menjadi -450 mV, dan 
+pada potensial -730 mV menjadi -225 mV.
+Pengamatan visual menunjukan bahwa penurunan arus tersebut disebabkan oleh terbentuknya endapan garam hasil
+reaksi antara unsur kalsium yang ada dalam air laut akibat situasi basa yang dihasilkan oleh sistem katodik 
+proteksi. Dengan menggunakan uji SEM dengan teknik analisis secondary electron micoscrope diketahui bahwa 
+mayoritas unsur penyusun deposit adalah magnesium dan kalsium. Analisis lebih detail menunjukan bahwa daerah 
+sekitar deposit telah terjadi pitting korosi. Kecenderungan terjadinya korosi pitting juga dapat dibuktikan 
+dengan melakukan scan anodic polarisasi yang menunjukkan bahwa telah terjadi penurunan potensial korosi 
+pitting sebesar 200 mV.

@@ -1,0 +1,8 @@
+Implementasi Algoritma Enkripsi Playfair  pada File Teks Kriptografi berasal dari kata crypto yang berarti rahasia dan graphy yang berarti tulisan. Jadi
+kriptografi dapat diartikan sebagai tulisan rahasia. Secara istilah dapat didefinisikan sebagai studi tentang
+teknik-teknik matematika yang berhubungan dengan keamanan informasi.
+Playfair merupakan digraphs cipher, artinya setiap proses enkripsi dilakukan pada setiap dua huruf.
+Adapun tujuan yang akan di capai adalah membuat aplikasi untuk pengamanan pada file text dengan
+menggunakan metode Playfair yang dapat mendukung proses perlindungan data yang tidak mudah
+dicuri dan tidak mudah dipecahkan yang dapat digunakan sebagai keamanan pada data -data yang sangat
+penting.Kriptografi, Enkripsi, Playfair, Delphi 6.0

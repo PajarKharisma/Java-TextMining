@@ -1,0 +1,16 @@
+METODE PENGENALAN POLA TRABEKULA MANDIBULA PADA
+RADIOGRAF PERIAPIKAL DIGITAL UNTUK DETEKSI DINI RISIKO
+OSTEOPOROSIS
+Osteoporosis adalah suatu penyakit skeletal sistemik. Pemeriksaan osteoporosis dengan metoda standar
+baku emas yang ditetapkan WHO, yaitu DEXA, relatif mahal dan hasilnya tidak dapat memberikan
+informasi tentang mikroarsitektur tulang. Sementara itu, peluang lansia untuk mengunjungi dokter
+gigi relatif tinggi. Jika kondisi densitas massa tulang yang menjadi indikator kondisi osteoporosis
+dapat dikenali dari pola trabekula mandibula, maka dokter gigi memiliki peluang untuk berperan
+dalam deteksi awal resiko pasien mengalami osteoporosis. Adapun tujuan dari penelitian ini adalah
+untuk memperoleh metode pengenalan pola citra radiograf periapikal digital yang mencirikan kondisi
+densitas massa tulang. Telah dikombinasikan metode deteksi tepi Sobel dengan binerisasi citra, sehingga
+menghasilkan tampilan visual mengenai pola trabekula mandibula. Di dukung dengan nilai fraktal
+dimensi dan deteksi maksimal lokal pada citra biner yang dihasilkan, maka semakin dapat dibedakan
+pola trabekula mandibula pada masing - masing kondisi osteoporosis, osteopenia, dan normal. Nilai
+fraktal dimensi dan hasil deteksi maksimal lokal berkorelasi searah dengan densitas massa tulang.
+osteoporosis, densitas massa tulang, radiograf, trabekula, pengenalan pola

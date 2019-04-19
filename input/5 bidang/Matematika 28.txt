@@ -1,0 +1,7 @@
+Sistem yang dibentuk oleh beberapa komponen, rangkaiannya dapat secara
+seri atau paralel. Untuk mengetahui suatu sistem berfungsi atau tidak, dapat
+dilihat dari fungsi bentuk. Dari fungsi bentuk ini, fungsi reliabilitas sistem
+akan dapat ditentukan. Selanjutnya berdasarkan fungsi reliabilitas sistem,
+dapat diketahui umur sistem. Khusus dalam tulisan ini, umur komponennya
+diasumsikan berdistribusi seragam. Dengan mengetahui umur sistem, maka
+dapat ditentukan waktu garansi produk.

@@ -1,0 +1,3 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT SEORANG IBU PASCA
+MELAHIRKAN Sistem Pakar, Penyakit Seorang Ibu Pasca Melahirkan, Forward Chaining dan Certainty
+Factor

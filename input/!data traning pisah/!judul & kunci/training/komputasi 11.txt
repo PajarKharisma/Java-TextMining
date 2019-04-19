@@ -1,0 +1,3 @@
+Penggunaan Pohon Keputusan untuk
+Klasifikasi Tingkat Kualitas Mahasiwa Berdasarkan 
+Jalur Masuk Kuliah data mining;decision tree;classification; rule; jalur masuk; kualitas 

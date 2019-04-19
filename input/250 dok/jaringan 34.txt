@@ -1,0 +1,31 @@
+PEMANFAATAN REMOTE ACCESS UNTUK
+MEMONITORING KOMPUTER DI LABORATORIUM
+JARINGAN KOMPUTER POLITEKNIK NEGERI BENGKALIS
+Laboratorium jaringan komputer membutuhkan
+system manajemen jaringan, fungsi manajemen
+jaringan menggunakan system remote access ialah
+sebagai aplikasi manajemen sebuah jaringan agar
+bisa memonitor dan mengontrol suatu jaringan dari
+komputer tertentu pada jaringan berbasis client
+server, Tujuan penelitian adalah memanfaatkan
+aplikasi system remote access untuk mengontrol
+beberapa client yang sedang aktif didalam jaringan
+dan melengkapi fungsi manajemen jaringan komputer
+local agar stabilitas aktifitas yang terjadi pada
+jaringan bisa terpantau oleh Administrator server
+meskipun jumlah instruktur terbatas sehingga proses
+praktikum dan evaluasi dilab bisa terpantau tanpa
+langsung menemui komputer client
+Hasil penelitian menunjukkan bahwa perangkat
+lunak yang digunakan ini dapat membantu pengelola
+laboratorium dalam hal melakukan pemantauan
+terhadap penggunaan komputer dengan
+memanfaatkan jaringan, sehingga proses kegiatan / evaluasi praktikum bisa terpantau tanpa langsung
+mendatangi secara langsung ke komputer client.
+Secara tidak langsung remote access juga dapat
+melakukan pemfilteran aplikasi sesuai dengan
+kebutuhan pengguna, sehingga aplikasi tersebut tidak
+dapat diakses oleh pengguna sesuai dengan ketentuan
+yang diterapkan oleh pengelola jaringan
+Jaringan komputer, remote acces, Manajemen
+jaringan

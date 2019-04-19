@@ -1,0 +1,31 @@
+ANALISA QUALITY OF SERVICES (QoS) VOICE OVER INTERNET
+PROTOCOL (VoIP) DENGAN PROTOKOL H.323 DAN SESSION
+INITIAL PROTOCOL (SIP)
+Teknologi Voice over Internet Procotol (VoIP) tentu
+sangat menguntungkan bagi masyarakat luas karena
+dengan adanya VoIP maka sarana untuk melakukan
+komunikasi dari segi biaya yang dikeluarkan akan
+menjadi lebih sedikit apabila dibandingkan dengan
+media telepon konvensional biasa. Protokol H.323
+dan Session Initiation Protocol (SIP) merupakan
+protokol yang dapat digunakan untuk membangun
+VoIP. Baik protokol H.323 dan SIP metodenya
+berbeda satu sama lain, sehingga tentunya perlu
+dilakukan suatu pengujian dan analisis untuk
+mengetahui kualitas yang dihasilkan dari VoIP
+dengan menggunakan kedua protokol tersebut.
+Parameter Quality of Service (QoS) yang digunakan
+untuk mengamati kualitas dari VoIP tersebut adalah
+delay, jitter, packet loss, serta Mean Opinion Score
+(MOS) yang diujikan pada 5 audience.Pengukuran
+QoS tersebut mengunakan tools VoIP Quality
+Monitoring VQManager yang dilakukan pada
+bandwidth sebesar 512 Kbps, 256 Kbps, 128 Kbps,
+dan 64 Kbps dengan Audio Codec G.711. Dari hasil
+pengujian yang dilakukan dengan skema percobaan
+yang sama, secara umum nilai dari parameter QoS
+yang didapat ketika menggunakan protokol H.323
+bisa dikatakan lebih baik bila dibandingkan dengan
+protokol SIP.
+Quality of Service (QoS), VoIP,
+H.323, SIP, Bandwidth.

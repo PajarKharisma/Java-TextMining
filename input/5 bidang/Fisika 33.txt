@@ -1,0 +1,15 @@
+Salah satu hasil perkebunan Indonesia yang dipandang sangat potensial dan strategis untuk
+dikembangkan adalah kelapa sawit (Elaeisguineensis Jacq) merupakan produk andalan nasional,
+minyak sawit mempunyai prospek yang cukup cerah untuk pertumbuhan ekspor komoditi
+perkebunan bila dibandingkan dengan produk minyak nabati lainnya. Pemanenan kelapa sawit
+adalah pemotongan tandan buah segar (TBS) dari pohon hingga pengangkutan ke pabrik. Kegiatan
+panen kelapa sawit memerlukan teknik tersendiri untuk mendapatkan hasil yang berkualitas. Saat
+ini petani masih menggunakan peralatan konvensional dalam pemanenan buah kelapa sawit. Proses
+panen kelapa sawit seperti dodos atau egrek dalam panen harus menyesuaikan dengan ketinggian
+kelapa sawit. Penggunaan alat panen konvensional menghabiskan banyak energi karena proses
+yang cukup sulit dan alat yang cukup berat. Sehingga petani sering mengalami gangguan kesehatan
+seperti gangguan otot rangka. Alat panen kelapa sawit ini dirancang menggunakan mesin untuk
+mempermudahkan petani dalam memanen buah sawit. Alat ini dirancang dari mesin
+pemotongrumput dengan mengubah gerak mata pisau pemotong rumput menjadi gerak translasi
+bolak-balik. Mata pisau dodos ataupun egrek akan dikonversikan menjadi gerakan tranlasi bolakbalik
+untuk memotong tandan sawit.

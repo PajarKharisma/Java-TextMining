@@ -1,0 +1,13 @@
+PERANCANGAN SISTEM PAKAR DIAGNOSA PENYAKIT PADA HEWAN TERNAK SAPI
+BERBASIS WEB Sapi adalah salah satu hewan ternak yang memiliki kontribusi cukup besar bagi Indonesia. Permintaan akan susu dan daging
+yang dihasilkan dari peternakan sapi perah dan sapi potong meningkat setiap tahunnya. Namun peningkatan tersebut tidak diimbangi
+dengan kemampuan para peternak sapi dalam negeri untuk memenuhi kebutuhan susu dan daging. Pada saat ini kebutuhan susu dan
+kebutuhan daging nasional harus diimpor. Dikarenakan rendahnya kemampuan peternakan dalam negri untuk memenuhi kebutuhan susu
+dan daging yang bisa diakibatkan oleh banyak hal. Salah satunya adalah penyakit yang menjangkit sapi. Para peternak sapi memiliki
+pengetahuan yang rendah mengenai berbagai macam penyakit sapi beserta gejala-gejalanya.Hal ini menyebabkan mereka bergantung pada
+pakar ternak sapi atau dokter hewan. Namun, pakar ternak sapi atau dokter hewan terbatas jumlahnya terutama didaerah pedesaan. Pada
+skrisipsi ini, penulis mencoba untuk mengalisa pokok-pokok bahasan tersebut dan hasilnya ditujukan untuk memberikan saran dan
+pengetahuan tentang gejala dan penyakit hewan ternak sapi bagi para peternak sapi dalam meningkatkan hasil produktifitas daging dan
+susu yang bersumber dari sapi, guna mencukupi kebutuhan dagin dan susu sapi di Indonesia. Dan meminimalisir biaya yang dikeluarkan
+peternak sapi untuk mengobati hewan ternaknya yang terjangkit penyakit
+Sistem Pendukung Keputusan, Industri Kecil Menengah, Weighted Product

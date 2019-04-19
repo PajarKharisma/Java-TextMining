@@ -1,0 +1,24 @@
+Penggunaan Pohon Keputusan untuk
+Klasifikasi Tingkat Kualitas Mahasiwa Berdasarkan
+Jalur Masuk Kuliah Penelitian ditujukan untuk mengetahui tingkat
+kualitas mahasiswa program studi Teknik Informatika
+Politeknik Negeri Batam berdasarkan jalur masuk kuliah dan
+faktor lainnya sebagai data yang tersimpan dalam basis data
+mahasiswa. Penelitian dilakukan pada data mahasiswa
+angkatan 2007 - 2009, dari data tersebut dilakukan pembagian
+data training dan data testing.
+Data mining mengekstrasi data untuk menemukan informasi
+dan pattern dalam menentukan tingkat kualitas
+mahasiswa. Metode classification dilakukan pada data training
+hingga menemukan suatu rule (proses learning) yang dapat
+diterapkan untuk mengklasifikasikan kategori tingkat kualitas
+mahasiswa pada data baru. Proses learning menggunakan
+teknik decision tree C.45 mengubah fakta menjadi pohon
+keputusan yang merepresentasikan aturan yang lebih mudah
+dipahami. Selanjutnya validasi terhadap data testing dilakukan
+untuk menemukan modeldecision tree terbaik.
+Analisis juga menghasilkan informasi tentang pengaruh
+jalur masuk kuliah dalam menentukan tingkat kualitas
+mahasiswa.
+data mining; decision tree; classification; rule; jalur
+masuk; kualitas

@@ -1,0 +1,17 @@
+PERANCANGAN SISTEM PAKAR DIAGNOSIS KERUSAKAN TELEVISI
+BERWARNA
+Sistem pakar merupakan salah satu cabang kecerdasan buatan yang mempelajari
+bagaimana mengadopsi cara seorang pakar berpikir dan bernalar dalam menyelesaikan suatu
+permasalahan, dan membuat suatu keputusan maupun mengambil kesimpulan dari sejumlah fakta
+yang ada. Pada penelitian ini akan dirancang suatu sistem pakar untuk mendiagnosis kerusakan
+televisi berwarna berbasis web. Sistem pakar diagnosa kerusakan televisi berwarna ini dirancang
+dengan menggunakan metode penelitian ESDLC (Expert System Development Life Cycle) yang
+dikemukakan oleh Durkin pada tahun 1994. Penalaran sistem pakar ini menggunakan teknik
+inferensi runut maju (forward chaining). Dimana pada forward chaining ini dimulai dengan
+informasi awal (gejala awal) dan bergerak maju untuk mencocokkan informasi selanjutnya sampai
+menemukan informasi yang sesuai dengan kaidah, lalu akan menyimpulkan berupa keterangan
+jenis kerusakan dan solusi. DBMS yang digunakan dalam sistem pakar ini adalah MySQL yang
+telah terintegrasi dengan XAMPP. Hasil yang diharapkan dari perancangan sistem pakar diagnosis
+kerusakan televis berwarna ini ialah menambah wawasan pengguna serta mendapatkan solusi atau
+penyelesaian masalah dari gejala kerusakan yang diberikan.
+Forward Chaining, Kerusakan Televisi, Sistem Pakar.

@@ -1,0 +1,7 @@
+penelitan ini bioetanol dihasilkan melalui tahapan-tahapan hidrolisis, detoksifikasi, fermentasi, dan destilasi.
+Proses hidrolisis dilakukan dengan asam sulfat pada suhu 100°C selama 1 jam. Detoksifikasi dilakukan dengan
+menambahkan NH4OH ke dalam hidrolisat sebelum difermentasi. Destilasi dilakukan pada suhu 100°C dan distilat
+dengan TD 78°-84C ditentukan kadar etanolnya dengan kromatografi gas. Hasil penelitian menunjukkan bahwa
+kadar gula reduksi dengan dan tanpa penambahan NH4OH adalah 15,85% dan 15,58%. Kadar etanol yang dihasilkan
+dari 5 gram kupasan kentang kering dengan proses fermentasi selama 4, 5, 6, dan 7 hari adalah 3.54%; 4,85%;
+5,35%; dan 6.15%

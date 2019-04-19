@@ -1,0 +1,23 @@
+﻿Sistem Informasi Akademik Universitas Surakarta Berbasis Web
+Saat ini perubahan budaya telah ditandai dengan adanya pemanfaatan internet yang
+semakin mendunia. Internet sebagai penyampai informasi keberadaannya kini sudah menjadi
+kebutuhan. Manfaat internet cukup besar dirasakan terutama dalam dunia bisnis, hiburan dan
+pendidikan. Universitas Surakarta adalah salah satu perguruan tinggi yang telah menggunakan
+Sistem Informasi Akademik walaupun sekarang sistem tersebut belum disambungkan ke intenet. Oleh
+karena itu, dalam penelitian ini akan dikembangkan suatu Sistem Informasi Akademik UNSA Berbasis
+Web.
+Penelitian ini bertujuan untuk membuat membangun sistem informasi akademik Universitas
+Surakarta dengan berbasis web sehingga dapat memberikan manfaat yang lebih kepada banyak
+pihak. Antara lain dari pihak mahasiswa dapat melihat informasi - informasi baru yang berhubungan
+dengan kegiatan akademik, dari pihak orangtua mahasiswa dapat langsung melihat kegiatan atau nilai
+dari mahasiswa yang bersangkutan, dan dari pihak pengelola pekerjaan jadi lebih ringan. Penelitian
+ini akan menggunakan metode pendekatan terstruktur. Rekayasa perangkat lunak sistem informasi
+akademik berbasis web dilakukan untuk proses pengembangan sistem sehingga mampu mencakup
+semua kebutuhan.
+Setelah penyusun melakukan analisis pada bagian pengelolaan Kartu Rencana Studi
+Universitas Surakarta maka hasil yang diperoleh adalah analisis dari hasil penelitian, analisis dan
+perancangan untuk sistem usulan dan implementasi Sistem Informasi Akademik Universitas
+Surakarta berbasis Web. Diharapkan dengan dibangunnya Sistem Informasi Akademik berbasis web
+maka masalah akan penyediaan informasi hasil studi mahasisiwa akan teratasi. Dan pihak Universitas
+dapat segera mengembangkan sistem yang baru agar dapat bekerja dengan maksimal.
+Sistem Informasi Akademik; Berbasis Web

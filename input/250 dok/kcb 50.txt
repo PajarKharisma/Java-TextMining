@@ -1,0 +1,17 @@
+PEMBUATAN SISTEM PAKAR DIAGNOSA PENYAKIT
+PADA BURUNG PUYUH DENGAN MENGGUNAKAN
+METODE FORWARD CHAINING
+Burung puyuh merupakan salah satu jenis unggas penghasil telur berprotein tinggi serta rendah lemak.
+Hal ini menjadi alasan kuat banyak peternak memilih burung puyuh sebagai hewan ternak. Namun sebagai
+hewan ternak, burung puyuh juga rawan terkena penyakit. Ditambah lagi banyak peternak khususnya pemula
+yang minim pengetahuan.
+Forward chaining merupakan metode penalaran yang dimulai dari fakta yang diketahui menggunakan
+mesin inferensi. Pencarian dilakukan dengan menggunakan aturan, jika kondisi terpenuhi maka akan dilakukan
+aksi. Fakta yang diketahui digunakan untuk memperoleh fakta baru dan melanjutkan proses hingga kesimpulan
+dicapai.
+Untuk membuat sistem pakar digunakan data basis pengetahuan dari dokter. Sistem pakar telah dibuat
+menggunakan bahasa PHP dan MySQL. Untuk mengujinya, diambil 20 sampel data uji dari sebuah peternakan.
+Hasil pembahasan menunjukkan akurasi sistem terhadap diagnosa dokter sebesar 85%, dan presisi sebesar 100%.
+Kesimpulannya, pembuatan sistem pakar diagnosa penyakit pada burung puyuh menggunakan metode forward
+chaining berhasil menyimpulkan jenis penyakit beserta solusi penanganannya.
+sistem pakar, burung puyuh, forward chaining

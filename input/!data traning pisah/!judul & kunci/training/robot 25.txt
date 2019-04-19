@@ -1,0 +1,2 @@
+Rancang Bangun Sistem Transfer Video Real – Time Menggunakan Jaringan Mobile  Ad hoc Pada Robot ITS - 01 802.11g, ad - hoc implentasi, , multihop, transfer
+video real time, wireless-LAN.  

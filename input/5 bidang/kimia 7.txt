@@ -1,0 +1,16 @@
+Telah dilakukan isolasi dan identifikasi golongan senyawa toksik dari daging buah pare (Momordica
+charantia L.). Sebanyak 600 gram serbuk kering daging buah pare diekstraksi secara maserasi dengan pelarut
+metanol dan diperoleh 54,2506 gram ekstrak kental metanol berwarna hijau tua. Uji toksisitas pendahuluan
+menunjukkan bahwa ekstrak kental metanol ini bersifat toksik terhadap larva udang Artemia salina Leach dengan
+LC50 = 74,99 ppm. Selanjutnya, ekstrak kental metanol dilarutkan dalam air dan dipartisi berturut-turut dengan nheksana
+dan kloroform sehingga diperoleh tiga ekstrak kental, yaitu ekstrak kental air 3,72 gram, n-heksana 6,19
+gram, dan kloroform 9,75 gram. Ketiga ekstrak kental ini diuji toksisitasnya terhadap larva udang Artemia salina
+Leach dan diperoleh ekstrak kental n-heksana memberikan toksisitas tertinggi dengan LC50 = 130,437 ppm.
+Pemisahan ekstrak kental n-heksana dengan kromatografi kolom menghasilkan 7 fraksi gabungan
+(A,B,C,D,E,F, dan G). Fraksi F merupakan fraksi yang paling toksik terhadap larva udang Artemia salina Leach
+dengan LC50 = 33,83 ppm. Fraksi F sudah relatif murni, hal ini terlihat dari noda tunggal yang ditunjukkan pada
+waktu KLT Penggabungan dan Uji Kemurnian secara KLT menggunakan berbagai campuran eluen.
+Dari hasil uji fitokimia dan analisis data fisikokimia dengan spektrofotometri FTIR dan UV-VIS, diduga
+bahwa isolat aktif merupakan golongan senyawa triterpenoid yang mempunyai karakteristik gugus fungsi C-H
+alifatik (CH2, CH3), O-H terikat, C-O, C=C alifatik, dan C=O, dan memberikan serapan pada panjang gelombang
+274,2 dan 432,8 nm yang diduga karena adanya transisi elektron dari n  *.

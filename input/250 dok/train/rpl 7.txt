@@ -1,0 +1,18 @@
+Perancangan Sistem Informasi Bank Darah Hidup Untuk
+Mempercepat Penyediaan Calon Penyumbang Darah Dengan
+Ketepatan Yang Tinggi
+(Studi di PMI Kota Samarinda)
+Pelayanan publik dapat didefinisikan sebagai pemeberian layanan (melayani) keperluan orang atau masyarakat
+yang mempunyai kepentingan pada organisasi itu sesuai dengan aturan pokok dan tata cara yang telah
+ditetapkan. suatu pelayanan juga dapat bersifat proaktif dengan memberikan nilai lebih pada setiap layanan yang
+diberikan kepada masyarakat.
+Metode yang digunakan adalah metode kuantitatif dengan menggunakan pendekatan deduktif - induktif yang
+berangkat dari kerangka teori, pemahaman peneliti berdasarkan pengalaman, kemudian dikembangkan menjadi
+permasalahan - permasalahan beserta pemecahannya berdasarkan spesifik kebutuhan perangkat lunak, analisis dan
+perancangan perangkat lunak.
+Adapun hasil dari penelitian ini adalah desain / rancangan sistem informasi bank darah hidup yang berbasiskan
+komunitas. Hasil perancangan tersebut, mencakup perancangan sistem informasi berbasis web dan juga
+mencakup rancangan aplikasi SMS sebagai media untuk menyampaikan kebutuhan darah. Mengingat teknologi
+SMS merupakan media tercepat untuk mendistribusikan informasi serta tingkat ketersediaan perangkat
+Handphone yang sudah sangat memasyarakat.
+Komunitas, Donor Darah, SMS 

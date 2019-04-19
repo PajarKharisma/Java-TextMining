@@ -1,0 +1,9 @@
+Pada pengendalian proses univariat berdasarkan variabel, biasanya digunakan model
+distribusi normal untuk mengamati kualitas proses dari waktu ke waktu.
+Fungsi kepadatan peluangnya (fkp) adalah dimana ? adalah meannya dan 2 ? adalah variansinya. Dalam kenyataannya, seringkali
+kualitas proses ditentukan oleh lebih dari satu karakteristik yang saling berkorelasi. Dalam hal
+ini kita bisa saja melakukan pengendalian terhadap masing-masing karakteristik satu-persatu.
+Akan tetapi hal ini akan menimbulkan banyak sekali kesalahan seperti dikemukakan
+Montgomery [4]. Oleh karena itu pengendalian proses harus melibatkan semua karakteristik
+sekaligus. Untuk itu digunakan distribusi normal mulitivariat. Distribusi ini dan beberapa
+sifatnya merupakan topik bahasan dalam tulisan ini.

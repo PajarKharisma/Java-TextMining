@@ -1,0 +1,17 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT
+PADA TANAMAN JAGUNG Program sistem pakar yang dirancang adalah sistem pakar diagnosa penyakit
+pada tanaman jagung, dimana program aplikasi ini ditujukan untuk masyarakat luas
+atau bagi mereka yang bercocok tanam jagung, yang kurang paham terhadap jenis
+penyakit pada tanaman jagung, dan bagaimana cara menanggulanginya.
+Sehingga dengan adanya program sistem pakar ini, diharapkan orang yang awam
+sekalipun akan menjadi paham, dan bagi mereka yang bercocok tanam jagung, tidak
+harus menemui seorang pakar untuk berkonsultasi mengenai penyakit yang menyerang
+tanamannya.
+Pada program sistem pakar ini, terdapat 14 jenis penyakit dan 29 gejala. Duapuluh
+sembilan gejala tersebut disusun menjadi 29 pertanyaan (kuesioner) dan 14 jenis
+penyakit disusun sebagai 14 kesimpulan.
+Dalam perancangan program aplikasi ini, representasi pengetahuan yang digunakan
+adalah struktur pohon dan kaidah produksi. Untuk proses penalarannya menggunakan
+metode Forward Chaining, yaitu suatu teknik penalaran dari fakta awal hingga menuju
+kesimpulan.
+sistem pakar, kaidah produksi, basis pengetahuan, berbasis cerdas, jagung.

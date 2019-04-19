@@ -1,0 +1,16 @@
+PEMBELAJARAN DENGAN MODUL BERBASIS WEB
+Berbagai informasi dari berbagai bidang kehidupan, baik berbentuk teks,
+gambar, video, maupun audio disajikan di Internet setiap saat. Banyak institusi maupun
+pribadi telah menawarkan artikel, jurnal, atau buku teks melalui Internet. Di balik
+manfaatnya yang besar bagi dunia pendidikan internet dirasa masih cukup mahal,
+terutama dalam hal biaya saluran komunikasi. Melihat kondisi itu, kiranya cukup
+bijaksana untuk memikirkan pemanfaatan fasilitas hiperteks pada Hypertext MarkUp
+Language (HTML) untuk mengembangkan modul berbasis web, yang kemudian
+dipasang pada jaringan komputer lokal (intranet). Proses ini akan memberikan beberapa
+pengalaman kepada para mahasiswa. Pertama, program akan memberikan pengalaman
+menjelajahi internet kepada mahasiswa. Kedua program akan memberi pengalaman
+mendesain informasi berbasis hiperteks kepada mahasiswa. Ketiga, program memberikan
+keuntungan yang dimiliki pembelajaran berbasis komputer, seperti bebas konteks, bebas
+konvensi social, tidak terlalu terikat waktu, dan mampu beradaptasi dengan kemampuan
+mahasiswa secara individu.
+Modul berbasis web, hyperteks, HTML

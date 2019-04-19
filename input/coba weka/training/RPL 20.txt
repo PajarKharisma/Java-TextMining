@@ -1,0 +1,20 @@
+SISTEM INFORMASI PENGGAJIAN BERBASIS WEB PADA
+CV WSK ( KNK KOFFEE RESOURCES)
+CV WSK ( KNK Koffee Resources ) merupakan sebuah unit dagang yang bergerak di bidang
+penjualan kopi di Kota Semarang yang sudah memiliki banyak pelanggan di wilayah
+Semarang dan sekitarnya. Saat ini telah memiliki karyawan yang semakin bertambah seiring
+dengan berkembangnya KNK Koffee Resources. Salah satu hal yang sangat diperhatikan
+dengan bertambahnya karyawan adalah pengelolaan dalam sektor penggajian. Di dalam sektor
+penggajian masih menerapkan sistem penggajian secara manual dan konvensional. Untuk
+memudahkan dalam pengolahan penggajian, laporan dan slip gaji karyawan dibutuhkan
+sistem informasi penggajian karyawan yang dapat membantu dalam pengolahan data-data
+penggajian. Berdasarkan permasalahan tersebut, maka dilakukan penelitian untuk
+memperoleh kebutuhan-kebutuhan yang diperlukan dalam membangun sistem informasi
+penggajian karyawan. Pembangunan sistem informasi penggajian karyawan dimulai dengan
+proses analisis kebutuhan sistem dan dilanjutkan dengan proses perancangan sistem yang
+didasarkan pada hasil analisis kebutuhan. Tahap terakhir dari proses penyusunan sistem ini
+adalah implementasi perancangan sistem menjadi sebuah sistem baru. Dalam tugas akhir ini
+dapat disimpulkan bahwa sistem informasi penggajian karyawan yang dibangun dapat
+membantu dalam pengolahan data penggajian dan dapat menampilkan informasi yang
+dibutuhkan oleh karyawan CV WSK ( KNK Koffee Resources).
+Sistem Informasi, Penggajian, Karyawan, Web, UML

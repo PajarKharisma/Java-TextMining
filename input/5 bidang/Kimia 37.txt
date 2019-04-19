@@ -1,0 +1,11 @@
+Telah dilakukan penelitian tentang fraksinasi dan bioavailabilitas logam Fe dan Mn dalam sedimen di
+Pelabuhan Benoa Bali. Tujuan penelitian ini adalah untuk menentukan berbagai fraksi Fe dan Mn dalam sedimen
+serta bioavailabilitasnya. Fraksinasi dilakukan dengan metode ekstraksi bertahap (sequential extraction) dengan
+berbagai pelarut. Pengukuran konsentrasi kedua logam dilakukan dengan menggunakan alat Spektrofotometer
+Serapan Atom dengan metode kurva kalibrasi.
+Konsentrasi logam Fe dan Mn total dalam sedimen berturut-turut sebesar 668,2948 mg/kg dan 321,5761
+mg/kg. Hasil fraksinasi logam Fe dan Mn dalam sedimen secara berturut-turut adalah: fraksi easily, freely, leachable,
+dan exchangeable (EFLE) sebesar 27,74% dan 24,31%, fraksi Fe/Mn-oksida sebesar 23,55% dan 19,99%, fraksi
+organik dan sulfida 25,14% dan 26,11% sementara fraksi resistant untuk kedua logam sebesar 23,57% dan 29,59%.
+Dengan demikian, dapat diketahui bahwa fraksi bioavailable dan fraksi resistant untuk Fe dalam sedimen berturutturut
+adalah 76,43% dan 23,57% sedangkan untuk Mn berturut-turut 70,41% dan 29,59%.

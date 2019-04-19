@@ -1,0 +1,28 @@
+RANCANG BANGUN SISTEM HOTSPOT MENGGUNAKAN
+CAPTIVE PORTAL
+Pengelolaan jaringan hotspot yang tidak teratur merupakan kendala pada
+clients hotspot ketika mengakses jaringan yang salah satunya pemakain
+password yang dapat dipakai secara bersama - sama. Permasalahan utama
+pada jaringan yang telah ada diPimpinan Pusat Muhammadiyah
+Yogyakarta berupa pengawasan client hotspot (pemakai internet) terhadap
+akses jaringan serta gangguan saat satu password digunakan secara
+bersama sehinggga server yang diakses mengalami kelambatan. Maka
+diperlukan penelitian untuk mengidentifikasi jaringan hotspot yang telah
+ada.
+Subjek dalam penelitian ini adalah rancang bangun sistem hotspot
+menggunakan captive portal. Pengumpulan data dalam penelitian ini
+menggunakan metode observasi, wawancara, metode studi literatur. Sistem
+yang dibangun adalah captive portal menggunakan aplikasi freeradius dan
+chillispot. Penyusunan meliputi dengan prosedur antara indentifikasi
+masalah, analisis kebutuhan, perancangan jaringan, perancangan sistem,
+serta implementasi jaringan hotspot menggunakan metode captive portal,
+sedangkan pengujian sistem dilakukan dengan black box dan alpha test.
+Hasil penelitian dapat bekerja dengan optimal pada rancang bangun sistem
+hotspot menggunakan captive portal dan sistem yang mampu meningkatkan
+keamanan akses jaringan pada Pimpinan Pusat Muhammadiyah
+Yogyakarta. Sehingga mempermudah karyawan dalam memantau kegiatan
+client yang sedang memakai jaringan hotspot. Berdasarkan hasil uji coba
+tersebut dapat disimpulkan bahwa sistem captive portal ini dapat
+diterapkan pada sistem hotspot diPimpinan Pusat Muhammadiyah
+Yogyakarta.
+Captive portal , Chillispot , Freeradius , Internet , Hotspot.

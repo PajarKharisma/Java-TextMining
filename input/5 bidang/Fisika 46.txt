@@ -1,0 +1,25 @@
+Penelitian ini bertujuan untuk mengembangkan media pembelajaran Fisika interaktif 
+berupa E-Magazine (majalah elektronik) pada materi pokok Dinamika Rotasi untuk SMA 
+Kelas XI yang memenuhi kriteria baik. Model yang digunakan dalam penelitian ini 
+adalah penelitian pengembangan (research and development). Adapun yang akan 
+dikembangkan dalam penelitian ini adalah E-magazine pada materi pokok Dinamika
+Rotasi. Langkah-langkah penelitian dan pengembangan yang digunakan berdasarkan 
+model ADDIE, yaitu Analysis (Analisis), Design (Perancangan), Development 
+(Pengembangan), Implementation (Implementasi), dan Evaluation (Evaluasi). 
+Data yang diperoleh dalam penelitian ini yaitu data kualitatif yang didukung 
+dengan data kuantitatif yang diperoleh melalui angket. Sumber data penelitian 
+antara lain 2 dosen sebagai ahli materi dan media, 2 guru fisika SMA sebagai 
+reviewer, 3 mahasiswa yang mendalami pembuatan media pembelajaran sebagai peer 
+reviewer, dan 45 siswa SMAN Gondangrejo Karanganyar. Teknik analisis data yang 
+digunakan dalam penelitian ini adalah analisis kualitatif dan deskriptif kuantitatif. 
+Hasil dari pengembangan media pembelajaran Fisika ini adalah media pembelajaran dalam 
+bentuk majalah elektronik yang berisi materi pokok Dinamika Rotasi. Majalah elektronik 
+ini terdiri dari 5 submateri pokok yaitu momen gaya, momen inersia, gerak menggelinding, 
+momentum sudut dan sistem katrol. Secara keseluruhan terdiri dari topik, kita dan peristiwa, 
+curhat fisika, phyco (physic competition), tips and trick, ragam, hobi, unik, teka-teki 
+silang dan kuis. Majalah elektronik ini disimpan dengan format .exe dalam CD, flashdisk 
+dan micro sd, sehingga dapat digunakan melalui komputer, laptop dan netbook. Data penelitian 
+menunjukkan bahwa majalah elektronik Fisika dalam bentuk flipbook memiliki kriteria sangat baik 
+berdasarkan penilaian dari ahli materi dan media sebesar 91, guru Fisika SMA sebagai reviewer 
+sebesar 72,5, peer reviewer sebesar 73,67 serta siswa pada uji coba kelompok kecil dan uji coba 
+kelompok besar sebesar 53,85 dan 55,75.

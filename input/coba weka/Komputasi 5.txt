@@ -1,0 +1,15 @@
+PENCARIAN SPBU TERDEKAT DAN PENENTUAN JARAK
+TERPENDEK MENGGUNAKAN ALGORITMA DIJKSTRA
+(STUDI KASUS DI KABUPATEN JEMBER)
+Stasiun Pengisian Bahan Bakar (SPBU) untuk umum merupakan prasarana yang disediakan PT
+Pertamina untuk memenuhi kebutuhan bahan bakar. Prasarana ini cukup penting di semua kota, salah
+satunya Jember. Akses informasi letak dan fasilitas SPBU di Kabupaten ini masih sangat sulit didapatkan.
+Penelitian ini membahas tentang pemetaan lokasi, pencarian lokasi, dan penentuan jalur terpendek untuk
+mencapai lokasi SPBU tersebut. Pencarian SPBU terdekat pada penelitian ini menggunakan algoritma
+Dijkstra. Hasil pengambilan data didapatkan 33 SPBU yang menjual premium dan bio solar di Kabupaten
+Jember. Pencarian SPBU terdekat dipengaruhi oleh kriteria, cost, dan reverse _cost. Dimana untuk jalan
+satu arah diberikan nilai reverse _cost sebesar 1000000, sehingga jalan ini tidak akan pernah dipilih.
+Algoritma dijkstra sangat sesuai dan mudah digunakan pada studi kasus di penelitian ini. Penerapan
+algoritma dijkstra telah merekomendasikan jalur terpendek jarak tempuh guna memberikan efisiensi
+penggunaan bahan bakar kendaraan bermotor.
+ SPBU, Algoritma Dijkstra dan jalur terpendek

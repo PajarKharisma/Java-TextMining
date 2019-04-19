@@ -1,0 +1,32 @@
+PERANCANGAN SISTEM PAKAR UNTUK DIAGNOSIS KERUSAKAN HARDWARE LAPTOP Kasus kerusakan hardware laptop merupakan kasus yang memerlukan 
+bantuan seorang pakar (teknisi) dalam menyelesaikan masalah dengan
+mengandalkan pengetahuan yang dimilikinya, tetapi kendala yang sering dialami
+apabila mengandalkan jasa seorang pakar adalah biaya yang harus dikeluarkan
+relatif tidak sedikit dan juga seorang pakar tidak akan selalu ada di tempat untuk
+melayani client setiap saat, apalagi jarak yang harus di tempuh ke tempat servis mungkin saja sangat jauh. Pada Penelitian ini dibuat perangkat lunak untuk
+mengatasi kasus tersebut, dimana perangkat lunak yang dimaksud adalah sistem
+pakar untuk diagnosis kerusakan hardware laptop yang di desain untuk
+memodelkan/mengemulasi kemampuan seorang pakar dalam memecahkan
+suatu masalah yang berbasiskan pada pengetahuan pakar itu sendiri. 
+Pengetahuan yang di dapat dari proses akuisisi pengetahuan
+direpresentasikan dengan menggunakan model kaidah produksi, sementara itu
+dalam mengembangkan mesin inferensi teknik yang digunakan yaitu forward
+chaining. Dalam mendeskripsikan alur program digunakan dua pendekatan, yaitu
+flowmap untuk mendeskripsikan mekanisme kerja aplikasi sistem pakar yang
+dirancang dan diagram aliran data (DFD) untuk mendeskripsikan proses aliran
+data yang ada dalam aplikasi sistem pakar yang dirancang. Untuk
+menggambarkan pemodelan data atau desain basis data digunakan model entity
+relationship diagram yang selanjutnya ditransformasikan ke dalam bentuk basis
+data fisik, yaitu dalam bentuk tabel-tabel yang diuji tingkat akurasi datanya
+menggunakan teknik normalisasi dan diteruskan dengan penjelasan objek data
+pada setiap tabel dengan menggunakan kamus data. 
+Dengan fasilitas yang diberikan untuk pemakai dan pakar, memungkinkan
+baik pemakai maupun pakar untuk menggunakan sistem ini sesuai kebutuhannya
+masing-masing. Pemakai diberi kemudahan untuk mendapatkan solusi atas
+kerusakan hardware yang terjadi berdasarkan data-data yang telah dipilih pada
+proses penelusuran, yang terdiri dari pemilihan data macam komponen hardware
+yang mengalami kerusakan, diteruskan dengan pemilihan data jenis komponen
+hardware yang mengalami kerusakan, dilanjutkan dengan pemilihan data gejala
+kerusakan yang dialami dan pemilihan data ciri kerusakan yang di dapat.
+Sedangkan pakar diberi kemudahan dalam memanajemen sistem, baik proses
+tambah, hapus maupun update data terkait. 

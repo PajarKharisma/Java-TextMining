@@ -1,0 +1,15 @@
+Divergensi dan vortisitas merupakan dua parameter yang erat kaitannya dengan 
+proses dinamis atmosfer khususnya dalam proses pembentukan awan. 
+Analisis terkait dua parameter tersebut mengalami perkembangan dengan 
+munculnya model numerik yang dapat digunakan untuk menampilkan kedua 
+parameter tersebut. Di Indonesia, Weather Research Forecasting (WRF) 
+dan Satellite Animations and Interactive Diagnosis (SATAID) merupakan 
+cara yang sering digunakan untuk menampilkan divergensi dan vortisitas, 
+khususnya dalam analisis kondisi cuaca buruk seperti hujan lebat. Dalam 
+kasus hujan lebat yang terjadi di Batam pada tanggal 30-31 Januari 2011, 
+penulis mencoba membandingkan nilai divergensi dan vortisitas dari hasil 
+olahan WRF dan SATAID. Hasil menunjukkan beberapa perbedaan yang signifikan. 
+Perbedaan tersebut antara lain nilai divergensi dan vortisitas yang WRF yang 
+jauh lebih tinggi dibandingkan SATAID dan pola pergerakan nilai divergensi dan 
+vortisitas secara temporal untuk tiap lapisan isobarik sehingga menyebabkan 
+korelasi yang rendah dan nilai RMSE yang besar antara WRF dan SATAID.

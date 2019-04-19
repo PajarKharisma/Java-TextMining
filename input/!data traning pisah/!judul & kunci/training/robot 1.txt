@@ -1,0 +1,3 @@
+IMPLEMENTASI ALGORITMA PARTICLE SWARM OPTIMIZATION UNTUK PENENTUAN POSISI STRATEGIS AGENT PADA SIMULASI ROBOT SEPAK BOLA DUA DIMENSI simulasi robot sepak bola, robocup
+soccer, particle swarm optimization, pemosisian
+agent, multi agent system.

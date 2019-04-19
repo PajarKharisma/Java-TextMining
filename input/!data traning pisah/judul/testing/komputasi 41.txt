@@ -1,0 +1,1 @@
+Pengelompokan Dokumen Menggunakan Winnowing Fingerprint dengan Metode K-Nearest Neighbour 

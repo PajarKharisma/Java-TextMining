@@ -1,0 +1,3 @@
+Analisis Data Lulusan dengan Data Mining
+ untuk Mendukung Strategi Promosi  
+Universitas Lancang Kuning Data Mining, Clustering, K-Means

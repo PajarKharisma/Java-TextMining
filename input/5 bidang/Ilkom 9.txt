@@ -1,0 +1,16 @@
+Opininion mining juga disebut analisis sentimen adalah riset komputasional dari opini,
+sentimen dan emosi yang diekspresikan secara tekstual dilakukan untuk melihat pendapat terhadap
+sebuah masalah, atau untuk identifikasi kecenderungan hal di pasar. Saat ini pendapat masyarakat
+menjadi sumber yang penting dalam pengambilan keputusan akan suatu produk. Algoritma klasifikasi
+yang dapat melakukan teks mining diantaranya Support Vector Machine (SVM), Naïve Bayessian
+classification (NBC) dan K-Nearest Neighbor (K-NN). Ketiga algoritma ini akan dikomparasi untuk
+mengetahui performa yang baik dalam hal akurasi untuk dua dataset yang berbeda yaitu imdb review
+film dan sentimen twitter. Hasil dari komparasi menunjukkan SVM memperoleh hasil yang baik dalam
+akurasi pada data imdb review film 78,55% dan pada dataset twitter 72%. Sama halnya dengan NBC
+yang memperoleh akurasi pada data twitter 78.55% tetapi berbeda pada data twitter 67,33%. Hasil FMeasure
+review film menunjukan SVM dan NBC memperoleh hasil yang sama yaitu 0,785 dan untuk
+hasil AUC, NBC mengungguli hasil 0,869, SVM memperoleh hasil 0,786 sedangkan KNN memperoleh
+hasil 0,572. F-Measure untuk twitter SVM lebih unggul memperoleh hasil 0,720 dan NBC memperoleh
+hasil 0,673 sedangkan K-NN 0,545. Dan untuk hasil AUC, sama seperti dataset imdb, pada dataset
+twitter ini NBC juga mengungguli SVM dan K-NN. AUC untuk NBC memperoleh hasil 0,735, SVM
+memperoleh hasil 0,658 dan K-NN memperoleh hasil 0,618.

@@ -1,0 +1,2 @@
+Pengelompokan Dokumen Menggunakan Winnowing Fingerprint
+dengan Metode K-Nearest Neighbour Fingerprint, K-Nearest Neightbour, Klasifikasi, Text Mining, Winnowing.

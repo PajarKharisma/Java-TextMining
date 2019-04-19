@@ -1,0 +1,15 @@
+PERANCANGAN DAN IMPLEMENTASI USER INTERFACE
+BERBASIS WEB UNTUK MONITORING SUHU, KELEMBABAN DAN
+ASAP PADA RUANGAN BERBEDA DENGAN MEMANFAATKAN
+JARINGAN LOCAL AREA NETWORK
+Kondisi ruangan sangat mempengaruhi kenyamanan pengguna dalam melakukan berbagai kegiatan.
+Hampir seluruh ruangan pada saat ini dilengkapi dengan Air Conditioner (AC). Tidak jarang pengguna
+meninggalkan ruangan dalam keadaan AC yang masih menyala. AC merupakan salah satu beban yang
+mengkonsumsi banyak energi listrik sehingga dampaknya sangat besar terhadap kenaikan biaya listrik. Hal
+ini mendorong pemilik gedung untuk memantau kondisi tiap - tiap ruangan, sehingga pemakaian energy pada
+ruangan lebih efisien tanpa mengganggu kenyamanan si pengguna. Pada penelitian dirancang sebuah sistem
+monitoring yang bertujuan untuk memantau kondisi beberapa ruangan dengan memanfaatkan jaringan LAN.
+Dari sistem monitoring berbasis web ini berhasil diketahui berapa suhu dan kelembaban ruangan serta
+keamanan yang dapat dilihat dari nilai kadar asap yang terdeteksi. Sistem monitoring ini dapat digunakan
+baik untuk perumahan maupun perkantoran yang memiliki banyak ruangan dengan aktifitas yang tinggi.
+Arduino Uno, Ethernet Shield, Jaringan LAN, DHT11, MQ - 9, Sistem Monitoring, Web Server.

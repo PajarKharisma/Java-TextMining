@@ -1,0 +1,9 @@
+Potensi energi gelombang laut yang besar dapat dimanfaatkan dengan menerapkan konverter 
+energi gelombang. Salah satu model konverter yang sedang dikembangkan model pendulum vertikal. 
+Pemodelan pendulum vertikal yang sederhana menyebabkan pengaruh massa tidak signifikan terhadap 
+respon gerak pendulum. Demikian juga dengan model dengan penambahan transmisi daya tidak 
+mengakomodir kondisi resonansi. Oleh karena itu, penelitian ini memodelkan dan menganalisis 
+respon gerak pendulum pada konverter energi gelombang dengan inersia tambahan saat resonansi. 
+Amplitudo respon pendulum relatif terhadap arah vertikal gravitasi semakin lama semakin membesar 
+hingga dibatasi nilai amplitudo pergerakan ponton pada kondisi tunak, sedangkan respon relatif 
+terhadap ponton semakin mengecil. Fenomena ini tidak terjadi pada kondisi di luar resonansi.

@@ -1,0 +1,13 @@
+SIMULASI ALGORITMA DIJKSTRA
+PADA PROTOKOL ROUTING OPEN SHORTEST PATH FIRST Perkembangan teknologi perutean data pada jaringan komputer pada dasarnya bertujuan untuk
+mengoptimalkan kemampuan memilih rute terbaik pada sekumpulan jaringan komputer. Teknologi
+perutean data yang digunakan di Internet saat ini adalah protokol routing Open Shortest Path First.
+Jenis algoritma routing yang digunakan protokol routing open shortest path first adalah routing
+keadaan link, dimana routing keadaan link membentuk peta jaringan dalam tiga tahap. Tahap pertama
+setiap router mengenali seluruh tetangganya. Tahap berikutnya, router-router saling bertukar informasi
+keadaan link, dan tahap terakhir setiap router menghitung jarak terpendek ke setiap tujuan menggunakan
+algoritma Dijkstra
+Tugas akhir ini mensimulasikan algoritma Dijkstra dalam menentukan (menghitung) rute
+terpendek ke setiap host tujuan dalam suatu topologi jaringan.
+Dalam menentukan (menghitung) rute terpendek ke setiap host tujuan dalam suatu topologi
+jaringan, hasil simulasi dibandingkan dengan algoritma Dijkstra secara teori

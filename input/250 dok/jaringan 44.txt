@@ -1,0 +1,13 @@
+PEMBANGUNAN JARINGAN KOMPUTER NIRKABEL DENGAN
+FREEBSD SEBAGAI GATEWAY
+Jaringan komputer nirkabel merupakan suatu teknologi yang cukup baru di dalam
+dunia jaringan komputer dimana teknologi ini memungkinkan menghubungkan komputer tanpa
+menggunakan kabel melainkan menggunakan gelombang dengan frekuensi 2.4 GHz.
+Jaringan komputer saat ini pada umumnya masih menggunakan kabel dengan adanya
+perbedaan media yaitu udara dan kabel maka dibutuhkan suatu alat untuk menggabungkan kedua
+jaringan yang berbeda media tersebut. Alat ini bernama access point. Tetapi ada masalah lain
+dimana harga access point tersebut tidaklah murah sehingga dicarikan alternatif lain yaitu
+menggunakan personal computer dengan sistem operasi FreeBSD. Tetapi alternatif tersebut tidak
+bisa sempurna seperti access point yang berupa perangkat keras. Tetapi semua itu bukanlah
+masalah karena tidak semua fasilitas accses point digunakan.
+LAN nirkabel, FreeBSD, jaringan komputer.

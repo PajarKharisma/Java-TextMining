@@ -1,0 +1,13 @@
+Telah pelajari interkalasi Tetraetil ortosilikat (TEOS) pada lempung dan penggunaannya sebagai adsorben
+untuk menghilangkan warna garmen. Lempung terlebih dahulu diaktivasi asam sulfat 1,2 M yang kemudian
+dilanjutkan dengan interkalasi TEOS. Karakterisasi dilakukan dengan metode titrasi asam basa untuk menentukan
+keasaman permukaan, dan metilen biru untuk mengukur luas permukaan spesifik serta spektrofotometri UV-Vis
+menunjukkan konsentrasi sisa adsorbat setelah diadsorpsi.
+Hasil penelitian aktivasi dengan asam sulfat dan interkalasi TEOS pada lempung meningkatkan keasaman
+permukaan spesifik yang dihasilkan berturut-turut untuk adsorben S0-0(tanpa aktivasi); Sa-0 (lempung terinterkalasi
+TEOS 0%); Sa-5(lempung terinterkalasi TEOS 5%); Sa-10(lempung terinterkalasi TEOS 10%); Sa-15(lempung
+terinterkalasi TEOS 15%) 0,5064; 0,8733; 0,8486; 1,0005; dan 0,8926 mmol/g adsorben. Luas permukaan spesifik
+yang dihasilkan berturut-turut 27,2391 m2/g; 28,4019 m2/g; 28,2767 m2/g; 29,2220; m2/g dan 29,1621 m2/g adsorben
+untuk S0-0; Sa-0; Sa-5; Sa-10; Sa-15. Hasil uji adsorpsi terhadap warna garmen menunjukkan bahwa interkalasi dengan
+konsentrasi TEOS 10% merupakan adsorben terbaik dalam menyerap warna garmen yang didukung oleh data
+konsentrasi adsorbat terserap mencapai 83,64%. Perubahan warna limbah warna kuning sedikit pekat menjadi jernih.

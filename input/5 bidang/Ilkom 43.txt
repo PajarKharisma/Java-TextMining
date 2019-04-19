@@ -1,0 +1,14 @@
+APLIKASI PENGELOLAAN KEUANGAN PADA PT JALA PROKREASI SURAKARTA PT Jala Prokreasi Mitra adalah 
+salah satu perusahaan yang telah menggunakan komputer sebagai alat bantu dalam pelaksanaan 
+kegiatan operasional perusahaan PT Jala Prokreasi bergerak dibidang advertesing Salah satu 
+aktivitas yang ada pada perusahaan PT Jala Prokresi adalah mengenai pengelolaan keuangan. 
+Secara umum pencatatan akuntansi pada PT Jala Prokreasi sudah sesuai standar akuntansi 
+keuangan akan tetapi tidak sepenuhnya terkomputerisasi Pengerjaan jurnal umum dan pembuatan 
+laporan keuangan masih menggunakan Microsoft Office Excel sehingga menyebabkan pencatatan 
+penerimaan dan pengeluaran kas menjadi tidak efektif Oleh karena itu Perusahaan membutuhkan
+suatu aplikasi pengelolaan keuangan Aplikasi pengelolaan keuangan ini dibangun untuk memudahkan
+PT Jala Prokreasi dalam proses pencatatan kas pembuatan jurnal umum dan laporan keuangan 
+Aplikasi yang dibuat adalah aplikasi berbasis web PHP dan menggunakan MySQL sebagai 
+basisdatanya Aplikasi ini menghasilkan data departemen data akun jurnal transaksi 
+pengeluaran dan pemasukan kas serta laporan keuangan laba rugi dan laporan keuangan arus
+kas PHP MySql Jurnal Transaksi Laporan Keuangan

@@ -1,0 +1,28 @@
+PENGENALAN LAFAL HUKUM NUN MATI
+MENGGUNAKAN HIDDEN MARKOV MODEL
+Membaca Al-Qur’an wajib bagi setiap umat muslim sebagaimana firman
+Allah SWT Q.S. Al-Ankabut ayat 45. Selain itu, Al-Qur’an mempunyai aturan
+dalam membacanya. Aturan tersebut berhubungan dengan pelafalan huruf atau
+makhrojul huruf dan hokum tajwid. Dunia teknologi berkembang begitu pesat.
+Salah satunya penemuan sistem pengenalan suara dimana sebuah mesin dapat
+memahami informasi yang disampaikan oleh manusia melalui suara. Banyak
+metode yang digunakan pada sistem pengenalan suara baik itu metode ekstraksi ciri
+ataupun metode pengenalannya. Metode ekstraksi ciri yang sering dipakai adalah
+Mel Frequency Cepstral Coefficient (MFCC). Metode ini menggabungkan cara
+linier dan non linier. Hal ini disebabkan oleh persepsi pendengaran manusia yang
+tidak berada pada skala linier dalam bentuk frekuensi melainkan diukur dalam
+bentuk skala frekuensi mel. Pada tahap ekstraksi ciri ini sinyal suara dibentuk
+menjadi vektor - vektor ciri, kemudian pada tahap berikutnya vektor ciri ini akan
+dikuantisasi atau dipetakan menjadi codeword dan dikumpulkan menjadi codebook.
+Codebook ini kemudian digunakan pada proses pelatihan model Hidden Markov
+Model (HMM). Pada proses pelatihan HMM, parameter peluang transisi (A),
+peluang inisialisasi (?), dan peluang observasi (B) dihitung dan di cari parameter
+yang palik baik sehingga membentuk sebuah model yang optimum. Kemudian
+model ini digunakan pada proses kualifikasi. Pada penelitian ini diterapkan metode
+HMM pada pengenalan lafal hokum nun mati. Model terbaik didapat pada 
+Agus Jamaludin, Arief Fatchul Huda dan Rini Sahyandari
+2
+percobaan yang dilakukan adalah pada saat besar codebook M =128 dan banyak
+state S =6 dengan tingkat akurasi 51,7%.
+Pengenalan Suara, Ekstraksi Ciri, Mel Frequency Cepstral Coefficent
+(MFCC), Hidden Markov Model, Kuantisasi Vektor

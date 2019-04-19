@@ -1,0 +1,10 @@
+Deteksi Lokasi Bibir Otomatis Pada Citra Wajah Berbasis Ciri Bentuk dan Warna Metode yang diusulkan merupakan gabungan antara pendekatan warna dan bentuk bibir untuk
+deteksi otomatis lokasi bibir pada citra wajah yang gunakan untuk mengidentifikasi wajah
+seseorang berdasarkan fitur bibirnya. Penelitian ini mencoba untuk menggabungkan pendekatan
+berbasis ruang warna yang diperbaiki menggunakan pendekatan berbasis bentuk bibir. Hasil
+eksperimen menunjukkan bahwa 61,4% akurasi identifikasi ketika diuji menggunakan 500 citra
+wajah Nilai Precision dan Recall digunakan untuk mengevaluasi teknik yang diusulkan
+dibandingkan dengan gambar yang disegmentasi secara manual yang selanjutnya diproses dalam
+sistem identifikasi wajah. Hasil ujicoba yang telah dilakukan dapat digunakan sebagai dasar
+pengembangan system identifikasi waktu nyata.
+Bibir Deteksi, Color Space, Identifikasi Wajah

@@ -1,0 +1,20 @@
+IMPLEMENTASI VOICE OVER INTERNET PROTOCOL (VoIP)
+IP PHONE SEBAGAI MEDIA KOMUNIKASI PENGGANTI
+PRIVATE AUTOMATIC BRANCH EXCHANGE (PABX )
+(Studi Kasus Institut Teknologi Padang)
+Institut Teknologi Padang adalah sebuah institusi pendidikan di kota padang. Institusi ini memiliki
+banyak karyawan yang tersebar pada beberapa ruangan yang berjauhan di setiap gedung di lingkungan institusi
+tersebut. Atas dasar itu, media komunikasi menjadi sarana yang paling penting untuk menjaga komunikasi antar
+karyawan. Sebelumnya, media komunikasi yang digunakan oleh Institut Teknologi Padang adalah telepon PABX
+(Private Automatic Branch Exchange) . Akan tetapi, dalam penerapan nya penggunaan telepon PABX ini belum
+optimal karena sering terjadi putus koneksi telepon ke gedung dengan jarak yang jauh dari sentral PBX. Oleh
+karena itu diperlukan media yang mampu mengoptimalkan sistem komunikasi antar karyawan pada Institut
+Teknologi Padang.
+ Salah satu cara untuk mengoptimalkan sistem komunikasi tersebut adalah dengan
+mengimplementasikan Voice Over Internet Protokol (VOIP) IP Phone sebagai media komunikasi pengganti
+PABX. VOIP (Voice Over Internet Protokol) adalah teknologi yang mampu melewatkan “panggilan suara”,
+video dan data melalui jaringan IP dengan menggunakan Asterisk @ home sebagai server dan ip phone, x - lite
+softphone sebagai client.
+ Dari hasil penelitian, Voip IP Phone memudahkan komunikasi antar karyawan untuk menunjang
+kegiatan administrasi perkantoran.
+VOIP, IP Phone, X - lite Softphone, Asterisk @ home.

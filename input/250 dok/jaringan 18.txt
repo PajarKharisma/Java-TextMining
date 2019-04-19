@@ -1,0 +1,16 @@
+IMPLEMENTASI WIRELESS MONITORING
+ENERGI LISTRIK BERBASIS WEB DATABASE
+Implementasi Wireless Monitoring Energi Listrik Berbasis Web Database ini dirancang untuk
+menggantikan sistem pengukuran energi listrik secara manual dan konvensional. Perangkat ini terdiri 4
+(empat) bagian yaitu sensor, processor, display dan network. Bagian sensor terdiri dari Current Transformer
+dan AC to AC Power Adapter. Processor digunakan Arduino UNO yang akan mengolah hasil sensor,
+display menggunakan Liquid Crystal Display (LCD) tipe untuk menampilkan data keluaran real time. Dan
+bagian terakhir yaitu network terdiri dari Ethernet Shield, 3G Router, 3G Modem untuk komunikasi ke
+Database Server sebagai tempat penyimpanan tetap dan pengolahan data lebih lanjut. Pada pengujian
+dengan total beban nominal 120 watt menunjukkan bahwa nilai Vrms yang tampil di LCD Wireless Energy
+Monitoring sebesar 218 volt, nilai Vrms hasil pengukuran Clamp Meter sebesar 216 volt. Untuk nilai Irms
+di LCD Wireless Energy Monitoritng 0,44 ampere, nilai Irms hasil pengukuran Clamp Meter 0,5 ampere.
+Nilai daya nyata di LCD Wireless Energy Monitoring 92 watt, nilai daya nyata hasil pengukuran Clamp
+Meter 84 watt. Sedangkan faktor daya di LCD Wireless Energy Monitoring 0,97 dan faktor daya hasil
+pengukuran Clamp Meter 0,99.
+wireless monitoring, real power, power factor

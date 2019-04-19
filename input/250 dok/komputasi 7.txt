@@ -1,0 +1,15 @@
+Pengenalan Pola Tanda Tangan dengan Metode Momennt
+Invariant dan Euclidean Distance
+Dalam makalah ini dilakukan penelitian tentang pengenalan pola tanda tangan
+berbasis citra digital. Citra tanda tangan merupakan hasil digitasi yang direpresentasikan
+dalam bentuk matrik. Dalam melakukan pengenalan pola, matrik yang mempunyai
+dimensi besar berpengaruh pada waktu komputasi dan akurasi pengenalan. Berdasarkan
+hal tersebut maka digunakan metode Moment Invariant untuk mereduksi dimensi matrik.
+Prinsip kerja moment invariant adalah mengelompokkan matrik ke dalam vektor yang
+dihasilkan oleh fungsi posisi dan arah piksel citra yang invariant terhadap rotasi, translasi
+dan skala dan didefenisikan dalam momen geometri citra digital. Vektor hasil moment
+invariant menjadi data input dalam proses pengenalan citra digital. Metode pengenalan
+menggunakan Euclidean Distance yang mengukur selisih antara vektor. Ukuran
+kemiripan citra digital berdasarkan pada selisih minimum yang terjadi antara citra
+pengujian dengan citra yang tersimpan dalam basis data.
+moment invariant, euclidean distance, matrik, citra digital, tanda tangan.

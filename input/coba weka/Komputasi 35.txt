@@ -1,0 +1,16 @@
+PENDETEKSIAN TEPI OBJEK MENGGUNAKAN METODE GRADIEN Pada tahap melakukan ekstraksi ciri (feature extraction) faktor yang sangat penting adalah
+kemampuan untuk mendeteksi keberadaan tepi di dalam citra. Tujuan penelitian ini adalah
+menggunakan konsep matematis untuk melakukan fungsi pendeteksian tepi. Uji coba yang dilakukan
+menggunakan matlab versi R2009a dengan menggunakan citra masukan berupa citra abu-abu
+(grayscale). Setiap citra diuji dengan menggunakan 3 cara yaitu menggunakan metode gradien citra,
+gradien Prewitt dan gradien Sobel. Cara kerja dari metode gradien terdiri dari gradien horizontal arah
+x menghasilkan tepi objek berupa garis vertikal dan diagonal dari citra input, gradien arah vertikal y
+menghasilkan tepi objek berupa garis horizontal dan diagonal dari citra input sedangkan total gradien
+merupakan gabungan dari gradien arah x dan gradien arah y sedangkan cara kerja dari untuk metode
+gradien Prewitt dan Sobel, pemilteran dilakukan secara parsial dengan arah yang berlawanan dengan
+arah fungsi turunan pertama, bila pemilteran dilakukan dalam arah y maka turunan pertama dari hasil
+pemilteran dilakukan dalam arah x. Pendeteksian tepi menggunakan gradien Prewitt dan Sobel
+merupakan hasil gabungan dari konvolusi gradien Prewitt/Sobel arah x dengan gradien Prewitt/Sobel
+arah y. Hasil uji coba dari penelitian ini memperlihatkan bahwa pendeteksian tepi menggunakan
+gradien Sobel lebih tajam dibandingkan dengan gradien Prewitt dan gradien citra.
+ Gradien, Prewitt, Sobel

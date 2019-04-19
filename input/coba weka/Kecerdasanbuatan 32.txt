@@ -1,0 +1,19 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT GIGI
+DI KLINIK GIGI APOTEK 128 Penelitian ini menerapkan ilmu komputer dibidang kedokteran terutama untuk
+masalah penyakit gigi studi kasus di klinik gigi Apotek 128 Kartasura dengan
+menggunakan konsep sistem pakar. Di klinik gigi apotek 128 dokter gigi tidak setiap
+hari ada, akan tetapi banyak pasien yang datang hanya sekedar periksa gigi ataupun
+berobat. Banyak pasien yang kecewa karena tidak dapat konsultasi langsung dengan
+dokter. Dari permasalahan tersebut penulis membuat aplikasi sistem pakar diagnosa
+penyakit gigi dengan tujuan untuk membantu mendiagnosa pasien.
+Sistem pakar ini berbasis php. Metode penelitian yang digunakan yaitu
+metode forward chaining. Metode ini yaitu pencocokan fakta atau pernyataan dimulai
+dari bagian sebelah kiri (IF dulu). Dengan kata lain, penalaran dimulai dari fakta
+terlebih dahulu untuk menguji kebenaran hipotesis.
+Kesimpulan yang dapat diambil dari penelitian ini yaitu mempermudah
+asisten dokter untuk mendiagnosa pasien dan membantu dokter dalam mengambil
+keputusan. Hasil dari penelitian ini bisa mengelola data-data gejala, penyakit, pasien,
+solusi pengobatan dan juga bisa mencetak laporan-laporan. Sistem pakar ini sangat
+bermanfaat dilihat dari hasil kuesioner yang mencapai 100% user menyatakan sangat
+bermanfaat.
+Sistem Pakar, Penyakit Gigi, Forward Chaining.

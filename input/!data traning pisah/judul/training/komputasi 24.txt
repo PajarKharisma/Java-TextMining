@@ -1,0 +1,1 @@
+Pengenalan Jenis Golongan Darah Menggunakan Jaringan Syaraf Tiruan Perceptron

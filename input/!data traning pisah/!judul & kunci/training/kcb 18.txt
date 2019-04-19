@@ -1,0 +1,3 @@
+SISTEM PAKAR PADA KONSULTASI JENIS SENAM 
+DENGAN METODE FORWARD CHAINING sistem pakar, konsultasi jenis senam, forward chaining, temporal reasoning, 
+certainty factor

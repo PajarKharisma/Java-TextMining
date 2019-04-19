@@ -1,0 +1,24 @@
+﻿PENERAPAN POLA HIERACHICAL MODEL - VIEW - CONTROLLER PADA
+REKAYASA SISTEM BERBASIS WEB FRAMEWORK
+Ditemukan permasalahan ketika melakukan coding untuk membangun suatu
+aplikasi berbasis web. Untuk mempercepat pekerjaan, developer sebagai pengembang
+web biasanya menggunakan sebagian kode dari proyek sebelumnya terutama untuk
+bagian yang berhubungan dengan basis data, kerangka sistem, dan keamanan sistem.
+Jika ada kelemahan kode yang tidak diketahui pada proyek sebelumnya, maka
+kelemahan tersebut akan diturunkan ke proyek berikutnya. Untuk mengatasi
+permasalahan tersebut, sekarang ini kebanyakan perusahaan IT menggunakan web
+framework untuk pembangunan web karena menawarkan banyak kelebihan
+dibandingkan jika menulis kode program dari awal. Web framework memiliki beberapa
+kelebihan diantaranya memiliki pola MVC atau Model - View - Controller. Salah satu web
+framework yang mendukung pola MVC adalah Codeigniter. Akan tetapi menggunakan
+pola MVC saja belum cukup, untuk menghasilkan program yang modular perlu diterapkan
+pola Hierarchical MVC dengan penambahan Modular Extension pada Codeigniter seperti
+yang dilakukan pengembang BackendPro yaitu suatu aplikasi berlisensi bebas yang
+menyediakan fungsionalitas untuk melakukan semua tugas - tugas sederhana yang biasa
+dikerjakan berulang - ulang dalam proyek rekayasa web seperti authentication,
+permissions, dan panel control. Dalam penelitian ini akan dikaji pemanfaatan BackendPro
+sebagai landasan awal dalam pembangunan aplikasi berbasis web. Dari penelitian ini
+didapat langkah - langkah untuk membangun sebuah aplikasi sederhana kedalam web
+framework menggunakan BackendPro dan keuntungan yang dapat diperoleh jika
+mengembangkan aplikasi web menggunakan web framework.
+Model - View - Controller, Hierarchical, Framework, Codeigniter, BackendPro

@@ -1,0 +1,11 @@
+IMPLEMENTASI HIGH-AVAILABILITY VPN CLIENT PADA JARINGAN KOMPUTER FAKULTAS HUKUM UNIVERSITAS UDAYANA 
+ Ketersediaan data/layanan sangat dibutuhkan, terutama bagi perusahaan-perusahaan
+yang sangat membutuhkan data-data ataupun layanan yang bersifat sangat penting. Apabila
+terjadi kerusakan data ataupun layanan, sangat dibutuhkan adanya server cadangan.
+ Sesuai dengan dasar teori dari teknologi High-Availability, yaitu ilmu untuk
+menciptakan redundansi dalam setiap sistem dan subsistem untuk memastikan bahwa layanan
+tetap up dan tersedia. Sehingga dapat dianalogikan dalam implementasi, bila satu server gagal
+melayani service tertentu, maka tugas server tersebut otomatis akan dilempar ke server lainnya.
+ HA akan diimplementasikan pada layanan VPN Client yang bertujuan untuk
+memastikan koneksi VPN tetap hidup, agar administrator dapat lebih mudah me-monitoring
+jaringan dari luar.

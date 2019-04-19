@@ -1,0 +1,16 @@
+PERANCANGAN SISTEM NFORMASI REKAM MEDIS PASIEN PADA KLINIK BERSALIN
+KASIH IBU MENGGUNAKAN METODE WATERFALL  Klinik Bersalin Kasih Ibu merupakan tempat pelayanan kesehatan yang menyelenggarakan pelayanan bagi wanita hamil, persalinan, keluarga berencana, pemeriksaan fisik, pemberian tindakan
+medis dan memberikan informasi hasil anamnesa. Setiap pelayanan dicatat dalam dokumen rekam
+medis pasien, sebagaimana dinyatakan dalam (Hanafiah & Amir, 1999:59): “Rekam medis adalah
+kumpulan keterangan tentang identitas, hasil anamnesis, pemeriksaan dan catatan segala kegiatan
+para pelayanan kesehatan atas pasien dari waktu ke waktu“ . Tujuan  dari penelitian ini adalah
+merancang Aplikasi Rekam Medis Klinik Bersalin Kasih Ibu untuk membantu proses pencatatan,
+pencarian dan penyimpanan data rekam medis, sehingga membantu petugas dalam proses
+pelayanan terhadap pasien. Metode penelitian ini menggunakan metode waterfall. Waterfall atau sering juga disebut air terjun adalah sebuah metode dalam pengembangan sistem yang dilakukan untuk membuat pembaruan
+sistem yang berjalan. Menurut (Rosa) Metode pengembangan sistem merupakan proses
+mengembangkan atau mengubah suatu sistem perangkat lunak dengan menggunakan metodemetode atau model - model yang digunakan orang untuk mengembangkan sistem - sistem perangkat lunak sebelumnya dengan memiliki alur hidup perangkat lunak secara sekuensial atau terurut dimulai dari analisis, desain, pengodean, pengujian, dan tahap pendukung.
+Hasil dari penelitian ini adalah suatu rancangan aplikasi rekam medis berbasis Desktop yang terdapat
+beberapa fasilitas seperti pengolahan data pasien Ibu Hamil, data bidan, data anamnesis, data
+pemeriksa, data terapi, data obat, data rekam medis, laporan data medis dan laporan data pasien. 
+bersalin Harapan Ibu adalah terwujudnya aplikasi rekam medis guna memudahkan dalam pencatatan
+dan perekaman rekam medis dengan mudah. Sistem Informasi, Waterfall, Rekam Medis

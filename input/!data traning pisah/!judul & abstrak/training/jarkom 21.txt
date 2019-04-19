@@ -1,0 +1,20 @@
+IMPLEMENTASI METODE INTERNET SEHAT PADA JARINGAN
+KOMPUTER WIRELESS DI MASJID AL AMIN BERBAH  Perkembangan teknologi jaringan komputer semakin pesat seiring dengan kebutuhan
+masyarakat akan layanan informasi yang memanfaatkan jaringan komputer. Kebutuhan atas
+penggunaan internet di masyarakat didasarkan agar seluruh masyarakat di pelosok Indonesia
+memiliki pengetahuan akan teknologi informasi. Masjid digunakan sebagai media penyebaran
+internet dikarenakan diharapkan nantinya keluaran dari penyebaran pengetahuan akan
+teknologi informasi berupa konten yang baik dan berguna bagi masyarakat. Dengan
+menggunakan metode internet sehat sebagai cara berinternet yang baik dan benar yang
+nantinya dapat diimplementasikan kedalam jaringan komputer wireless di masjid. Metode
+internet sehat yang diimplementasikan pada jaringan komputer wireless menggunakan proxy
+server yang akan diimplementasikan beberapa konfigurasi pengaman yaitu OpenDNS, Squid,
+IPTables dan Dansguardian. Dari konfigurasi pengamanan tersebut diujicobakan satu per satu
+dengan cara mengakses dari beberapa kategori contoh konten negatif untuk menguji
+keberhasilan dalam memblokir situs atau konten negatif dari proxy server tadi. Dari hasil
+penelitian, kombinasi dari beberapa konfigurasi pengaman tersebut akan diseleksi berdasarkan
+kelebihan dan kekurangannya yang nantinya akan dipergunakan seterusnya pada proxy server.
+Dari keseluruhan konfigurasi tersebut nantinya akan mengamankan jaringan komputer wireless
+di masjid Al Amin Berbah.  Pengimplementasian metode internet sehat pada jaringan komputer
+wireless di masjid akan menghasilkan cara berinternet yang aman dari segala konten yang
+negatif. Pengguna internet dapat berinternet tanpa merasa terganggu oleh konten yang negatif. 

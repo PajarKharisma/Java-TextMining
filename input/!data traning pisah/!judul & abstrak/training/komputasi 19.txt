@@ -1,0 +1,12 @@
+IMPLEMENTASI ALGORITMA HIDDEN
+MARKOV MODEL SEBAGAI PENGENALAN 
+PERINTAH SUARA PADA APLIKASI WINAMP Salah satu teknologi yang sedang berkembang saat ini adalah speech recognition yang mengolah 
+suara menjadi suatu perintah yang dapat dikenal oleh suatu mesin sehingga memungkinkan seseorang 
+melakukan remote pada aplikasi yang ada pada komputer dengan menggunakan suara yang masuk
+melalui microphones. Tujuan dari penelitian ini yaitu membuat Media Player Winamp dapat dioperasikan
+menggunakan suara dengan Algoritma Hidden Markov Model. Sinyal suara dicuplik sehingga menjadi
+sinyal digital kemudian dinormalisasi dan diproses dengan preprocessing signal menggunakan metode
+LPC (Linear Predective Coding) selanjutnya dianalisis dan dicari nilai probabilitas yang maksimum
+sehingga bisa dikenali menggunakan Hidden Markov Model (HMM). Hasil penelitian menunjukan
+algoritma Hidden Markov Model dapat digunakan untuk mengeksekusi fungsi aplikasi winamp melalui
+perintah suara. 

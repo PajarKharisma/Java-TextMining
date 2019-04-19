@@ -1,0 +1,15 @@
+PEMBANGUNAN JARINGAN LOCAL AREA NETWORK SMP NEGERI 2 SUMBERLAWANG Sekolah Menengah Pertama Negeri 2 Sumberlawang, Sragen dalam mengolah dan
+menyimpan data sudah menggunakan komputer, hampir semua ruangan sekolah sudah dilengkapi
+dengan komputer, namun belum menerapkan sistem jaringan komputer sehingga dalam keadaan tertentu
+menimbulkan masalah. Terjadinya antri dalam penggunaan komputer merupakan masalah yang sering
+terjadi karena data tersimpan di komputer tertentu. Penggunaan alat penyimpan data eksternal masih
+digunakan untuk mengambil data dari komputer satu dengan komputer lainnya serta sulitnya
+mendapatkan informasi atau referensi yang dibutuhkan. 
+Penulis mengadakan penelitian dengan tujuan dapat membangun jaringan komputer di Sekolah
+Menengah Pertama Negeri 2 Sumberlawang sehingga dengan diadakan penelitian ini diperoleh manfaat
+diantaranya, tidak terjadi antrian dalam penggunaan komputer, tidak lagi menggunakan alat penyimpan
+data eksternal dan memudahkan mencari informasi atau referensi untuk keperluan pendidikan. 
+Metode yang digunakan dalam penelitian ini adalah : pustaka, observasi, wawancara dan analisisi.
+Setelah dilaksanakan penelitian diperoleh kesimpulan dengan dibangun jaringan Local Area Network di
+SMP Negeri 2 Sumberlawang membantu memudahkan pekerjaan guru maupun siswa baik dalam hal
+proses belajar mengajar ataupun administrasinya.Sekolah, Jaringan Lokal Komputer, Internet.

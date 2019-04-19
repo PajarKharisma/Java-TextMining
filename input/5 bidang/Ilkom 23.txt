@@ -1,0 +1,15 @@
+Sebuah dokumen berita seringkali terkait lebih dari satu kategori, untuk itu diperlukan 
+pemanfaatan metode kategorisasi yang tidak hanya cepat tetapi juga dapat 
+mengelompokkan sebuah berita kedalam banyak kategori. Banyak metode yang 
+dapat digunakan untuk mengkategorisasi dokumen berita, salah satunya adalah ontologi. 
+Pendekatan ontologi dalam kategorisasi sebuah dokumen berita didasarkan pada kemiripan 
+fitur yang ada di dokumen dengan fitur yang ada di ontologi. Penggunaan ontologi dalam 
+kategorisasi yang hanya didasarkan pada kemunculan term dalam menghitung relevansi 
+dokumen menyebabkan banyak kemunculan fitur lain yang sebenarnya sangat terkait 
+menjadi tidak terdeteksi. Dalam paper ini diusulkan metode baru untuk kategorisasi 
+dokumen berita yang terkait dengan banyak kategori, metode ini berbasis domain specific 
+ontology yang perhitungan relevansi dokumen terhadap ontologinya tidak hanya didasarkan 
+pada kemunculan term tetapi juga memperhitungkan relasi antar term yang terbentuk. 
+Uji coba dilakukan pada dokumen berita berbahasa indonesia dengan 2 kategori yaitu 
+olahraga dan teknologi. Hasil uji coba menunjukkan nilai rata-rata akurasi yang cukup 
+tinggi yaitu kategori olahraga adalah 93,85% sedangkan pada kategori teknologi adalah 96,32%.

@@ -1,0 +1,1 @@
+Identifikasi cabai, Metrik Jarak, City Block Distance. 

@@ -1,0 +1,19 @@
+SISTEM INFORMASI PEMBELIAN DAN PENJUALAN BUKU SECARA MULTIUSER Perusahaan sebagai organisasi yang memiliki kecenderungan orientasi pada laba, selalu 
+membutuhkan sistem yang terkomputerisasi dalam mengumpulkan, menyimpan dan memproses
+data untuk menghasilkan informasi yang dapat membantu perusahaan dalam melakukan
+perencanaan strategi dan pengambilan suatu keputusan secara efektif. Tanpa adanya sistem
+yang terkomputerisasi, perusahaan akan menghadapi kendala untuk mendapatkan informasi
+yang aktual dan akurat. Hal itu dapat disebabkan oleh proses pengumpulan dan pengolahan
+data masih dilakukan secara manual. Dengan bantuan sistem yang terkomputerisasi pula
+informasi dapat dikelola dengan baik, sehingga dapat menciptakan efisien biaya. Tujuan
+penelitian ini untuk merancang aplikasi pembelian dan penjualan buku secara multiuser pada
+suatu perusahaan. Dengan adanya aplikasi ini diharapkan dapat mengurangi kesalahan dalam
+pengolahan data dan dapat memperlancar jalannya proses pembelian dan penjualan buku
+sehingga proses kinerja akan lebih cepat dan tepat. Metode perancangan perangkat lunak yang
+digunakan yaitu analisa sistem yang berjalan, desain sistem, desain database, dan implementasi
+sistem. Empat penggunaan hak akses pada sistem ini yaitu pimpinan, administrasi, kasir, dan
+gudang. Laporan yang dihasilkan meliputi laporan data buku, laporan data pelanggan, laporan
+data suplier, laporan transaksi pembelian, laporan transaksi penjualan, laporan persediaan dan
+laporan transaksi retur penjualan. Bahasa pemrograman yang digunakan adalah Visual Basic
+6.0. Perangkat lunak yang mendukung dalam pembuatan aplikasi adalah Crystal Reports dan
+SQL Server. s

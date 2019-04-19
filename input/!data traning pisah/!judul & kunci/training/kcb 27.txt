@@ -1,0 +1,2 @@
+Sistem Pakar Diagnosa Awal Penyakit Kulit Pada
+Sapi Bali dengan Menggunakan MetodeForward chaining dan Certainty Factor BPTU (Balai Pembibitan Ternak Unggul) Sistem Pakar, Forward chaining, Certainty Factor.

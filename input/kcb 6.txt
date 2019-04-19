@@ -1,0 +1,11 @@
+Sistem Pakar Untuk Mendeteksi Kerusakan Pada Sepeda Motor 4-tak Dengan
+Menggunakan Metode Backward Chaining Kendaraan sepeda motor merupakan suatu alat transportasi yang banyak digunakan masyarakat pada
+umumnya. Pertumbuhan jumlah sepeda motor sangat pesat seiring dengan tingkat ekonomi dan kebutuhan
+masyarakat terhadap alat transportasi yang murah dan terjangkau sehingga banyak masyarakat yang
+memilih sepeda motor 4-tak sebagai kendaraan pribadinya untuk digunakan dalam aktivitas sehari-hari.
+Penelitian ini akan menggambarkan serta menjelaskan sistem pakar yang akan digunakan untuk mendeteksi
+kerusakan sepeda motor 4-tak dengan menggunakan metode backward chaining dengan jelas. Peneliti akan
+menggunakan metode backward chaining sebagai metode inferensi untuk sistem pakar ini. Penjelasan
+mengenai sistem pakar untuk mendeteksi kerusakan sepeda motor 4-tak dengan menggunakan metode
+backward chaining akan dijelaskan pada bab IV penelitian ini.
+ sistem pakar, sepeda motor 4-tak, backward chaining

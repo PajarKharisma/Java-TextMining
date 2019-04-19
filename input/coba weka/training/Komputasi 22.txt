@@ -1,0 +1,12 @@
+KLASIFIKASI DOKUMENT TEKS MENGGUNAKAN ALGORITMA NAIVE BAYES DENGAN BAHASA PEMOGRAMAN JAVA Perkembangan teknologi saat ini telah membawa beberapa efek ke alat
+komunikasi canggih dan teknologi itu sendiri. Hal ini juga dipengaruhi
+peningkatan sistem informasi yang dapat menyebabkan data teks dokumen
+tersebut akumulasi dalam online atau offline. Jadi, sulit untuk mengetahui
+dokumen berdasarkan kebutuhan. Perlunya dibantu oleh klasifikasi dokumen
+teks, yaitu suatu proses pengelompokan dokumen ke kategori yang dapat
+digunakan untuk melakukan analisis.
+Penelitian ini dilakukan dengan menggunakan metode text mining dan Algoritma
+Naif Bayes Classifier. Sementara itu hubungan antara berita dikenal dengan
+Probabilitas hasil dari dokumen dan kata-kata dalam setiap dokumen. Proses
+klasifikasi juga bisa berlaku dengan menggunakan Pemrograman Java. Dokumen Teks, Teks Pertambangan, Algoritma Naïve Bayes,
+Pemrograman Java

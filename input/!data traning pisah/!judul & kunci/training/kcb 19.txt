@@ -1,0 +1,2 @@
+Analisis Penggunaan Algoritma Breadth First Search Dalam Konsep Artificial Intellegencia AI, breadth-first search / 
+BFS, node akar dari pohon pelacakan

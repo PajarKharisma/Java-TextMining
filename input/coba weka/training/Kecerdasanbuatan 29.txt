@@ -1,0 +1,12 @@
+DIAGNOSIS PENYAKIT KEJIWAAN
+MENGGUNAKAN METODE CERTAINTY FACTOR Penyakit kejiwaan adalah salah satu penyakit yang marak di kalangan masyarakat untuk berbagai
+tingkatan di negara Indonesia. Namun masih banyak masyarakat yang belum mengenali dan
+mengindikasi adanya penyakit kejiwaan. Hal ini disebabkan oleh penyakit kejiwaan adalah penyakit yang
+tidak dapat dilihat namun dapat diketahui dari gejala-gejala perilaku yang dialami pasien. Seringkali
+masyarakat mengabaikan gejala-gejala yang dialami pasien karena sifatnya yang samar. Untuk
+membantu masyarakat lebih mengenali gejala awal penyakit kejiwaan yang dialami pasien agar
+mendorong keinginan masyarakat untuk melakukan pemeriksaan medis kepada dokter jiwa maupun
+psikolog maka dibangun sistem pakar diagnosis penyakit kejiwaan berbasis website. Sistem pakar yang
+disajikan dengan metode Certainty Factor. Input dari sistem adalah biodata pasien dan gejala yang
+dialami pasien. Output dari sistem adalah hasil diagnosis dan saran penanganan penyakit kejiwaan.
+Penyakit Kejiwaan, Sistem Pakar, Certainty Factor, Website

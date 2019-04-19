@@ -1,0 +1,22 @@
+PENERAPAN LINUX ZENTYAL SEBAGAI FILTERING
+DAN BANDWIDTH MANAGEMENT PADA
+JARINGAN PT. ANTA CITRA ARGES PT. Anta Citra Arges perusahaan yang bergerak
+dibidang Event Organitation telah membuat struktur jaringan
+dengan menggunakan jaringan komputer sebagai penunjang
+pekerjaan. Namun dalam pembangunan jaringan tersebut tidak
+ditemui sebuah Server pun untuk pengelolaan jaringannya,
+hanya mengandalkan sebuah Router yang difungsikan sebagai
+firewall dan getaway, kondisi seperti ini dirasa masih terlalu
+rentan akan gangguan baik yang terjadi dari dalam maupun
+dari luar dan belum meratanya pembagian bandwidth.
+Pemasangan suatu tambahan server dedicated sebagai firewall
+bersistem operasi zentyal yang akan berfungsi sebagai filtering
+dan bandwidth management, dengan tujuan untuk
+mengamankan akses internet dengan menggunakan firewall yang
+kuat, mengoptimalkan bandwidth management, memblokir
+konten yang berpotensi bahaya dan mengelola kemanan
+jaringan nirkabel, serta memberikan akses pengguna internet
+secara aman dan cepat. Hasilnya adalah penggunaan linux
+zentyal berhasil melakukan bandwidth management dan
+berfungsi baik dalam melakukan filtering.
+firewall, zentyal, bandwidth management, filtering

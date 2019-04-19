@@ -1,0 +1,27 @@
+Pemahaman tentang fenomena sistem tata
+surya membutuhkan daya imaginasi yang cukup. Hal
+ini merupakan salah satu kesulitan dalam memahami
+materi tentang sistem tata surya, sehingga diperlukan
+adanya visualisasi untuk membantu mengatasi kesulitan
+tersebut. Salah satu visualisasi adalah dengan
+menggunakan program visualisasi 3D. Pembuatan
+program diawali dengan identifikasi masalah dan
+persiapan perangkat lunak. Dalam hal ini program yang
+digunakan adalah VRML(Virtual Reality Modelling
+Language). Pelaksanaan pembuatan program dimulai
+dengan memodelkan gejala-gejala fisis yang terkait
+dengan fenomena sistem tata surya. Bahasa
+pemrograman VRML hanya mampu melakukan
+perhitungan dasar yang sangat sederhana. Untuk
+perhitungan data yang kompleks digunakan bantuan
+Microsoft Office Excel. Data yang dihasilkan dari
+perhitungan menggunakan Microsoft Office Excel
+kemudian dimasukkan ke dalam list program VRML.
+Hasil penelitian berupa pemodelan sistem tata surya
+yang diintergrasikan dalam e-learning berbasis web.
+Untuk menampilkan hasil program ini digunakan
+browser Cortona VRML player. Tampilan 3D yang
+dihasilkan menarik dan interaktif. User dapat
+mengamati model 3D dari berbagai sudut pengamatan
+dengan menggunakan toolbar yang tersedia pada
+browser.

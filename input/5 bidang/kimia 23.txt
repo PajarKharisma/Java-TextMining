@@ -1,0 +1,16 @@
+Isolasi dan identifikasi senyawa sitotoksik dari ekstrak n-heksana rimpang temu putih 
+(Curcuma zedoaria (Berg.) Roscoe) telah dilakukan. Ekstraksi dilakukan dengan teknik maserasi. 
+Pemisahan senyawa dilakukan dengan penyabunan untuk memisahkan lemak yang bisa disabunkan dengan 
+lipid yang lain, pemisahan dan pemurnian selanjutnya dilakukan dengan teknik kromatografi. 
+Uji toksisitas dilakukan dengan metode Brine Shrimp Lethality Test (BSLT) menggunakan larva
+udang Artemia salina L., sedangkan analisis isolat paling toksik dilakukan dengan Kromatografi 
+Gas Spektroskopi Massa (GC-MS).Ekstraksi 1700 g serbuk kering rimpang temu putih dihasilkan 39,68 g 
+ekstrak pekat n-heksana. Hasil uji toksisitas ekstrak n-heksana dengan larva udang Artemia salina L.
+diperoleh nilai LC50 sebesar 79,43 ppm. Penyabunan ekstrak kental n-heksana menghasilkan 9,18 g fase
+n-heksana dan 137,38 g fase air. Hasil uji toksisitas menunjukkan lapisan ekstrak n-heksana memiliki
+harga LC50 paling kecil yaitu 17,78 ppm. Fase aktif selanjutnya dipisahkan dan dimurnikan dengan
+kromatografi kolom gradien dan diperoleh 11 fraksi. Fraksi 11 merupakan fraksi yang paling toksik 
+dengan nilai LC50 3,8 ppm. Hasil kromatografi kolom diperoleh 2 kelompok fraksi (F11a dan F11b), 
+yang mana F11b paling aktif dengan nilai LC50 3,5 ppm.Hasil analisis dengan Kromatografi Gas 
+Spektroskopi Massa menunjukkan isolat merupakan campuran dari senyawa : tetradekana, heksadekana, 
+3-metilheptadekana, oktadekana, 2-metileikosan, normal-dokosan, dan heneikosan.

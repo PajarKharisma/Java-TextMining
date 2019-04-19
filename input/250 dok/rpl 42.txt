@@ -1,0 +1,23 @@
+﻿Pembuatan Aplikasi Presensi Perkuliahan Berbasis Fingerprint
+(Studi Kasus : Jurusan Sistem Informasi Institut Teknologi Sepuluh
+Nopember Surabaya)
+Jurusan Sistem Informasi Institut Teknologi
+Sepuluh November Surabaya (JSI ITS) dewasa ini telah
+menerapkan sistem absensi berbasis fingerprint guna menunjang
+proses belajar mengajar, serta menanggulangi kecurangan
+presensi di kelas. Teknologi ini memang sedang marak dan
+sangat mendukung karena penerapannya tidak terlalu sulit
+lagipula terjangkau. Tetapi JSI belum memaksimalkan
+penerapan presensi fingerprint tersebut karena belum memiliki
+aplikasi yang mengelola presensi tersebut.
+JSI menggunakan perangkat keras VF30 fingerprint yang
+telah teraplikasi pada setiap ruang kelas. Sistem akan bekerja
+jika VF30 fingerprint diaktifkan oleh guratan sidik jari user,
+yang kemudian dikirim ke server untuk proses authentification
+dan recording. Sebuah web-based application akan menjadi
+wadah aplikasi VF30 dengan presensi akademik.
+Aplikasi ini diharapkan dapat membantu menaggulangi
+masalah kecurangan presensi yang sering terjadi serta
+memberikan kemudahan untuk melakukan rekapitulasi presensi
+mahasiswa selama proses belajar mengajar setiap harinya.
+Aplikasi, Absensi, Fingerprint

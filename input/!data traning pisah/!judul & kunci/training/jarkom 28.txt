@@ -1,0 +1,4 @@
+Perancangan Dan Analisis Keamanan Jaringan
+Nirkabel Menggunakan Wireless Intrusion 
+ Denial of Service, Iptables, Keamanan
+Jaringan, Linux, Snort, Wireless Intrusion Detection System

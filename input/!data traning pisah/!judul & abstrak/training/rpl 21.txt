@@ -1,0 +1,21 @@
+PENGEMBANGAN APLIKASI PEMBUATAN POLA MOTIF BATIK DENGAN MENGGUNAKAN PENGOLAHAN CITRA DIGITAL Batik merupakan suatu kebudayaan nasional asli milik Negara Indonesia.
+Ciri khas kain batik adalah memiliki berbagai jenis motif yang dibuat sedemikian
+rupa sehingga memiliki nilai jual yang tinggi di kalangan masyarakat. Namun
+permasalahannya disini, banyak industri batik menengah kebawah yang masih
+kesulitan di dalam pembuatan pola motif batiknya. Motif yang dibuat biasanya
+dibuat secara manual yang dipesan dari seorang desain grafis dari luar dan
+tentunya memakan waktu lama dan biaya produksi yang cukup besar. 
+Di era komputerisasi seperti saat ini, perlu adanya teknologi yang mampu
+untuk membantu mempermudah pembuatan motif batik dan melestarikan
+kebudayaan asli milik kita ini namun tidak mengurangi makna dari batik itu
+sendiri. Maka dibuatlah suatu media yakni berupa aplikasi pembuatan pola motif
+batik. Aplikasi ini dibuat berbasis desktop dan menggunakan beberapa metode
+pengolahan citra digital. Tujuan aplikasi ini adalah membantu para pembatik
+untuk membuat pola motif batiknya sendiri dengan mudah dan efisien. 
+Hasil analisis, implementasi, dan pengujian pada penelitian ini adalah suatu
+Aplikasi Pembuatan Pola Motif Batik yang diimplementasikan menggunakan
+bahasa pemrograman Delphi. Dari data hasil angket uji coba pembuatan pola
+motif batik didapat bahwa sebagian besar motif batik yang diolah mampu atau
+layak untuk dikomersialkan. Berdasarkan hasil tersebut, Aplikasi Pembuatan Pola
+Motif Batik sangat membantu di dalam pembuatan pola motif batik oleh
+pengusaha batik sebelum akhirnya dicetak menjadi kain batik. 

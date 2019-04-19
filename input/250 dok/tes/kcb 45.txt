@@ -1,0 +1,33 @@
+SISTEM PAKAR UNTUK DIAGNOSIS
+DISMENORE MENGGUNAKAN
+METODE NAÏVE BAYES
+Dismenore atau nyeri haid merupakan gangguan
+menstruasi yang banyak dialami para wanita usia produktif.
+Dismenore diklasifikasikan menjadi dua jenis, yaitu dismenore
+primer dan dismenore sekunder. Sekarang ini dismenore
+sudah termasuk kedalam kondisi medis yang nyata dan perlu
+perhatian khusus, sebab diantara penyebab dari dismenore
+adalah penyakit yang berhubungan dengan obstetri dan
+ginekologi yang berbahaya jika dibiarkan dan perlu
+penanganan atau pengobatan, namun masih banyak para
+wanita yang belum memiliki pengetahuan dasar dan
+kesadaran yang tinggi mengenai gangguan menstruasi
+dismenore dan bahayanya, serta mengalami keterbatasan
+waktu untuk melakukan konsultasi kepada dokter. Sistem
+pakar yang berkembang saat ini dapat memungkinkan suatu
+penyakit dapat didiagnosis lebih cepat dan akurat. Banyak
+metode yang digunakan dalam membangun sistem pakar,
+diantaranya adalah metode klasifikasi naive bayes. Penelitian
+ini menggunakan metode naïve bayes untuk klasifikasi seorang
+wanita menderita jenis dismenore primer atau dismenore
+sekunder. Tujuan dari penelitian ini adalah mendiagnosis jenis
+gangguan menstruasi dismenore dengan menerapkan metode
+naïve bayes pada sistem pakar diagnosis dismenore, serta
+memberikan informasi dan saran penanganan untuk gangguan
+menstruasi dismenore sesuai hasil diagnosis jenis dismenore
+yang diderita. Berdasarkan hasil analisis penelitian dan
+pengujian terhadap 10 data uji dengan 10 dan 20 data training
+didapat metode naïve bayes memiliki tingkat akurasi 90%,
+sedangkan terhadap 10 data uji dengan 30 data training
+didapat tingkat akurasi sebesar 100%.
+Dismenore, sistem pakar, naïve bayes, web

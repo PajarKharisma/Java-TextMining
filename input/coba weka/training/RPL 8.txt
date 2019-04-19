@@ -1,0 +1,14 @@
+Pengembangan Sistem Informasi Akademis Dan Keuangan Di Man 2 Pati Sistem Informasi Administrasi merupakan Suatu sistem informasi yang akan merancang untuk merubah data transaksi bisnis menjadi informasi yang bermanfaat dan bertujuan untuk membantu pengambilan keputusan Dan Sistem Informasi dapat melakukan pengolah data secara cepat tepat
+akurat dan efisien MAN 2 Pati merupakan sebuah lembaga pendidikan yang tidak ketinggalan akan
+teknologi informasi Namun pelayanan Informasi Akademis dan Keuangan siswa masih menggunakan
+cara manual sehingga kegiatan yang berhubungan dengan administrasi itu masih lambat bahkan masih
+antri untuk melakukan pembayaran Dan informasi yang dihasilkan terkadang masih mengalami
+kekeliruan dan keterlambatan pelaporan di MAN 2 Pati juga masih melakukan pelayanan Informasi
+Akademis dan Keuangan secara manual dan pengolahannya masih rumit bahkan tidak praktis Untuk
+mengoptimalkan kebutuhan Sistem Informasi Pembayaran Akademis dan Keuangan baru yang
+menghasilkan informasi lebih bermanfaat dan tepat dibandingkan Sistem Informasi Akuntansi lama yang
+masih manual Dengan membuat Sistem Informasi Akademis dan Keuangan pada MAN 2 Pati kemudian
+diharapkan akan menghasilkan informasi yang diperlukan lebih tepat waktu, cepat akurat dan efisien
+Aplikasi ini berbasis Visual basic 6 0 dengan tujuan dari aplikasi ini adalah untuk menghemat waktu dan
+informasi yang dihasilkan lebih tepat dan juga ketepatan dalam pelaporan
+Kata kunci Aplikasi Visual Basic Komputer

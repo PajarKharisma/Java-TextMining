@@ -1,0 +1,17 @@
+APLIKASI SISTEM PAKAR BERBASIS WEB UNTUK KONSULTASI
+MASALAH KEHAMILAN MENGGUNAKAN FORWARD CHAINING
+DAN PRODUCTION RULE
+Gangguan kesehatan pada ibu hamil akan berdampak langsung pada janin yang dikandungnya.
+Ibu hamil harus memiliki kesadaran tinggi untuk mengetahui kondisi kesehatannya melalui
+berbagai media atau berkonsultasi langsung dengan dokter maupun bidan. Namun faktor
+kesibukan, kurangnya informasi, jadwal kegiatan yang padat, malas antri, keterbatasan waktu dan
+mahalnya biaya menjadi faktor sebagian ibu tidak mengkonsultasikan kesehatannya secara rutin.
+Sarana konsultasi secara online atau berbasis web dapat menjadi alternatif untuk membantu para
+ibu untuk melakukan konsultasi kesehatan. Aplikasi ini dilengkapi dengan sistem pakar untuk
+membantu para ibu melakukan diagnosa kesehatan berdasarkan gejala yang mereka alami. Metode
+yang digunakan dalam penelitian adalah metode pengembangan sistem pakar yang terdiri dari
+penilaian keadaan, akusisi pengetahuan, perancangan, pengujian, dokumentasi dan pemeliharaan.
+Hasil penelitian berupa aplikasi konsultasi masalah kehamilan secara online yang disajikan secara
+mudah. Hasil pengujian menggunakan metode black box menunjukkan fungsionalitas sistem dan
+mesin inferensi dapat bekarja dengan baik.
+Sistem Pakar, Forward Chaining, Production Rule.

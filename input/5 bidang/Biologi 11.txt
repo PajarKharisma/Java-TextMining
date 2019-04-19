@@ -1,0 +1,13 @@
+Harga minyak mentah dunia yang berfluktuasi dan cadangan minyak yang makin menipis telah mendorong
+penggunaan biofuel sebagai bahan bakar alternatif dan mengintensifkan penelitian bioetanol dengan menggunakan
+mikroba. Identifikasi dan karakterisasi gen-gen yang bertanggung jawab dalam produksi bioetanol (etanologen) dan
+ekspresinya pada beberapa inang telah dilakukan untuk meningkatkan produksi bioetanol oleh mikroba. Tulisan ini
+mengulas sumber-sumber gen bioetanol (pdc dan adh) dan ekspresinya pada beberapa bakteri inang sebagai gen
+yang berdiri sendiri maupun sebagai operon dalam memproduksi bioetanol. Piruvat dekarboksilase (pdc) dan
+alkohol dehidrogenase (adh) adalah gen-gen yang bertanggung jawab dalam produksi bioetanol yang ditemukan
+pada bakteri mesofilik Zymomonas mobilis dan ragi Saccharomyces cerevisiae. Sumber gen pdc lebih terbatas
+dibandingkan dengan gen adh. Gen pdc belum ditemukan dalam jaringan hewan maupun bakteri termofilik.
+Manipulasi genetik beberapa bakteri dengan pdc dan adh yang diisolasi dari beberapa bakteri telah dilakukan untuk
+meningkatkan produksi bioetanol dari sumber karbon yang murah, yaitu biomassa. Ekspresi etanologen telah
+berhasil dilakukan pada bakteri mesofilik, baik gram-positif maupun gram-negatif. Namun, ekspresi etanologen
+pada bakteri termofilik perlu penelitian lebih lanjut untuk mencapai keberhasilan yang tinggi.

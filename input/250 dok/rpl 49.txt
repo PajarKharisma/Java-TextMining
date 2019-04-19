@@ -1,0 +1,21 @@
+Aplikasi Pemetaan Bangunan Berizin Di
+Kota Manado
+Kota Manado sebagai salah satu kota dengan
+keadaan penduduk yang makin padat dan masi banyaknya
+penduduk kota manado yang belum memiliki izin mendirikan
+bangunan, dengan adanya Sistem Informasi Geografis ini. Maka
+lebih memudahkan dinas terkait mengenai lokasi bangunan
+yang boleh untuk di dirikanya Izin Mendirikan Bangunan. Oleh
+karena itu, penulis membuat sistem informasi geografis izin
+mendirikan bangunan di Kota Manado berbasis web dengan
+menggunakan HTML (HyperText Markup Language), PHP (Perl
+HyperText Preprocessor), CSS ( Cascading Style Sheets) dan
+JavaScript database sistem dan google API untuk pemetaan.
+Informasi yang disajikan berupa foto bangunan, nama pemilik,
+lokasi, peruntukan, nomor SKRD (Surat Ketetapan Retribusi
+Daerah), nomor IMB (Izin Mendirikan Bangunan), tanggal, dan
+luas. Dengan adanya Sistem Informasi Geografis ini diharapkan
+dinas terkait dapat lebih mudah mencari lokasi yang
+dibolehkanya untuk membangun bangunan di Kota Manado.
+Kota Manado, Ssistem Informasi Geografis ,
+Google Map

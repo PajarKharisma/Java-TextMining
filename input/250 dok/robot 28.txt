@@ -1,0 +1,28 @@
+Perbaikan Sistem Kendali Robot Tangan EH1 Milano Menggunakan Sistem Kendali Loop Tertutup Teknologi robotika sangat berkembang pesat dan
+penggunaanya semakin luas. Prensilia EH1 Milano
+dikembangkan sebagai organ buatan untuk menggantikan
+peranan tangan manusia yang cacat atau diamputasi. Robot EH1
+Milano dilengkapi satu buah motor untuk masing - masing jari,
+sensor proximity untuk mendeteksi jari terbuka atau tertutup
+penuh, dan sensor arus yang digunakan untuk mengatur
+kekuatan genggaman dari robot tangan. Sebelumnya telah dibuat
+sistem mikrokontroler untuk mengendalikan robot tangan EH1
+Milano, dengan sensor gerak berupa sarung tangan yang
+dilengkapi potensiometer, akan tetapi belum dapat melakukan
+gerakan menggenggam benda. Dalam penelitian ini dirancang
+sistem untuk mengendalikan robot EH1 Milano menggunakan
+sensor gerak berupa sebuah sarung tangan yang diengkapi flex
+sensor, yang berfungsi untuk mendeteksi gerakan tangan manusia
+dengan menggunakan kendali PID. Flex sensor digunakan karena
+lebih sensitif terhadap perubahan gerakan tangan dan
+memudahkan untuk mengendalikan robot untuk melakukan
+gerakan menggenggam benda. Dari pengujian yang dilakukan
+menunjukkan bahwa dengan sistem kendali yang diterapkan,
+robot tangan EH1 Milano dapat melakukan gerakan
+menggenggam benda dengan diameter lebih dari 5 cm.
+Performansi yang dihasilkan sistem kendali yang dibuat cukup
+baik dengan RMSE rata - rata tertinggi sebesar 0,102%± 0,016%.
+Untuk penelitian selanjutnya perlu perbaikan pada sensor gerak
+untuk ibu jari, agar pergerakan pada ibu jari dapat dilakukan
+dengan maksimal. EH1 Milano, flex sensor, mikrokontroler,
+PID.

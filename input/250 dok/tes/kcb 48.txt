@@ -1,0 +1,15 @@
+﻿Sistem cerdas diagnosis penyakit ayam
+Seiring perkembangan tekhnologi, dikembangkan pula suatu sistem tekhnologi yang mampu mengadopsi
+proses dan cara berpikir manusia yaitu sistem cerdas yang mengandung pengetahuan tertentu sehingga
+setiap orang dapat menggunakanya untuk memecahkan yang bersifat spesifik dalam hal ini adalah
+permasalahan diagnosis penyakit ayam. Tujuan dari tugas akhir ini adalah membangun sebuah sistem
+berbasis pengetahuan kedokteran untuk mendiagnosa penyakit ayam yang ditampilkan dalam bentuk
+website menggunakan pemrograman PHP dengan database Mysql. Sistem cerdas untuk mendiagnosa
+penyakit ayam menggunakan metode forward chaining ini bertujuan menelusuri gejala yang ditampilkan
+dalam bentuk pertanyaan – pertanyaan agar dapat mendiagnosa jenis penyakit dengan perangkat lunak
+berbasis web. Perangkat lunak sistem cerdas berbasis web mampu mengenali jenis penyakit ayam setelah
+melakukan konsultasi dengan menjawab beberapa pertanyaan – pertanyaan yang ditampilkan oleh aplikasi
+sistem cerdas serta dapat menyimpulkan beberapa jenis penyakit yang diderita oleh ayam. Data penyakit
+yang dikenali menyesuaikan rules (aturan) yang dibuat untuk dapat mencocokkan gejala - gejala penyakit
+ayam dan memberi nilai persentase agar mengetahui nilai pendekatan jenis penyakit ayam.
+Sistem Pakar, Forward Chaining, Diagnosa, Ayam

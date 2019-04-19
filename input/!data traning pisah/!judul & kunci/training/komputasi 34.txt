@@ -1,0 +1,2 @@
+DETEKSI OOV MENGGUNAKAN HASIL PENGENALAN SUARA OTOMATIS UNTUK BAHASA INDONESIA Sistem pengenalan suara otomatis, OOV, model bahasa, model akustik, kamus, dan
+deteksi OOV

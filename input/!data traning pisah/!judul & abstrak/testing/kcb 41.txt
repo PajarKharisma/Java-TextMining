@@ -1,0 +1,16 @@
+APLIKASI JARINGAN SYARAF TIRUAN UNTUK PENGENALAN 
+POLA  PEMBUKAAN PERMAINAN CATUR
+Dipandang dari sudut asal usul kata, catur berasal dari elemen kata ”Chaturangga” yang berarti empat
+angga atau empat elemen kontitutif dari angkatan perang. Maka dapat dilihat bahwa catur tidak hanya
+berkaitan erat dengan perhitungan, perkiraan sebagai dasar tindakan, strategi, pengasah otak saja,
+tetapi lebih dari itu ia merupakan kombinasi atau perpaduan antara ilmu dan sport. Selain merupakan
+perpaduan antara  ilmu dan sport ternyata  permainan catur dapat meningkatkan kecerdasan. Banyak
+orang ingin anaknya cerdas, namun, tentu saja banyak cara menuju ke arah itu dan perlu banyak
+pengorbanan memperolehnya. Salah satu cara meningkatkan kecerdasan anak yaitu dengan
+mengajarkan anak bermain catur. Sebab, dengan main catur, anak terbiasa duduk diam dalam waktu
+cukup lama dengan penuh konsentrasi. Tujuan Penelitian ini untuk mengetahui dan mendeskripsikan
+Sistem yang direncanakan dengan aplikasi Jaringan Syaraf Tiruan dapat mengenali pola Pembukaan  Ruy
+Lopez dan bukan pembukaan Ruy Lopez. Menyelesaikan pengenalan pola pembukaan catur tersebut
+dengan memakai software Matlab. Teknik Permainan Catur; Secara garis besarnya dapat dibagi menjadi
+5 kelompok besar yakni Permainan Terbuka, Permainan Tertutup,  Permainaan Setengah Terbuka,
+Permainan Setengah Tertutup, Permainan Sayap, Babak Pertengahan dan Permainan Akhir.

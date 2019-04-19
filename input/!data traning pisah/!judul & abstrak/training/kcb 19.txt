@@ -1,0 +1,27 @@
+Analisis Penggunaan Algoritma Breadth First Search Dalam Konsep Artificial Intellegencia Artificial Intelligencia merupakan suatu 
+konsep pemetaan suatu bahasa pemrograman
+yang dapat membuat suatu kesimpulan
+berdasarkan pemetaan yang telah dilakukan
+didalam pemrograman. Dalam hal ini, banyak
+metode yang dapat digunakan dan
+dimanfaatkan untuk menyelesaikan
+permasalahan tersebut. Contohnya seperti
+masalah Teko Air. Permasalahan ini dapat
+diselesaikan dengan menerapkan konsep AI
+yaitu dengan bantuan pohon pelacakan dan
+menerapkan metode pencarian melebar
+pertama (breadth-first search / BFS).
+Pencarian solusi dimulai dari kondisi dimana
+kedua teko kosong (node akar dari pohon
+pelacakan). Perangkat lunak ini memiliki
+kemampuan untuk mencari solusi
+permasalahan teko air dengan 2 buah kendi dan
+menampilkan semua langkah – langkah yang
+dapat diambil untuk mendapatkan solusi atau
+volume air yang diinginkan.Perangkat lunak
+dapat mencari solusi terpendek dari
+permasalahan teko air karena menggunakan
+metode pencarian melebar pertama (breadthfirst search). Pencarian tidak selalu
+menghasilkan solusi walaupun setelah semua
+node pada pohon pelacakan diperiksa dan
+dikembangkan. 

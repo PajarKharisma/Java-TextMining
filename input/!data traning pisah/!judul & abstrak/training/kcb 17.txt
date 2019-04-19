@@ -1,0 +1,12 @@
+DIAGNOSA PENYAKIT TANAMAN HIAS MENGGUNAKAN METODE CERTAINTY
+FACTOR BERBASIS WEB Teknologi informasi telah mempengaruhi hampir semua aspek, salah satunya dalam bidang
+usaha tanaman hias.Website Sistem Pakar Diagnosa Penyakit Pada Tanaman Hias Menggunakan
+Metode Certainty Factor ini merupakan salah satu pengaplikasian sistem yang terkomputerisasi
+dalam bidang teknologi dan informasi. Selama ini para pembudidaya tanaman hias mengalami
+kesulitan dalam mendiagnosa hama penyakit tanaman karena jenis penykit tanaman sangat
+bervariasi, sehingga sering terjadi kesalahan dalam memberikan solusi terhadap tanaman yang sudah
+terserang hama. Dengan adanya masalah tersebut, para pembudidaya tanaman hias membutuhkan sistem pakar
+yang handal dalam memberikan informasi diagnosa penyakit serta solusinya. Sistem aplikasi yang
+dibangun menggunakan bahasa pemrograman PHP dengan menggunakan DBMS MySQL.
+Perangkat lunak yang dihasilkan dapat melakukan perhitungan jenis jenis penyakit yang sedang
+dihadapi beserta solusinya. 

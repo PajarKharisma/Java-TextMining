@@ -1,0 +1,14 @@
+Pada penelitian ini telah dilakukan sintesis ceramic metal (cermet) Ni-YSZ, dimana YSZ 
+(Yttria Stabilized-Zirconia) disintesis dari pasir zircon, ZrSiO4 lokal yang merupakan 
+sisa tambang timah di Pulau Bangka, Indonesia. YSZ yang disintesis merupakan zirconia, 
+ZrO2, yang di doping dengan 8 % mol yttrium dioksida. Sintesis dilakukan dengan metode 
+solid state reaction dan dikarakterisasi struktur kristal dan parameter selnya dengan 
+analisis XRD yang dilanjutkan dengan refinement Le Bail, analisis morfologi permukaan 
+dan analisis impedansi untuk mengetahui konduktivitas ionik material. Cermet Ni-YSZ 
+disintesis pada variasi komposisi Ni:YSZ yaitu 20:80; 30:70; dan 40:60 (b/b). Hasil 
+karakterisasi menunjukkan bahwa Ni-YSZ berada dalam dua fasa yaitu fasa Ni dan fasa 
+YSZ tanpa adanya fasa ketiga. Hal ini menunjukkan bahwa Ni dan YSZ tidak mengalami 
+solid state reaction selama sintesis. Dalam cermet Ni-YSZ, fasa Ni berada dalam struktur 
+kubik, dan YSZ juga berada dalam struktur kubik. Studi morfologi menunjukkan bahwa 
+penambahan Ni ke dalam YSZ menyebabkan morfologi material menjadi kasar dengan ukuran 
+butir besar. Cermet Ni-YSZ memiliki konduktivitas tertinggi pada komposisi Ni:YSZ 20:80.

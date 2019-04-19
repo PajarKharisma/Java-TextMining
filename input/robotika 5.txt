@@ -1,0 +1,18 @@
+ROBOT PENDETEKSI API MENGGUNAKAN BAHASA PEMROGRAMAN
+BASIC STAMP
+Pengendalian berkaitan erat dengan strategi yang memungkinkan sebuah komputer berperan
+sebagai otak dalam sistem pengendalian mengarahkan gerakan-gerakan dari sebuah alat terkendali,
+dan menerima respons dari sensor yang dimiliki oleh alat terkendali tersebut ke komputer. Robot
+adalah peralatan elektro-mekanik atau bio-mekanik, atau gabungan peralatan yang menghasilkan
+gerakan otonomi maupun berdasarkan gerakan yang diperintahkan.
+Dunia robotika tak lepas dari kendali (control). Meskipun dapat bergerak sendiri, pada akhirnya
+harus bergerak secara terkendali, baik itu dikontrol oleh manusia, maupun dirinya sendiri. Dalam hal
+ini mikrokontroler bertindak sebagai penyimpan memori berupa instruksi-instruksi yang telah diinputkan. Pada robot mobil instruksi-instruksi diisi ke memori mikrokontroler melalui port serial
+sehingga robot dapat bergerak secara stand alone (berdiri sendiri) tanpa harus dikendalikan melalui
+komputer lagi karena instruksinya telah tersimpan didalam memori mikrokontroler sehingga robot
+mobil dapat bergerak mencari sumber api serta memadamkannya
+Mikrokontroler adalah suatu alat elektronika digital yang mempunyai masukan dan keluaran
+serta kendali dengan program yang bisa ditulis dan dihapus dengan cara khusus, cara kerja
+mikrokontroler sebenarnya membaca dan menulis data. Mikrokontroler dapat juga disebut sebuah
+komputer didalam chip yang digunakan untuk mengontrol peralatan elektronik. Dengan demikian
+Mikrokontroler dapat dikatakan sebagai sejenis mikroprosesor. Robot api

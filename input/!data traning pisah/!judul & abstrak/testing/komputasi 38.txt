@@ -1,0 +1,16 @@
+IMPLEMENTASI SISTEM PENGENALAN SUARA
+MENGGUNAKAN SAPI 5.1 DAN DELPHI 5
+Sekarang ini pengenalan pembicaraan pada aplikasi komputer bukan merupakan hal
+yang baru. Banyak penelitian yang telah dan sedang dilakukan untuk mendapatkan pengenalan
+pembicaraan yang cepat dan akurat. Salah satu yang terkenal adalah penelitian yang dilakukan
+oleh Microsoft Corporation yang dikembangkan untuk sistem operasi Windows. Selain
+mengembangkan engine pengenalan pembicaraan, Microsoft juga mengembangkan standard untuk
+pengenalan pembicaraan yaitu SAPI (Speech Application Programming Interface) yang sekarang
+sudah mencapai versi 5.1.
+Dengan adanya SAPI memungkinkan pembuat aplikasi untuk mengimplementasikan sistem
+pengenalan pembicaraan dengan menggunakan engine sesuai yang diinginkan dan dapat
+mengganti penggunaan dari satu engine ke engine yang lain tanpa merubah aplikasi yang telah
+dibuat.
+Penelitian ini mengimplementasikan sistem pengenalan pembicaraan dengan menggunakan
+SAPI 5.1, Microsoft Speech Engine dan bahasa pemrograman Delphi 5 yang digunakan untuk
+melakukan diktasi berbahasa Inggris pada aplikasi berbasis teks.

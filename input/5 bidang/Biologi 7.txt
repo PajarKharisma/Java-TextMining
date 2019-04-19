@@ -1,0 +1,9 @@
+Sabut kelapa merupakan limbah perkebunan yang mengandung selulosa dan belum dimanfaatkan secara optimal. 
+Selulosa yang terdapat pada sabut kelapa dapat dimanfaatkan untuk memproduksi glukosa dengan proses 
+hidrolisis. Hidrolisis dilakukan menggunakan ekstrak enzim kasar dari Aspergillus niger dan Trichoderma 
+reesei dengan perbandingan campuran 0:1, 1:2, 1:1, 2:1, 1:0 berdasarkan jumlah U/mL aktivitas enzim pada 
+variasi pH 4, 5, dan 6 dengan waktu hidrolisis selama 2, 4, 6, dan 8 jam. Aktivitas enzim selulase dari 
+A.niger dan T.reesei diukur dengan metode fenol-asam sulfat. Hasil penelitian ini menunjukkan bahwa 
+hidrolisis selulosa dari sabut kelapa menggunakan campuran enzim selulase dari A.niger dan T.reesei 
+1:2 pada pH 5 dengan waktu hidrolisis 6 jam menghasilkan konsentrasi glukosa paling tinggi, yaitu 
+sebesar 22,3 mg/L.

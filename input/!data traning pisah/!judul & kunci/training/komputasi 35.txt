@@ -1,0 +1,2 @@
+Pengenalan Pola Tanda Tangan dengan Metode Momennt
+Invariant dan Euclidean Distance moment invariant, euclidean distance, matrik, citra digital, tanda tangan.

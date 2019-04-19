@@ -1,0 +1,13 @@
+Implementasi Algoritma Knuth-Morris-Pratt Pada Fungsi
+Pencarian Judul Tugas Akhir Repository
+Pencarian pada sistem repository belum menggunakan algoritma pencarian sehingga hasil
+pencarian dari sistem tersebut belum optimal. Oleh karena itu, perlu adanya implementasi algorima
+pencarian yang akan membantu menghasilkan hasil pencarian yang cepat dan optimal. Paper ini
+bertujuan untuk mengimplementasi Algoritma KMP pada fungsi pencarian dalam sistem repository tugas
+akhir. Metode penelitian yang akan digunakan dalam penelitian ini yaitu tahap System Development Life
+Cycle yang terdiri atas analisis, rancangan sistem pencarian, implementasi algoritma KMP dan pengujian.
+Algoritma KMP berhasil diimplementasikan pada fungsi pencarian aplikasi repository tugas akhir. Hasil
+pengujian performa menunjukan bahwa rata - rata performa algoritma KMP dalam menemukan kata di
+form pencarian adalah 0.0138 detik. Hal ini menunjukan bahwa algoritma KMP sudah cukup cepat dan
+optimal dalam fungsi pencarian pada aplikasi repository tugas akhir Diploma Manajemen Informatika
+Algoritma KMP, Algoritma Pencarian, Fungsi Pencarian, Knuth-Moriss-Pratt, Repository

@@ -1,0 +1,5 @@
+Jika A adalah matriks dengan elemen Ring komutatif dengan elemen satuan
+yang berukuran mxn maka matriks invers dari A yang disebut dengan
+matriks invers Moore Penrose dari A ditulis G(A) dapat diperoleh dengan
+memenuhi syarat perlu dan cukup agar G(A) merupakan invers Moore
+Penrose dari A

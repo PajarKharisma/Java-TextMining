@@ -1,0 +1,1 @@
+KONTROL KECEPATAN  ROBOT HEXAPOD PEMADAM API MENGGUNAKAN METODA LOGIKA FUZZY robot hexapod, logika fuzzy, dan kontrol kecepatan   

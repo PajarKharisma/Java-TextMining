@@ -1,0 +1,3 @@
+IMPLEMENTASI CASE BASE REASONING PADA SISTEM
+PAKAR DALAM MENENTUKAN JENIS GANGGUAN KEJIWAAN  Sistem Pakar, Gangguan Kejiwaan, Penalaran Berbasis Kasus
+(Case Based Reasoning) 

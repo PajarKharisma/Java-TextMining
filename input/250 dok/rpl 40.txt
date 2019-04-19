@@ -1,0 +1,19 @@
+﻿Analisis Dan Perancangan Sistem Informasi Manajemen Aset TIK
+Studi Kasus: Asmi Santa Maria Yogyakarta
+Pengelolaan aset barang di ASMI Santa Maria selama ini dilakukan
+dengan aplikasi MS Excel dalam format daftar inventaris barang. Aplikasi ini
+memiliki keterbatasan seperti tiadanya rekod detil aset barang, kesulitan melakukan
+penghitungan yang komplek seperti penilaian aset, terbatasnya akses pihak lain
+yang membutuhkan, dan informasi kurang dapat menangani penatausahaan aset
+barang yang dapat memberikan informasi real - time, akurat, terintegrasi, dan userfriendly. Penelitian ini bertujuan untuk menganalisis dan merancang kebutuhan
+sistem untuk mengelola aset TIK di ASMI Santa Maria Yogyakarta. Melalui
+analisis dan perancangan sistem ini penulis bermaksud memberikan usulan bagi
+lembaga untuk mengimplementasikan Sistem Informasi Manajemen Aset TIK
+(SIMATIK). Sistem informasi ini telah berhasil dirancang dan menyediakan
+fungsionalitas pengelolaan informasi aset TIK yang meliputi registrasi aset,
+penempatan aset, pemindahan aset, penghitungan depresiasi, penilaian aset,
+pencatatan maintenance, penghapusan aset, pelacakan aset, dan pembuatan laporan.
+Perancangan Sistem informasi manajemen aset TIK ini dilakukan dengan berbasis
+web (intranet) dan dengan pendekatan berorientasi objek (OOA).
+Manajemen aset, sistem informasi manajemen aset, pendekatan
+berorientasi objek.

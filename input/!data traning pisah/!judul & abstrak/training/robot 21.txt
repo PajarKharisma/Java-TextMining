@@ -1,0 +1,11 @@
+Implementasi Robot Keseimbangan Beroda Dua
+Berbasis Mikrokontroler Perkembangan dunia robot berkembang pesat dari tahun ke tahun. Salah satu 
+contohnya ialah Segway Personal Transporter. Variasi teknik dalam pergerakan 
+robot pada lingkungan yang dinamik pun semakin banyak, diantaranya Pole-
+Placement Controller, Fuzzy Logic, Proportional Integrated Derivative Controller 
+(Kontrol PID). Pada penelitian ini Fuzzy Logic akan digunakan sebagai pengontrol 
+robot keseimbangan ini. Pada sistem ini digunakan dua sensor (accelerometer 
+dan gyroscope) untuk mendapatkan pembacaan data yang stabil dan handal. 
+Dari hasil percobaan kalman filter, diperoleh nilai parameter kalman filter yang 
+optimal adalah Qaccelerometer = 0,001 , Qgyroscope = 0,003 dan Rpengukuran 
+= 0,03. 

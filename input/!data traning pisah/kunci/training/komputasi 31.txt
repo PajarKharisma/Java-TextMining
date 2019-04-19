@@ -1,0 +1,1 @@
+sistem temu kembali, informasi kesamaan, cosinus, k-nearest neighbor, klasifikasi dokumen.

@@ -1,0 +1,15 @@
+PERANCANGAN ROBOT HUMANOID BERBASIS MIKROKONTROLER
+ATMEGA 32
+Robot adalah sebuah alat mekanik yang dapat melakukan tugas fisik, baik
+menggunakan pengawasan dan kontrol manusia, ataupun menggunakan program yang telah
+didefinisikan terlebih dulu. Robot humanoid adalah robot yang mempunyai karakteristik
+menyerupai manusia. Perancangan suatu robot humanoid yang memiliki kemampuan
+bergerak seperti manusia dan menjaga keseimbangan. Pada perancangan robot ini
+manggunakan mikrokontroler ATmega 32 sebagai sistem kontrol pergerakan robot, motor
+servo yang terletak disetiap persendian kaki untuk pergerakan robot dan untuk posisi robot
+berdiri ketika jatuh menggunakan sensor gyro. Robot ini memiliki kemampuan berjalan
+kedepan, belok kesamping kiri dan juga kekanan yang dikontrol oleh mikrokontroler ATmega
+32. Pada prinsipnya, robot humanoid yang dirancang hanya robot dapat berjalan dan menjaga
+keseimbangannya namun dalam penelitian ini robot dapat berjalan dengan pengontrol masingmasing sudut dari motor servo dan robot berdiri ketika jatuh parameternya posisi kemiringan
+dari badan robot terhadap referensi sumbu X dan sumbu Y.
+Robot Hummanoid, Mikrokontroler, motor servo,

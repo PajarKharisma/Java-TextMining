@@ -1,0 +1,1 @@
+Jaringan Syaraf Tiruan, Backpropagation, Kohonen (SOM), Matlab. 

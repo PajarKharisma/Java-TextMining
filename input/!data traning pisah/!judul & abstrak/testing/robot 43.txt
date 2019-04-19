@@ -1,0 +1,20 @@
+ND MOTION CONTROL UNTUK MENGGERAKKAN QUADCOPTER
+ROBOT DENGAN MENGGUNAKAN SENSOR ACCELEROMETER 
+ADXL335 DAN WIRELESS XBee-PRO Series 1 60 mW BERBASIS
+MIKROKONTROLLER ATmega32  
+Sistem yang dibuat dalam penelitian ini adalah implementasi hand motion control pada quadcopter robot
+dengan menggunakan sensor accelerometer ADXL335 yang dikomunikasikan dengan wireless XBeePRO
+Series 1 dengan daya RF = 60 mW berbasis mikrokontroler ATmega32. Wireless XBee-PRO
+bertindak sebagai media komunikasi wireless yang menghubungkan antara rangkaian transmitter dengan
+rangkaian receiver. Hand motion device terdapat pada rangkaian transmitter sedangkan rangkaian
+receiver dihubungkan dengan flight controller untuk dapat mengendalikan pergerakan quadcopter
+berdasarkan data yang dikirimkan oleh transmitter. Transmitter akan mengirimkan perintah maju,
+mundur, belok kanan dan belok kiri berdasarkan pembacaan kemiringan sudut sensor accelerometer
+ADXL335 yang dipasang pada bagian punggung tangan. Hasil yang dicapai dalam penerapan sistem ini
+yaitu sistem komunikasi wireless sudah dapat mengendalikan pergerakan quadcopter robot untuk
+bergerak maju, mundur, belok kanan, dan belok kiri sesuai dengan data yang diberikan. Jarak jangkauan
+maksimal yang mampu dicapai di luar ruangan adalah 105 meter dengan waktu transmisi ±1 detik. RPM
+(Rotation Per-Minute) maksimal yang mampu dihasilkan dari motor brushless NTM Prop Drive Series
+28-26A 1200kv yang digunakan pada quadcopter adalah sebesar 13.068 rpm dengan daya yang
+dibutuhkan adalah sebesar 186 watt. Dari hasil pengujian, quadcopter mampu mengangkat beban ±4,4
+Kg

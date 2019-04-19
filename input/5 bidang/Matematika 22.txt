@@ -1,0 +1,7 @@
+Tulisan ini membahas sifat ideal kuasi regular dimulai dari pengertian elemen
+kuasi regular dan sifat-sifatnya. Dari pengertian elemen kuasi regular dapat
+dipergunakan untuk membangun pengertian ideal kuasi regular. Ideal kuasi regular
+kanan adalah ideal kanan dari suatu ring dan setiap elemennya adalah elemen kuasi
+regular kanan. Ideal kuasi regular kiri adalah ideal kiri dari suatu ring dan setiap
+elemennya adalah elemen kuasi regular kiri. Untuk mempelajari ideal kuasi lebih
+lanjut juga dituliskan tentang Jacobson radikal.

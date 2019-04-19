@@ -1,0 +1,6 @@
+RANCANG BANGUN SISTEM MEKANIK DUA AXIS BERBASIS KENDALI ARDUINO UNTUK PERAGA PRAKTIKUM Dunia pendidikan dituntut semakin mengikuti kemajuan teknologi yang terjadi pada industr. Proses pembekalan teknologi melalui kegiatan praktek membutuhka peraga dan peralatan yang memadai untuk peningkatan kompetensi mahasiswa. Tujuan rancang - bangun untuk membuat sistem mekanik peraga praktikum dengan kendali berbasis Arduino. Metode rancang bangun dari mendisain alat, menghitung dan menetukan sistem mekanik, dengan hasil memilih Ballscrew untuk
+gerak rotasi dan memindah daya, serta motor stepper sebagai penggerak dengan kendali berbasis Arduino.
+Hasil rancang bangun untuk gerakan horizontal (sumbu-x) sejauh 300 mm dengan kecepatan rata-rata 62,5
+mm/s dan gerakan vertikal (sumbu-y) atau gerak naik dan turun sejauh 115 mm dengan kecepatan rata-rata
+54,7 mm/s, dengan beban 5 kg.
+ Sistem mekanik, dua axis, arduino

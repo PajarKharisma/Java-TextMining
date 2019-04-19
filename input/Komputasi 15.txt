@@ -1,0 +1,12 @@
+Pengenalan Jenis Golongan Darah Menggunakan
+Jaringan Syaraf Tiruan Perceptron Darah merupakan salah satu bagian penting dalam tubuh. Darah dibedakan menjadi
+beberapa golongan yaitu A, B, O, dan AB. Secara konvensional, mendeteksi golongan
+darah dengan cara meneteskan serum anti-A dan serum anti-B ke darah yang akan
+dikenali kemudian melakukan pengamatan langsung terhadap reaksi tetesan serum
+tersebut. Hal ini yang menyebabkan terjadi kesalahan identifikasi mulai dari kurang teliti
+dan terburu-buru dalam mengamati. Pada penelitian ini, pengenalan golongan darah
+pada citra digital menggunakan metode jaringan syaraf tiruan perceptron. Hasil dari
+penelitian ini yaitu banyaknya variasi citra data pelatihan mempengaruhi tingkat akurasi
+sistem pengenalan jenis golongan darah dan algoritma yang digunakan mampu
+menghasilkan tingkat akurasi 80,25%.
+ Jaringan syaraf tiruan, perceptron, golongan darah, darah, citra digital 

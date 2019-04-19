@@ -1,0 +1,16 @@
+Rancang Bangun Rob ot Pemantau Wireless Berbasis
+Mikrokontroler ATMega8535 Menggunakan Bahasa Basic
+Penelitian ini merancang dan membuat robot pemantau yang dapat dikendalikan secara wireless dengan
+frekuensi 35 MHz menggunakan remot kontrol berupa stick PS dan hasil pantauan kamera pada robot ditampilkan di
+TV kecil sebagai monitor melalui A/V wireless dengan frekuensi 2,4 GHz sehingga lebih eksibel dalam penggunaan
+dan mudah dibawa kemanapun, dibandingkan pada penelitian sebelumnya yang masih belum maksimal dengan menggunakan PC dimana pengendalian robot melalui keyboard dan hasil pantauan kamera pada robot ditampilkan dimonitor.
+Sistem dikendalikan menggunakan program Basic Compiler (BASCOM) dan memanfaatkan kemampuan mikrokontroler
+ATMega8535 dalam pengendalian 4 buah motor servo berdasarkan 4 buah perintah dari transmitter terhadap receiver sebagai masukan mikrokontroler. Pelaksanaan penelitian dilakukan di Laboratorium Elektronika dan Instrumentasi MIPA
+Fisika UNSRI. Tahapan penelitian yaitu perancangan dan desain perangkat keras dan perangkat lunak, perakitan, penerapan perangkat lunak pada robot, uji coba robot. Dari hasil perancangan dan pembuatan software dan hardware
+yang telah dibuat maka diperoleh hasil pengujian jarak jangkauan dan respon penerimaan data pada robot, pada beda
+ruangan menjangkau jarak 200 cm dan pada area terbuka menjangkau jarak 300 cm untuk gerakan maju, mundur,
+serta berbelok kanan dan kiri. Pada pengujian performa dan kendali robot diperoleh hasil pengujian waktu tempuh dan
+kecepatan robot berjalan maju sejauh 300 cm dan mundur sejauh 200 cm. Sedangkan pada pengujian waktu tempuh
+robot berbelok kiri dan kanan, robot ini bisa berbelok bahkan berputar searah jarum jam dari 0 -360 dan berlawanan
+arah dengan jarum jam dari 0 -360.
+mikrokontroler, BASCOM, robot, wireless

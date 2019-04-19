@@ -1,0 +1,19 @@
+ANALISIS TEKSTUR DAN EKSTRAKSI FITUR WARNA UNTUK
+KLASIFIKASI APEL BERBASIS CITRA
+ANALISIS TEKSTUR DAN EKSTRAKSI FITUR WARNA UNTUK KLASIFIKASI APEL
+BERBASIS CITRA. Klasifikasi adalah salah satu yang paling sering dijumpai dalam aktivitas manusia
+dalam pengambilan keputusan. Klasifikasi bertujuan untuk mengkategorikan objek menjadi kelompok
+atau kelas tertentu. Penelitian ini menggunakan citra digital buah apel yang dianalisis berdasarkan tekstur
+dan unsur warna untuk mengetahui pola yang akan diklasifikasikan menggunakan K-Nearest Neighbor
+(K-NN) dengan nilai parameter k =1 sampai k =3 dan jarak Euclidean. Ekstraksi fitur dengan metode
+analisis tekstur bertujuan untuk mendapatkan ciri atau fitur pada citra grayscale berupa nilai entropi,
+kontras, energi, homogenitas, skala keabuan, dan standar deviasi, sedangkan ekstraksi fitur warna berupa
+nilai red, green, dan blue (RGB) untuk mendapatkan ciri pada citra warna. K-NN digunakan untuk
+klasifikasi data baru berdasarkan jarak terdekat ke sejumlah data latih. Data yang digunakan adalah image
+buah apel yang terdiri atas 50 buah foto dari 5 kelas apel dengan masing - masing kelompok memiliki 10
+buah image. Data citra apel dibagi menjadi 35 data latih dan 15 data uji. Citra apel terdiri atas lima kelas
+yaitu Apel Lengkeng, Apel Royal Gala, Apel Green Smith, Apel Fuji RRC, dan Apple Malang. Percobaan
+dilakukan terhadap masing - masing fitur dan gabungan fitur tekstur dan RGB. Hasil penelitian
+menunjukkan tingkat akurasi sebesar 93,33% untuk fitur homogenitas, 73,33% untuk fitur tekstur dan
+100% untuk fitur RGB.
+klasifikasi, analisis tekstur, citra, grayscale, RGB, K-NN, apel

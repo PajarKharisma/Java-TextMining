@@ -1,0 +1,11 @@
+Penelitian ini bertujuan untuk menganalisis variabilitas hujan bulanan di wilayah UPT PSDA di Pasuruan. 
+Wilayah studi mencakup kabupaten Probolinggo, Kota Probolinggo, Kabupaten Pasuruan dan Kota Pasuruan 
+di Jawa Timur. Data hujan harian dari 93 stasiun, dengan panjang rekaman data dari tahun 1980 sampai 
+dengan 2015 digunakan sebagai input utama. Tahap penelitian mencakup : (1) pra-pengolahan data, 
+(2) analisis variabilitas temporal, (3) Analisis variabilitas spasial, (4) interpolasi dan 
+pembuatan peta tematik dan (5) interpretasi. Data hujan bulanan diperoleh dari penjumlahan hujan harian. 
+Pra-pengolahan data dilakukan menggunakan excel. Data hujan bulanan ditabulasi selama 35 tahun periode 
+rekaman data. Selanjutnya, metode interpolasi IDW digunakan untuk membuat berbagai peta tematik hujan. 
+Penelitian ini menghasilkan deskripsi variabilitas spasial dan temporal hujan per sub-wilayah dan berbagai 
+peta tematik terkait dengan karakteristik spasial hujan di wilayah tersebut. Hujan bulanan rerata di 
+wilayah tersebut 152 mm/bulan. Hujan bulanan maksimum 798 mm per bulan.

@@ -1,0 +1,1 @@
+Speech Recognition, Sinyal Suara, Linear Predective Coding, Hidden Markov Model. 

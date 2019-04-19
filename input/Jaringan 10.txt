@@ -1,0 +1,8 @@
+Implementasi Wireless Local Area Network dalam RT/RW Net Jaringan  wireless  LAN  adalah  jaringan  yang  mengkoneksikan  dua  komputer  atau  lebih  menggunakan
+sinyal  radio,  cocok  untuk  berbagi-pakai  file,  printer,  atau  akses  internet.  Dengan  mempergunakan
+perangkat radio maka akan dapat membuat LAN tanpa menggunakan kabel data yang umum dipakai dalam
+sebuah jaringan komputer. Setiap PC pada jaringan wireless dilengkapi dengan sebuah radio tranceiver atau
+biasanya disebut adapter atau kartu Wireless LAN yang akan mengirim dan menerima sinyal radio dari dan
+ke  PC  lain  dalam  jaringan.  Teknologi  wireless  memungkinkan  jaringan  ini  dapat  dipasang  di  tempat
+dimana jaringan kabel tidak dapat dipasang.
+ wireless lan, network

@@ -1,0 +1,8 @@
+Aplikasi metoda random walks untuk kontrol gerak robot
+berbasis citra Algoritma merupakan bagian penting dalam sistem kontrol robot. Terdapat banyak metode yang
+biasa digunakan untuk keperluan ini, salah satunya adalah random walks. Metode ini
+menitikberatkan pada estimasi gerakan berdasarkan bilangan random (acak). Disisi lain aplikasi
+pengolahan citra masih belum banyak digunakan sebagai alat kontrol. Makalah ini akan
+membahas model dan simulasi metode random walks untuk kontrol gerak robot pada citra yang
+sederhana.
+ random walks;citra

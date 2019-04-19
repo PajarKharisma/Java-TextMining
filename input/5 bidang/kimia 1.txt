@@ -1,0 +1,14 @@
+Minyak goreng adalah bahan pangan yang digunakan untuk kebutuhan rumah tangga. Penggunaan
+minyak goreng secara berkali – kali secara ilmiah merupakan perlakuan yang tidak sehat. Konsumsi
+minyak goreng bekas sangat berbahaya karena dapat menyebabkan berbagai macam penyakit dan juga
+limbah yang dapat mencemari lingkungan, maka dilakukan pemanfaatan minyak goreng bekas dengan
+cara mengolahnya kembali untuk pembuatan sabun lunak. Sabun lunak adalah reaksi antara lemak
+dengan KOH yang menghasilkan garam kalium. Sabun lunak dihasilkan dari proses saponifikasi, yaitu
+hidrolisis lemak menjadi asam lemak dan gliserol dalam KOH sampai terhidrolisis sempurna. Faktor
+yang mempengaruhi proses saponifikasi, yaitu suhu, kecepatan pengadukan, waktu pengadukan,
+konsentrasi basa, dan jumlah basa yang digunakan. Variabel penelitian ini adalah jumlah KOH (15 ml,
+20 ml, 25 ml, dan 30 ml) dan waktu pengadukan (30 menit, 40 menit, dan 50 menit) untuk mendapatkan
+kondisi optimum dan memperoleh data kinetika reaksi dalam pembuatan sabun lunak dari minyak goreng
+bekas. Sabun lunak terbanyak diperoleh dari penambahan jumlah KOH sebanyak 30 ml dan waktu
+pengadukan selama 50 menit. Data kinetika reaksi yang didapat adalah k = 1,5506 dan –rA = 1,5506 [A]
+[6,416A]1,9025

@@ -1,0 +1,14 @@
+Dalam penelitian ini dibahas mengenai adsorpsi-desorpsi Cr(VI) oleh adsorben batu cadas Karangasem
+limbah kerajinan candi Bali teraktivasi NaOH dan tersalut Fe(OH)3. Penelitian ini bertujuan untuk mempelajari
+kemampuan batu cadas dalam penyerapan ion logam Cr6+. Batu cadas diaktivasi dengan NaOH berbagai konsentrasi,
+kemudian dilanjutkan dengan penyalutan dengan Fe(OH)3. Masing-masing adsorben dikarakterisasi luas permukaan
+spesifik dengan metode metilen biru. Keasaman permukaan dihitung dengan titrasi asam basa dan FTIR.
+Selanjutnya ditentukan waktu setimbang adsorpsi, isoterm adsorpsi dan kapasitas adsorpsi terhadap Cr(VI).
+Adsorben dengan kapasitas adsorpsi tertinggi kemudian didesorpsi menggunakan zat pendesorpsi HNO3 2 mol/L,
+NaOH 1 mol/L, dan NH4Cl jenuh.
+Hasil penelitian menunjukkan bahwa keasaman permukaan tertinggi ditunjukkan oleh adsorben kontrol,
+yaitu 0,2836 0,0106 mmol/g dengan jumlah situs asam 1,7079 x 1020 atom/g. Luas permukaan spesifik tertinggi
+ditunjukkan oleh adsorben teraktivasi NaOH 6 M - tersalut Fe(OH)3, yaitu 34,5042 m2/g. Kapasitas adsorpsi tertinggi
+ditunjukkan oleh adsorben dengan perlakuan teraktivasi NaOH 6M-tersalut Fe(OH)3 yaitu 2,5253 mg/g dengan
+waktu interaksi 15 menit pada pH 5 dan mengikuti pola isoterm adsorpsi Langmuir. HNO3 merupakan zat
+pendesorpsi yang paling efektif dengan presentase Cr terdesorpsi sebesar 2,15%.

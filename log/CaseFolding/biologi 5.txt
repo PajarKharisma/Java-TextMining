@@ -1,0 +1,12 @@
+ruang percakapan (group chat) yang disediakan layanan instant messaging seperti line 
+dan whatsapp di lingkungan kemahasiswaan berperan penting, tetapi esensi percakapannya 
+tidak semua relevan dengan misi grup, bahkan kadang bersifat off-topic. dengan alasan 
+tertentu, ketika banyak percakapan yang belum terbaca, pengguna yang tidak aware akan 
+melihat potongan percakapan yang ia lihat pertama kali, dan akan mengabaikan atau menghapus
+ sisanya. dengan demikian, informasi penting yang mungkin terselip di tengah percakapan dapat 
+terlewat begitu saja. padahal tumpukan percakapan tersebut dapat diolah menjadi beberapa 
+kategori, sehingga dapat memberikan informasi klasifikasi teks kepada pengguna secara otomatis. 
+penelitian ini menguji penggunaan na�ve bayes classifier untuk mengelompokkan percakapan pada 
+layanan instant messaging dalam konteks lingkungan kemahasiswaan untuk lima kategori pesan, 
+dan hasilnya menunjukkan bahwa dengan model klasifikasi yang baik, na�ve bayes classifier dapat 
+bekerja dengan baik dengan nilai f-measure mencapai 90,57% untuk salah satu kategori.

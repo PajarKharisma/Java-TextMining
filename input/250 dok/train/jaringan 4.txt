@@ -1,0 +1,19 @@
+ANALISIS JARINGAN KOMPUTER DINAS KOMUNIKASI DAN
+INFORMATIKA
+Dinas Komunikasi dan Informatika (DISKOMINFO) merupakan instansi yang bergerak di
+bidang komunikasi dan informatika yang meliputi telekomunikasi, sarana komunikasi dan
+diseminasi informasi, telematika, serta pengolahan data elektronik. Dinas Komunikasi dan
+Informatika dalam pengolahan data elektronik telah menggunakan teknologi telekomunikasi
+berupa Jaringan Komputer dalam mengkomunikasikan antar OPD (Organisasi Perangkat
+Daerah) satu dengan lainnya yang terdapat di Propinsi Jawa Barat. Dengan menggunakan
+Jaringan Komputer, tugas - tugas komputasi dari berbagai daerah Jawa Barat dapat saling
+berkomunikasi dalam melaksanakan tugas - tugas tersebut. Menurut Lucky Permana (2008)
+Jaringan komputer adalah satu bentuk implementasi dari komunikasi data. Sebagaimana
+prinsip dasar dalam komunikasi data bahwa data yang dikirim harus diterima oleh
+komputer yang dituju dalam waktu yang secepat mungkin, maka jaringan pun memiliki
+kriteria tertentu yang harus dipenuhi agar prinsip dasar komunikasi data tersebut dapat
+tercapai. Terdapat sedikitnya tiga kriteria paling penting dalam jaringan komputer yaitu
+performance, reliability, dan security. Untuk mengetahui apakah jaringan DISKOMINFO
+telah sesuai dengan kriteria jaringan, maka penulis melakukan analisis terhadap jaringan
+komputer DISKOMINFO Jabar.
+jaringan komputer, performance, reliability, security

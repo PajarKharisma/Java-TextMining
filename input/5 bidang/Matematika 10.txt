@@ -1,0 +1,15 @@
+METODE CLUSTERING HIRARKI. Dalam makalah ini dibahas beberapa teknik clustering
+hirarki agglomerative yaitu metode single linkage (jarak terkecil atau tetangga terdekat), complete
+linkage (jarak terjauh) dan average linkage (jarak rata-rata). Teknik clustering hirarki agglomerative
+bekerja dengan sederetan dari penggabungan yang berurutan atau sederetan dari pembagian yang
+berurutan dan berawal dari objek-objek individual. Jadi pada awalnya banyaknya cluster sama dengan
+banyaknya objek. Objek-objek yang paling mirip dikelompokkan, dan kelompok-kelompok awal ini
+digabungkan sesuai dengan kemiripannya. Sewaktu kemiripan berkurang, semua subkelompok
+digabungkan menjadi satu cluster tunggal. Hasil-hasil dari clustering dapat disajikan secara grafik dalam
+bentuk dendrogram atau diagram pohon. Cabang-cabang dalam pohon menyajikan cluster dan bergabung
+pada node yang posisinya sepanjang sumbu jarak (similaritas) menyatakan tingkat di mana penggabungan
+terjadi. Dalam makalah ini diberikan juga langkah-langkah dalam algoritma clustering hirarki
+agglomerative untuk mengelompokkan N objek (item / variabel). Input untuk algoritma metode linkage
+bisa berujud jarak atau similarities antara pasangan-pasangan dari objek-objek. Kelompok-kelompok
+dibentuk dari entities individu dengan menggabungkan jarak paling pendek atau similaritas (kemiripan)
+yang paling besar.

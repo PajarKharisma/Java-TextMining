@@ -1,0 +1,26 @@
+Quadcopter merupakan salah salah satu jenis
+rotorcraft yang memiliki 4 buah rotor yang harus dikendalikan
+masing-masing rotornya untuk dapat menggerakkan
+quadcopter. Gerak lateral merupakan gerak quadcopter secara
+horizontal pada ketinggian atau gerak translasi. Gerakan ini
+sangat vital untuk memenuhi kebutuhan quadcopter dalam
+mencapai way-to-way point yang telah ditentukan.
+Pada tugas akhir ini, untuk mengatur gerakan lateral dari
+quadcopter digunakan sistem kendali PID Decoupling Nonlinear.
+Terdapat 2 buah kontroler individual yang digunakan yaitu
+kontroler PID Nonlinear Decoupling untuk mengatur pitch dan
+roll gerak rotasi, serta kontroler PD untuk mengatur translasi
+sumbu X dan sumbu Y. Perancangan sistem kontrol PID
+Nonlinear Decoupling pada simulasi digunakan untuk
+mempertahankan gerak lateral quadcopter dalam mencapai
+way-to-way point yang ditentukan.
+Nilai parameter yang didapatkan dari hasil tuning terstruktur
+pada simulasi yaitu untuk kontroler PID dengan Nonlinear
+Decoupling pitch dan roll Kp=5 Ki=0,01 Kd=10, sedangkan
+untuk kontroler PD sumbu X dan sumbu Y Kp=0,05 Kd=0,2.
+Respon hasil implementasi pada quadcopter belum sesuai dengan
+hasil simulasi. Hasil simulasi masih terdapat koreksi pada
+translasi sumbu X dan sumbu Y dengan kesalahan sebesar ± 0,02
+cm, sedangkan pada implementasi gerak lateral menggunakan
+remote control quadcopter dapat bergerak stabil menuju way-toway
+point yang ditentukan..

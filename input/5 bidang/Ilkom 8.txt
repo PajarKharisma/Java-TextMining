@@ -1,0 +1,17 @@
+Setiap pelanggan pasti menginginkan sebuah pendukung keputusan dalam menentukan pilihan 
+ketika akan mengunjungi sebuah tempat makan atau kuliner yang sesuai dengan keinginan 
+salah satu contohnya yaitu di Kota Tegal. Sentiment analysis digunakan untuk memberikan 
+sebuah solusi terkait dengan permasalahan tersebut, dengan menereapkan model algoritma 
+Support Vector Machine (SVM). Tujuan dari penelitian ini adalah mengoptimalisasi model 
+yang dihasilkan dengan diterapkannya feature selection menggunakan algoritma Information 
+Gain (IG) dan Chi Square pada hasil model terbaik yang dihasilkan oleh SVM pada 
+klasifikasi tingkat kepuasan pelanggan terhadap warung dan restoran kuliner di Kota 
+Tegal sehingga terjadi peningkatan akurasi dari model yang dihasilkan. Hasil 
+penelitian menunjukan bahwa tingkat akurasi terbaik dihasilkan oleh model SVM-IG 
+dengan tingkat akurasi terbaik sebesar 72,45% mengalami peningkatan sekitar 3,08% 
+yang awalnya hanya 69.36%. Selisih rata-rata yang dihasilkan setelah dilakukannya 
+optimasi SVM dengan feature selection adalah 2,51% kenaikan tingkat akurasinya. 
+Berdasarkan hasil penelitian bahwa feature selection dengan menggunakan Information 
+Gain (IG) (SVM-IG) memiliki tingkat akurasi lebih baik apabila dibandingkan SVM dan 
+Chi Squared (SVM-CS) sehingga dengan demikian model yang diusulkan dapat meningkatkan 
+tingkat akurasi yang dihasilkan oleh SVM menjadi lebih baik.

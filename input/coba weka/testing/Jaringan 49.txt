@@ -1,0 +1,12 @@
+PERANCANGAN NETWORK PC CLONING MENGGUNAKAN
+SOFTWARE WINCONNECT Perkembangan teknologi komunikasi dan informasi saat ini telah memberi pengaruh yang cukup
+signifikan bagi pengolahan data. Data-data dari suatu terminal sumber dapat ditransfer ke terminal lain melalui
+media transmisi. Transfer data dengan menggunakan transmisi elektronik biasa disebut dengan istilah
+komunikasi data (data communication), teknologi ini yang kemudian berkembang dan disebut sebagai jaringan
+komputer (computer networking). PC Cloning adalah suatu konsep jaringan komputer yang menekankan pada
+proses komputasi disisi server dan sisi client yang berkinerja seminimal mungkin. Dengan PC Cloning, sisi client
+yang memiliki spesifikasi rendah dapat menjalankan semua aplikasi yang diinstal di server tanpa harus
+menginstal aplikasi yang bersangkutan di sisi client. Dari penelitian ini membahas langkah-langkah penggunaan
+PC Cloning seperti instalasi software, konfigurasi sistem, keamanan sistem, pengujian performansi dan
+penerapannya dengan menggunakan software Winconnect.
+ PC Cloning, Network, Software Winconnect, Aplikasi Transfer File, Visual Basic 6.0

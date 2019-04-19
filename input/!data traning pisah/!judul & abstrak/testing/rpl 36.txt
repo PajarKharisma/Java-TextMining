@@ -1,0 +1,10 @@
+RANCANG BANGUN SISTEM INFORMASI PENJUALAN AKSESORIS HANPHONE BERBASIS WEB PADA DAZZLE CELLULAR SEMARANG Dengan semakin tingginya faktor persaingan dalam penjualan berbagai macam aksesoris
+handphone, maka dibutuhkan penawaran penjualan secara online dan barang yang dibeli dapat
+dikirim sehingga pembei tidak perlu datang langsung ke toko setiap akan melakukan pembelian,
+maka dibutuhkan sebuah sistem penjualan yang bisa menunjang tujuan tersebut. Dalam
+melakukan analisis penulis menggunakan Object Oriented Design (OOD).Program ini dirancang
+untuk memudahkan pelanggan dalam menentukan pilihan dalam setiap transaksi, dimana user dapat
+menentukan produk mana yang mau dipesan atau mana yang tidak dengan dapat melihat seluruh
+barang yang ada pada sistem. Adapun hasil dari sistem aplikasi penjualan berbasis web, berupa
+informasi mengenai jumlah produk yang laku di pasaran dan jumlah konsumen serta rekapan dari
+total penjualan.

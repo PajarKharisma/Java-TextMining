@@ -1,0 +1,18 @@
+SISTEM PENDUKUNG KEPUTUSAN PENJURUSAN PADA SISWA SMA Penjurusan pada siswa SMA dilakukan ketika siswa berada dikelas X. Jurusan yang ada di SMA Negeri
+1 Tumpang antara lain IPA, IPS dan Bahasa. Penjurusan berdasarkan kemampuan dan minat siswa. Penjurusan
+di SMA Negeri 1 Tumpang memiliki beberapa kriteria yaitu, nilai rapor, nilai UN, psikotes, angket dan
+wawancara. Keakuratan dalam perhitungan kriteria penjurusan sangat penting agar proses penjurusan sesuai
+dengan target. Dalam proses penjurusan guru BK mengalami beberapa kendala dalam mengkalkulasikan kriteriakriteria tersebut karena guru BK masih menggunakan bantuan Microsoft Excel dalam mengkalkulasi semua
+kriteria, sehingga dibutuhkan waktu yang lama dan ketelitian dalam proses perhitungannya.  
+Pada Penelitian ini dibuat sebuah Sistem Pendukung Keputusan untuk membantu guru BK dalam
+menentukan penjurusan dengan mengimplementasikan metode SAW (Simple Additive Weighting) dalam
+pengembangannya. Sistem ini menggunakan metode SAW karena dalam metode ini dapat menentukan nilai
+bobot untuk setiap atribut, kemudian dilanjutkan dengan proses perangkingan yang akan menyeleksi alternative
+terbaik dari sejumlah alternative. Dengan metode perangkingan tersebut, diharapkan penilaian akan lebih tepat
+karena didasarkan pada nilai kriteria dan bobot yang sudah ditentukan sehingga akan mendapatkan hasil yang
+lebih akurat terhadap penilaian penjurusan tersebut. 
+Pengujian yang dilakukan pada penelitian ini membandingkan hasil dari Sistem Pendukung Keputusan
+dengan hasil manual selama 2 periode tahun ajaran. Berdasarkan hasil pengujian tersebut, Sistem Pendukung
+Keputusan memiliki keakurasian 71.0462% pada tahun 2015 dan 71.6088 % pada tahun 2014 SPK, Penjurusan, SAW
+ 
+ 

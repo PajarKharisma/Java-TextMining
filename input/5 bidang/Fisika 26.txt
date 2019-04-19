@@ -1,0 +1,12 @@
+Praktikum Fisika adalah matakuliah yang diberikan untuk semua prodi di bidang
+teknik. Dengan praktikum Fisika ini diharapkan mahasiswa dapat lebih memahami konsep
+dasar ilmu fisika, dan penerapannya di bidang teknik yang ditekuni. Praktikum Fisika yang
+diajarkan meliputi bidang Mekanika, Panas, Fluida dan Listrik Magnet. Praktikum
+dilaksanakan secara paralel dan diatur sehingga setiap kelompok akan melaksanakan modul
+praktikum yang berbeda di setiap minggunya. Praktikum dilakukan perkelompok, tetapi
+laporan dan evaluasi/penilaian dilaksanakan perorangan. Penilaian dilakukan dengan beberapa
+kriteria, yaitu : kehadiran 5%, laporan 30%, UTS Praktikum 25%, UAS Praktikum 40%. Data
+diambil dari 15 praktikan sebagai contoh penilaian, kemudian nilai diolah untuk mendapatkan
+Nilai Angka (NA) dan Nilai Huruf (NH), sesuai dengan prosentase diatas. Mahasiswa yang
+mendapatkan nilai kurang dari BC, diberi kesempatan mendapatkan tugas tambahan dengan
+nilai maksimum BC.

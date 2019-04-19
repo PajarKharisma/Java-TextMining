@@ -1,0 +1,15 @@
+MODEL PERANGKAT LUNAK
+MONITORING DAN EVALUASI IMPLEMENTASI
+STANDAR MUTU JALAN DAERAH 
+Salah satu akar masalah penyebab kerusakan awal jalan daerah adalah ketidakpatuhan penyelenggara jalan
+terhadap ketepatan penerapan standar mutu jalan. Oleh karenanya diperlukan model logik perangkat lunak
+monitoring dan evaluasi implementasi standar mutu jalan daerah yang berbasis sistemik agar dapat dianalisis
+capaian portability, acceptability, applicability, dan useability. Metode yang digunakan untuk membangun model
+adalah analisis tipologi hasil survei pakar (penyelenggara jalan) untuk menentukan bobot variabel beserta
+indikatornya, selanjutnya menggunakan program Java Runtime Environment versi 6 untuk membangun model
+perangkat lunak. Hasil uji coba model monitoring dan evaluasi terhadap implementasi SNI 03-2853-1992 (tata
+cara pelaksanaan lapis pondasi jalan dengan batu pecah) adalah : capaian “memiliki SNI” 58,50%; capaian
+“memahami SNI” 61,18%; capaian “menerapkan SNI” 60,52%; dan capaian “mengawasi SNI” 51,39%, dengan
+demikian tingkat capaian implementasi SNI tersebut adalah 59,08%. Artinya hasil evaluasi implementasi SNI 03-
+2853-1992 dalam kategori “cukup”. Aplikasi model sangat bermanfaat bagi penyelenggara jalan untuk
+merekomendasikan perlu tidaknya standar mutu direvisi atau diabolisi.

@@ -1,0 +1,12 @@
+Matematika secara garis besar dibedakan menjadi dua, yaitu matematika terapan (applied mathematics) 
+dan matematika murni (pure mathematics). Matematika terapan mempunyai pengertian bahwa matematika 
+digunakan diluar matematika. Matematika terapan berperan dan membantu menyelesaikan masalah-masalah 
+di dunia nyata yang akan diselesaikan dalam sistemnya dan memenuhi kebutuhan ilmu-ilmu dalam pengembangannya. 
+Banyak ilmuwan yang mengkaji matematika untuk dapat dimanfaatkan dalam bidang lain. Sedangkan 
+matematika murni berperan sebagai ratu yang mempercantik dirinya melalui rancangan-rancangan 
+definisi, teorema yang terstruktur secara sistematis.
+Teori Aljabar Linier merupakan cabang dari matematika terapan. Aljabar Linier mempunyai penerapan 
+pada berbagai bidang ilmu alam dan ilmu sosial serta teknologi khususnya teknologi Informasi dan 
+komunikasi (infokom) yang saat ini sedang berkembang pesat. Ilmu yang dipelajari pada materi 
+Aljabar Linier salah satunya yaitu Sistem Persamaan Linier. Adapun salah satu metode yang 
+dapat digunakan untuk mencari nilai variabel adalah Aturan Cramer

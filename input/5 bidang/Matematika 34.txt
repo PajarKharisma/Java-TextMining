@@ -1,0 +1,12 @@
+Artikel ini disusun bertujuan untuk menyajikan berbagai permasalahan yang terjadi pada 
+perkuliahan analisis real pada umumnya yang dialami oleh mahasiswa program sarjana 
+matematika dan sarjana pendidikan matematika. Mata kuliah Analisis Real bertujuan 
+untuk mendidik peserta kuliah agar: a) memiliki pengetahuan dasar analisis matematika, 
+khususnya tentang bilangan, barisan, fungsi, limit, dan turunan, b) mampu bernalar secara 
+logis dan mengekspresikan hasil pernalarannya secara tertulis, sistematis dan rigorous. 
+Analisis real merupakan salah satu mata kuliah yang sering dianggap oleh mahasiswa yang 
+kuliah pada program studi matematika dan pendidikan matematika. Pada makalah ini, penulis 
+memaparkan berbagai alternatif solusi yang disarankan dapat dilakukan untuk membantu 
+mahasiswa dalam menghadapi perkuliahan analisis real. Upaya perbaikan kualitas juga dapat 
+dilakukan oleh dosen diantaranya dengan melakukan sejumlah intervensi, menerapkan Lesson 
+Study, menerapkan pendekatan RME, pengembangan buku teks analisis real.

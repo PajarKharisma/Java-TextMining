@@ -1,0 +1,1 @@
+Algoritma Kohonen dalam Mengubah Citra Gray level Menjadi Citra Biner 

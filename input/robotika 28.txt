@@ -1,0 +1,11 @@
+KONTROL KECEPATAN  ROBOT HEXAPOD PEMADAM API MENGGUNAKAN METODA LOGIKA FUZZY Penelitian ini bertujuan membuat kontrol kecepatan robot hexapod  pemadam api
+menggunakan metoda logika fuzzy. Dengan menerapkan metoda logika fuzzy akan membuat pergerakan
+robot lebih halus dan sebanding dengan jaraknya. Input dari metoda Logika fuzzy didapatkan dari tiga
+sensor ultrasonik sebagai pendeteksi jarak terhadap dinding/penghalang. Robot hexapod menggunakan
+servomotor dengan torgue yang cukup besar untuk melakukan pergerakan. Kecepatan robot akan lebih
+cepat jika tujuan pergerakan robot masih jauh dari dinding/penghalang dan sebaliknya. Mikrokontroler
+dengan program berbasis fuzzy logic-nya digunakan sebagai pengontrol pergerakan. Hasil percobaan
+menunjukkan bahwa pergerakan lebih halus berdasarkan jarak yang terbaca oleh sensor, dimana sensor
+mengalami kesalahan pengukuran jarak yang dipengaruhi oleh bahan dinding/penghalang. Untuk bahan
+dinding/pengahalang dari papan mengalami kesalahan pembacaan sebesar 0,18%, buku sebesar 0,5% dan
+boneka sebesar 1,58%. robot hexapod, logika fuzzy, dan kontrol kecepatan   

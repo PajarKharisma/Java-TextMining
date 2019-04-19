@@ -1,0 +1,12 @@
+Pengelolaan sampah di kecamatan Kertapati dilakukan oleh pihak swasta dan
+pemerintah. Pihak pemerintah yang bertanggungjawab untuk pengelolaan sampah adalah
+Dinas Kebersihan Kota Palembang (DKKP). Sampah diangkut dari wilayah Tempat
+Pembuangan Sementara (TPS) ke Tempat Pembuangan Akhir (TPA) Sukawinatan
+menggunakan dua jenis kendaraan, yaitu dump truck dan armroll. Dianalisis optimalitas
+kendaraan pengangkut sampah dengan kendala total waktu pengangkutan, kapasitas
+maksimal alat angkut dan jumlah sampah maksimal yang harus diangkut menggunakan
+pemrograman bilangan bulat biner 0 dan 1. Penyelesaian model linear menggunakan
+metode Branch and Bound. Jumlah sampah maksimum yang harus diangkut pada 
+Lambung 87 adalah 7330 kg, Lambung 42 sebanyak 8850 kg dan lambung 69
+sebanyak 7770 kg. Dump truck dan armroll optimal untuk digunakan pada
+Lambung 42, 87 dan 69.

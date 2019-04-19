@@ -1,0 +1,1 @@
+logika fuzzy, fuzzifikasi, inferensi  fuzzy,  defuzzifikasi, batas himpunan fuzzy, variabel fuzzy, variabel non fuzzy.

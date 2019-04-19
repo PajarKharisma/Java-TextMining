@@ -1,0 +1,16 @@
+IMPLEMENTASI HONEYPOT UNTUK MENINGKATKAN SISTEM
+KEAMANAN SERVER DARI AKTIVITAS SERANGAN Faktor keamanan pada teknologi informasi begitu penting, dikarenakan pentingnya
+informasi data arsip mahasiswa pada server di STIKes Kusuma Husada, maka diperlukan
+sebuah penanganan terhadap ancaman serangan dari pihak yang tak memiliki hak akses.
+Dalam mengamankan server di STIKes Kusuma Husada dari serangan, maka
+diperlukan adanya implementasi honeypot untuk meningkatkan keamanan server.
+Honeypot diimplementasikan menggunakan honeypot jenis low interaction yaitu honeyd
+dan software pendukung lainnya seperti portsentry, FARPD, honeyd-viz , apache. Uji
+coba dengan melakukan ping dan scanning terhadap IP host honeyd menggunakan nessus
+untuk mengetahui honeypot berhasil menjebak penyerang.
+Berdasarkan hasil penelitian, honeypot berhasil berjalan dan menjebak penyerang
+dengan memberi respon terhadap ping dan memberi informasi sistem palsu seperti sistem
+operasi serta port-port yang terbuka yang biasanya dicari penyerang. Dengan
+menganalisis web honeyd, administrator akan mudah untuk menganalisis serangan
+sehingga keamanan server meningkat.
+ Adminidtrator, Honeyd, Honeyd-viz, Honeypot, Keamanan

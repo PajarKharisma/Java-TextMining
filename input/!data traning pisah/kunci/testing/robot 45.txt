@@ -1,0 +1,1 @@
+Robot lengan, Smart Arm Robotic AX12A, Arduino, invers kinematic, forward kinematic

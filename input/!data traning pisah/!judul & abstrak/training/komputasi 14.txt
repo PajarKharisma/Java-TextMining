@@ -1,0 +1,12 @@
+IMPLEMENTASI PENGENALAN POLA SUARA MENGGUNAKAN MEL-FREQUENCY
+CEPSTRUM COEFFICIENTS (MFCC) DAN ADAPTIVE NEURO-FUZZY INFERENSE 
+SYSTEM (ANFIS) SEBAGAI KONTROL LAMPU OTOMATIS Penelitian ini menggambarkan implementasi pengenalan pola suara untuk mengontrol nyala dan mati 
+lampu AC secara otomatis. Metode pengenalan pola suara yang digunakan dalam penelitian ini adalah
+Mel-Frequency Cepstrum Coefficients (MFCC) dan Adaptive Neuro-Fuzzy Inferense System (ANFIS).
+Metode LPC digunakan untuk ekstraksi ciri sinyal suara dan ANFIS digunakan sebagai metode
+pembelajaran untuk pengenalan pola suara. Data latih yang digunakan pada proses pembelajaran
+ANFIS sebanyak 6 ciri. Pengujian sistem pengenalan pola suara dilakukan menggunakan data suara
+terlatih dan data suara tak terlatih. Hasil pengujian menunjukkan tingkat keberhasilan untuk data suara
+terlatih sebesar 98,57 % dan data tak terlatih sebesar 95,90%. Sistem pengenalan pola suara ini telah
+diaplikasikan dengan baik untuk menyalakan dan mematikan lampu AC berbasis mikrokontroler
+Arduino. Pengenalan suara, Mel-Frequency Cepstrum Coefficients, ANFIS, Sistem Kontrol. 

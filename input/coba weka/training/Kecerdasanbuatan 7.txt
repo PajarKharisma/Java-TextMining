@@ -1,0 +1,18 @@
+DETEKSI KERUSAKAN NOTEBOOK DENGAN MENGGUNAKAN
+METODE SISTEM PAKAR Sistem pakar dengan kemampuan diagnosa notebook adalah sistem pakar yang
+digunakan untuk mendiagnosa berbagai macam jenis kerusakan yang terjadi pada notebook.
+Jenis kerusakan notebook yang dapat didiagnosa oleh sistem pakar ini adalah kerusakan LCD,
+Motherboard, Hardisk, Fdd, CD/DVD/CDRW/DVDRAM, Keyboard, Modem, Ethernet,
+Processor, bloothooth, mouse, baterai dan lain sebagainya. Salah satu kelebihan dari sistem
+pakar diagnosa kerusakan notebook tidak membatasi penggunaan sistem, selain itu proses
+pemeriksaan kerusakan notebook mempertimbangkan munculnya gejala khas paska setiap
+kerusakan, sehingga menyebabkan proses pendiagnosaan memakan waktu yang relatif singkat
+dan tepat. Dalam proses penarikan kesimpulan sistem menggunakan teknik Certainty factor
+(CF), dimana penentuan nilai CF dilakukan oleh pakar dari domain yang bersangkutan. Sistem
+dapat menghasilkan lebih dari satu diagnosa yang disusun berdasarkan bobotnya, sesuai dengan
+gejala-gejala masalah yang diinputkan oleh user. Sistem juga dilengkapi dengan ilustrasi gambar
+yang mempermudah pemahaman user pada saat proses konsultasi serta animasi prosedure
+pengambilan sparepart yang rusak untuk diperbaiki. Sistem ini berjalan dalam lingkungan
+internet, sehingga dapat diakses oleh banyak orang yang memiliki kepentingan terhadap
+penggunaan sistem ini.
+sistem pakar, Certainty factor

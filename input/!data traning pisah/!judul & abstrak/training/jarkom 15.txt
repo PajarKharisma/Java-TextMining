@@ -1,0 +1,19 @@
+PENERAPAN NETWORK POLICY DI INSTANSI PENDIDIKAN UNTUK REMAJA
+GUNA PENERAPAN INTERNET SEHAT Saat ini banyak sistem jaringan komputer di institusi pendidikan belum optimal karena masalah network policy 
+yang belum efektif dan efisien dalam menunjang kinerja suatu organisasi sebagai institusi pendidikan. Menyusun
+network policy di institusi pendidikan bukanlah pekerjaan sederhana, terlebih lagi user yang kompleks menyebabkan
+proses penyusunan menjadi semakin kompleks. Masalah keamanan merupakan salah satu aspek penting dari sebuah
+sistem informasi. Sayang sekali masalah keamanan ini sering kali kurang mendapat perhatian dari para pemilik dan
+pengelola sistem informasi. Seringkali masalah keamanan berada di urutan kedua, atau bahkan di urutan terakhir
+dalam daftar hal-hal yang dianggap penting. 
+Didalam penetapan proxy server yang akan digunakan untuk menfilter/memblokir situs yang akan diakses pada
+instansi pendidikan. Dimana proxy server adalah sebuah komputer server atau program komputer yang dapat
+bertindak sebagai komputer lainnya untuk melakukan permintaan terhadap situs/content dari internet. Dalam
+penelitian ini tujuan dari penggunaan proxy server yaitu untuk menerapkan kebijakan dalam mengakses ke layanan
+jaringan atau konten dalam melakukan pemblokiran situs-situs yang tidak di izinkan. 
+Pemakai dapat melakukan pendaftaran untuk mengaktifkan layanan ini. Dalam proses memblokiran ini, banyak
+jenis pilihan yang dapat ditentukan untuk mendefinisikan situs yang dikategorikan dalam larangan pengaksesan.
+Dalam melakukan proses pengupdatean jumlah list dengan mencari website yang akan dimasukan dalam whitelist
+harus dilakukan secara manual, sehingga dalam pengupdate dilakukan secara berkala. Dalam melakukan
+penambahan tidak harus dilakukan dari admin tetapi dalam dilakukan oleh piahk-pihak lain yang peduli terhadap
+dukungan penerapan internet sehat. 

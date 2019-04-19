@@ -1,0 +1,11 @@
+PENGARUH MODEL JARINGAN TERHADAP OPTIMASI
+ROUTING OPEN SHORTEST PATH FIRST (OSPF) Routing merupakan proses mengirim data dari satu network ke network lain. Dengan dynamic routing
+maka mekanisme routing dilakukan secara dinamis dengan menentukan jarak terpendek secara cepat
+dan akurat antara peralatan pengirim dan penerima. Open Shortest Path First (OSPF) merupakan salah
+satu protokol dynamic routing yang menggunakan algoritma link-state untuk membangun dan
+menghitung jalur terpendek ke semua tujuan yang diketahui. OSPF mendistribusikan informasi routing
+antara router-router autonomous system (AS). OSPF memiliki titik berat pada kinerja processor,
+kebutuhan memori dan konsumsi bandwidth. Oleh karena itu perlu mengoptimalkan kinerja protokol
+routing OSPF terutama masalah pengaruh bandwith dengan menentukan model dan area jaringan
+routing OSPF.
+ routing, rynamic routing, OSPF

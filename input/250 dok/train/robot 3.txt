@@ -1,0 +1,17 @@
+SISTEM PENYELEKSI WARNA DAN BERAT BARANG
+MENGGUNAKAN PERGERAKAN LENGAN ROBOT
+EMPAT DOF (DEGREE OF FREEDOM)
+Penggunaan gerak lengan robot pada sistem penyeleksian warna dan berat barang
+(kotak) telah dilakukan untuk mengintegrasikan sistem kontrol gerak lengan robot
+dengan sensor warna TCS3200 dan sensor berat load cell. Penelitian dilakukan
+dengan menganalisa keefisienan dan keakuratan sistem pergerakan lengan robot
+dalam menyeleksi warna dan berat barang yang berupa kotak. Dimana pergerakan
+lengan robot ini bekerja sesuai instruksi pembacaan dari sensor warna dan sensor
+berat. Pada sistem ini, yang paling ditunjukkan yaitu bagaimana keakuratan sensor
+warna dan berat dalam mendeteksi warna dan berat serta keakuratan sistem
+pergerakan lengan robot yang dapat memposisikan derajat geraknya untuk
+meletakkan kotak berwarna dengan berat berbeda sesuai dengan wadahnya. Hasil
+pengujian membuktikan bahwa sistem pergerakan lengan robot yang telah
+diintegrasikan dengan sensor warna dan berat efisien dan efektif dalam melakukan
+kerjanya sebagai penyeleksi warna dan berat barang dengan akurat.
+TCS3200, loadcell, lengan robot, sistem kontrol

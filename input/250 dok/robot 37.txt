@@ -1,0 +1,14 @@
+RANCANG BANGUN RANGKAIAN PENGENDALI SUHU
+AIR PADA FOTOBIOREAKTOR VERTIKAL
+Fotobioreaktor vertikal merupakan alat simulasi untuk pengembangbiakan atau budidaya
+mikroalga. Fotobioreaktor yang ada akan disempurnakan yaitu adanya penambahan rangkaian pengendali
+suhu air dengan menggunakan sensor suhu LM35 dan mikrokontroler Atmega 16 sebagai pusat
+kontrolnya dengan maksud untuk mengendalikan suhu air yang dibutuhkan pada pertumbuhan
+mikroalganya. Prinsip kerja dari alat ini adalah mengendalikan suhu air sehingga tidak melebihi suhu
+optimal untuk pertumbuhan mikroalga, suhu yang terlalu tinggi yang diterima mikroalga dapat
+menurunkan tingkat pertumbuhannya. Hasil yang dicapai dari penelitian ini adalah suhu air pada drum
+mikroalga dapat terkontrol dalam arti tidak melebihi dari suhu optimal dari pertumbuhan mikroalga,
+sistem kontrol juga bekerja dengan baik karena dapat mengontrol keadaan pompa air sesuai dengan suhu
+yang dibutuhkan. Mikroalga yang dikembangkan dalam fotobioreaktor dapat bertahan hingga berumur 7
+hari.
+Fotobioreaktor vertikal, Sensor Suhu, Mikrokontroler ATmega16, Mikroalga

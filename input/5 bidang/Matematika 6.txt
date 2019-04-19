@@ -1,0 +1,16 @@
+Data dan informasi spasial dan temporal sangat berguna dalam upaya mengurangi jumlah kejadain 
+DBD di setiap daerah. Termasuk di Kabupaten Gorontalo yang belum memiliki informasi secara 
+spasial dan temporal mengenai kejadian DBD. Tujuan dari penelitian ini adalah untuk 
+menganalisis data dan informasi kejadian DBD di Kabupaten Gorontalo secara spasio-temporal. 
+Penelitian ini dilakukan di Kabupaten Gorontalo. Sebuah perangkat Sistem Informasi Geografis 
+(SIG) diaplikasikan dalam penelitian ini untuk melihat secara epidemiologi deskriptif yang 
+disajikan dalam bentuk peta, dan tabel yang kemudian digambarkan secara tumpang susun dengan 
+data kejadian DBD melalui Sistem Informasi Geografis (SIG). Hasil penelitian ini menunjukkan
+bahwa dalam enam tahun terakhir, sejak Tahun 2010 hingga Tahun 2016 Kabupaten Gorontalo 
+mengalami KLB DBD di Kecamatan Limboto, kemudian pada tahun 2013-2016 terdapat 9 Kecamatan 
+yang mengalami KLB DBD yakni Kecamatan Telaga, Telaga Jaya, Telaga Biru, Limboto Barat, Tilango, 
+Tibawa, Bilato dan Tabongo yang ditandai oleh peningkatan kasus pada setiap tahun di Wilayah bagian 
+Timur Kabupaten Gorontalo tepatnya berada di area Kawasan Danau Limboto. jika diverivikasi 
+menggunakan data curah hujan, Kejadian DBD di Kabupaten Gorontalo pada tahun 2011 hingga tahun 
+2015 tidak dipengaruhi oleh jumlah curah hujan akan tetapi berbeda dengan kejadian DBD pada 
+tahun 2016 yang justru dipengaruhi oleh jumlah curah hujan yang tinggi.

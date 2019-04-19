@@ -1,0 +1,17 @@
+PERANCANGAN JARINGAN KOMPUTER DISKLESS BERBASIS
+LINUX TERMINAL SERVER PROJECT PADA SISTEM OPERASI
+UBUNTU 8.04
+Linux Terminal Server Project (LTSP) merupakan sebuah proyek jaringan computer diskless
+berbasiskan sistem operasi GNU / linux yang dimulai oleh James A McQuillan. Komputer diskless
+adalah perangkat client atau workstation yang tidak dilengkapi dengan media penyimpanan tetap.
+Teknologi ini makin populer karena dapat menghemat sumber daya hardware. Dalam penelitian ini
+dirancang jaringan computer dengan menggunakan Personal Computer (PC) sekelas pentium D
+sebagai workstation, tanpa dilengkapi media penyimpanan dan PC sekelas pentium core 2 duo
+sebagai server. LTSP akan diintegrasikan pada sistem operasi linux ubuntu 8.04. Kemudian
+dilakukan pengujian performasi terhadap CPU server dan penggunaan memori server ketika client
+menggunakan aplikasi Openoffice, Gimp dan Firefox. Hasil penelitian menunjukkan bahwa server
+mampu melayani 8 client secara bersamaan. CPU usage dengan menjalankan tiga aplikasi tersebut
+masih dalam keseimbangan, yaitu berkisar antara 65 - 70% untuk user time, 30 -3 5% untuk system
+time dan 0 - 0,5% idle time. Penggalokasian swap muncul ketika nilai “free” berkisar antara 14.000
+Kbyte - 30.000 Kbyte.
+LTSP, Server, Diskless, Ubuntu

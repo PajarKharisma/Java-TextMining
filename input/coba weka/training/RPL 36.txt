@@ -1,0 +1,15 @@
+Pembangunan Media Pembelajaran Geografi Untuk Siswa Kelas VII Sekolah Menengah Pertama Negeri 1 Karangpandan Berbasis Multimedia Interaktif  : Media pembelajaran merupakan salah satu media yang dapat digunakan dalam melakukan
+pembelajaran dikelas. Dengan menggunakan media pembelajaran diharapkan dapat membuat
+pembelajaran di kelas menjadi lebih menarik dan tidak membosankan. Perkembangan teknologi saat
+ini sangat pesat, terutama teknologi komputer. Dengan teknologi komputer sekarang ini media
+pembelajaran bisa dibuat lebih menarik, dengan menggunakan Macromedia Director. Disekolahsekolah
+sebagian besar guru dalam menyampaikan pembelajaran masih banyak yang menggunakan pembelajaran konvensional dimana guru menerangkan siswa mendengarkan,kemudian mencatat.Hal ini jelas membuat pembelajaran menjadi kurang menarik. Kurang menariknya pembelajaran maupun cara pengajaran yang dilakukan oleh para guru
+yang konvensional, memotivasi kami untuk membuat media
+pembelajaran interaktif. Media pembelajaran interaktif yang kami buat adalah media pembelajaran interaktif
+untuk mata pelajaran geografi Sekolah Menengah Pertama Kelas VII. Adapun tujuan dari penelitian ini
+untuk membuat Media pembelajaran interaktif ini adalah agar pembelajaran semakin menarik, tidak
+membosankan dan tidak memerlukan waktu yang cukup banyak. Metode penelitian yang digunakan dalam
+penelitian ini adalah Kepustakaan, Observasi, Wawancara, Analisis Data, Perancangan Media
+Pembelajaran Interaktif, Pembuatan, Implementasi, Uji Coba Sistem, dan terakhir pengambilan kesimpulan
+dan saran.Dengan adanya media pembelajaran ini siswa tidak akan jenuh dan lebih semangat belajar, 
+siswa juga akan lebih berminat dalam mempelajari pelajaran geografi. Media Pembelajaran, Geografi

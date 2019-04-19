@@ -1,0 +1,14 @@
+﻿PENGEMBANGAN APLIKASI MUTABAAH TAHFIDZ ALQURAN
+UNTUK MENGEVALUASI HAFALAN
+Tahfidz al-qur’an merupakan salah satu matapelajaran di SMP IT Al - khoiriyyah dalam
+mengevaluasi hafalan al-quran peserta didiknya yang dicatat pada buku mutaba'ah tahfidz alqur’an. Dengan buku mutaba'ah tahfidz al-qur’an pengajar dapat mengevaluasi hafalan
+siswa / siswi dengan penilaian tertentu, sesuai dengan kemampuan hafalan siswa / siswi. Metode yang
+digunakan yaitu metodologi berorientasi objek dengan pendekatan unified software development
+process dan menggunakan pemodelan dari unified modeling language, sementara untuk pembuatan
+interface aplikasi menggunakan bahasa pemrograman java dan untuk databasenya menggunakan
+MySQL. Sebelumnya Khusna [7] melakukan perancangan aplikasi pembantu hafalan al-qur’an,
+dan menyarankan untuk menambahkan fitur pengujian hafalan. Fitur tersebut penting untuk diteliti
+mengingat manfaatnya bagi kegiatan tahfidz al-quran di SMP IT Al - khoiriyyah. Sehingga dengan
+adanya aplikasi mutabaah tahfidz alquran ini dapat membantu dalam melakukan evaluasi terhadap
+hafalan alquran.
+Aplikasi, evaluasi, hafalan, unified software development process

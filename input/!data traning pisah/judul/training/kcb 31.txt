@@ -1,0 +1,1 @@
+Prototype Sistem Pakar untuk Mendeteksi Tingkat Resiko Penyakit Jantung Koroner dengan Metode Dempster - Shafer (Studi Kasus: RS. PKU Muhammadiyah Yogyakarta)

@@ -1,0 +1,17 @@
+RANCANG BANGUN PROXY SERVER DAN ANALISIS
+PEMAKAIAN INTERNET DENGAN MENGGUNAKAN SARG
+(STUDI KASUS DI BMKG JUANDA SURABAYA) Proxy server saat ini mulai banyak dimanfaatkan perusahaan-perusahaan di Indonesia. Pemakaian proxy
+server sejalan dengan banyaknya perusahaan yang memanfaatkan teknologi informasi, salah satunya adalah
+internet. Penggunaan internet di perusahaan banyak yang digunakan untuk kegiatan permainan online, video
+streaming, jejaring sosial, ataupun chatting, sehingga bandwidth internet perusahaan seberapapun besarnya
+tetap tidak akan mencukupi kebutuhan akan bandwidth internet. Oleh karena itu, diperlukan suatu
+manajemen pemakaian teknologi informasi. Proxy server merupakan salah satu solusi yang dapat digunakan,
+dimana dengan proxy server pihak manajemen perusahaan akan dapat membatasi pemakaian bandwith
+internet, pengaturan penggunaan internet dan mengurangi serangan virus, worm, spyware dan DDOS
+(Distributed Denial of Service). Pembuat laporan pemakaian internet, dan situs yang dikunjungi pengguna
+sangat sulit dilakukan dan membutuhkan waktu yang sangat lama. SARG merupakan salah satu solusi yang
+dapat dimanfaatkan oleh perusahaan dalam membantu manajemen dalam melakukan alokasi bandwidth dan
+mengatur penggunaan internet dengan cara yang sangat mudah dan cepat. Dengan pemanfaatan SARG,
+pengaturan bandwith, penggunaan internet dan pembuatan laporan pemakaian internet dapat dilakukan 80%
+lebih cepat dibandingkan cara manual.
+ proxy server, squid, jaringan komputer, bandwidth, manajemen jaringan.

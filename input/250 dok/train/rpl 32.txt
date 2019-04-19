@@ -1,0 +1,18 @@
+﻿﻿RANCANG BANGUN APLIKASI PENYEWAAN DAN PENGELOLAAN
+DATA ALAT KEMPING BERBASIS DESKTOP PADA PERUSAHAAN
+PERORANGAN RZ ADVENTURE
+Kemajuan teknologi informasi sekarang ini berkembang pesat dari zaman ke
+zaman. Perkembangan teknologi informasi dalam penyewaan serta pengolahan data alat kemping
+pada PO (Perusahaan Perorangan) Rz Adventure. Rz Adventure merupakan suatu hal yang sangat
+penting dalam melakukan kegiatan melaksanakan penyewaan dan pengelolaan data alat kemping.
+Dengan demikian maka dibutuhkan Perangkat lunak yang dapat membantu untuk penyewaan serta
+pendataan alat dan diintegritasi dengan Basis Data yang handal. Hal ini dimaksudkan agar proses
+penyewaan dan pengelolaan data lebih cepat dan akurat serta informasi yang dihasilkan bisa lebih
+bermanfaat bagi pegawai yang membutuhkan. Penyewaan merupakan sebuah persetujuan di mana
+sebuah pembayaran dilakukan atas penggunaan suatu barang atau properti secara sementara oleh
+orang lain. Barang yang dapat disewa bermacam - macam, tarif dan lama sewa juga bermacam macam. Pembuatan Aplikasi ini hanya membahas penyewaan dan pengelolaan data alat,
+memasukan data penyewa, pengembalian dan penghapusan data barang secara efektif. Sedangkan
+bahasa pemrograman yang dipakai adalah Java NetBeans dan database mengunakan MySQL.
+Pembuatan Aplikasi Penyewaan di Rz Adventure mempermudah dalam aktifitas penyewaan dan
+proses pengembalian yang efektif serta efisien.
+Aplikasi, Penyewaan, Pengelolaan data, Unified Approach (UA).

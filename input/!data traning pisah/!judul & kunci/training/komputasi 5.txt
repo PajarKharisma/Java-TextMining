@@ -1,0 +1,2 @@
+PENERAPAN DECISION TREE UNTUK PENENTUAN POLA DATA PENERIMAAN MAHASISWA BARU Data Mining, Model Klasifikasi, Decision Tree, Algoritma ID3, Penerimaan
+Mahasiswa Baru

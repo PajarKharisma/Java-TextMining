@@ -1,0 +1,22 @@
+Implementasi Analytical Hierarchy Process (AHP)
+untuk Penilaian Kinerja pada Bagian Customer Service
+Representative (CSR) di PT. Bank Permata Tbk.
+Salah satu faktor yang diperlukan dalam meningkatkan kinerja produktivitas suatu perusahaan
+adalah kualitas sumber daya manusia (SDM). Kualitas sumber daya manusia diperlukan dengan
+kompetensi tinggi guna peningkatan kinerja karyawan di sebuah perusahaan. Salah satu indikator
+yang digunakan dalam penilaian kinerja adalah dengan prestasi yang telah dicapai setiap
+karyawan. Bank permata sebagai salah satu bank dengan reputasi sebagai bank dengan kualitas
+layanan terbaik yang menawarkan produk dan jasa inovatif serta komprehensif. Bank Permata
+memiliki beberapa bagian diantaranya adalah Customer Service, bagian Support dan bagian
+Quality Assurance. Bank Permata dalam menjalankan roda bisnisnya menerapkan proses
+penilaian kinerja karyawan salah satunya bagian Customer Service Representative (CSR). Proses
+penilaian kinerja karyawan merupakan proses rumit yang membutuhkan parameter - parameter
+yang digunakan diambil dari sistem lain. Analytic Hierarchy Process (AHP) merupakan slah satu
+metode yang dapat digunakan dalam menyelesaikan masalah yang proses penilaian kinerja
+karyawan. Proses penilaian kinerja pada bagian CSR akan diimplementasikan dalam sebuah
+aplikasi menggunakan java dengan framework Hibernate dan MySQL. Pembuatan aplikasi ini
+diharapkan dapat menghasilkan nilai kinerja karyawan yang dapat dijadikan dasar alternatif
+pengambilan keputusan yang dapat dipertanggungjawabkan dalam menentukan karyawan terbaik
+pada bagian CSR dengan menggunakan metode AHP.
+Analytical Hierarchy Process, Customer Service Representative (CSR), Framework
+Hibernate, Java, MySQL

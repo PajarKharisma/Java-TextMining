@@ -1,0 +1,19 @@
+Internet merupakan bagian penting dari kehidupan sehari-hari. Saat ini, tidak hanya dari 
+anggota keluarga dan teman-teman, tetapi juga dari orang asing yang berlokasi diseluruh 
+dunia yang mungkin telah mengunjungi restoran tertentu. Konsumen dapat memberikan pendapat 
+mereka yang sudah tersedia secara online. Ulasan yang terlalu banyak akan memakan banyak 
+waktu dan pada akhirnya akan menjadi bias. Klasifikasi sentimen bertujuan untuk mengatasi 
+masalah ini dengan cara mengklasifikasikan ulasan pengguna ke pendapat positif atau negatif. 
+Algoritma Naïve Bayes (NB) adalah tekhnik machine learning yang populer untuk klasifikasi teks, 
+karena sangat sederhana, efisien dan memiliki performa yang baik pada banyak domain. 
+Namun, naïve bayes memiliki kekurangan yaitu sangat sensitif pada fitur yang terlalu banyak, 
+sehingga membuat akurasi menjadi rendah. Oleh karena itu, dalam penelitian ini menggunakan 
+Information Gain (IG) untuk seleksi fitur dan metode adaboost untuk mengurangi bias agar 
+dapat meningkatkan akurasi algoritma naïve bayes. Penelitian ini menghasilkan klasifikasi 
+teks dalam bentuk positif dan negatif dari review restoran. Pengukuran naïve baye berdasarkan 
+akurasi sebelum dan sesudah penambahan metode seleksi fitur. Validasi dilakukan dengan 
+menggunakan 10 fold cross validation. Sedangkan pengukuran akurasi diukur dengan confusion 
+matrix dan kurva ROC. Hasil penelitian menunjukkan peningkatan akurasi naïve bayes dari 
+73.00% jadi 81.50% dan nilai AUC dari 0.500 jadi 0.887. Sehingga dapat disimpulkan bahwa 
+integrasi metode information gain dan adaboost pada analisis sentimen review restoran 
+ini mampu meningkatkan akurasi algoritma naïve bayes.

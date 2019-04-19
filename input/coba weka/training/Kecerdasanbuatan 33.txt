@@ -1,0 +1,18 @@
+SISTEM PAKAR MENDIAGNOSIS PENYAKIT KULIT PADA MANUSIA
+BERBASIS WEB Kulit adalah salah satu organ terpenting pada manusia, karena melalui kulit kita dapat
+merasakan rasa dan permukaan sebuah benda. Apabila kulit terserang penyakit maka akan
+banyak akibat yang akan ditimbulkannya, mulai dari yang ringan yaitu terasa gatal atau
+sampai yang berat yakni kulit tidak dapat merasakan apapun.
+Berdasarkan permasalahan yang ada didalam lingkungan masyarakat diciptakan suatu
+aplikasi yang dapat membantu masyarakat untuk dapat mengenali penyakit kulit yang
+diderita, sehingga tingkat kesadaran akan menjaga kebersihan makin tinggi, yakni aplikasi
+sistem pakar penyakit kulit. Perancangan sistem pakar ini mengguna kan pemrograman PHP
+dan menggunakan database My SQL sebagai penyimpanan data. Sistem pakar ini
+menggunakan metode penalaran forward chaining . Sistem pakar ini nantinya dapat
+menghasilkan diagnosa penyakit kulit serta pengobatan dan solusi pencegahan yang perlu
+dilakukan.
+Dengan adanya aplikasi ini tentunya sangat membantu masyarakat mengenali penyakit yang
+dideritanya sehingga tersadar untuk merujuknya ke dokter ahli. Dengan adanya sistem pakar
+ini seorang pakar (dokter) akan terbantu sebagian tugasnya karena tidak perlu lagi mengirangira penyakit yang diderita pasien sehingga pada nantinya akan terjadi kesalahan perkiraan
+karena daya ingat.
+ Sistem Pakar, Penyakit kulit, Forward Chaining

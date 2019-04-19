@@ -1,0 +1,20 @@
+SISTEM PAKAR DIAGNOSA PENYAKIT TANAMAN PADI
+BERBASIS WEB DENGAN FORWARD DAN
+BACKWARD CHAINING
+Tanaman padi dapat diserang berbagai macam penyakit, penyakit tersebut dapat
+diketahui dari gejala - gejala yang ditimbulkannya, akan tetapi untuk mengetahui secara tepat
+jenis penyakit yang menyerang padi tersebut, memerlukan seorang pakar / ahli pertanian.
+Sedangkan jumlah pakar pertanian terbatas dan tidak dapat mengatasi permasalahan petani
+dalam waktu yang bersamaan, sehingga diperlukan suatu sistem yang mempunyai kemampuan
+seperti seorang pakar, yang mana didalam sistem ini berisi pengetahuan keahlian seorang
+pakar pertanian mengenai penyakit dan gejala tanaman padi. Pada penelitian ini dirancang
+sistem pakar berbasis web menggunakan basis aturan (rule based reasoning) dengan metode
+inferensi forward chaining dan backward chaining yang dimaksudkan untuk membantu petani
+dalam mendiagnosa penyakit tanaman padi. Sistem pakar diagnosa penyakit tanaman padi
+berbasis web yang telah dikembangkan mempunyai keunggulan dalam kemudahan akses dan
+kemudahan pemakaian. Dengan fitur yang berbasis web yang dimiliki, sistem pakar untuk
+diagnosa penyakit tanaman padi yang telah dibangun dapat digunakan sebagai alat bantu
+untuk diagnosa penyakit tanaman padi dan dapat diakses oleh petani dimanapun juga untuk
+mengatasi persoalan keterbatasan jumlah pakar pertanian dalam membantu petani
+mendiagnosa penyakit tanaman padi.
+backward chaining, forward chaining, rule based reasoning, tanaman padi

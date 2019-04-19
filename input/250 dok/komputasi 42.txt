@@ -1,0 +1,15 @@
+Klasifikasi Data Karyawan Untuk Menentukan Jadwal Kerja
+Menggunakan Metode Decision Tree
+Data mining merupakan suatu proses untuk menemukan informasi - informasi yang bermanfaat dari
+sekumpulan database yang berukuran besar. Salah satu teknik yang ada pada data mining adalah klasifikasi.
+Dengan menerapkan teknik klasifikasi pada data - data karyawan dan jadwal kerja, diharapkan nantinya dapat
+menghasilkan suatu pola - pola tertentu. Dan dari pola - pola tersebut dapat dibuat jadwal kerja yang baru.
+menggunakan adalah metode Decision Tree dan algoritma yang digunakan untuk membentuk pohon
+keputusan adalah algoritma C4.5. Metode Decision Tree merupakan metode yang merubah fakta yang sangat
+besar menjadi sebuah pohon keputusan yang mereprentasikan aturan - aturan. Pohon keputusan ini juga
+berguna untuk mengeksplorasi data, serta menemukan hubungan tersembunyi antara sejumlah calon variabel
+input dengan sebuah variabel target. Banyak algoritma yang dapat dipakai dalam pembentukan pohon
+keputusan, antara lain ID3, C4.5, CART. Algoritma C4.5 merupakan pengembangan dari algoritma ID3.
+Algoritma C4.5 membuat pohon keputusan dari atas ke bawah, dimana atribut paling atas merupakan akar,
+dan yang paling bawah dinamakan daun.
+Data mining, jadwal kerja, Decision Tree, algoritma C4.5.

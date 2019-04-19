@@ -1,0 +1,9 @@
+Quadrotor Qball-X4 merupakan pesawat tanpa awak dengan empat motor yang polanya diletakkan secara menyilang. 
+Quadrotor sebagaimana fungsinya, harus memiliki keseimbangan yang baik saat terbang, terutama pada gerak 
+rotasi dan translasi yang sangat mempengaruhi terbang Quadrotor. Gerak lateral merupakan gerak Quadrotor 
+secara horizontal pada ketinggian atau gerak translasi, gerakan ini sangat vital untuk memenuhi kebutuhan 
+Quadrotor dalam mencapai way-to-way point yang telah ditentukan sehingga diperlukan kontroler untuk
+menstabilkannya. Sistem kontrol yang digunakan pada Quadrotor untuk mengatur gerak translasi sumbu X 
+dan sumbu Y menggunakan kontroler LQR sehingga penentuan parameter-parameter harus tepat agar 
+didapatkan kestabilan yang diinginkan saat melakukan gerak lateral.Nilai parameter yang didapatkan 
+dari hasil tuning terstruktur pada simulasi kontroler LQR untuk pengendalian sumbu X dan Y diperoleh Q=1000 R=0.3.

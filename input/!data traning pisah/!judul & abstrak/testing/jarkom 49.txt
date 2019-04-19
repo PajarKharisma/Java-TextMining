@@ -1,0 +1,14 @@
+IMPLEMENTASI QUALITY OF SERVICE DENGAN METODE HTB (HIERARCHICAL
+TOKEN BUCKET) PADA PT.KOMUNIKA LIMA DUABELAS 
+Penggunaan bandwidth di sebuah  jaringan seringkali kurang dimanfaatkan secara optimal. 
+Sering juga kita menemukan pengguna yang tidak di ketahui karena tidak adanya sistem yang
+mengatur itu sehingga membuat sembarang orang dapat masuk dan menggunakan bandwidth pada
+suatu tempat dengan seenaknya dan merugikan pihak tertentu. Quality of Service (QoS) bukan
+membatasi tetapi lebih kepada menjaga kualitas bandwidth, tanpa adanya Quality of Service dalam
+sebuah Jaringan Intranet mengakibatkan ketidaksinambungan bandwidth yang diterima client. 
+Berdasarkan hasil penelitian yang telah dilakukan, Setiap paket memperoleh bandwidth
+minimal pada CIR (Committed Information Rates) dan  lebih dari CIR tetapi tidak melebihi MIR
+(Maximum Information Rates), Selama traffic pada parentnya tidak penuh, serta pemerataan
+bandwidth sesuai prioritasnya saat kondisi traffic  seluruh paket penuh. Hierarchical Token Bucket
+(HTB) mampu memaksimalkan bandwidth yang tidak terpakai, sehingga kualitas pelayanan menjadi
+lebih meningkat. 

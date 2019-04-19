@@ -1,0 +1,19 @@
+SISTEM UNTUK DETEKSI KERUSAKAN MESIN DIESEL
+MOBIL PANTHER DENGAN METODE NAÏVE BAYES
+Penggunakan mobil membuat masyarakat lebih luas untuk memenuhi segala
+keperluannya, karena mobil merupakan alat transportasi kedua yang banyak digunakan
+masyarakat setelah sepeda motor. Keterbatasan pengetahuan dalam mengidentifikasi
+kerusakan yang terjadi pada mobil sering kali menyulitkan pengguna mobil untuk memperbaiki.
+Sistem ini dibangun untuk memprediksi kerusakan mobil dengan menggunakan penerapan
+metode naive beyes. Metode ini mampu menjadi solusi dari permasalahan diatas, karena naive
+beyes mampu memprediksi peluang di masa sebelumnya. Metode ini merupakan metode yang
+baik untuk pembelajaran berdasarkan data training, dengan menggunakan probabilitas bersyarat
+sebagai dasarnya dengan tingkat klasifikasi sederhana serta mudah dalam
+pengimplementasiannya. Sistem ini dibuat dengan mengambil data dari bengkel gunawan yang
+terdiri dari data kerusakan, gejala dan cara penanganannya yang kemudian akan dimasukkan
+kedalam rumus naïve bayes, guna mencari hasil yang akurat. Hasil berupa keluaran perhitungan
+data yang dilakukan sistem adalah menampilkan data kerusakan yang terjadi beserta solusi dari
+kerusakan. Dari hasil yang telah dilakukan sistem, kemudian akan dihitung dengan akurasi dari
+data manual dengan data yang dilakukan sistem. Hasil yang didapat dari perhitungan akurasi
+yaitu 85%, dihitung dari perbandingan data yang diperoleh.
+Mesin Diesel, Konsultasi, Naive Bayes, Website

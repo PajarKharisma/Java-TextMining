@@ -1,0 +1,20 @@
+SISTEM PAKAR UNTUK MENDIAGNOSA PENYAKIT GIGI DENGAN TEOREMA BAYES Penyakit gigi pada manusia menduduki urutan
+pertama dari daftar 10 besar penyakit yang paling
+sering dikeluhkan masyarakat Indonesia. Tujuan dari
+penelitian ini adalah membuat aplikasi sistem pakar
+untuk diagnosa penyakit gigi. Aplikasi ini akan
+mendiagnosa penyakit dengan forward chaining dan
+menghitung nilai kemungkinan dengan teorema
+Bayes. Metode yang dilakukan adalah dengan
+membuat decision tree, lalu melakukan penelusuran
+dengan forward chaining, dan dihitung nilai
+kemungkinannya dengan Bayes. Hasil yang dicapai
+aplikasi dengan teorema Bayes dari empat belas
+penyakit yang dapat terdeteksi dengan nilai rata-rata
+kemungkinan 98,3%. Simpulan yang diperoleh yaitu
+aplikasi sistem pakar ini dapat mendiagnosa penyakit
+gigi dengan cukup akurat dan dapat membantu dalam
+mengatasi masalah penyakit gigi. sistem pakar
+forward chaining
+teorema Bayes
+penyakit gigi

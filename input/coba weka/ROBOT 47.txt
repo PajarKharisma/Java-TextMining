@@ -1,0 +1,22 @@
+RANCANG BANGUN SISTEM PENGISIAN BATERAI SECARA CEPAT
+DAN PEMUTUS ARUS OTOMATIS DENGAN REGULATOR LM338K Zaman modern seperti ini kebutuhan manusia ingin segalanya serba cepat. Pelayanan
+yang cepat membuat waktu yang terbuang dapat dimanfaatkan sebaik mungkin. Begitu
+juga pada pengisian baterai yang berada pada kendaraan dan peralatan elektronika yang
+digunakan. Baterai adalah komponen yang mampu menyimpan energi listrik yang cukup
+lama, sehingga memiliki peran yang penting. Kebanyakan pengisi baterai yang ada saat
+ini memiliki waktu pengisian yang lama dan tidak mampu memutus secara otomatis,
+sehingga beresiko overcharge. Harga pengisian baterai yang dilengkapi pemutus juga
+masih relativ mahal. Penelitian ini dimaksudkan untuk merancang suatu sistem pengisian
+baterai secara cepat dan memutus aliran arus secara otomatis. Metode pengisian yang
+dilakukan ialah secara cepat agar mempersingkat durasi waktu pengisian. Perancangan
+sistem yang dihasilkan ialah baterai charger yang terdiri dari rangkain transformator 5A
+step down sebagai penurun tegangan dari 220V menjadi 0 sampai 15V, diode 5A sebagai
+komponen penyearah arus dan tegangan, IC regulator LM338k sebagai pengendali
+tegangan keluaran dan TIP122 sebagai komponen pemutus arus. Dalam pengujian
+produk tegangan keluaran dari alat ini 12,9 Volt dan tegangan awal pada baterai adalah
+10,2 Volt. Pengisian dilakukan selama 2,5 jam dan pada tiap 15 menit dilakukan
+pengecekan, 15 menit pertama tegangan yang dihasilkan ialah 10,7 Volt. Menit 30 dan
+45 tegangan masuk konstan 0,1 Volt, menit ke 60 dan 75 hasilnya sama 11, 8Volt, menit
+ke 90 sampai 120 kenaikan tegangan konstan 0,1 Volt, menit ke 135 sampai 150 naik
+0,2 Volt dan konstan 12,3 Volt.
+ Baterai, diode, lm338k, transformator, tip122.

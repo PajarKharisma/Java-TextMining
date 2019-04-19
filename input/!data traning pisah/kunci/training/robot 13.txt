@@ -1,0 +1,1 @@
+robot humanoid, warna bola, tracking, metode greedy.

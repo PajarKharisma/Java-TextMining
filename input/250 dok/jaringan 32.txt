@@ -1,0 +1,22 @@
+PENGEMBANGAN SISTEM REMOTE ACCESS JARINGAN BERBASIS CLIENT
+SERVER
+Penerapan jaringan komputer pada laboratorium jaringan komputer membutuhkan sistem
+manajemen jaringan, fungsi manajemen jaringan menggunakan sistem remote access ialah sebagai
+aplikasi manajemen sebuah jaringan agar bisa memonitor dan mengontrol suatu jaringan dari lokasi
+tertentu pada jaringan berbasis client server, Tujuan penelitian adalah membuat aplikasi sistem
+remote access untuk mengontrol beberapa client yang sedang aktif didalam jaringan dan
+melengkapi fungsi manajemen jaringan komputer lokal. Metode yang digunakan pada penelitian ini
+adalah metode RSJK (Rekayasa Sistem Jaringan Komputer) untuk analisis rekayasa sistem jaringan
+Lokal dan Pengembangan perangkat lunak menggunakan metode The Linear Sequential untuk
+perancangan antar muka remote acces. Rancangan jaringan komputer lokal berbentuk client server
+dengan topologi star. Hasil penelitian menunjukkan bahwa perangkat lunak yang dikembangkan ini
+dapat membantu mempermudah administrator jaringan melakukan pemantauan terhadap
+penggunaan komputer dengan memanfaatkan jaringan, Stabilitas aktifitas yang terjadi pada jaringan
+bisa terpantau oleh Administrator server (Tutor) meskipun jumlah tutor terbatas sehingga proses
+evaluasi praktikum bisa terpantau tanpa langsung menemui secara langsung ke tempat komputer
+client, Manfaat jaringan komputer seperti resource sharing, efektif dan efisien dan hingga menekan
+biaya operasional menjadi alasan penting dalam munculnya teknologi jaringan oleh karena itu agar
+pemanfaatan teknologi jaringan komputer bisa maksimal maka penting sekali menerapkan sistem
+manajemen jaringan bagi seorang administrator pada jaringan lingkup LAN atau lingkup jaringan
+besar agar setiap kesalahan dalam rekayasa sistem jaringan bisa terhindari seminimal mungkin.
+Client Server, Jaringan, Manajemen Jaringan, Remote Access

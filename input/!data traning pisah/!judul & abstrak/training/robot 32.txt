@@ -1,0 +1,16 @@
+Perancangan Fuzzy Logic Model Sugeno untuk Wall
+Tracking pada Robot Pemadam Api
+Robot pemadam api merupakan robot yang dibuat dengan tujuan memadamkan api pada
+daerah yang sulit untuk dijangkau manusia. Robot Pemadam Api harus memiliki kemampuan
+navigasi yang handal dalam menyelesaikan misinya dengan menerapkan metode yang baik.
+Terdapat beberapa metode navigasi pada Robot Pemadam Api, salah satunya wall tracking.
+Pada makalah ini dipaparkan penerapan kendali fuzzy logic untuk metode navigasi wall
+tracking. Dalam proses pengujian terdapat keterlambatan respon pada fuzzy logic, namun
+dapat diatasi dengan melakukan perhitungan fuzzy logic diluar sub program navigasinya.
+Dengan cara demikian robot yang menerapkan fuzzy logic untuk wall tracking mencatatkan
+waktu rata-rata memadamkan api dan kembali ke home sebesar 66,7 detik untuk start di lorong
+dan 36,5 detik untuk start di ruang 1 pada sampling jarang dan robot mencatatkan waktu 63,4
+detik untuk start di lorong dan 34,9 detik untuk start di ruang 1 pada sampling rapat. Catatan
+waktu tersebut lebih kecil jika dibandingkan dengan robot yang tidak menerapkan fuzzy logic
+untuk wall tracking yang mencatatkan waktu sebesar 78,1 detik untuk start di lorong dan 44,8
+detik untuk start di ruang 1.

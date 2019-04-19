@@ -1,0 +1,32 @@
+﻿Rancang Bangun Video Animasi 3 Dimensi
+Untuk Mekanisme Pengujian Kendaraan
+Bermotor di Dinas Perhubungan, Kebudayaan,
+Pariwisata, Komunikasi dan Informasi
+Pemerintah telah menetapkan aturan
+undang-undang yang mewajibkan kendaraan bermotor
+untuk diuji pertama dan secara berkala kondisi kendaraan
+bermotor tersebut. Maka Dinas Perhubungan,
+Kebudayaan, Pariwisata, Komunikasi dan Informasi
+(Dishubbudparkom) di daerah Kota Kotamobagu sudah
+selayaknya memiliki sebuah media informasi yang dapat
+digunakan sebagai alat pemandu pemilik kendaraan
+bermotor untuk pendaftaran pengujian kendaraan dalam
+bentuk video animasi 3 dimensi.
+Pada pembuatan Video Animasi 3D ini, proses dimulai
+dengan menentukan ide dan tema, wawancara,
+mengumpulkan data hingga merancang storyboard. Setelah
+itu melakukan proses modeling, teksturing, riging,
+animating camera operation hingga pada tahap rendering
+dengan meggunakan aplikasi blender dan makehuman
+untuk kemudian menjadi potongan - potongan adegan dari
+video animasi 3 dimensi. Setelah proses pembuatan adegan
+selesai, maka dilanjutkan proses penggabungan adegan
+yang telah dibuat di aplikasi blender dan penambahan teks
+serta audio menggunakan software Adobe premiere pro cs5
+dan adobe soundbooth. Tahap terakhir adalah proses final
+rendering yang menghasilkan Video Animasi 3 dimensi
+secara keseluruhan mejadi format file .avi beresolusi
+720×576 pixel berdurasi 11 menit 54 detik dan ukuran file
+2.52 GB
+Blender, Dishubbudparkom, Animasi 3D,
+Pengujian Kendaraan Bermotor

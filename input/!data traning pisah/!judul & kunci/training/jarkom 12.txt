@@ -1,0 +1,3 @@
+Implementasi Komunikasi Data Berbasis ZigBee pada
+SCADA (Supervisory Control and Data Acquisition) PLTMh Pusat Listrik Tenaga Mikrohidro (PLTMh)  WSN, ZigBee, SCADA, Pusat Listrik Tenaga
+Mikrohidro(PLTMh)

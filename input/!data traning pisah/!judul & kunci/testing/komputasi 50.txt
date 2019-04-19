@@ -1,0 +1,3 @@
+Perbandingan Kinerja Algoritma Decision Tree dan Naive
+Bayes dalam Prediksi Kebangkrutan
+Kinerja algoritma Decision Tree, Naive Bayes, Kebangkrutan.

@@ -1,0 +1,16 @@
+﻿Rancang Bangun Sistem Tracer Study Online
+pada STMIK AMIKOM PURWOKERTO
+Penelitian ini bertujuan untuk merancang / memodelkan sistem tracer study menggunakan perancangan berorientasi objek dan
+membangun sistem online yang terintegrasi dengan data DIKTI sehingga dapat digunakan oleh STMIK AMIKOM Purwokerto
+memudahkan dalam sistem tracer study untuk : (i) kepentingan evaluasi capaian kompetensi, kajian keunggulan outcomes
+yang meliputi keunggulan STMIK AMIKOM Purwokerto dan keunggulan prodi; (ii) kepentingan proses evaluasi berkelanjutan
+kurikulum, ko kurikuler dan ekstra kurikuler serta aktivitas pengembangan akademik baik di level sekolah tinggi maupun
+program studi; (iii) kepentingan - kepentingan akreditasi khususnya BAN PT dan PDPT. Model pengembangan sistem yang
+digunakan dalam penelitian ini menggunakan Rapid Application Development dengan pertimbangan sedikitnya waktu dan
+tenaga profesional yang dibutuhkan sehingga mengurangi biaya operasional. Dari hasil perancangan dan pembuatan sistem
+tracer study online dapat disimpulkan bahwa :1. Sistem dapat digunakan untuk mengelola hasil tracer studi yang dilakukan
+secara online dengan baik karena data terpusat pada satu server dan sewaktu - waktu dibutuhkan dapat dicari dengan
+mudah.2. Sistem dapat memudahkan alumni untuk memberikan informasi tentang alumni yang bersangkutan kepada STMIK
+AMIKOM Purwokerto utuk selanjutnya data tersebut menjadi data yang sangat berharga untuk menentukan kebijakan yang
+akan diambil oleh manajemen dalam rangka meningkatkan kualitas lulusan.
+Tracer Study, Kuisioner, DIKTI, Rapid Application Development (KEBANYAKAN)

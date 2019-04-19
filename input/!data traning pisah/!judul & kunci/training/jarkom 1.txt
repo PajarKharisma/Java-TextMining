@@ -1,0 +1,2 @@
+Analisis Kelemahan Keamanan pada Jaringan Wireless Pemakaian perangkat teknologi berbasis wireless 
+MAC filtering, pemasangan infrastruktur captive portal. wireless,kelemahan, keamanan, WEP, dan enkripsi.

@@ -1,0 +1,20 @@
+Prototype Sistem Pakar untuk Mendeteksi Tingkat Resiko Penyakit
+Jantung Koroner dengan Metode Dempster-Shafer
+(Studi Kasus: RS. PKU Muhammadiyah Yogyakarta)
+Sistem pakar dapat berfungsi sebagai konsultan yang memberi saran kepada pengguna
+sekaligus sebagai asisten bagi pakar. Salah satu cara untuk mengatasi dan membantu
+mendeteksi tingkat resiko penyakit JK seseorang, yaitu dengan membuat sebuah sistem pakar
+sebagai media konsultasi dan monitoring terhadap seseorang sehingga dapat meminimalkan
+terjadinya serangan jantung yang mengakibatkan kematian. Metode Dempster-Shafer
+merupakan metode penalaran non monotonis yang digunakan untuk mencari
+ketidakkonsistenan akibat adanya penambahan maupun pengurangan fakta baru yang akan
+merubah aturan yang ada, sehingga metode Dempster-Shafer memungkinkan seseorang aman
+dalam melakukan pekerjaan seorang pakar. Penelitian ini bertujuan menerapkan metode
+ketidakpastian Dempster-Shafer pada sistem pakar untuk mendiagnosa tingkat resiko
+penyakit JK seseorang berdasarkan faktor serta gejala penyakit JK. Manfaat penelitian ini
+adalah untuk mengetahui keakuratan mesin inferensi Dempster-Shafer.
+Hasil diagnosa penyakit JK yang dihasilkan oleh sistem pakar sama dengan hasil
+perhitungan secara manual dengan menggunakan teori mesin inferensi Dempster-Shafer.
+Sehingga dapat disimpulkan bahwa sistem pakar yang telah dibangun dapat digunakan untuk
+mendiagnosa PJK.
+Dempster-Shafer, Jantung Koroner, Sistem Pakar

@@ -1,0 +1,15 @@
+Prototype Sistem Pengisian Dus Otomatis
+dengan Robotik Berbasis PLC
+(Programmable Logic Controller)
+Penelitian ini bertujuan untuk menciptakan suatu prototype yang bisa membantu dalam proses
+pengepakan khususnya dalam proses pengisian dus yang bekerja secara otomatis dengan menggunakan PLC
+sebagai kontrol dan motor DC sebagai penggerak robotik sehingga nantinya dapat digunakan dalam dunia
+industri. Metode penelitian yang digunakan adalah metode penelitian pengembangan (research and
+development). Penelitian ini digunakan untuk menghasilkan produk tertentu dan menguji kefektifan produk
+tersebut. Prosedur dalam penelitian ini yaitu menentukan potensi dan masalah, mengumpulkan data dan
+informasi, desain produk, validasi desain, revisi desain, pengujian alat, uji kelayakan alat, analisis data dan
+terakhir menarik kesimpulan. Hasil penelitian laboratorium menunjukkan bahwa unjuk kerja prototype
+mampu untuk melakukan tugasnya sesuai dengan desain kerja. Penilaian tingkat kelayakan prototype
+dibagi dalam beberapa aspek. Penilaian Ahli, aspek desain dan unjuk kerja memperoleh hasil skor 81,25%.
+Aspek kemudahan pengoperasian mendapatkan hasil skor 87,5%. Aspek manfaat mendapatkan hasil skor
+76,25%.

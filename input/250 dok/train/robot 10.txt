@@ -1,0 +1,13 @@
+KONTROL PENJEJAK DINDING PADA KURSI RODA ROBOTIK
+DENGAN BATASAN PENGUKURAN SUDUT ORIENTASI DAN JARAK
+Pada makalah ilmiah ini disajikan desain sistem kontrol penjejak dinding pada kursi roda robotik dengan keterbatasan
+pembacaan sensor. Rangkaian sensor ultrasonik digunakan untuk menentukan jarak dan sudut orientasi dari kursi roda
+robotik terhadap dinding yang menjadi acuan. Algoritma kontrol diturunkan menggunakan fungsi Lyapunov Barrier
+untuk menjamin kestabilan asimtotik dari sistem dengan batasan pengukuran sudut orientasi dan jarak dari sensor
+ultrasonik. Hasil simulasi menunjukkan perbedaan antara algoritma kontrol yang menggunakan fungsi Barrier, dimana
+sudut orientasi dan jarak tidak keluar dari batasan kemampuan sensor ultrasonik, dan yang tidak, dimana sudut orientasi
+dan jarak dapat keluar dari batasan. Hasil eksperimen dari implementasi algoritma kontrol memperlihatkan kursi roda
+robotik dapat bergerak dengan jarak yang diinginkan dari dinding dengan mempertahankan jarak dan sudut orientasi
+tidak melebihi batasan kemampuan dari sensor ultrasonik.
+Kursi roda robotik, batasan sudut orientasi dan jarak, kontrol penjejak dinding, sensor ultrasonik, fungsi
+Lyapunov Barrier

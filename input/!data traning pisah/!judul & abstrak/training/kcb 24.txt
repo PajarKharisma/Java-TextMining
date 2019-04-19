@@ -1,0 +1,17 @@
+DETEKSI KERUSAKAN NOTEBOOK DENGAN MENGGUNAKAN
+METODE SISTEM PAKAR Sistem pakar dengan kemampuan diagnosa notebook adalah si stem pakar yang 
+digunakan untuk mendiagnosa berbagai  macam jeni s kerusakan yang terjadi  pada notebook.
+Jenis kerusakan notebook yang dapat di diagnosa oleh si stem pakar ini  adalah kerusakan LCD, 
+Motherboard, Hardisk, Fdd, CD/ DVD/ CDRW/ DVDRAM, Keyboard, Modem, Ethernet,
+Processor, bloothooth, mouse, baterai dan lai n sebagai nya. Salah satu kelebi han dari si stem
+pakar di agnosa kerusakan notebook ti dak membatasi penggunaan si stem, selai n i tu proses
+pemeriksaan kerusakan notebook mempertimbangkan muncul nya gejala khas paska seti ap 
+kerusakan, sehi ngga menyebabkan proses pendiagnosaan memakan waktu yang relati f si ngkat
+dan tepat. Dalam proses penarikan kesimpul an sistem menggunakan tekni k Certai nty factor
+(CF), di mana penentuan nil ai CF dilakukan oleh pakar dari domain yang bersangkutan. Si stem
+dapat menghasil kan lebi h dari satu diagnosa yang di susun berdasarkan bobotnya, sesuai dengan 
+gejal a-gejala masalah yang dii nputkan oleh user. Si stem juga dile ngkapi dengan il ustrasi  gambar
+yang mempermudah pemahaman user pada saat proses konsul tasi serta ani masi prosedure
+pengambilan sparepart yang rusak untuk di perbai ki. Si stem i ni berjalan dal am li ngkungan
+internet, sehi ngga dapat diakses oleh banyak orang yang memili ki kepentingan terhadap 
+penggunaan sistem ini. 

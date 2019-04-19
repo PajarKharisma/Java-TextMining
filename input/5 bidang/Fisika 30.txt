@@ -1,0 +1,14 @@
+Suatu bangunan tinggi sangatlah rentan terhadap gaya lateral. Gaya lateral yang terjadi pada
+bagunan, salah satunya adalah beban yang ditimbulkan akibat gempa. Beban gempa dihitung menggunakan
+perhitungan gempa statis atau gempa dinamis. Untuk kategori struktur tidak berarturan, gempa harus ditinjau
+menggunakan gempa dinamis.
+Dalam merencanakan suatu gedung yang sama fungsi dan lokasi, namun tidak menggunakan dan menggunakan
+shear wall, secara sistem gedung tersebut sudah berbeda. Dan gedung harus direncanakan dengan faktor
+reduksi gempa yang berbeda. Dan gerak ragam pertama haruslah dominan translasi.
+Salah satu struktur yang digunakan untuk menahan gaya lateral akibat gempa adalah struktur shear wall.
+Dengan adanya shear wall akan mempengaruhi kekakuan bangunan, sehingga gaya lateral tidak sepenuhnya
+dipikul oleh struktur rangka.
+Dengan adanya shear wall, gedung memliki kekakuan yang lebih dibanding gedung yang tidak direncanakan
+menggunakan shear wall. Kekauan lebih yang dimiliki gedung berdampak pada simpangan struktur. Simpangan
+layan dapat tereduksi, arah X 41,52% dan arah Y berkurang 10,36%. Untuk simpangan ultimit, simpangan arah
+X tereduksi sebesar 30,89%, sedangkan untuk arah Y bertambah 5,94%.

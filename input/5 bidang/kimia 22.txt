@@ -1,0 +1,11 @@
+Telah dilakukan penelitian sintesis polieugenol dari eugenol menggunakan katalis asam nitrat pekat 
+dengan media NaCl. Eugenol diperoleh dari minyak cengkeh yang telah diredestilasi. Sintesis polieugenol
+dilakukan dengan menggunakan katalis asam nitrat dengan media NaCl dan tanpa media NaCl. Perbandingan 
+konsentrasi (mol) asam nitrat dengan eugenol yang digunakan adalah 4 : 1. Hasil polimerisasi dianalisis 
+dengan spectra inframerah, ditentukan rendemen dan sifat-sifat fisisnya.
+Hasil penelitian diperoleh rendemen polieugenol dengan media NaCl sebesar 42,97 % dengan bentuk fisik 
+berupa gel berwarna hitam kemerahan dan titik lebur 114,6 – 150°C. Untuk polieugenol tanpa media NaCl 
+diperoleh rendemen sebesar 47,77 % dengan bentuk fisik berupa padatan berwarna merah bata dan titik lebur 
+sebesar 87-89°C. Hasil analisis dengan spektrofotometer inframerah menunjukkan bahwa pada polimerisasi 
+menggunakan media tidak terjadi dengan sempurna karena masih adanya gugus CH=CH2 pada serapan 995.27 
+dan C=C pada serapan 1635,89 cm-1, sedangkan tanpa media, kedua gugus tersebut telah hilang.

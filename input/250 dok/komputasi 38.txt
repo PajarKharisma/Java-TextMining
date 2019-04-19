@@ -1,0 +1,13 @@
+PENGENALAN POLA TANDA TANGAN MENGGUNAKAN METODE MOMENT
+INVARIANT DAN JARINGAN SYARAF RADIAL BASIS FUNCTION (RBF)
+Jaringan syaraf tiruan Radial Basis Function (RBF) dikenal sebagai salah satu bentuk
+dari jaringan syaraf Feedforward lapis banyak yang handal dalam memecahkan masalah
+aproksimasi dan klasifikasi/pengenalan pola. Dalam penelitian ini JST RBF digunakan
+untuk klasifikasi pola - pola tanda tangan berdasarkan output jaringan yang mempunyai
+kemiripan dengan target (pemilik tanda tangan). Metode Moment Invariant digunakan
+untuk mengekstraksi citra tanda tangan menjadi suatu vektor input yang merepresentasikan
+setiap citra tanda tangan. Satu citra tanda tangan diwakili oleh 7 moment invariant. Hasil
+klasifikasi tanda tangan yang dikenali dengan tingkat akurasi tertentu. Untuk menguji hasil
+klasifikasi dilakukan uji coba. Dari hasil uji coba program menunjukkan bahwa JST RBF
+dapat mengenali pola tanda tangan dengan akurasi pada data uji 80 %.
+Jaringan syaraf tiruan, RBF, moment invariant.

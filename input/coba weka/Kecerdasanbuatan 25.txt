@@ -1,0 +1,8 @@
+CASE BASED REASONING
+UNTUK PEMILIHAN KEGIATAN ORGANISASI MAHASISWA Organisasi merupakan tempat untuk mengasah softskill mahasiswa. Lewat organisasi mahasiswa dapat belajar 
+kepemimpinan, public speaking, kerjasama, diskusi, dan bersosialisasi, sehingga menjadi nilai tambah bagi mahasiswa
+ini sendiri. Permasalahan muncul ketika mahasiswa dihadapkan untuk memilih organisasi yang sebaiknya diikuti.
+Kondisi mahasiswa dan banyaknya organisasi yang ada membuat sulit dalam menentukan pilihan. Pada penelitian ini
+dilakukan pendekatan case-based reasoning untuk memberikan rekomendasi organisasi yang sebaiknya dipilih oleh
+mahasiswa. Berdasarkan pengujian terhadap 10 responden, 4 responden memilih organisasi sesuai dengan
+rekomendasi sistem. cbr, case based reasoning, organisasi, pemilihan organisasi, rekomendasi

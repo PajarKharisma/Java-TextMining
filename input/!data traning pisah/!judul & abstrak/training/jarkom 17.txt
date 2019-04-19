@@ -1,0 +1,19 @@
+NALISIS DAN PERANCANGAN JARINGAN KOMPUTER 
+SEKOLAH  DASAR ISLAM SAINS DAN TEKNOLOGI IBNU QOYYIM 
+SURAKARTA Di Aera teknologi dan globalisasi sekarang ini perkembangan dunia  dibidang teknologi
+informasi yang begitu cepat sehingga hal ini mempengaruhi perkembangan dan perubahan dalam  
+kehidupan masyarakat dunia dan salah  satu teknologi yang terus berkembang saat ini adalah teknologi
+komputer. Dengan kehadiran komputer maka dapat  membantu manusia dan  mempermudah
+menyampaikan informasi, mengirim berita, mendapatkan informasi data dari berbagai komputer  yang
+dibutuhkan dengan mudah dan cepat. Sekolah Dasar Islam Sains dan Teknologi Ibnu Qoyyim Surakarta
+salah satu ilembaga yang bergerak dalam bidang  pendidikan terpadu    belum memiliki menerapkan
+sistem  jaringan komputer yang baik sehingga dalam pengambilan data yang dilakukan oleh guru-guru
+dari komputer satu ke komputer yang lain mengalami banyak hambatan. Ini disebabkan karena komputer
+yang ada tidak dapat melakukan sharing data. Dengan hal tersebut diatas penulis bermaksud untuk
+merancang jaringan komputer pada Sekolah Dasar Sains dan Teknologi Surakarta. 
+Perancangan ini dilakukan karena sulitnya pengambilan data dari satu komputer ke komputer 
+yang lain. Dengan perancangan ini dapat memberikan kemudahan dan keefektifan dan pengambilan data
+tersebut. Dalam penelitian ini menggunakan observasi, kepustakaan, interview, analisa, dan
+perencanaan. Hasil yang diharapkan adalah memberikan gambaran dan acuan  Sekolah Dasar Sains dan
+Teknologi Surakarta untuk membangun sistem jaringan komputer yang dapat diimplementasikan dimasa
+mendatang. 

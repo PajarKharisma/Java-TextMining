@@ -1,0 +1,17 @@
+SIMULASI DAN ANALISA SCHEDULING SERVICE CLASS PADA JARINGAN
+WIMAX MENGGUNAKAN OPNET MODELER Kebutuhan manusia akan informasi saat ini mendorong permintaan terhadap akses data internet
+bekecepatan tinggi meningkat dengan pesatnya. Layanan yang ditawarkan pun semakin beragam
+mencakup teks, suara, video, dan data. Hal tersebut kini telah semakin menjadi kebutuhan sehari-hari
+yang tak dapat dipisahkan dari kehidupan manusia. Sehingga dibutuhkan teknologi yang mampu
+memberikan layanan suara, data, maupun video dengan kualitas yang lebih baik. Penelitian ini
+membahas tentang penerapan scheduling service class pada aplikasi-aplikasi komunikasi data pada
+jaringan fixed WiMAX. Jaringan fixed WiMAX disimulasikan menggunakan Opnet Modeler.
+Perancangan jaringan dilakukan menggunakan satu buah BS, 16 buah SS, dan server sebagai sumber
+trafik. Pengambilan data dilakukan selama sepuluh menit. Hasil simulasi yang didapat menunjukkan 
+bahwa pada aplikasi suara,
+service class UGS memiliki nilai throughput terbesar yaitu 3 Mbps dan 
+memiliki nilai jitter terkecil yaitu mendekati 0 s. Pada aplikasi video, service class rtPS memiliki nilai
+throughput terbesar yaitu 44 Mbps dan memiliki nilai delay terkecil yaitu 0,17 s. Pada aplikasi file
+transfer, service class nrtPS memiliki nilai throughput terbesar yaitu 6.745.187 bps dan memiliki nilai
+delay terkecil yaitu 0,014 s. Pada aplikasi web browsing, service class nrtPS memiliki nilai throughput
+terbesar yaitu 8,2 Mbps dan memiliki nilai delay terkecil yaitu 0,022 s.

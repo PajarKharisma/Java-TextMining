@@ -1,0 +1,10 @@
+Deteksi Pejalan Kaki pada Video dengan Metode
+Fastest Pedestrian Detector in The West (FPDW)
+Deteksi pejalan kaki pada video dapat dilakukan secara offline untuk keperluan analisis, seperti analisis perilaku pejalan
+kaki, analisis terjadinya kerusuhan dan analisis terjadinya kecelakaan lalu lintas. Selain itu, proses deteksi pejalan kaki juga banyak
+dilakukan secara real - time, seperti untuk sistem pengamanan berkendara, sistem navigasi di dalam ruangan, sistem pengaturan lalu
+lintas di persimpangan dan sebagainya. Dalam paper ini, metode FPDW (Fastest Pedestrian Detector in the West) akan diujicobakan
+untuk melakukan deteksi pejalan kaki pada suatu video. Kontribusi dari paper ini adalah menambahkan parameter minimum
+confidence pada algoritma FPDW untuk meningkatkan tingkat akurasi hasil deteksi. Percobaan dilakukan terhadap video berdurasi
+6 menit 50 detik yang diekstraksi menjadi 1 citra per detik.
+deteksi pejalan kaki, FPDW, HOG, video

@@ -1,0 +1,11 @@
+Sistem Pakar Diagnosa Hama Dan Penyakit Cabai
+Berbasis Teorema Bayes Penelitian ini bertujuan untuk merancang sistem pakar guna mendiagnosa hama dan penyakit
+pada tanaman cabai menggunakan Metode Teorema Bayes, dengan memperhatikan gejalagejala yang dialami oleh tanaman cabai. Hama dan Penyakit yang akan dibahas terdiri dari 6
+jenis, yaitu : Trips (Thrips parvispinus), Lalat buah (Bactrocera sp), Ulat daun/Ulat gerayak
+(Spodoptera litura), Kutu kebul, Virus keriting, Virus kuning (Gemini virus). Implementasi sistem
+ini berbasiskan website.
+Metode yang digunakan pada penelitian ini adalah metode Teorema Bayes merupakan metode
+yang digunakan untuk mendiagnosa hama dan penyakit cabai dengan gejala-gejala yang sudah
+diberikan nilai gejala. Dimana nilai gejala didapatkan dari pakar.
+Berdasarkan hasil uji pretest dan posttes hasil keakurasian adalah sebesar 100%.
+ Sistem Pakar, Teorema Bayes, Cabai.

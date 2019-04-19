@@ -1,0 +1,3 @@
+APLIKASI PENDUKUNG KEPUTUSAN DENGAN MENGGUNAKAN
+LOGIKA FUZZY (STUDI KASUS : PENENTUAN SPESIFIKASI KOMPUTER UNTUK SUATU PAKET KOMPUTER LENGKAP) logika fuzzy, fuzzifikasi, inferensi  fuzzy,  defuzzifikasi, batas himpunan
+fuzzy, variabel fuzzy, variabel non fuzzy.

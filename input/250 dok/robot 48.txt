@@ -1,0 +1,12 @@
+PENGENDALI LAJU KECEPATAN DAN SUDUT
+STEERING PADA MOBILE ROBOT DENGAN
+MENGGUNAKAN ACCELEROMETER PADA
+SMARTPHONE ANDROID
+Pengendalian mobile robot umumnya dikontrol menggunakan remote control. Inovasi pengendalian mobile robot ini
+dapat dikontrol menggunakan smartphone android yang didalamnya terdapat sensor accelerometer sebagai sensor kemiringan,
+sedangkan Bluetooth sebagai perangkat pertukaran data wireless antar perangkat elektronik. Pada makalah ini dirancang sebuah
+mobile robot yang memiliki pengaturan kecepatan dan sudut steering dan dikontrol berdasarkan nilai axis dari accelerometer
+serta diproses menggunakan Arduino Uno. Pada pengujian dihasilkan bahwa smartphone android dapat mengontrol gerakan
+mobile robot secara real time sejauh 60 meter dimana motor penggerak roda belakang mulai berputar pada saat menerima data
+axis 2 dan respon motor servo penggerak steering memiliki selisih sebesar 3,7% terhadap kemiringan smartphone.
+Android, Accelerometer, Arduino, Bluetooth, Robot Mobil
