@@ -1,5 +1,6 @@
 package Metode;
 
+import File.Config;
 import java.util.LinkedList;
 
 import File.DocSorting;
@@ -124,9 +125,9 @@ public class TfIdfRanking3 extends TFIDFCalculator {
                 outputText += k.getTerm() + " ";
             }
             
-            writeTxt.writeFile(outTfAndIdf, "log\\TF-IDF\\", doc[i].getName());
-            writeTxt.writeFile(outputText, "output\\TfIdfOutput\\", doc[i].getName());
-            writeTxt.writeFile(outTfIdf, "log\\TFIDF\\", doc[i].getName());
+            writeTxt.writeFile(outTfAndIdf, "log"+Config.delimiter+"TF-IDF"+Config.delimiter, doc[i].getName());
+            writeTxt.writeFile(outputText, "output"+Config.delimiter+"TfIdfOutput"+Config.delimiter, doc[i].getName());
+            writeTxt.writeFile(outTfIdf, "log"+Config.delimiter+"TFIDF"+Config.delimiter, doc[i].getName());
         }
         
         LinkedList<String> filteredName = new LinkedList<>();
@@ -170,8 +171,8 @@ public class TfIdfRanking3 extends TFIDFCalculator {
         for(String i:listFinalKelas)
             outputText += i + " ";
         
-        writeTxt.writeFile(outputText, "output\\C45\\", "C45Output.txt");
-        writeTxt.writeFile(nameText, "output\\C45\\", "DocumentName.txt");
+        writeTxt.writeFile(outputText, "output"+Config.delimiter+"C45"+Config.delimiter, "C45Output.txt");
+        writeTxt.writeFile(nameText, "output"+Config.delimiter+"C45"+Config.delimiter, "DocumentName.txt");
         listName.clear();
     }
 }

@@ -28,8 +28,8 @@ public class ArffMaker {
         else
             docTitle = "testing";
         
-        String kelas = openFile.getFile("output\\C45\\DocumentName.txt");
-        String word = openFile.getFile("output\\C45\\C45Output.txt");
+        String kelas = openFile.getFile("output"+Config.delimiter+"C45"+Config.delimiter+"DocumentName.txt");
+        String word = openFile.getFile("output"+Config.delimiter+"C45"+Config.delimiter+"C45Output.txt");
         listAtt = tokenizing.getTokenizingResult(word);
         listKelas = tokenizing.getTokenizingResult(kelas);
         
@@ -46,7 +46,7 @@ public class ArffMaker {
         }
         outputText += "}\n\n@data\n";
         
-        file = new File("output\\tmpOutput").listFiles();
+        file = new File("output"+Config.delimiter+"tmpOutput").listFiles();
         
         float ndata = file.length;
         float step = 1;
@@ -78,6 +78,6 @@ public class ArffMaker {
             else
                 outputText += "?\n";
         }       
-        writeTxt.writeFile(outputText, "output\\", docTitle+".arff");
+        writeTxt.writeFile(outputText, "output"+Config.delimiter, docTitle+".arff");
     }
 }

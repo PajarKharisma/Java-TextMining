@@ -1,2 +1,1 @@
 # Java-TextMining
-# Java-SkripsiFordwardChaining

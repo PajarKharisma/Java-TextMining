@@ -1,5 +1,6 @@
 package Metode;
 
+import File.Config;
 import java.util.LinkedList;
 import File.Doc;
 import File.DocSorting;
@@ -79,7 +80,7 @@ public class TfIdfRanking2 extends TFIDFCalculator {
             for(DocTfIdf dt:listFinalTfIdf){
                 outTfAndIdf += "Term : "+dt.getTerm() +" || tf : "+dt.getTf() + " || idf : "+dt.getIdf() + "\n";
             }
-            writeTxt.writeFile(outTfAndIdf, "log\\TF-IDF\\", doc[i].getName());
+            writeTxt.writeFile(outTfAndIdf, "log"+Config.delimiter+"TF-IDF"+Config.delimiter, doc[i].getName());
             //Akhir Proses TFIDF
 
             for (int x = 0; x < docSorting.length; x++) {
@@ -193,8 +194,8 @@ public class TfIdfRanking2 extends TFIDFCalculator {
                 }
             }
             
-            writeTxt.writeFile(outputText, "output\\TfIdfOutput\\", doc[i].getName());
-            writeTxt.writeFile(outTfIdf, "log\\TFIDF\\", doc[i].getName());
+            writeTxt.writeFile(outputText, "output"+Config.delimiter+"TfIdfOutput"+Config.delimiter, doc[i].getName());
+            writeTxt.writeFile(outTfIdf, "log"+Config.delimiter+"TFIDF"+Config.delimiter, doc[i].getName());
         }
 
         String nameText = "";
@@ -219,14 +220,14 @@ public class TfIdfRanking2 extends TFIDFCalculator {
             outputText += i + " ";
         }
 
-        writeTxt.writeFile(outputText, "output\\C45\\", "C45Output.txt");
-        writeTxt.writeFile(nameText, "output\\C45\\", "DocumentName.txt");
+        writeTxt.writeFile(outputText, "output"+Config.delimiter+"C45"+Config.delimiter, "C45Output.txt");
+        writeTxt.writeFile(nameText, "output"+Config.delimiter+"C45"+Config.delimiter, "DocumentName.txt");
         listName.clear();
     }
 }
 
 class Check {
-
+    
     private LinkedList<DocSorting> terms;
     private String docName;
 

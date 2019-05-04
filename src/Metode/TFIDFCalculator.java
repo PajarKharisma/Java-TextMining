@@ -3,6 +3,7 @@ package Metode;
 import java.io.File;
 import java.util.LinkedList;
 import File.*;
+import Gui.MainFrame;
 import PreProcess.Tokenizing;
 import SubProcess.OpenFile;
 import SubProcess.WriteTxt;
@@ -59,7 +60,7 @@ public class TFIDFCalculator {
     }
 
     protected void getDoc() {
-        file = new File("output\\tmpOutput").listFiles();
+        file = new File("output"+Config.delimiter+"tmpOutput").listFiles();
     }
 
     protected void getWord() {
@@ -82,7 +83,7 @@ public class TFIDFCalculator {
     }
 
     protected void deleteDir() {
-        File dir = new File("output\\TfIdfOutput");
+        File dir = new File("output"+Config.delimiter+"TfIdfOutput");
         for (File i : dir.listFiles()) {
             i.delete();
         }

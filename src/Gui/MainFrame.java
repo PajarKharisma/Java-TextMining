@@ -25,7 +25,7 @@ import weka.core.Instances;
 import weka.core.converters.ConverterUtils;
 
 public class MainFrame extends javax.swing.JFrame {
-    
+
     //Variable Training
     private static final int TRAINING = 0;
     private static final int TESTING = 1;
@@ -383,41 +383,41 @@ public class MainFrame extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-    
-    private void deleteLog(){
-        File logCaseFolding = new File("log\\CaseFolding");
+
+    private void deleteLog() {
+        File logCaseFolding = new File("log"+Config.delimiter+"CaseFolding");
         for (File i : logCaseFolding.listFiles()) {
             i.delete();
         }
-        
-        File logCaseStemming = new File("log\\Stemming");
+
+        File logCaseStemming = new File("log"+Config.delimiter+"Stemming");
         for (File i : logCaseStemming.listFiles()) {
             i.delete();
         }
-        
-        File logCaseStopWord = new File("log\\StopWord");
+
+        File logCaseStopWord = new File("log"+Config.delimiter+"StopWord");
         for (File i : logCaseStopWord.listFiles()) {
             i.delete();
         }
-        
-        File logTfidf = new File("log\\TFIDF");
+
+        File logTfidf = new File("log"+Config.delimiter+"TFIDF");
         for (File i : logTfidf.listFiles()) {
             i.delete();
         }
-        
-        File logTokenizing = new File("log\\tokenizing");
+
+        File logTokenizing = new File("log"+Config.delimiter+"Tokenizing");
         for (File i : logTokenizing.listFiles()) {
             i.delete();
         }
-        
-        File logTfAndIdf = new File("log\\TF-IDF");
+
+        File logTfAndIdf = new File("log"+Config.delimiter+"TF-IDF");
         for (File i : logTfAndIdf.listFiles()) {
             i.delete();
         }
     }
 
     private void proses() throws IOException {
-        File dir = new File("output\\tmpOutput");
+        File dir = new File("output"+Config.delimiter+"tmpOutput");
         for (File i : dir.listFiles()) {
             i.delete();
         }
@@ -425,7 +425,7 @@ public class MainFrame extends javax.swing.JFrame {
         //System.out.println("jumlah artikel : " + file.length);
         for (int i = 0; i < file.length; i++) {
             input = "";
-            
+
             //System.out.println("Nama File : " + file[i].getName() + " : ");
             input = openFile.getFile2(dirInput + file[i].getName());
             /*
@@ -433,67 +433,66 @@ public class MainFrame extends javax.swing.JFrame {
             System.out.println("===================================");
             System.out.println(input);
             System.out.println("\n");
-            */
+             */
 
             caseWord = caseFolding.getCaseFoldingResult(input, 1);
             //if (mode == TRAINING) {
-                writeTxt.writeFile(caseWord, "log\\CaseFolding\\", file[i].getName().toLowerCase());
+            writeTxt.writeFile(caseWord, "log"+Config.delimiter+"CaseFolding"+Config.delimiter, file[i].getName().toLowerCase());
             //}
 
             listToken = tokenizing.getTokenizingResult(caseWord);
             //if (mode == TRAINING) {
-                writeTxt.writeFile(listToken, "log\\Tokenizing\\", file[i].getName().toLowerCase());
+            writeTxt.writeFile(listToken, "log"+Config.delimiter+"Tokenizing"+Config.delimiter, file[i].getName().toLowerCase());
             //}
 
             listStopWord = stopWord.getStopWordResult(listToken);
             //if (mode == TRAINING) {
-                writeTxt.writeFile(listStopWord, "log\\StopWord\\", file[i].getName().toLowerCase());
+            writeTxt.writeFile(listStopWord, "log"+Config.delimiter+"StopWord"+Config.delimiter, file[i].getName().toLowerCase());
             //}
 
             listStemming = stemming.getStemmerResult(listStopWord);
             //if (mode == TRAINING) {
-                writeTxt.writeFile(listStemming, "log\\Stemming\\", file[i].getName().toLowerCase());
+            writeTxt.writeFile(listStemming, "log"+Config.delimiter+"Stemming"+Config.delimiter, file[i].getName().toLowerCase());
             //}
 
             //System.out.println("NAMA FILE : " + file[i].getName());
             //System.out.println("listToken : " + listToken.size());
-
             String outputText = "";
             for (String ls : listStemming) {
                 outputText += ls + " \n";
             }
-            writeTxt.writeFile(outputText, "output\\tmpOutput\\", file[i].getName().toLowerCase());
+            writeTxt.writeFile(outputText, "output"+Config.delimiter+"tmpOutput"+Config.delimiter, file[i].getName().toLowerCase());
         }
         caseWord = "";
-        
-        if(mode == TRAINING){
+
+        if (mode == TRAINING) {
             tfIdfRanking.getResult();
         }
         arffMaker.createArff(mode);
     }
-    
-    private void showExample(int opsi){
+
+    private void showExample(int opsi) {
         areaDataCaseFolding.setText("");
         areaDataStemming.setText("");
         areaDataStopword.setText("");
         areaDataTfidf.setText("");
         areaDataTokenizing.setText("");
         areaDataTfAndIdf.setText("");
-        
-        File[] logCaseFolding = new File("log\\CaseFolding").listFiles();
-        File[] logStemming = new File("log\\Stemming").listFiles();
-        File[] logStopWord = new File("log\\StopWord").listFiles();
-        File[] logTokenizing = new File("log\\Tokenizing").listFiles();
-        File[] logTfIdf = new File("log\\TFIDF").listFiles();
-        File[] logTfAndIdf = new File("log\\TF-IDF").listFiles();
-        if(opsi == 0){
-            areaDataCaseFolding.setText(openFile.getFile(logCaseFolding[0])+"\n\n========================\n\n"+openFile.getFile(logCaseFolding[1]));
-            areaDataStemming.setText(openFile.getFile(logStemming[0])+"\n\n========================\n\n"+openFile.getFile(logStemming[1]));
-            areaDataStopword.setText(openFile.getFile(logStopWord[0])+"\n\n========================\n\n"+openFile.getFile(logStopWord[1]));
-            areaDataTokenizing.setText(openFile.getFile(logTokenizing[0])+"\n\n========================\n\n"+openFile.getFile(logStopWord[1]));
-            areaDataTfidf.setText(openFile.getFile(logTfIdf[0])+"\n\n========================\n\n"+openFile.getFile(logTfIdf[1]));
-            areaDataTfAndIdf.setText(openFile.getFile(logTfAndIdf[0])+"\n\n========================\n\n"+openFile.getFile(logTfAndIdf[1]));
-        }else{
+
+        File[] logCaseFolding = new File("log"+Config.delimiter+"CaseFolding").listFiles();
+        File[] logStemming = new File("log"+Config.delimiter+"Stemming").listFiles();
+        File[] logStopWord = new File("log"+Config.delimiter+"StopWord").listFiles();
+        File[] logTokenizing = new File("log"+Config.delimiter+"Tokenizing").listFiles();
+        File[] logTfIdf = new File("log"+Config.delimiter+"TFIDF").listFiles();
+        File[] logTfAndIdf = new File("log"+Config.delimiter+"TF-IDF").listFiles();
+        if (opsi == 0) {
+            areaDataCaseFolding.setText(openFile.getFile(logCaseFolding[0]) + "\n\n========================\n\n" + openFile.getFile(logCaseFolding[1]));
+            areaDataStemming.setText(openFile.getFile(logStemming[0]) + "\n\n========================\n\n" + openFile.getFile(logStemming[1]));
+            areaDataStopword.setText(openFile.getFile(logStopWord[0]) + "\n\n========================\n\n" + openFile.getFile(logStopWord[1]));
+            areaDataTokenizing.setText(openFile.getFile(logTokenizing[0]) + "\n\n========================\n\n" + openFile.getFile(logStopWord[1]));
+            areaDataTfidf.setText(openFile.getFile(logTfIdf[0]) + "\n\n========================\n\n" + openFile.getFile(logTfIdf[1]));
+            areaDataTfAndIdf.setText(openFile.getFile(logTfAndIdf[0]) + "\n\n========================\n\n" + openFile.getFile(logTfAndIdf[1]));
+        } else {
             areaDataCaseFolding.setText(openFile.getFile(logCaseFolding[0]));
             areaDataStemming.setText(openFile.getFile(logStemming[0]));
             areaDataStopword.setText(openFile.getFile(logStopWord[0]));
@@ -505,7 +504,7 @@ public class MainFrame extends javax.swing.JFrame {
         jfChooser.setMultiSelectionEnabled(true);
         int choose = jfChooser.showOpenDialog(this);
         if (choose == JFileChooser.APPROVE_OPTION) {
-            txtInput.setText(jfChooser.getCurrentDirectory().toString() + "\\");
+            txtInput.setText(jfChooser.getCurrentDirectory().toString() + Config.delimiter);
             file = jfChooser.getSelectedFiles();
         }
         dirInput = txtInput.getText();
@@ -528,7 +527,7 @@ public class MainFrame extends javax.swing.JFrame {
             try {
                 deleteLog();
                 proses();
-                if(mode == TRAINING){
+                if (mode == TRAINING) {
                     showExample(0);
                 }
                 JOptionPane.showMessageDialog(null, "Proses Selesai");
@@ -541,18 +540,18 @@ public class MainFrame extends javax.swing.JFrame {
     private void btnTestingActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnTestingActionPerformed
         try {
             showExample(1);
-            
-            source1 = new ConverterUtils.DataSource("output\\training.arff");
-            train = source1.getDataSet();
-            train.setClassIndex(train.numAttributes()-1);
 
-            source2 = new ConverterUtils.DataSource("output\\testing.arff");
+            source1 = new ConverterUtils.DataSource("output"+Config.delimiter+"training.arff");
+            train = source1.getDataSet();
+            train.setClassIndex(train.numAttributes() - 1);
+
+            source2 = new ConverterUtils.DataSource("output"+Config.delimiter+"testing.arff");
             test = source2.getDataSet();
-            test.setClassIndex(test.numAttributes()-1);
+            test.setClassIndex(test.numAttributes() - 1);
 
             predsBuffer = new StringBuffer[2];
             plainText = new PlainText[2];
-            for(int i=0; i<2; i++){
+            for (int i = 0; i < 2; i++) {
                 predsBuffer[i] = new StringBuffer();
                 plainText[i] = new PlainText();
                 plainText[i].setHeader(train);
@@ -564,11 +563,11 @@ public class MainFrame extends javax.swing.JFrame {
 
             smo = new SMO();
             smo.buildClassifier(train);
-            
+
             evalKnn = new Evaluation(train);
             evalKnn.evaluateModel(ibk, test, plainText[0]);
             areaOutputKnn.setText(predsBuffer[0].toString());
-            
+
             evalSvm = new Evaluation(train);
             evalSvm.evaluateModel(smo, test, plainText[1]);
             areaOutputSvm.setText(predsBuffer[1].toString());

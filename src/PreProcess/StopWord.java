@@ -1,5 +1,6 @@
 package PreProcess;
 
+import File.Config;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Collections;
@@ -21,7 +22,7 @@ public class StopWord {
         String stopWord = "";
         Scanner sc = null;
         try {
-            sc = new Scanner(new File("StopWord\\StopWordList.txt"));
+            sc = new Scanner(new File("StopWord"+Config.delimiter+"StopWordList.txt"));
             //sc = new Scanner(new File("input\\artikel 1.txt"));
         } catch (FileNotFoundException e1) {
             JOptionPane.showMessageDialog(null, "File Stop Word Tidak Ditemukan!!!");

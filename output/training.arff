@@ -1,0 +1,99 @@
+@relation training
+
+@attribute filter numeric
+@attribute internet numeric
+@attribute jaring numeric
+@attribute mikrotik numeric
+@attribute aplikasi numeric
+@attribute router numeric
+@attribute aman numeric
+@attribute implementasi numeric
+@attribute atur numeric
+@attribute komputer numeric
+@attribute speed numeric
+@attribute test numeric
+@attribute tingkat numeric
+@attribute linux numeric
+@attribute provider numeric
+@attribute sisi numeric
+@attribute slackware numeric
+@attribute urang numeric
+@attribute putus numeric
+@attribute dukung numeric
+@attribute ilih numeric
+@attribute ahp numeric
+@attribute spk numeric
+@attribute ambil numeric
+@attribute kriteria numeric
+@attribute interface numeric
+@attribute swasta numeric
+@attribute guru numeric
+@attribute jurus numeric
+@attribute siswa numeric
+@attribute sma numeric
+@attribute bk numeric
+@attribute nila numeric
+@attribute teks numeric
+@attribute ita numeric
+@attribute akademis numeric
+@attribute classifier numeric
+@attribute nbc numeric
+@attribute dokumen numeric
+@attribute klasifikasi numeric
+@attribute naive numeric
+@attribute bayes numeric
+@attribute kategorisasi numeric
+@attribute emosi numeric
+@attribute multinominal numeric
+@attribute verbal numeric
+@attribute indonesia numeric
+@attribute bahasa numeric
+@attribute data numeric
+@attribute tangan numeric
+@attribute sensor numeric
+@attribute eh numeric
+@attribute milano numeric
+@attribute ndali numeric
+@attribute robot numeric
+@attribute gera numeric
+@attribute jari numeric
+@attribute flex numeric
+@attribute genggam numeric
+@attribute lengan numeric
+@attribute endali numeric
+@attribute delphi numeric
+@attribute borland numeric
+@attribute bangun numeric
+@attribute serial numeric
+@attribute mikrokontroler numeric
+@attribute teknolog numeric
+@attribute radiograf numeric
+@attribute ukur numeric
+@attribute matlab numeric
+@attribute optis numeric
+@attribute computed numeric
+@attribute densitas numeric
+@attribute citra numeric
+@attribute radiography numeric
+@attribute stepwedge numeric
+@attribute jual numeric
+@attribute obat numeric
+@attribute lapor numeric
+@attribute abad numeric
+@attribute mulya numeric
+@attribute apotek numeric
+@attribute angkat numeric
+@attribute lunak numeric
+@attribute @kelas@ {jarkom,kcb,komputasi,robotika,rpl}
+
+@data
+5, 4, 4, 4, 5, 3, 2, 2, 2, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, jarkom 
+0, 0, 2, 4, 0, 13, 0, 0, 0, 0, 3, 3, 3, 2, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, jarkom 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 9, 5, 3, 3, 3, 4, 3, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, kcb 
+0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0, 0, 6, 0, 0, 3, 10, 4, 4, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, kcb 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 4, 4, 3, 3, 4, 3, 3, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, komputasi 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 5, 5, 5, 0, 4, 3, 3, 2, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, komputasi 
+0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 8, 7, 7, 5, 7, 6, 4, 3, 3, 0, 3, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, robotika 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 9, 3, 0, 0, 0, 9, 6, 4, 4, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 2, robotika 
+0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 6, 5, 4, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 5, 4, rpl 
+0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 9, 6, 3, 3, 3, 5, 5, rpl 
